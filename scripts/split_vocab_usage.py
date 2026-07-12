@@ -2,7 +2,7 @@
 """Split vocab-usage.md into three purpose-built files by content type.
 
   - glossary-usage.md : word/phrase definition entries (+ category headers)
-  - usage-tables.md   : standalone reference tables (in the glossary region)
+  - reference-tables.md : standalone reference tables (in the glossary region)
   - stories.md        : titled stories, each kept WITH its vocabulary table
 Content is conserved: the union of the three == the source body (verified separately).
 """
@@ -82,7 +82,7 @@ def main():
 
     files = {
         'glossary-usage.md': ('Vocabulary Glossary (Usage)', glossary),
-        'usage-tables.md':   ('Usage Reference Tables', tables),
+        'reference-tables.md': ('Reference Tables', tables),
         'stories.md':        ('Vocabulary in Context — Stories', story_region),
     }
     for fn, (title, blks) in files.items():

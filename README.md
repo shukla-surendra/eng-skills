@@ -13,10 +13,10 @@ Each file opens with a clickable **A–Z index** — tap a word to jump to it, a
 | [Idioms](idioms.md) | Idiomatic expressions and how to use them | ~50 |
 | [Explanations & Analogies](explanations.md) | Longer notes, comparisons, framings, and communication-skill tutorials | ~20 |
 | [Technical & Architectural English](technical-verbs.md) | Technical/architectural verbs, architect phrasal verbs, connecting & senior-meeting phrases | 60+ sections |
-| [Business Idioms & Phrases](business-phrases.md) | Business and meeting idioms, diplomatic phrasing | ~117 |
+| [Business Communication](business-communication.md) | Business and meeting idioms, diplomatic phrasing | ~117 |
 | [Mental Models & Thinking Frameworks](mental-models.md) | Curated articles on mental models for developers, engineering leadership, and focus | 4 articles |
 | [Vocabulary Glossary (Usage)](glossary-usage.md) | Compact word/phrase entries with meaning, example, and context | ~430 |
-| [Usage Reference Tables](usage-tables.md) | Quick phrase → one-line meaning lookup tables | tables |
+| [Reference Tables](reference-tables.md) | Quick phrase → one-line meaning lookup tables | tables |
 | [Vocabulary in Context — Stories](stories.md) | Short stories that use the vocabulary in context, each with a glossary table | 6 stories |
 
 ## Revising

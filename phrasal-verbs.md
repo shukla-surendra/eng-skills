@@ -1,6 +1,6 @@
 # Phrasal Verbs
 
-> 1463 entries · restructured 2026-07-12 · sorted A–Z
+> 1303 entries · restructured 2026-07-12 · sorted A–Z
 
 ## Index
 
@@ -10,39 +10,39 @@
 
 **A**
 
-[A bit off](#a-bit-off) · [A Blast from the Past](#a-blast-from-the-past) · [A household staple](#a-household-staple) · [a new lease of life](#a-new-lease-of-life) · [a new lease of life](#a-new-lease-of-life-1) · [Abide by](#abide-by) · [Abreast](#abreast) · [Accord](#accord) · [Accord](#accord-1) · [account](#account) · [Accountability](#accountability) · [Acquire](#acquire) · [Act upon](#act-upon) · [action point](#action-point) · [Admonished](#admonished) · [Afoot](#afoot) · [After Ego (Alter Ego)](#after-ego-alter-ego) · [After Ego (Alter Ego)](#after-ego-alter-ego-1) · [Afterlife](#afterlife) · [Against the law](#against-the-law) · [Agreed upon](#agreed-upon) · [Aha moment](#aha-moment) · [aim](#aim) · [Ain’t gonna fly](#aint-gonna-fly) · [Albeit](#albeit) · [Align](#align) · [Align](#align-1) · [All of a sudden](#all-of-a-sudden) · [All Over](#all-over) · [all spheres of life](#all-spheres-of-life) · [All The way](#all-the-way) · [all the way up](#all-the-way-up) · [Almost Through/ Almost there](#almost-through-almost-there) · [Amp up](#amp-up) · [Amusement park](#amusement-park) · [Anchorage](#anchorage) · [Antique](#antique) · [Anxious](#anxious) · [Anxious](#anxious-1) · [any doubt whatsoever](#any-doubt-whatsoever) · [Armband](#armband) · [Armband](#armband-1) · [Arse](#arse) · [as far as sb is concerned](#as-far-as-sb-is-concerned) · [As Far as Someone or Something Is Concerned](#as-far-as-someone-or-something-is-concerned) · [As long as](#as-long-as) · [as of yet](#as-of-yet) · [Ascendancy](#ascendancy) · [Aspiration](#aspiration) · [Aspirational](#aspirational) · [Aspiring](#aspiring) · [assess](#assess) · [At the back on one’s head](#at-the-back-on-ones-head) · [Attain one’s dream](#attain-ones-dream) · [Auspicious](#auspicious) · [Authority](#authority) · [Avid](#avid)
+[A bit off](#a-bit-off) · [A Blast from the Past](#a-blast-from-the-past) · [A household staple](#a-household-staple) · [a new lease of life](#a-new-lease-of-life) · [Abide by](#abide-by) · [Abreast](#abreast) · [Accord](#accord) · [account](#account) · [Accountability](#accountability) · [Acquire](#acquire) · [Act upon](#act-upon) · [action point](#action-point) · [Admonished](#admonished) · [Afoot](#afoot) · [After Ego (Alter Ego)](#after-ego-alter-ego) · [Afterlife](#afterlife) · [Against the law](#against-the-law) · [Agreed upon](#agreed-upon) · [Aha moment](#aha-moment) · [aim](#aim) · [Ain’t gonna fly](#aint-gonna-fly) · [Albeit](#albeit) · [Align](#align) · [All of a sudden](#all-of-a-sudden) · [All Over](#all-over) · [all spheres of life](#all-spheres-of-life) · [All The way](#all-the-way) · [all the way up](#all-the-way-up) · [Almost Through/ Almost there](#almost-through-almost-there) · [Amp up](#amp-up) · [Amusement park](#amusement-park) · [Anchorage](#anchorage) · [Antique](#antique) · [Anxious](#anxious) · [any doubt whatsoever](#any-doubt-whatsoever) · [Armband](#armband) · [Arse](#arse) · [as far as sb is concerned](#as-far-as-sb-is-concerned) · [As Far as Someone or Something Is Concerned](#as-far-as-someone-or-something-is-concerned) · [As long as](#as-long-as) · [as of yet](#as-of-yet) · [Ascendancy](#ascendancy) · [Aspiration](#aspiration) · [Aspirational](#aspirational) · [Aspiring](#aspiring) · [assess](#assess) · [At the back on one’s head](#at-the-back-on-ones-head) · [Attain one’s dream](#attain-ones-dream) · [Auspicious](#auspicious) · [Authority](#authority) · [Avid](#avid)
 
 **B**
 
-[Babble](#babble) · [Back in the day](#back-in-the-day) · [Back out of](#back-out-of) · [Back Over](#back-over) · [Back to Square One](#back-to-square-one) · [Back up](#back-up) · [Backdoor Bragging](#backdoor-bragging) · [Backstory](#backstory) · [Backstory](#backstory-1) · [Backup](#backup) · [Badge of honor](#badge-of-honor) · [bang on](#bang-on) · [Bare metal](#bare-metal) · [Bark up the wrong tree](#bark-up-the-wrong-tree) · [Baseball cap](#baseball-cap) · [Bat Your Eye at Someone](#bat-your-eye-at-someone) · [Bat Your Eye at Someone](#bat-your-eye-at-someone-1) · [Batter Down](#batter-down) · [Be concerned with](#be-concerned-with) · [Be engraved in one’s mind](#be-engraved-in-ones-mind) · [Be full of it](#be-full-of-it) · [Be hard on someone](#be-hard-on-someone) · [Be ingrained in someone](#be-ingrained-in-someone) · [Be into someone](#be-into-someone) · [Be into something](#be-into-something) · [Be itching to](#be-itching-to) · [be just the thing](#be-just-the-thing) · [Be noticeable](#be-noticeable) · [Be off](#be-off) · [Be on the go](#be-on-the-go) · [Be on the lookout for](#be-on-the-lookout-for) · [Be One’s Thing](#be-ones-thing) · [Be One’s Thing](#be-ones-thing-1) · [Be Prone To](#be-prone-to) · [Be shook](#be-shook) · [Be someone’s type](#be-someones-type) · [Be stuck in a rut](#be-stuck-in-a-rut) · [Be up to somebody](#be-up-to-somebody) · [Bead of Dew](#bead-of-dew) · [Bead of Dew](#bead-of-dew-1) · [Beaned](#beaned) · [Bear in mind](#bear-in-mind) · [Beat the shit outta you](#beat-the-shit-outta-you) · [Beating the Drum](#beating-the-drum) · [Begin to do something](#begin-to-do-something) · [Below the belt](#below-the-belt) · [bend over backward](#bend-over-backward) · [Bend the knee](#bend-the-knee) · [better off](#better-off) · [Binding](#binding) · [Binge](#binge) · [Bit off more than I can chew](#bit-off-more-than-i-can-chew) · [blast into](#blast-into) · [Blast Radius](#blast-radius) · [Blatantly clear](#blatantly-clear) · [Blend them together](#blend-them-together) · [Blink of an eye](#blink-of-an-eye) · [Blob](#blob) · [blow away](#blow-away) · [Blow out](#blow-out) · [Bob’s your uncle](#bobs-your-uncle) · [Bold](#bold) · [Bolt-on](#bolt-on) · [Booby-trapped](#booby-trapped) · [Bossy](#bossy) · [Bottom Line](#bottom-line) · [bounce around](#bounce-around) · [bowl over](#bowl-over) · [Branch Off](#branch-off) · [Branch out](#branch-out) · [Brat](#brat) · [bread and butter](#bread-and-butter) · [Break down](#break-down) · [Break down](#break-down-1) · [Break down](#break-down-2) · [Break Down](#break-down-3) · [Break into](#break-into) · [Break into(in) vs break through](#break-intoin-vs-break-through) · [Break off](#break-off) · [Break out](#break-out) · [Break up](#break-up) · [Break with](#break-with) · [Breakdown](#breakdown) · [Breathless](#breathless) · [Brick](#brick) · [Brick](#brick-1) · [Bring about](#bring-about) · [Bring in](#bring-in) · [Bring Over](#bring-over) · [Bring up](#bring-up) · [Bring up](#bring-up-1) · [Budge](#budge) · [Bug out](#bug-out) · [Bug you](#bug-you) · [Build On](#build-on) · [Build On](#build-on-1) · [Bump into](#bump-into) · [Bump into](#bump-into-1) · [Bury](#bury) · [Busk](#busk) · [Busk](#busk-1) · [Buzzing](#buzzing) · [By leaps and bounds](#by-leaps-and-bounds) · [Byproduct](#byproduct)
+[Babble](#babble) · [Back in the day](#back-in-the-day) · [Back out of](#back-out-of) · [Back Over](#back-over) · [Back to Square One](#back-to-square-one) · [Back up](#back-up) · [Backdoor Bragging](#backdoor-bragging) · [Backstory](#backstory) · [Backup](#backup) · [Badge of honor](#badge-of-honor) · [bang on](#bang-on) · [Bare metal](#bare-metal) · [Bark up the wrong tree](#bark-up-the-wrong-tree) · [Baseball cap](#baseball-cap) · [Bat Your Eye at Someone](#bat-your-eye-at-someone) · [Batter Down](#batter-down) · [Be concerned with](#be-concerned-with) · [Be engraved in one’s mind](#be-engraved-in-ones-mind) · [Be full of it](#be-full-of-it) · [Be hard on someone](#be-hard-on-someone) · [Be ingrained in someone](#be-ingrained-in-someone) · [Be into someone](#be-into-someone) · [Be into something](#be-into-something) · [Be itching to](#be-itching-to) · [be just the thing](#be-just-the-thing) · [Be noticeable](#be-noticeable) · [Be off](#be-off) · [Be on the go](#be-on-the-go) · [Be on the lookout for](#be-on-the-lookout-for) · [Be One’s Thing](#be-ones-thing) · [Be Prone To](#be-prone-to) · [Be shook](#be-shook) · [Be someone’s type](#be-someones-type) · [Be stuck in a rut](#be-stuck-in-a-rut) · [Be up to somebody](#be-up-to-somebody) · [Bead of Dew](#bead-of-dew) · [Beaned](#beaned) · [Bear in mind](#bear-in-mind) · [Beat the shit outta you](#beat-the-shit-outta-you) · [Beating the Drum](#beating-the-drum) · [Begin to do something](#begin-to-do-something) · [Below the belt](#below-the-belt) · [bend over backward](#bend-over-backward) · [Bend the knee](#bend-the-knee) · [better off](#better-off) · [Binding](#binding) · [Binge](#binge) · [Bit off more than I can chew](#bit-off-more-than-i-can-chew) · [blast into](#blast-into) · [Blast Radius](#blast-radius) · [Blatantly clear](#blatantly-clear) · [Blend them together](#blend-them-together) · [Blink of an eye](#blink-of-an-eye) · [Blob](#blob) · [blow away](#blow-away) · [Blow out](#blow-out) · [Bob’s your uncle](#bobs-your-uncle) · [Bold](#bold) · [Bolt-on](#bolt-on) · [Booby-trapped](#booby-trapped) · [Bossy](#bossy) · [Bottom Line](#bottom-line) · [bounce around](#bounce-around) · [bowl over](#bowl-over) · [Branch Off](#branch-off) · [Branch out](#branch-out) · [Brat](#brat) · [bread and butter](#bread-and-butter) · [Break down](#break-down) · [Break into](#break-into) · [Break into(in) vs break through](#break-intoin-vs-break-through) · [Break off](#break-off) · [Break out](#break-out) · [Break up](#break-up) · [Break with](#break-with) · [Breakdown](#breakdown) · [Breathless](#breathless) · [Brick](#brick) · [Bring about](#bring-about) · [Bring in](#bring-in) · [Bring Over](#bring-over) · [Bring up](#bring-up) · [Budge](#budge) · [Bug out](#bug-out) · [Bug you](#bug-you) · [Build On](#build-on) · [Bump into](#bump-into) · [Bury](#bury) · [Busk](#busk) · [Buzzing](#buzzing) · [By leaps and bounds](#by-leaps-and-bounds) · [Byproduct](#byproduct)
 
 **C**
 
-[Cad](#cad) · [Call off](#call-off) · [Call off](#call-off-1) · [Call on](#call-on) · [Call out](#call-out) · [Call out/in](#call-outin) · [call upon](#call-upon) · [Calm down](#calm-down) · [Can of worms](#can-of-worms) · [Canoe](#canoe) · [Canopy](#canopy) · [Capacity](#capacity) · [carrot and stick](#carrot-and-stick) · [Carry on](#carry-on) · [Carry on](#carry-on-1) · [Carry out](#carry-out) · [Carry over](#carry-over) · [Carve in stone](#carve-in-stone) · [Carve out](#carve-out) · [Case in point](#case-in-point) · [Cash in](#cash-in) · [Cast](#cast) · [Cast off](#cast-off) · [Catch](#catch) · [Catch](#catch-1) · [Catch up (with)](#catch-up-with) · [Catch up on](#catch-up-on) · [Catchy](#catchy) · [Cater to someone](#cater-to-someone) · [catfish](#catfish) · [catfish](#catfish-1) · [Cave in](#cave-in) · [Caveat](#caveat) · [Chair lift](#chair-lift) · [Chameleon](#chameleon) · [Change one’s mind](#change-ones-mind) · [Channel](#channel) · [charity begins at home](#charity-begins-at-home) · [Chat amicably](#chat-amicably) · [Check in](#check-in) · [Check in](#check-in-1) · [Check out](#check-out) · [Cheer up](#cheer-up) · [Cherry-pick](#cherry-pick) · [Chicken out](#chicken-out) · [chime in](#chime-in) · [Chime In](#chime-in-1) · [Chip In](#chip-in) · [Chipping away | Chip away](#chipping-away--chip-away) · [Choke](#choke) · [choke back](#choke-back) · [Choppy](#choppy) · [Chore](#chore) · [Chore](#chore-1) · [Chummy](#chummy) · [circle back](#circle-back) · [Clad](#clad) · [Clamping](#clamping) · [Clap back](#clap-back) · [Clasp](#clasp) · [clean up](#clean-up) · [Clean up one’s act](#clean-up-ones-act) · [Cleft](#cleft) · [Clenched](#clenched) · [clickbait](#clickbait) · [Climb aboard](#climb-aboard) · [cling (on) to](#cling-on-to) · [Close down](#close-down) · [Clouding judgment](#clouding-judgment) · [Clue](#clue) · [Clumsiness](#clumsiness) · [Clumsy](#clumsy) · [Coarse](#coarse) · [come across](#come-across) · [Come across](#come-across-1) · [Come along](#come-along) · [Come Around](#come-around) · [Come by](#come-by) · [Come down](#come-down) · [come from](#come-from) · [Come in](#come-in) · [Come into the world](#come-into-the-world) · [come on](#come-on) · [Come on over](#come-on-over) · [Come through/Came through](#come-throughcame-through) · [Come to](#come-to) · [come to grief](#come-to-grief) · [Come to mind](#come-to-mind) · [Come up](#come-up) · [Come up](#come-up-1) · [Come up with](#come-up-with) · [Come up with](#come-up-with-1) · [Come up with](#come-up-with-2) · [Commit to](#commit-to) · [Common Spoken Sentences](#common-spoken-sentences) · [Commotion](#commotion) · [Commute](#commute) · [Commute](#commute-1) · [Commute](#commute-2) · [Compassion](#compassion) · [Compelling](#compelling) · [Complex](#complex) · [Comply](#comply) · [Comply](#comply-1) · [Concentrated or Disperse](#concentrated-or-disperse) · [Conform](#conform) · [Confuse](#confuse) · [Confuse](#confuse-1) · [Conman](#conman) · [Connecting Phrases You Can Use](#connecting-phrases-you-can-use) · [Conscience](#conscience) · [Conscience](#conscience-1) · [Conscientious](#conscientious) · [Conscientious](#conscientious-1) · [Controversial](#controversial) · [Convince](#convince) · [Convoluted](#convoluted) · [Cope With](#cope-with) · [Cope With](#cope-with-1) · [Corduroy](#corduroy) · [Cornerstone](#cornerstone) · [Count on](#count-on) · [Counterpart](#counterpart) · [Counterpart](#counterpart-1) · [Course Correct](#course-correct) · [Coward](#coward) · [cozying up](#cozying-up) · [crack up](#crack-up) · [Crackerjack](#crackerjack) · [Cram](#cram) · [Craving](#craving) · [Creep in](#creep-in) · [Crew](#crew) · [Crew](#crew-1) · [Crony capitalism](#crony-capitalism) · [Crucial](#crucial) · [Crummy](#crummy) · [Crutch](#crutch) · [Cry out / cry loud](#cry-out--cry-loud) · [Cut back](#cut-back) · [Cut down](#cut-down) · [Cut down on](#cut-down-on) · [Cut loose](#cut-loose) · [Cut off](#cut-off) · [Cut off](#cut-off-1) · [Cut short](#cut-short) · [cut to the chase](#cut-to-the-chase)
+[Cad](#cad) · [Call off](#call-off) · [Call on](#call-on) · [Call out](#call-out) · [Call out/in](#call-outin) · [call upon](#call-upon) · [Calm down](#calm-down) · [Can of worms](#can-of-worms) · [Canoe](#canoe) · [Canopy](#canopy) · [Capacity](#capacity) · [carrot and stick](#carrot-and-stick) · [Carry on](#carry-on) · [Carry out](#carry-out) · [Carry over](#carry-over) · [Carve in stone](#carve-in-stone) · [Carve out](#carve-out) · [Case in point](#case-in-point) · [Cash in](#cash-in) · [Cast](#cast) · [Cast off](#cast-off) · [Catch](#catch) · [Catch up (with)](#catch-up-with) · [Catch up on](#catch-up-on) · [Catchy](#catchy) · [Cater to someone](#cater-to-someone) · [catfish](#catfish) · [Cave in](#cave-in) · [Caveat](#caveat) · [Chair lift](#chair-lift) · [Chameleon](#chameleon) · [Change one’s mind](#change-ones-mind) · [Channel](#channel) · [charity begins at home](#charity-begins-at-home) · [Chat amicably](#chat-amicably) · [Check in](#check-in) · [Check out](#check-out) · [Cheer up](#cheer-up) · [Cherry-pick](#cherry-pick) · [Chicken out](#chicken-out) · [chime in](#chime-in) · [Chip In](#chip-in) · [Chipping away | Chip away](#chipping-away--chip-away) · [Choke](#choke) · [choke back](#choke-back) · [Choppy](#choppy) · [Chore](#chore) · [Chummy](#chummy) · [circle back](#circle-back) · [Clad](#clad) · [Clamping](#clamping) · [Clap back](#clap-back) · [Clasp](#clasp) · [clean up](#clean-up) · [Clean up one’s act](#clean-up-ones-act) · [Cleft](#cleft) · [Clenched](#clenched) · [clickbait](#clickbait) · [Climb aboard](#climb-aboard) · [cling (on) to](#cling-on-to) · [Close down](#close-down) · [Clouding judgment](#clouding-judgment) · [Clue](#clue) · [Clumsiness](#clumsiness) · [Clumsy](#clumsy) · [Coarse](#coarse) · [come across](#come-across) · [Come along](#come-along) · [Come Around](#come-around) · [Come by](#come-by) · [Come down](#come-down) · [come from](#come-from) · [Come in](#come-in) · [Come into the world](#come-into-the-world) · [come on](#come-on) · [Come on over](#come-on-over) · [Come through/Came through](#come-throughcame-through) · [Come to](#come-to) · [come to grief](#come-to-grief) · [Come to mind](#come-to-mind) · [Come up](#come-up) · [Come up with](#come-up-with) · [Commit to](#commit-to) · [Common Spoken Sentences](#common-spoken-sentences) · [Commotion](#commotion) · [Commute](#commute) · [Compassion](#compassion) · [Compelling](#compelling) · [Complex](#complex) · [Comply](#comply) · [Concentrated or Disperse](#concentrated-or-disperse) · [Conform](#conform) · [Confuse](#confuse) · [Conman](#conman) · [Connecting Phrases You Can Use](#connecting-phrases-you-can-use) · [Conscience](#conscience) · [Conscientious](#conscientious) · [Controversial](#controversial) · [Convince](#convince) · [Convoluted](#convoluted) · [Cope With](#cope-with) · [Corduroy](#corduroy) · [Cornerstone](#cornerstone) · [Count on](#count-on) · [Counterpart](#counterpart) · [Course Correct](#course-correct) · [Coward](#coward) · [cozying up](#cozying-up) · [crack up](#crack-up) · [Crackerjack](#crackerjack) · [Cram](#cram) · [Craving](#craving) · [Creep in](#creep-in) · [Crew](#crew) · [Crony capitalism](#crony-capitalism) · [Crucial](#crucial) · [Crummy](#crummy) · [Crutch](#crutch) · [Cry out / cry loud](#cry-out--cry-loud) · [Cut back](#cut-back) · [Cut down](#cut-down) · [Cut down on](#cut-down-on) · [Cut loose](#cut-loose) · [Cut off](#cut-off) · [Cut short](#cut-short) · [cut to the chase](#cut-to-the-chase)
 
 **D**
 
-[Dawn](#dawn) · [day in and day out](#day-in-and-day-out) · [day tripper](#day-tripper) · [Dazzle me](#dazzle-me) · [Debut](#debut) · [Deck](#deck) · [Dedicate oneself to](#dedicate-oneself-to) · [Deflected](#deflected) · [Delicate](#delicate) · [Delusion](#delusion) · [Descendant](#descendant) · [despite](#despite) · [Devious glances](#devious-glances) · [Devoted](#devoted) · [Did not see that coming](#did-not-see-that-coming) · [Die Down](#die-down) · [Die Down](#die-down-1) · [Diminish](#diminish) · [Diminish](#diminish-1) · [Dire](#dire) · [Disguise](#disguise) · [Disheveled | dishevel](#disheveled--dishevel) · [Distorted](#distorted) · [Distress](#distress) · [Ditch](#ditch) · [Dive into](#dive-into) · [DM](#dm) · [Dolled up](#dolled-up) · [douchebag](#douchebag) · [Downside](#downside) · [Downside](#downside-1) · [Downtime](#downtime) · [draw attention to](#draw-attention-to) · [Draw your attention](#draw-your-attention) · [Drawl](#drawl) · [Dreaded](#dreaded) · [Drift away](#drift-away) · [Drift away](#drift-away-1) · [Drifted apart](#drifted-apart) · [Drifted off](#drifted-off) · [Drifted off to sleep](#drifted-off-to-sleep) · [Drill down into](#drill-down-into) · [Drive](#drive) · [Drop By](#drop-by) · [Drop out (of)](#drop-out-of) · [Ducked](#ducked) · [due diligence](#due-diligence) · [Dump](#dump)
+[Dawn](#dawn) · [day in and day out](#day-in-and-day-out) · [day tripper](#day-tripper) · [Dazzle me](#dazzle-me) · [Debut](#debut) · [Deck](#deck) · [Dedicate oneself to](#dedicate-oneself-to) · [Deflected](#deflected) · [Delicate](#delicate) · [Delusion](#delusion) · [Descendant](#descendant) · [despite](#despite) · [Devious glances](#devious-glances) · [Devoted](#devoted) · [Did not see that coming](#did-not-see-that-coming) · [Die Down](#die-down) · [Diminish](#diminish) · [Dire](#dire) · [Disguise](#disguise) · [Disheveled | dishevel](#disheveled--dishevel) · [Distorted](#distorted) · [Distress](#distress) · [Ditch](#ditch) · [Dive into](#dive-into) · [DM](#dm) · [Dolled up](#dolled-up) · [douchebag](#douchebag) · [Downside](#downside) · [Downtime](#downtime) · [draw attention to](#draw-attention-to) · [Draw your attention](#draw-your-attention) · [Drawl](#drawl) · [Dreaded](#dreaded) · [Drift away](#drift-away) · [Drifted apart](#drifted-apart) · [Drifted off](#drifted-off) · [Drifted off to sleep](#drifted-off-to-sleep) · [Drill down into](#drill-down-into) · [Drive](#drive) · [Drop By](#drop-by) · [Drop out (of)](#drop-out-of) · [Ducked](#ducked) · [due diligence](#due-diligence) · [Dump](#dump)
 
 **E**
 
-[Eager](#eager) · [Easier said than done](#easier-said-than-done) · [Eating Up](#eating-up) · [ecotourism](#ecotourism) · [Effect Change](#effect-change) · [Effect Change](#effect-change-1) · [elbow room](#elbow-room) · [Elderly](#elderly) · [Elderly](#elderly-1) · [Elusive](#elusive) · [Embody It](#embody-it) · [Embrace](#embrace) · [Employment Rate](#employment-rate) · [Employment Rate](#employment-rate-1) · [Emulate](#emulate) · [End up](#end-up) · [Enemy within](#enemy-within) · [Enlighten the senses](#enlighten-the-senses) · [Enraged](#enraged) · [Enraged](#enraged-1) · [Enunciate](#enunciate) · [Envisage](#envisage) · [Epic level](#epic-level) · [Epiphany](#epiphany) · [Epitomized](#epitomized) · [Escape blame/punishment](#escape-blamepunishment) · [Establish oneself](#establish-oneself) · [Estranged](#estranged) · [Ever since](#ever-since) · [Everything but the kitchen sink](#everything-but-the-kitchen-sink) · [Exasperated](#exasperated) · [expectations](#expectations) · [Expedite](#expedite) · [Exposure](#exposure)
+[Eager](#eager) · [Easier said than done](#easier-said-than-done) · [Eating Up](#eating-up) · [ecotourism](#ecotourism) · [Effect Change](#effect-change) · [elbow room](#elbow-room) · [Elderly](#elderly) · [Elusive](#elusive) · [Embody It](#embody-it) · [Embrace](#embrace) · [Employment Rate](#employment-rate) · [Emulate](#emulate) · [End up](#end-up) · [Enemy within](#enemy-within) · [Enlighten the senses](#enlighten-the-senses) · [Enraged](#enraged) · [Enunciate](#enunciate) · [Envisage](#envisage) · [Epic level](#epic-level) · [Epiphany](#epiphany) · [Epitomized](#epitomized) · [Escape blame/punishment](#escape-blamepunishment) · [Establish oneself](#establish-oneself) · [Estranged](#estranged) · [Ever since](#ever-since) · [Everything but the kitchen sink](#everything-but-the-kitchen-sink) · [Exasperated](#exasperated) · [expectations](#expectations) · [Expedite](#expedite) · [Exposure](#exposure)
 
 **F**
 
-[Fable](#fable) · [Facade](#facade) · [Face value](#face-value) · [Fail miserably](#fail-miserably) · [Fall / Fell Apart](#fall--fell-apart) · [Fall behind](#fall-behind) · [fall for](#fall-for) · [Falsify](#falsify) · [Familiarize](#familiarize) · [Fancy a cuppa](#fancy-a-cuppa) · [Far from over](#far-from-over) · [Fend off](#fend-off) · [Fervent](#fervent) · [Fiddle Around](#fiddle-around) · [Fidelity](#fidelity) · [Field](#field) · [Figure out](#figure-out) · [figure out](#figure-out-1) · [Figure out](#figure-out-2) · [Fill in](#fill-in) · [Fill in for](#fill-in-for) · [Fill out](#fill-out) · [Fill out](#fill-out-1) · [Fill up](#fill-up) · [Filthy](#filthy) · [Filthy](#filthy-1) · [Find One’s Bearing](#find-ones-bearing) · [Find One’s Bearing](#find-ones-bearing-1) · [Find out](#find-out) · [Fine-tune](#fine-tune) · [Fire up](#fire-up) · [firmly](#firmly) · [Fixate On](#fixate-on) · [Fixate On](#fixate-on-1) · [Flashback](#flashback) · [Flashcard](#flashcard) · [Flawless](#flawless) · [fleabag](#fleabag) · [Flee](#flee) · [Flip a switch](#flip-a-switch) · [Float](#float) · [Flour](#flour) · [Flow](#flow) · [Fluff](#fluff) · [fly-drive](#fly-drive) · [Follow through](#follow-through) · [Fool around](#fool-around) · [For a Living](#for-a-living) · [For all intent and purposes](#for-all-intent-and-purposes) · [Forging and Brewing](#forging-and-brewing) · [Former](#former) · [Fowl](#fowl) · [Frat](#frat) · [Freckle](#freckle) · [Fresh out of](#fresh-out-of) · [Fringe](#fringe) · [From scratch](#from-scratch) · [From this point on](#from-this-point-on) · [Frowned](#frowned) · [Fudge](#fudge) · [Fulfill](#fulfill) · [Fulfilling](#fulfilling) · [Fulfillment](#fulfillment) · [Full potential](#full-potential) · [furthermore](#furthermore)
+[Fable](#fable) · [Facade](#facade) · [Face value](#face-value) · [Fail miserably](#fail-miserably) · [Fall / Fell Apart](#fall--fell-apart) · [Fall behind](#fall-behind) · [fall for](#fall-for) · [Falsify](#falsify) · [Familiarize](#familiarize) · [Fancy a cuppa](#fancy-a-cuppa) · [Far from over](#far-from-over) · [Fend off](#fend-off) · [Fervent](#fervent) · [Fiddle Around](#fiddle-around) · [Fidelity](#fidelity) · [Field](#field) · [Figure out](#figure-out) · [Fill in](#fill-in) · [Fill in for](#fill-in-for) · [Fill out](#fill-out) · [Fill up](#fill-up) · [Filthy](#filthy) · [Find One’s Bearing](#find-ones-bearing) · [Find out](#find-out) · [Fine-tune](#fine-tune) · [Fire up](#fire-up) · [firmly](#firmly) · [Fixate On](#fixate-on) · [Flashback](#flashback) · [Flashcard](#flashcard) · [Flawless](#flawless) · [fleabag](#fleabag) · [Flee](#flee) · [Flip a switch](#flip-a-switch) · [Float](#float) · [Flour](#flour) · [Flow](#flow) · [Fluff](#fluff) · [fly-drive](#fly-drive) · [Follow through](#follow-through) · [Fool around](#fool-around) · [For a Living](#for-a-living) · [For all intent and purposes](#for-all-intent-and-purposes) · [Forging and Brewing](#forging-and-brewing) · [Former](#former) · [Fowl](#fowl) · [Frat](#frat) · [Freckle](#freckle) · [Fresh out of](#fresh-out-of) · [Fringe](#fringe) · [From scratch](#from-scratch) · [From this point on](#from-this-point-on) · [Frowned](#frowned) · [Fudge](#fudge) · [Fulfill](#fulfill) · [Fulfilling](#fulfilling) · [Fulfillment](#fulfillment) · [Full potential](#full-potential) · [furthermore](#furthermore)
 
 **G**
 
-[Game Changer](#game-changer) · [Game of Cat and Mouse](#game-of-cat-and-mouse) · [Garrison](#garrison) · [Gasped](#gasped) · [Gauge](#gauge) · [Gear up](#gear-up) · [Get](#get) · [get across](#get-across) · [Get along](#get-along) · [get along / get along with](#get-along--get-along-with) · [get around](#get-around) · [Get around](#get-around-1) · [get at](#get-at) · [get away](#get-away) · [Get away](#get-away-1) · [Get away with](#get-away-with) · [get away with](#get-away-with-1) · [get cracking](#get-cracking) · [Get Going](#get-going) · [Get in / Get on](#get-in--get-on) · [Get into](#get-into) · [Get off / Get Down](#get-off--get-down) · [Get off on something](#get-off-on-something) · [Get Off Work](#get-off-work) · [Get Off Work](#get-off-work-1) · [Get on](#get-on) · [Get on to](#get-on-to) · [get one's feet wet](#get-ones-feet-wet) · [Get one’s hands dirty](#get-ones-hands-dirty) · [Get one’s point across](#get-ones-point-across) · [get out](#get-out) · [Get out of](#get-out-of) · [get over](#get-over) · [Get over it](#get-over-it) · [Get over it](#get-over-it-1) · [get rid of](#get-rid-of) · [Get someone down](#get-someone-down) · [Get the hang of](#get-the-hang-of) · [Get Through](#get-through) · [get through to](#get-through-to) · [get up to](#get-up-to) · [Get word](#get-word) · [Get your shit together](#get-your-shit-together) · [getaway](#getaway) · [Gibberish](#gibberish) · [Giggled](#giggled) · [Give a Cue](#give-a-cue) · [Give a Cue](#give-a-cue-1) · [Give a shit](#give-a-shit) · [Give a shit](#give-a-shit-1) · [Give someone the benefit of the doubt](#give-someone-the-benefit-of-the-doubt) · [give something a miss](#give-something-a-miss) · [give something a miss](#give-something-a-miss-1) · [Give something a try](#give-something-a-try) · [Give up](#give-up) · [Giveaway](#giveaway) · [Given](#given) · [given that](#given-that) · [glamping](#glamping) · [glory in](#glory-in) · [Gloss Over](#gloss-over) · [gnaw](#gnaw) · [Gnaw](#gnaw-1) · [Go against](#go-against) · [Go ahead](#go-ahead) · [Go around](#go-around) · [Go away](#go-away) · [Go back](#go-back) · [Go bankrupt](#go-bankrupt) · [go cold turkey](#go-cold-turkey) · [go dark](#go-dark) · [Go down](#go-down) · [Go full circle](#go-full-circle) · [Go off / Went off](#go-off--went-off) · [Go on](#go-on) · [Go on](#go-on-1) · [Go out](#go-out) · [go out](#go-out-1) · [Go Over](#go-over) · [Go the extra Mile](#go-the-extra-mile) · [Go Through](#go-through) · [Go Through](#go-through-1) · [Go through](#go-through-2) · [Go through the motions](#go-through-the-motions) · [Go Up](#go-up) · [go viral](#go-viral) · [Go viral](#go-viral-1) · [Go With the Flow](#go-with-the-flow) · [Go With the Flow](#go-with-the-flow-1) · [God-awful](#god-awful) · [Goggles](#goggles) · [Going forward](#going-forward) · [going forward](#going-forward-1) · [Goof around](#goof-around) · [Goof up](#goof-up) · [Goofy](#goofy) · [Goosebumps](#goosebumps) · [Gorgeous](#gorgeous) · [Got off](#got-off) · [Gourmet](#gourmet) · [Grab a bite](#grab-a-bite) · [Grand finale](#grand-finale) · [Gratification](#gratification) · [Graveyard](#graveyard) · [Grinded against](#grinded-against) · [Groom](#groom) · [Groped](#groped) · [Groundbreaking](#groundbreaking) · [Grow out of](#grow-out-of) · [Gruesome](#gruesome) · [Grumbled](#grumbled)
+[Game Changer](#game-changer) · [Game of Cat and Mouse](#game-of-cat-and-mouse) · [Garrison](#garrison) · [Gasped](#gasped) · [Gauge](#gauge) · [Gear up](#gear-up) · [Get](#get) · [get across](#get-across) · [Get along](#get-along) · [get along / get along with](#get-along--get-along-with) · [get around](#get-around) · [get at](#get-at) · [get away](#get-away) · [Get away with](#get-away-with) · [get cracking](#get-cracking) · [Get Going](#get-going) · [Get in / Get on](#get-in--get-on) · [Get into](#get-into) · [Get off / Get Down](#get-off--get-down) · [Get off on something](#get-off-on-something) · [Get Off Work](#get-off-work) · [Get on](#get-on) · [Get on to](#get-on-to) · [get one's feet wet](#get-ones-feet-wet) · [Get one’s hands dirty](#get-ones-hands-dirty) · [Get one’s point across](#get-ones-point-across) · [get out](#get-out) · [Get out of](#get-out-of) · [get over](#get-over) · [Get over it](#get-over-it) · [get rid of](#get-rid-of) · [Get someone down](#get-someone-down) · [Get the hang of](#get-the-hang-of) · [Get Through](#get-through) · [get through to](#get-through-to) · [get up to](#get-up-to) · [Get word](#get-word) · [Get your shit together](#get-your-shit-together) · [getaway](#getaway) · [Gibberish](#gibberish) · [Giggled](#giggled) · [Give a Cue](#give-a-cue) · [Give a shit](#give-a-shit) · [Give someone the benefit of the doubt](#give-someone-the-benefit-of-the-doubt) · [give something a miss](#give-something-a-miss) · [Give something a try](#give-something-a-try) · [Give up](#give-up) · [Giveaway](#giveaway) · [Given](#given) · [given that](#given-that) · [glamping](#glamping) · [glory in](#glory-in) · [Gloss Over](#gloss-over) · [gnaw](#gnaw) · [Go against](#go-against) · [Go ahead](#go-ahead) · [Go around](#go-around) · [Go away](#go-away) · [Go back](#go-back) · [Go bankrupt](#go-bankrupt) · [go cold turkey](#go-cold-turkey) · [go dark](#go-dark) · [Go down](#go-down) · [Go full circle](#go-full-circle) · [Go off / Went off](#go-off--went-off) · [Go on](#go-on) · [Go out](#go-out) · [Go Over](#go-over) · [Go the extra Mile](#go-the-extra-mile) · [Go Through](#go-through) · [Go through the motions](#go-through-the-motions) · [Go Up](#go-up) · [go viral](#go-viral) · [Go With the Flow](#go-with-the-flow) · [God-awful](#god-awful) · [Goggles](#goggles) · [Going forward](#going-forward) · [Goof around](#goof-around) · [Goof up](#goof-up) · [Goofy](#goofy) · [Goosebumps](#goosebumps) · [Gorgeous](#gorgeous) · [Got off](#got-off) · [Gourmet](#gourmet) · [Grab a bite](#grab-a-bite) · [Grand finale](#grand-finale) · [Gratification](#gratification) · [Graveyard](#graveyard) · [Grinded against](#grinded-against) · [Groom](#groom) · [Groped](#groped) · [Groundbreaking](#groundbreaking) · [Grow out of](#grow-out-of) · [Gruesome](#gruesome) · [Grumbled](#grumbled)
 
 **H**
 
-[Habit stacking](#habit-stacking) · [Hack](#hack) · [Halfway Through](#halfway-through) · [Halo](#halo) · [Hand in](#hand-in) · [Hand out](#hand-out) · [Hand out](#hand-out-1) · [Handoff](#handoff) · [Hands-off request](#hands-off-request) · [Hang on](#hang-on) · [Hang out](#hang-out) · [Hang Out With](#hang-out-with) · [Hangs off](#hangs-off) · [Harsh](#harsh) · [Harvest](#harvest) · [Haunted](#haunted) · [Have a crush on someone](#have-a-crush-on-someone) · [Have a leg up](#have-a-leg-up) · [Have a lot on one’s plate](#have-a-lot-on-ones-plate) · [Have a thing for someone](#have-a-thing-for-someone) · [Have been through a lot](#have-been-through-a-lot) · [Have Cash on You](#have-cash-on-you) · [have elbow room](#have-elbow-room) · [have had](#have-had) · [have it [done]](#have-it-done) · [Have it out](#have-it-out) · [Have someone’s back](#have-someones-back) · [Have something in mind](#have-something-in-mind) · [Have what it takes](#have-what-it-takes) · [Hazy](#hazy) · [Head down/Heads down](#head-downheads-down) · [Head on](#head-on) · [Head On](#head-on-1) · [head over](#head-over) · [Heads up](#heads-up) · [Hear me out](#hear-me-out) · [Heckling](#heckling) · [Hell-bent](#hell-bent) · [Helpless](#helpless) · [Herculean task](#herculean-task) · [Hesitant](#hesitant) · [Hieroglyph](#hieroglyph) · [Highlight reel](#highlight-reel) · [Hinge](#hinge) · [Hit rock bottom](#hit-rock-bottom) · [Hit the ground running](#hit-the-ground-running) · [hit the nail on the head](#hit-the-nail-on-the-head) · [hit up](#hit-up) · [Hitched](#hitched) · [Hive](#hive) · [Hold back](#hold-back) · [Hold on](#hold-on) · [Hold on](#hold-on-1) · [Hold up](#hold-up) · [Hold up](#hold-up-1) · [holistic approach](#holistic-approach) · [Hook on](#hook-on) · [Hook Up](#hook-up) · [Hop On Board](#hop-on-board) · [Hop On Board](#hop-on-board-1) · [hotspot](#hotspot) · [Hover](#hover) · [Hover](#hover-1) · [How dare you](#how-dare-you) · [How so](#how-so) · [Howl](#howl) · [Huddled](#huddled) · [Huffed](#huffed) · [Huffed adorably](#huffed-adorably) · [Hum](#hum) · [Humble](#humble) · [Humility](#humility) · [Humility](#humility-1) · [Hump](#hump) · [Hurl](#hurl) · [Hurl](#hurl-1) · [Hustle and Bustle](#hustle-and-bustle) · [Hypocritical](#hypocritical)
+[Habit stacking](#habit-stacking) · [Hack](#hack) · [Halfway Through](#halfway-through) · [Halo](#halo) · [Hand in](#hand-in) · [Hand out](#hand-out) · [Handoff](#handoff) · [Hands-off request](#hands-off-request) · [Hang on](#hang-on) · [Hang out](#hang-out) · [Hang Out With](#hang-out-with) · [Hangs off](#hangs-off) · [Harsh](#harsh) · [Harvest](#harvest) · [Haunted](#haunted) · [Have a crush on someone](#have-a-crush-on-someone) · [Have a leg up](#have-a-leg-up) · [Have a lot on one’s plate](#have-a-lot-on-ones-plate) · [Have a thing for someone](#have-a-thing-for-someone) · [Have been through a lot](#have-been-through-a-lot) · [Have Cash on You](#have-cash-on-you) · [have elbow room](#have-elbow-room) · [have had](#have-had) · [have it [done]](#have-it-done) · [Have it out](#have-it-out) · [Have someone’s back](#have-someones-back) · [Have something in mind](#have-something-in-mind) · [Have what it takes](#have-what-it-takes) · [Hazy](#hazy) · [Head down/Heads down](#head-downheads-down) · [Head on](#head-on) · [head over](#head-over) · [Heads up](#heads-up) · [Hear me out](#hear-me-out) · [Heckling](#heckling) · [Hell-bent](#hell-bent) · [Helpless](#helpless) · [Herculean task](#herculean-task) · [Hesitant](#hesitant) · [Hieroglyph](#hieroglyph) · [Highlight reel](#highlight-reel) · [Hinge](#hinge) · [Hit rock bottom](#hit-rock-bottom) · [Hit the ground running](#hit-the-ground-running) · [hit the nail on the head](#hit-the-nail-on-the-head) · [hit up](#hit-up) · [Hitched](#hitched) · [Hive](#hive) · [Hold back](#hold-back) · [Hold on](#hold-on) · [Hold up](#hold-up) · [holistic approach](#holistic-approach) · [Hook on](#hook-on) · [Hook Up](#hook-up) · [Hop On Board](#hop-on-board) · [hotspot](#hotspot) · [Hover](#hover) · [How dare you](#how-dare-you) · [How so](#how-so) · [Howl](#howl) · [Huddled](#huddled) · [Huffed](#huffed) · [Huffed adorably](#huffed-adorably) · [Hum](#hum) · [Humble](#humble) · [Humility](#humility) · [Hump](#hump) · [Hurl](#hurl) · [Hustle and Bustle](#hustle-and-bustle) · [Hypocritical](#hypocritical)
 
 **I**
 
-[I couldn’t care less](#i-couldnt-care-less) · [I don’t know shit](#i-dont-know-shit) · [I haven't thought it through](#i-havent-thought-it-through) · [I want off this case](#i-want-off-this-case) · [I woke up gasping for air](#i-woke-up-gasping-for-air) · [I'm cross with you](#im-cross-with-you) · [I'm over him](#im-over-him) · [I'm so turned on](#im-so-turned-on) · [If you got it, flaunt it](#if-you-got-it-flaunt-it) · [Ignorance](#ignorance) · [Immersion](#immersion) · [Imminent](#imminent) · [Imperceptibly || imperceptible](#imperceptibly--imperceptible) · [Impersonate](#impersonate) · [Implement](#implement) · [Imply](#imply) · [Impulse](#impulse) · [Impulsive](#impulsive) · [In Hindsight](#in-hindsight) · [In stock](#in-stock) · [in terms of](#in-terms-of) · [in the distance](#in-the-distance) · [In tune with](#in-tune-with) · [In vain](#in-vain) · [Incisive](#incisive) · [incommunicado](#incommunicado) · [Incompatible](#incompatible) · [Inconceivable](#inconceivable) · [Inconsistency](#inconsistency) · [Indescribable](#indescribable) · [Indigenous](#indigenous) · [Indignation](#indignation) · [Indispensable](#indispensable) · [Indulgently](#indulgently) · [Inert](#inert) · [Infamous](#infamous) · [Inflection](#inflection) · [Innuendo](#innuendo) · [Insecurity](#insecurity) · [Insecurity](#insecurity-1) · [Insidious](#insidious) · [Insinuated](#insinuated) · [Internalize](#internalize) · [Internalize](#internalize-1) · [Interrogate](#interrogate) · [Intertwined with mine](#intertwined-with-mine) · [Intricate](#intricate) · [Investigate](#investigate) · [Irately biting his ear off](#irately-biting-his-ear-off) · [Iron out](#iron-out) · [Irony](#irony) · [island-hopping](#island-hopping) · [It is imperative](#it-is-imperative) · [It pays to](#it-pays-to) · [It's a half measure](#its-a-half-measure) · [It’s a thing](#its-a-thing) · [It’s no use (doing something)](#its-no-use-doing-something) · [I’m over it](#im-over-it)
+[I couldn’t care less](#i-couldnt-care-less) · [I don’t know shit](#i-dont-know-shit) · [I haven't thought it through](#i-havent-thought-it-through) · [I want off this case](#i-want-off-this-case) · [I woke up gasping for air](#i-woke-up-gasping-for-air) · [I'm cross with you](#im-cross-with-you) · [I'm over him](#im-over-him) · [I'm so turned on](#im-so-turned-on) · [If you got it, flaunt it](#if-you-got-it-flaunt-it) · [Ignorance](#ignorance) · [Immersion](#immersion) · [Imminent](#imminent) · [Imperceptibly || imperceptible](#imperceptibly--imperceptible) · [Impersonate](#impersonate) · [Implement](#implement) · [Imply](#imply) · [Impulse](#impulse) · [Impulsive](#impulsive) · [In Hindsight](#in-hindsight) · [In stock](#in-stock) · [in terms of](#in-terms-of) · [in the distance](#in-the-distance) · [In tune with](#in-tune-with) · [In vain](#in-vain) · [Incisive](#incisive) · [incommunicado](#incommunicado) · [Incompatible](#incompatible) · [Inconceivable](#inconceivable) · [Inconsistency](#inconsistency) · [Indescribable](#indescribable) · [Indigenous](#indigenous) · [Indignation](#indignation) · [Indispensable](#indispensable) · [Indulgently](#indulgently) · [Inert](#inert) · [Infamous](#infamous) · [Inflection](#inflection) · [Innuendo](#innuendo) · [Insecurity](#insecurity) · [Insidious](#insidious) · [Insinuated](#insinuated) · [Internalize](#internalize) · [Interrogate](#interrogate) · [Intertwined with mine](#intertwined-with-mine) · [Intricate](#intricate) · [Investigate](#investigate) · [Irately biting his ear off](#irately-biting-his-ear-off) · [Iron out](#iron-out) · [Irony](#irony) · [island-hopping](#island-hopping) · [It is imperative](#it-is-imperative) · [It pays to](#it-pays-to) · [It's a half measure](#its-a-half-measure) · [It’s a thing](#its-a-thing) · [It’s no use (doing something)](#its-no-use-doing-something) · [I’m over it](#im-over-it)
 
 **J**
 
@@ -50,27 +50,27 @@
 
 **K**
 
-[Keep an eye out for](#keep-an-eye-out-for) · [Keep One’s Eye Peeled](#keep-ones-eye-peeled) · [Keep One’s Eye Peeled](#keep-ones-eye-peeled-1) · [Keep out](#keep-out) · [Keep someone honest](#keep-someone-honest) · [keep someone posted](#keep-someone-posted) · [Keep up](#keep-up) · [keep up](#keep-up-1) · [Keep up with](#keep-up-with) · [keep up with](#keep-up-with-1) · [Kernel](#kernel) · [key takeaway](#key-takeaway) · [Kick in](#kick-in) · [Kill one’s darlings](#kill-ones-darlings) · [Kill two birds with one stone](#kill-two-birds-with-one-stone) · [Kneel](#kneel) · [Kooky](#kooky)
+[Keep an eye out for](#keep-an-eye-out-for) · [Keep One’s Eye Peeled](#keep-ones-eye-peeled) · [Keep out](#keep-out) · [Keep someone honest](#keep-someone-honest) · [keep someone posted](#keep-someone-posted) · [Keep up](#keep-up) · [Keep up with](#keep-up-with) · [Kernel](#kernel) · [key takeaway](#key-takeaway) · [Kick in](#kick-in) · [Kill one’s darlings](#kill-ones-darlings) · [Kill two birds with one stone](#kill-two-birds-with-one-stone) · [Kneel](#kneel) · [Kooky](#kooky)
 
 **L**
 
-[Lagging behind](#lagging-behind) · [lash out](#lash-out) · [Lay behind](#lay-behind) · [Lay bricks](#lay-bricks) · [Lay Down](#lay-down) · [Lay eyes on](#lay-eyes-on) · [Lay off](#lay-off) · [Lay off](#lay-off-1) · [Lay Out / Laid Out](#lay-out--laid-out) · [Lean](#lean) · [Lean into](#lean-into) · [Leaped up](#leaped-up) · [Leave it off](#leave-it-off) · [Leave work to go home](#leave-work-to-go-home) · [Lecherously](#lecherously) · [Leered](#leered) · [Left and right](#left-and-right) · [Left off](#left-off) · [Left out](#left-out) · [Let Alone](#let-alone) · [let out](#let-out) · [Let Someone In](#let-someone-in) · [Let the cat out of the bag](#let-the-cat-out-of-the-bag) · [level with](#level-with) · [Leverage](#leverage) · [Leverage](#leverage-1) · [Leverage](#leverage-2) · [Life Won’t Spare You](#life-wont-spare-you) · [lift a finger](#lift-a-finger) · [lighten](#lighten) · [Lisp](#lisp) · [listen up](#listen-up) · [Little by Little](#little-by-little) · [Little by Little](#little-by-little-1) · [liven](#liven) · [Lock in](#lock-in) · [Look after](#look-after) · [Look after/out](#look-afterout) · [Look down upon](#look-down-upon) · [Look for](#look-for) · [Look forward to](#look-forward-to) · [Look forward to](#look-forward-to-1) · [Look forward to](#look-forward-to-2) · [Look forward to](#look-forward-to-3) · [Look into](#look-into) · [Look into](#look-into-1) · [Look into](#look-into-2) · [Look into](#look-into-3) · [Look on](#look-on) · [Look This Over and Sign This](#look-this-over-and-sign-this) · [Look Through](#look-through) · [Look up](#look-up) · [Look up](#look-up-1) · [Look up to](#look-up-to) · [Loop back](#loop-back) · [loop in](#loop-in) · [loosen up](#loosen-up) · [Lose Touch With](#lose-touch-with) · [Lose Touch With](#lose-touch-with-1) · [Lousy](#lousy) · [Lousy](#lousy-1) · [lurking behind](#lurking-behind) · [Luscious](#luscious) · [Luxurious](#luxurious)
+[Lagging behind](#lagging-behind) · [lash out](#lash-out) · [Lay behind](#lay-behind) · [Lay bricks](#lay-bricks) · [Lay Down](#lay-down) · [Lay eyes on](#lay-eyes-on) · [Lay off](#lay-off) · [Lay Out / Laid Out](#lay-out--laid-out) · [Lean](#lean) · [Lean into](#lean-into) · [Leaped up](#leaped-up) · [Leave it off](#leave-it-off) · [Leave work to go home](#leave-work-to-go-home) · [Lecherously](#lecherously) · [Leered](#leered) · [Left and right](#left-and-right) · [Left off](#left-off) · [Left out](#left-out) · [Let Alone](#let-alone) · [let out](#let-out) · [Let Someone In](#let-someone-in) · [Let the cat out of the bag](#let-the-cat-out-of-the-bag) · [level with](#level-with) · [Leverage](#leverage) · [Life Won’t Spare You](#life-wont-spare-you) · [lift a finger](#lift-a-finger) · [lighten](#lighten) · [Lisp](#lisp) · [listen up](#listen-up) · [Little by Little](#little-by-little) · [liven](#liven) · [Lock in](#lock-in) · [Look after](#look-after) · [Look after/out](#look-afterout) · [Look down upon](#look-down-upon) · [Look for](#look-for) · [Look forward to](#look-forward-to) · [Look into](#look-into) · [Look on](#look-on) · [Look This Over and Sign This](#look-this-over-and-sign-this) · [Look Through](#look-through) · [Look up](#look-up) · [Look up to](#look-up-to) · [Loop back](#loop-back) · [loop in](#loop-in) · [loosen up](#loosen-up) · [Lose Touch With](#lose-touch-with) · [Lousy](#lousy) · [lurking behind](#lurking-behind) · [Luscious](#luscious) · [Luxurious](#luxurious)
 
 **M**
 
-[Make a 180 Degree Turn](#make-a-180-degree-turn) · [Make an impression on](#make-an-impression-on) · [Make berth](#make-berth) · [Make It](#make-it) · [Make Oneself Useful](#make-oneself-useful) · [Make Oneself Useful](#make-oneself-useful-1) · [Make out](#make-out) · [make the most of](#make-the-most-of) · [Make up](#make-up) · [Mandate](#mandate) · [Manipulator](#manipulator) · [Mark of Somebody](#mark-of-somebody) · [Mark of Somebody](#mark-of-somebody-1) · [Mash up](#mash-up) · [Mass](#mass) · [Mate](#mate) · [Mate](#mate-1) · [Melodramatic](#melodramatic) · [meme](#meme) · [Messed up](#messed-up) · [metrics](#metrics) · [Milestone](#milestone) · [Mimic](#mimic) · [Mindset](#mindset) · [Mingle](#mingle) · [Mischievous](#mischievous) · [Misconception](#misconception) · [Misconception](#misconception-1) · [Mix up](#mix-up) · [Mockery](#mockery) · [Modable (Moldable)](#modable-moldable) · [Model after](#model-after) · [Molasses](#molasses) · [Moldable](#moldable) · [Moment of Truth](#moment-of-truth) · [Monk](#monk) · [Mood Swings](#mood-swings) · [Mood Swings](#mood-swings-1) · [Mortar](#mortar) · [Mortar](#mortar-1) · [Mortifying](#mortifying) · [Mote of dust](#mote-of-dust) · [Move Around](#move-around) · [Move past it](#move-past-it) · [moving forward](#moving-forward) · [Muffled](#muffled) · [Muffled](#muffled-1) · [Mumble](#mumble) · [Mundane](#mundane) · [Mundane](#mundane-1) · [Mutton chops](#mutton-chops)
+[Make a 180 Degree Turn](#make-a-180-degree-turn) · [Make an impression on](#make-an-impression-on) · [Make berth](#make-berth) · [Make It](#make-it) · [Make Oneself Useful](#make-oneself-useful) · [Make out](#make-out) · [make the most of](#make-the-most-of) · [Make up](#make-up) · [Mandate](#mandate) · [Manipulator](#manipulator) · [Mark of Somebody](#mark-of-somebody) · [Mash up](#mash-up) · [Mass](#mass) · [Mate](#mate) · [Melodramatic](#melodramatic) · [meme](#meme) · [Messed up](#messed-up) · [metrics](#metrics) · [Milestone](#milestone) · [Mimic](#mimic) · [Mindset](#mindset) · [Mingle](#mingle) · [Mischievous](#mischievous) · [Misconception](#misconception) · [Mix up](#mix-up) · [Mockery](#mockery) · [Modable (Moldable)](#modable-moldable) · [Model after](#model-after) · [Molasses](#molasses) · [Moldable](#moldable) · [Moment of Truth](#moment-of-truth) · [Monk](#monk) · [Mood Swings](#mood-swings) · [Mortar](#mortar) · [Mortifying](#mortifying) · [Mote of dust](#mote-of-dust) · [Move Around](#move-around) · [Move past it](#move-past-it) · [moving forward](#moving-forward) · [Muffled](#muffled) · [Mumble](#mumble) · [Mundane](#mundane) · [Mutton chops](#mutton-chops)
 
 **N**
 
-[Narrator](#narrator) · [Narrator](#narrator-1) · [Nasty Scar](#nasty-scar) · [Naysayer](#naysayer) · [Naysayer](#naysayer-1) · [Neat trick](#neat-trick) · [Necking](#necking) · [Needle back](#needle-back) · [Night and day](#night-and-day) · [Nimble](#nimble) · [Nip](#nip) · [Nip it in the bud](#nip-it-in-the-bud) · [Nitty Gritty](#nitty-gritty) · [Nitty-gritty](#nitty-gritty-1) · [no doubt](#no-doubt) · [No doubt](#no-doubt-1) · [No Hard Feelings](#no-hard-feelings) · [No Hard Feelings](#no-hard-feelings-1) · [No problem](#no-problem) · [no strings attached](#no-strings-attached) · [Non-Negotiable](#non-negotiable) · [Non-Negotiable](#non-negotiable-1) · [Nonsense](#nonsense) · [Note down](#note-down) · [Nothing short of](#nothing-short-of) · [Nothing short of extraordinary](#nothing-short-of-extraordinary) · [Notorious](#notorious) · [Novice](#novice) · [Novice](#novice-1) · [Nowhere](#nowhere) · [Nuanced](#nuanced)
+[Narrator](#narrator) · [Nasty Scar](#nasty-scar) · [Naysayer](#naysayer) · [Neat trick](#neat-trick) · [Necking](#necking) · [Needle back](#needle-back) · [Night and day](#night-and-day) · [Nimble](#nimble) · [Nip](#nip) · [Nip it in the bud](#nip-it-in-the-bud) · [Nitty Gritty](#nitty-gritty) · [Nitty-gritty](#nitty-gritty-1) · [no doubt](#no-doubt) · [No Hard Feelings](#no-hard-feelings) · [No problem](#no-problem) · [no strings attached](#no-strings-attached) · [Non-Negotiable](#non-negotiable) · [Nonsense](#nonsense) · [Note down](#note-down) · [Nothing short of](#nothing-short-of) · [Nothing short of extraordinary](#nothing-short-of-extraordinary) · [Notorious](#notorious) · [Novice](#novice) · [Nowhere](#nowhere) · [Nuanced](#nuanced)
 
 **O**
 
-[Obnoxious](#obnoxious) · [Obscene](#obscene) · [Obstacle](#obstacle) · [Occur to someone](#occur-to-someone) · [Odds](#odds) · [Off guard](#off-guard) · [off the hook](#off-the-hook) · [off the radar](#off-the-radar) · [off the top of one's head](#off-the-top-of-ones-head) · [Off-putting](#off-putting) · [Offering](#offering) · [On and on](#on-and-on) · [On Him](#on-him) · [on paper](#on-paper) · [on par with](#on-par-with) · [On purpose](#on-purpose) · [on the flip side](#on-the-flip-side) · [on the mend](#on-the-mend) · [on the one hand](#on-the-one-hand) · [on the up](#on-the-up) · [on the up](#on-the-up-1) · [One-Size-Fits-All](#one-size-fits-all) · [One-Size-Fits-All](#one-size-fits-all-1) · [One’s lot in life](#ones-lot-in-life) · [One’s Place](#ones-place) · [Opportune moment](#opportune-moment) · [Orientation](#orientation) · [Orphanage](#orphanage) · [Out of nowhere](#out-of-nowhere) · [Out of the gate](#out-of-the-gate) · [Out of the way](#out-of-the-way) · [Outcome](#outcome) · [Outrageous](#outrageous) · [Outrageous](#outrageous-1) · [Over the top](#over-the-top) · [Overcome](#overcome) · [Overcome](#overcome-1) · [Overly rich](#overly-rich) · [Overpacker](#overpacker) · [Overrated](#overrated) · [Overrated](#overrated-1) · [Oversee](#oversee) · [Oxymoron](#oxymoron)
+[Obnoxious](#obnoxious) · [Obscene](#obscene) · [Obstacle](#obstacle) · [Occur to someone](#occur-to-someone) · [Odds](#odds) · [Off guard](#off-guard) · [off the hook](#off-the-hook) · [off the radar](#off-the-radar) · [off the top of one's head](#off-the-top-of-ones-head) · [Off-putting](#off-putting) · [Offering](#offering) · [On and on](#on-and-on) · [On Him](#on-him) · [on paper](#on-paper) · [on par with](#on-par-with) · [On purpose](#on-purpose) · [on the flip side](#on-the-flip-side) · [on the mend](#on-the-mend) · [on the one hand](#on-the-one-hand) · [on the up](#on-the-up) · [One-Size-Fits-All](#one-size-fits-all) · [One’s lot in life](#ones-lot-in-life) · [One’s Place](#ones-place) · [Opportune moment](#opportune-moment) · [Orientation](#orientation) · [Orphanage](#orphanage) · [Out of nowhere](#out-of-nowhere) · [Out of the gate](#out-of-the-gate) · [Out of the way](#out-of-the-way) · [Outcome](#outcome) · [Outrageous](#outrageous) · [Over the top](#over-the-top) · [Overcome](#overcome) · [Overly rich](#overly-rich) · [Overpacker](#overpacker) · [Overrated](#overrated) · [Oversee](#oversee) · [Oxymoron](#oxymoron)
 
 **P**
 
-[Pace](#pace) · [Paddle](#paddle) · [Pail](#pail) · [paint the picture](#paint-the-picture) · [Paint the town red](#paint-the-town-red) · [Palate](#palate) · [Palpable](#palpable) · [Pan out](#pan-out) · [Pan out](#pan-out-1) · [Panhandle](#panhandle) · [Paradigm](#paradigm) · [Paradigm](#paradigm-1) · [Paradigm shift](#paradigm-shift) · [Paradoxically](#paradoxically) · [Pass on](#pass-on) · [Pattern](#pattern) · [Pave the Way](#pave-the-way) · [Pay homage](#pay-homage) · [Pay off](#pay-off) · [Peeked](#peeked) · [Peer](#peer) · [Pensive](#pensive) · [Pent up](#pent-up) · [Pent-up](#pent-up-1) · [perception](#perception) · [Perceptive](#perceptive) · [Perform](#perform) · [Perform](#perform-1) · [perk](#perk) · [Perked up](#perked-up) · [Perpetuate](#perpetuate) · [Persevere](#persevere) · [Personal best](#personal-best) · [perspective](#perspective) · [Phase in](#phase-in) · [Phase out](#phase-out) · [Phenomenon](#phenomenon) · [Phony](#phony) · [Phony](#phony-1) · [Pick up](#pick-up) · [Pick-Me-Up](#pick-me-up) · [Picturesque](#picturesque) · [pipe dream](#pipe-dream) · [Pique Curiosity](#pique-curiosity) · [Pique Curiosity](#pique-curiosity-1) · [Pivot away](#pivot-away) · [Play around](#play-around) · [Play it By Ear](#play-it-by-ear) · [point of view](#point-of-view) · [Point out](#point-out) · [pontificate](#pontificate) · [Pontification](#pontification) · [Pop into one’s head](#pop-into-ones-head) · [Pop up](#pop-up) · [Posturing](#posturing) · [Potty mouth](#potty-mouth) · [Pound into](#pound-into) · [Practice makes perfect](#practice-makes-perfect) · [Prima Donna](#prima-donna) · [Prima Donna](#prima-donna-1) · [Proactive](#proactive) · [Process](#process) · [Profanities](#profanities) · [Prosperous](#prosperous) · [Protagonist](#protagonist) · [protégé](#protégé) · [Prove](#prove) · [Puckered](#puckered) · [Pull (something) off](#pull-something-off) · [Pull a 180](#pull-a-180) · [Pull over](#pull-over) · [Pull Up](#pull-up) · [Pulled up](#pulled-up) · [Pulling things out of thin air](#pulling-things-out-of-thin-air) · [Pulls up](#pulls-up) · [Pumped up](#pumped-up) · [Punch a hole](#punch-a-hole) · [Pungent](#pungent) · [Purred](#purred) · [Pursuit](#pursuit) · [Pursuit](#pursuit-1) · [Push back](#push-back) · [Push through](#push-through) · [Push through](#push-through-1) · [Put down](#put-down) · [Put forward](#put-forward) · [Put forward](#put-forward-1) · [Put off](#put-off) · [Put off](#put-off-1) · [Put on](#put-on) · [Put one's finger on the pulse of](#put-ones-finger-on-the-pulse-of) · [Put One’s Business in the Street](#put-ones-business-in-the-street) · [Put one’s money where one’s mouth is](#put-ones-money-where-ones-mouth-is) · [Put out/off](#put-outoff) · [Put through](#put-through) · [Put two and two together](#put-two-and-two-together) · [Put Up](#put-up) · [Put up](#put-up-1) · [Put up a fight](#put-up-a-fight) · [Put up with](#put-up-with) · [Put up with slackness](#put-up-with-slackness)
+[Pace](#pace) · [Paddle](#paddle) · [Pail](#pail) · [paint the picture](#paint-the-picture) · [Paint the town red](#paint-the-town-red) · [Palate](#palate) · [Palpable](#palpable) · [Pan out](#pan-out) · [Panhandle](#panhandle) · [Paradigm](#paradigm) · [Paradigm shift](#paradigm-shift) · [Paradoxically](#paradoxically) · [Pass on](#pass-on) · [Pattern](#pattern) · [Pave the Way](#pave-the-way) · [Pay homage](#pay-homage) · [Pay off](#pay-off) · [Peeked](#peeked) · [Peer](#peer) · [Pensive](#pensive) · [Pent up](#pent-up) · [Pent-up](#pent-up-1) · [perception](#perception) · [Perceptive](#perceptive) · [Perform](#perform) · [perk](#perk) · [Perked up](#perked-up) · [Perpetuate](#perpetuate) · [Persevere](#persevere) · [Personal best](#personal-best) · [perspective](#perspective) · [Phase in](#phase-in) · [Phase out](#phase-out) · [Phenomenon](#phenomenon) · [Phony](#phony) · [Pick up](#pick-up) · [Pick-Me-Up](#pick-me-up) · [Picturesque](#picturesque) · [pipe dream](#pipe-dream) · [Pique Curiosity](#pique-curiosity) · [Pivot away](#pivot-away) · [Play around](#play-around) · [Play it By Ear](#play-it-by-ear) · [point of view](#point-of-view) · [Point out](#point-out) · [pontificate](#pontificate) · [Pontification](#pontification) · [Pop into one’s head](#pop-into-ones-head) · [Pop up](#pop-up) · [Posturing](#posturing) · [Potty mouth](#potty-mouth) · [Pound into](#pound-into) · [Practice makes perfect](#practice-makes-perfect) · [Prima Donna](#prima-donna) · [Proactive](#proactive) · [Process](#process) · [Profanities](#profanities) · [Prosperous](#prosperous) · [Protagonist](#protagonist) · [protégé](#protégé) · [Prove](#prove) · [Puckered](#puckered) · [Pull (something) off](#pull-something-off) · [Pull a 180](#pull-a-180) · [Pull over](#pull-over) · [Pull Up](#pull-up) · [Pulled up](#pulled-up) · [Pulling things out of thin air](#pulling-things-out-of-thin-air) · [Pulls up](#pulls-up) · [Pumped up](#pumped-up) · [Punch a hole](#punch-a-hole) · [Pungent](#pungent) · [Purred](#purred) · [Pursuit](#pursuit) · [Push back](#push-back) · [Push through](#push-through) · [Put down](#put-down) · [Put forward](#put-forward) · [Put off](#put-off) · [Put on](#put-on) · [Put one's finger on the pulse of](#put-ones-finger-on-the-pulse-of) · [Put One’s Business in the Street](#put-ones-business-in-the-street) · [Put one’s money where one’s mouth is](#put-ones-money-where-ones-mouth-is) · [Put out/off](#put-outoff) · [Put through](#put-through) · [Put two and two together](#put-two-and-two-together) · [Put Up](#put-up) · [Put up a fight](#put-up-a-fight) · [Put up with](#put-up-with) · [Put up with slackness](#put-up-with-slackness)
 
 **Q**
 
@@ -78,27 +78,27 @@
 
 **R**
 
-[R & R](#r--r) · [Rake up](#rake-up) · [Ram](#ram) · [Ramp up](#ramp-up) · [Rancher](#rancher) · [Rapid Fire](#rapid-fire) · [Raspiness](#raspiness) · [Rat race](#rat-race) · [Ratchet up](#ratchet-up) · [Reach out](#reach-out) · [Reach out](#reach-out-1) · [Read out](#read-out) · [Really coming along](#really-coming-along) · [Reckless](#reckless) · [Recompense](#recompense) · [Reconcile](#reconcile) · [Rectify](#rectify) · [Recuperating](#recuperating) · [regard](#regard) · [Relish](#relish) · [Remark](#remark) · [Reminisce](#reminisce) · [Reminiscent smile](#reminiscent-smile) · [Remnants](#remnants) · [Resonate With](#resonate-with) · [Rest assured](#rest-assured) · [Restless](#restless) · [Retorted](#retorted) · [Revelling](#revelling) · [Righteousness](#righteousness) · [Righteousness](#righteousness-1) · [Rip apart](#rip-apart) · [Road Rage](#road-rage) · [Roll off](#roll-off) · [Roll up one’s sleeves](#roll-up-ones-sleeves) · [Roller coaster](#roller-coaster) · [rough it](#rough-it) · [Rubbed me the wrong way](#rubbed-me-the-wrong-way) · [Rule of Thumb](#rule-of-thumb) · [Rule out](#rule-out) · [Run After](#run-after) · [Run Away/off](#run-awayoff) · [Run Down](#run-down) · [Run into](#run-into) · [Run into](#run-into-1) · [Run into Rough weather](#run-into-rough-weather) · [Run out (of time)](#run-out-of-time) · [Run out (of)](#run-out-of) · [Run Out For](#run-out-for) · [Run out of](#run-out-of-1) · [Run Over](#run-over) · [Run past](#run-past) · [Run past someone](#run-past-someone) · [Run with something](#run-with-something) · [RV](#rv)
+[R & R](#r--r) · [Rake up](#rake-up) · [Ram](#ram) · [Ramp up](#ramp-up) · [Rancher](#rancher) · [Rapid Fire](#rapid-fire) · [Raspiness](#raspiness) · [Rat race](#rat-race) · [Ratchet up](#ratchet-up) · [Reach out](#reach-out) · [Read out](#read-out) · [Really coming along](#really-coming-along) · [Reckless](#reckless) · [Recompense](#recompense) · [Reconcile](#reconcile) · [Rectify](#rectify) · [Recuperating](#recuperating) · [regard](#regard) · [Relish](#relish) · [Remark](#remark) · [Reminisce](#reminisce) · [Reminiscent smile](#reminiscent-smile) · [Remnants](#remnants) · [Resonate With](#resonate-with) · [Rest assured](#rest-assured) · [Restless](#restless) · [Retorted](#retorted) · [Revelling](#revelling) · [Righteousness](#righteousness) · [Rip apart](#rip-apart) · [Road Rage](#road-rage) · [Roll off](#roll-off) · [Roll up one’s sleeves](#roll-up-ones-sleeves) · [Roller coaster](#roller-coaster) · [rough it](#rough-it) · [Rubbed me the wrong way](#rubbed-me-the-wrong-way) · [Rule of Thumb](#rule-of-thumb) · [Rule out](#rule-out) · [Run After](#run-after) · [Run Away/off](#run-awayoff) · [Run Down](#run-down) · [Run into](#run-into) · [Run into Rough weather](#run-into-rough-weather) · [Run out (of time)](#run-out-of-time) · [Run out (of)](#run-out-of) · [Run Out For](#run-out-for) · [Run out of](#run-out-of-1) · [Run Over](#run-over) · [Run past](#run-past) · [Run past someone](#run-past-someone) · [Run with something](#run-with-something) · [RV](#rv)
 
 **S**
 
-[Saber-rattling](#saber-rattling) · [Sagging](#sagging) · [Salad Dressing](#salad-dressing) · [Sandbox](#sandbox) · [Save up (for)](#save-up-for) · [Savor](#savor) · [Savor](#savor-1) · [Scam](#scam) · [Scamper](#scamper) · [Scapegoat](#scapegoat) · [Scoffed](#scoffed) · [Scooted](#scooted) · [Scope](#scope) · [Scoundrel](#scoundrel) · [Scrape by](#scrape-by) · [Scrape up](#scrape-up) · [Scratch your own itch](#scratch-your-own-itch) · [Scurry](#scurry) · [Seductive](#seductive) · [Self fulfilling prophecy](#self-fulfilling-prophecy) · [Self-conscious](#self-conscious) · [Self-Inflicted Wound](#self-inflicted-wound) · [Self-supplied](#self-supplied) · [Sell me out](#sell-me-out) · [Sell out](#sell-out) · [Sell out](#sell-out-1) · [Serenity Prayer](#serenity-prayer) · [Serenity Prayer](#serenity-prayer-1) · [Set Aside](#set-aside) · [Set Aside](#set-aside-1) · [Set it and forget it](#set-it-and-forget-it) · [Set off](#set-off) · [Set out](#set-out) · [Set up](#set-up) · [Set up](#set-up-1) · [Settle for](#settle-for) · [Settle in](#settle-in) · [Shackles are off](#shackles-are-off) · [Shadowing](#shadowing) · [Shake up](#shake-up) · [Shameless](#shameless) · [Shard of Glass](#shard-of-glass) · [Sharpen One’s Ears](#sharpen-ones-ears) · [Sharpen One’s Ears](#sharpen-ones-ears-1) · [Shelved](#shelved) · [Shimmering](#shimmering) · [Shimmering](#shimmering-1) · [Shimmied](#shimmied) · [Shimmied out](#shimmied-out) · [Shit](#shit) · [Shoot](#shoot) · [Shoot me now](#shoot-me-now) · [Shop around](#shop-around) · [Show Off](#show-off) · [Show Off](#show-off-1) · [Show up](#show-up) · [Shrieked indignantly](#shrieked-indignantly) · [shrink](#shrink) · [Shut down](#shut-down) · [Shut the hell up](#shut-the-hell-up) · [Shut up](#shut-up) · [Sick](#sick) · [Sign language](#sign-language) · [Sign up](#sign-up) · [Silly](#silly) · [Silly](#silly-1) · [silver lining](#silver-lining) · [Simmered](#simmered) · [Simple Technical Example](#simple-technical-example) · [Siphoning of funds](#siphoning-of-funds) · [Sit in](#sit-in) · [Sit Tight](#sit-tight) · [Sitcom](#sitcom) · [Size out](#size-out) · [Sizzle out](#sizzle-out) · [Skirted past](#skirted-past) · [Sleazy](#sleazy) · [Slip in](#slip-in) · [Slipped off](#slipped-off) · [Slumber](#slumber) · [Slumped down](#slumped-down) · [Slumped Over](#slumped-over) · [Slumped Over](#slumped-over-1) · [Small English Improvement](#small-english-improvement) · [Smashing](#smashing) · [Sneak out](#sneak-out) · [Sneak up on](#sneak-up-on) · [Sneaking around](#sneaking-around) · [Sniggering](#sniggering) · [Snowball Effect](#snowball-effect) · [Snowball Effect](#snowball-effect-1) · [Snuggle up](#snuggle-up) · [Snuggled closer](#snuggled-closer) · [So be it](#so-be-it) · [Soak up some sun](#soak-up-some-sun) · [Soar](#soar) · [Something or other](#something-or-other) · [Something was clogging my throat](#something-was-clogging-my-throat) · [Sore](#sore) · [Sorrow](#sorrow) · [Sorrow](#sorrow-1) · [Sort of](#sort-of) · [Sort out](#sort-out) · [Sound like a broken record](#sound-like-a-broken-record) · [Space out](#space-out) · [Space out](#space-out-1) · [Spark of](#spark-of) · [Speak up](#speak-up) · [Speak volumes](#speak-volumes) · [spearhead](#spearhead) · [Sped down](#sped-down) · [Speed up](#speed-up) · [Spice](#spice) · [Spillover](#spillover) · [Spiral down](#spiral-down) · [Spit in someone’s face](#spit-in-someones-face) · [splurge](#splurge) · [Spluttering](#spluttering) · [Sponge up](#sponge-up) · [Spooning](#spooning) · [Spot](#spot) · [Spot on](#spot-on) · [Spot On](#spot-on-1) · [Sprinkle them in](#sprinkle-them-in) · [Squatted](#squatted) · [Squawk](#squawk) · [Squeaking](#squeaking) · [Squelchy](#squelchy) · [Squinted](#squinted) · [Squirmed](#squirmed) · [Stalk](#stalk) · [Stalk](#stalk-1) · [Stand out](#stand-out) · [Start off (start (something) off)](#start-off-start-something-off) · [stay ahead of the curve](#stay-ahead-of-the-curve) · [staycation](#staycation) · [steeper/steep learning curve](#steepersteep-learning-curve) · [stems from](#stems-from) · [Stench](#stench) · [Step down](#step-down) · [Stern](#stern) · [Stick](#stick) · [Sticking point](#sticking-point) · [Stiffened](#stiffened) · [Stifle](#stifle) · [Stifling](#stifling) · [Sting](#sting) · [Stinky response](#stinky-response) · [Stockholder](#stockholder) · [stop short of](#stop-short-of) · [stop short of doing](#stop-short-of-doing) · [Straw](#straw) · [Stress Out](#stress-out) · [Strew across](#strew-across) · [Strewn || strew || strewed || strewn / strewed](#strewn--strew--strewed--strewn--strewed) · [Strike a chord](#strike-a-chord) · [Strike up a conversation](#strike-up-a-conversation) · [Strip](#strip) · [Strip](#strip-1) · [Strive](#strive) · [Struggle](#struggle) · [Struggle](#struggle-1) · [Stumble across](#stumble-across) · [Stumble into](#stumble-into) · [Stumble upon](#stumble-upon) · [Stumble upon](#stumble-upon-1) · [Subtle](#subtle) · [Sugar Rush](#sugar-rush) · [Sum up](#sum-up) · [Superficial](#superficial) · [Supplier](#supplier) · [Supply](#supply) · [Surgical](#surgical) · [Suspend](#suspend) · [Swarm](#swarm) · [Swatted](#swatted) · [Swing](#swing) · [Synergy](#synergy) · [Synonymous With](#synonymous-with) · [Synonymous With](#synonymous-with-1)
+[Saber-rattling](#saber-rattling) · [Sagging](#sagging) · [Salad Dressing](#salad-dressing) · [Sandbox](#sandbox) · [Save up (for)](#save-up-for) · [Savor](#savor) · [Scam](#scam) · [Scamper](#scamper) · [Scapegoat](#scapegoat) · [Scoffed](#scoffed) · [Scooted](#scooted) · [Scope](#scope) · [Scoundrel](#scoundrel) · [Scrape by](#scrape-by) · [Scrape up](#scrape-up) · [Scratch your own itch](#scratch-your-own-itch) · [Scurry](#scurry) · [Seductive](#seductive) · [Self fulfilling prophecy](#self-fulfilling-prophecy) · [Self-conscious](#self-conscious) · [Self-Inflicted Wound](#self-inflicted-wound) · [Self-supplied](#self-supplied) · [Sell me out](#sell-me-out) · [Sell out](#sell-out) · [Serenity Prayer](#serenity-prayer) · [Set Aside](#set-aside) · [Set it and forget it](#set-it-and-forget-it) · [Set off](#set-off) · [Set out](#set-out) · [Set up](#set-up) · [Settle for](#settle-for) · [Settle in](#settle-in) · [Shackles are off](#shackles-are-off) · [Shadowing](#shadowing) · [Shake up](#shake-up) · [Shameless](#shameless) · [Shard of Glass](#shard-of-glass) · [Sharpen One’s Ears](#sharpen-ones-ears) · [Shelved](#shelved) · [Shimmering](#shimmering) · [Shimmied](#shimmied) · [Shimmied out](#shimmied-out) · [Shit](#shit) · [Shoot](#shoot) · [Shoot me now](#shoot-me-now) · [Shop around](#shop-around) · [Show Off](#show-off) · [Show up](#show-up) · [Shrieked indignantly](#shrieked-indignantly) · [shrink](#shrink) · [Shut down](#shut-down) · [Shut the hell up](#shut-the-hell-up) · [Shut up](#shut-up) · [Sick](#sick) · [Sign language](#sign-language) · [Sign up](#sign-up) · [Silly](#silly) · [silver lining](#silver-lining) · [Simmered](#simmered) · [Simple Technical Example](#simple-technical-example) · [Siphoning of funds](#siphoning-of-funds) · [Sit in](#sit-in) · [Sit Tight](#sit-tight) · [Sitcom](#sitcom) · [Size out](#size-out) · [Sizzle out](#sizzle-out) · [Skirted past](#skirted-past) · [Sleazy](#sleazy) · [Slip in](#slip-in) · [Slipped off](#slipped-off) · [Slumber](#slumber) · [Slumped down](#slumped-down) · [Slumped Over](#slumped-over) · [Small English Improvement](#small-english-improvement) · [Smashing](#smashing) · [Sneak out](#sneak-out) · [Sneak up on](#sneak-up-on) · [Sneaking around](#sneaking-around) · [Sniggering](#sniggering) · [Snowball Effect](#snowball-effect) · [Snuggle up](#snuggle-up) · [Snuggled closer](#snuggled-closer) · [So be it](#so-be-it) · [Soak up some sun](#soak-up-some-sun) · [Soar](#soar) · [Something or other](#something-or-other) · [Something was clogging my throat](#something-was-clogging-my-throat) · [Sore](#sore) · [Sorrow](#sorrow) · [Sort of](#sort-of) · [Sort out](#sort-out) · [Sound like a broken record](#sound-like-a-broken-record) · [Space out](#space-out) · [Spark of](#spark-of) · [Speak up](#speak-up) · [Speak volumes](#speak-volumes) · [spearhead](#spearhead) · [Sped down](#sped-down) · [Speed up](#speed-up) · [Spice](#spice) · [Spillover](#spillover) · [Spiral down](#spiral-down) · [Spit in someone’s face](#spit-in-someones-face) · [splurge](#splurge) · [Spluttering](#spluttering) · [Sponge up](#sponge-up) · [Spooning](#spooning) · [Spot](#spot) · [Spot on](#spot-on) · [Sprinkle them in](#sprinkle-them-in) · [Squatted](#squatted) · [Squawk](#squawk) · [Squeaking](#squeaking) · [Squelchy](#squelchy) · [Squinted](#squinted) · [Squirmed](#squirmed) · [Stalk](#stalk) · [Stand out](#stand-out) · [Start off (start (something) off)](#start-off-start-something-off) · [stay ahead of the curve](#stay-ahead-of-the-curve) · [staycation](#staycation) · [steeper/steep learning curve](#steepersteep-learning-curve) · [stems from](#stems-from) · [Stench](#stench) · [Step down](#step-down) · [Stern](#stern) · [Stick](#stick) · [Sticking point](#sticking-point) · [Stiffened](#stiffened) · [Stifle](#stifle) · [Stifling](#stifling) · [Sting](#sting) · [Stinky response](#stinky-response) · [Stockholder](#stockholder) · [stop short of](#stop-short-of) · [stop short of doing](#stop-short-of-doing) · [Straw](#straw) · [Stress Out](#stress-out) · [Strew across](#strew-across) · [Strewn || strew || strewed || strewn / strewed](#strewn--strew--strewed--strewn--strewed) · [Strike a chord](#strike-a-chord) · [Strike up a conversation](#strike-up-a-conversation) · [Strip](#strip) · [Strive](#strive) · [Struggle](#struggle) · [Stumble across](#stumble-across) · [Stumble into](#stumble-into) · [Stumble upon](#stumble-upon) · [Subtle](#subtle) · [Sugar Rush](#sugar-rush) · [Sum up](#sum-up) · [Superficial](#superficial) · [Supplier](#supplier) · [Supply](#supply) · [Surgical](#surgical) · [Suspend](#suspend) · [Swarm](#swarm) · [Swatted](#swatted) · [Swing](#swing) · [Synergy](#synergy) · [Synonymous With](#synonymous-with)
 
 **T**
 
-[Table](#table) · [taint](#taint) · [Take a step back](#take-a-step-back) · [Take away](#take-away) · [Take care of](#take-care-of) · [Take hold of](#take-hold-of) · [Take It Slow](#take-it-slow) · [Take note of something](#take-note-of-something) · [Take off](#take-off) · [Take off](#take-off-1) · [Take on](#take-on) · [Take out to dinner](#take-out-to-dinner) · [Take over](#take-over) · [Take over](#take-over-1) · [Take Over](#take-over-2) · [Take over](#take-over-3) · [Take someone down](#take-someone-down) · [Take someone’s word for it](#take-someones-word-for-it) · [Take the Leap](#take-the-leap) · [Take up](#take-up) · [Take up](#take-up-1) · [Take your mind off](#take-your-mind-off) · [Talk in circles](#talk-in-circles) · [Talk to vs Talk with](#talk-to-vs-talk-with) · [Tap into](#tap-into) · [Tap into](#tap-into-1) · [Taper](#taper) · [Tapped Out / Tap Out](#tapped-out--tap-out) · [Taxing](#taxing) · [Team up](#team-up) · [Tease](#tease) · [Tech-savvy](#tech-savvy) · [Tempest [Noun]](#tempest-noun) · [Terrain](#terrain) · [Test the waters](#test-the-waters) · [That was a stall](#that-was-a-stall) · [The hours dragged on](#the-hours-dragged-on) · [The limelight](#the-limelight) · [The real deal](#the-real-deal) · [There is no finish line](#there-is-no-finish-line) · [Thick-skinned](#thick-skinned) · [Think for oneself](#think-for-oneself) · [Think of](#think-of) · [Think outside of box](#think-outside-of-box) · [This is my call](#this-is-my-call) · [This just in](#this-just-in) · [Threat](#threat) · [Thrift shop](#thrift-shop) · [Thrilled](#thrilled) · [Throw In](#throw-in) · [Throw someone off](#throw-someone-off) · [thrust upon us](#thrust-upon-us) · [Tickle One’s Curiosity](#tickle-ones-curiosity) · [Tickle One’s Curiosity](#tickle-ones-curiosity-1) · [Ties back](#ties-back) · [Time to turn the page](#time-to-turn-the-page) · [Timeless](#timeless) · [Tip of the Iceberg](#tip-of-the-iceberg) · [to a certain extent](#to-a-certain-extent) · [To anchor this idea](#to-anchor-this-idea) · [To each their own](#to-each-their-own) · [To go out with someone](#to-go-out-with-someone) · [To make time for something (by adjusting other activities)](#to-make-time-for-something-by-adjusting-other-activities) · [To put away](#to-put-away) · [To vent at someone](#to-vent-at-someone) · [Toned-down](#toned-down) · [Topping](#topping) · [totes inappropes](#totes-inappropes) · [Touch base](#touch-base) · [Touch point](#touch-point) · [Touch upon](#touch-upon) · [tourist trap](#tourist-trap) · [Tousle vs Unkempt](#tousle-vs-unkempt) · [Tousled || Tousle](#tousled--tousle) · [Trade-off](#trade-off) · [Trailblazer](#trailblazer) · [Trailed off](#trailed-off) · [Traipsing out](#traipsing-out) · [Trample (on/over) somebody/something](#trample-onover-somebodysomething) · [Trudged / trudge](#trudged--trudge) · [Truth hurts](#truth-hurts) · [tumble down](#tumble-down) · [Turgid](#turgid) · [Turn Around](#turn-around) · [Turn Down](#turn-down) · [Turn On](#turn-on) · [Turn one’s back](#turn-ones-back) · [Turn Out](#turn-out) · [Turn Over](#turn-over) · [Turn the Tide (in Battlefield)](#turn-the-tide-in-battlefield) · [Turn Upside Down](#turn-upside-down) · [Turned on me](#turned-on-me) · [Tush](#tush) · [Twig](#twig) · [Twist](#twist) · [Twist](#twist-1) · [Two slides of the same coin](#two-slides-of-the-same-coin)
+[Table](#table) · [taint](#taint) · [Take a step back](#take-a-step-back) · [Take away](#take-away) · [Take care of](#take-care-of) · [Take hold of](#take-hold-of) · [Take It Slow](#take-it-slow) · [Take note of something](#take-note-of-something) · [Take off](#take-off) · [Take on](#take-on) · [Take out to dinner](#take-out-to-dinner) · [Take over](#take-over) · [Take someone down](#take-someone-down) · [Take someone’s word for it](#take-someones-word-for-it) · [Take the Leap](#take-the-leap) · [Take up](#take-up) · [Take your mind off](#take-your-mind-off) · [Talk in circles](#talk-in-circles) · [Talk to vs Talk with](#talk-to-vs-talk-with) · [Tap into](#tap-into) · [Taper](#taper) · [Tapped Out / Tap Out](#tapped-out--tap-out) · [Taxing](#taxing) · [Team up](#team-up) · [Tease](#tease) · [Tech-savvy](#tech-savvy) · [Tempest [Noun]](#tempest-noun) · [Terrain](#terrain) · [Test the waters](#test-the-waters) · [That was a stall](#that-was-a-stall) · [The hours dragged on](#the-hours-dragged-on) · [The limelight](#the-limelight) · [The real deal](#the-real-deal) · [There is no finish line](#there-is-no-finish-line) · [Thick-skinned](#thick-skinned) · [Think for oneself](#think-for-oneself) · [Think of](#think-of) · [Think outside of box](#think-outside-of-box) · [This is my call](#this-is-my-call) · [This just in](#this-just-in) · [Threat](#threat) · [Thrift shop](#thrift-shop) · [Thrilled](#thrilled) · [Throw In](#throw-in) · [Throw someone off](#throw-someone-off) · [thrust upon us](#thrust-upon-us) · [Tickle One’s Curiosity](#tickle-ones-curiosity) · [Ties back](#ties-back) · [Time to turn the page](#time-to-turn-the-page) · [Timeless](#timeless) · [Tip of the Iceberg](#tip-of-the-iceberg) · [to a certain extent](#to-a-certain-extent) · [To anchor this idea](#to-anchor-this-idea) · [To each their own](#to-each-their-own) · [To go out with someone](#to-go-out-with-someone) · [To make time for something (by adjusting other activities)](#to-make-time-for-something-by-adjusting-other-activities) · [To put away](#to-put-away) · [To vent at someone](#to-vent-at-someone) · [Toned-down](#toned-down) · [Topping](#topping) · [totes inappropes](#totes-inappropes) · [Touch base](#touch-base) · [Touch point](#touch-point) · [Touch upon](#touch-upon) · [tourist trap](#tourist-trap) · [Tousle vs Unkempt](#tousle-vs-unkempt) · [Tousled || Tousle](#tousled--tousle) · [Trade-off](#trade-off) · [Trailblazer](#trailblazer) · [Trailed off](#trailed-off) · [Traipsing out](#traipsing-out) · [Trample (on/over) somebody/something](#trample-onover-somebodysomething) · [Trudged / trudge](#trudged--trudge) · [Truth hurts](#truth-hurts) · [tumble down](#tumble-down) · [Turgid](#turgid) · [Turn Around](#turn-around) · [Turn Down](#turn-down) · [Turn On](#turn-on) · [Turn one’s back](#turn-ones-back) · [Turn Out](#turn-out) · [Turn Over](#turn-over) · [Turn the Tide (in Battlefield)](#turn-the-tide-in-battlefield) · [Turn Upside Down](#turn-upside-down) · [Turned on me](#turned-on-me) · [Tush](#tush) · [Twig](#twig) · [Twist](#twist) · [Two slides of the same coin](#two-slides-of-the-same-coin)
 
 **U**
 
-[Ubiquitous](#ubiquitous) · [Ulterior motive](#ulterior-motive) · [Uncanny](#uncanny) · [Under advisement](#under-advisement) · [Under the hood](#under-the-hood) · [Undoubtedly](#undoubtedly) · [Undue pressure](#undue-pressure) · [Unfazed](#unfazed) · [Unfold](#unfold) · [Unique selling point](#unique-selling-point) · [Unkempt](#unkempt) · [Unload](#unload) · [Unobstructed](#unobstructed) · [unrealistic](#unrealistic) · [Unsubstantiated](#unsubstantiated) · [Until afterwards](#until-afterwards) · [Unwind](#unwind) · [Unwind](#unwind-1) · [up to date](#up-to-date) · [Up until this point / Up until now](#up-until-this-point--up-until-now) · [upmarket](#upmarket)
+[Ubiquitous](#ubiquitous) · [Ulterior motive](#ulterior-motive) · [Uncanny](#uncanny) · [Under advisement](#under-advisement) · [Under the hood](#under-the-hood) · [Undoubtedly](#undoubtedly) · [Undue pressure](#undue-pressure) · [Unfazed](#unfazed) · [Unfold](#unfold) · [Unique selling point](#unique-selling-point) · [Unkempt](#unkempt) · [Unload](#unload) · [Unobstructed](#unobstructed) · [unrealistic](#unrealistic) · [Unsubstantiated](#unsubstantiated) · [Until afterwards](#until-afterwards) · [Unwind](#unwind) · [up to date](#up-to-date) · [Up until this point / Up until now](#up-until-this-point--up-until-now) · [upmarket](#upmarket)
 
 **V**
 
-[vacationer](#vacationer) · [Vague](#vague) · [Vague](#vague-1) · [Vastness](#vastness) · [Velcro](#velcro) · [Venerable](#venerable) · [Vengeance](#vengeance) · [Venison](#venison) · [Venture](#venture) · [Villain](#villain) · [Villain](#villain-1) · [Virtue](#virtue) · [Voyage](#voyage)
+[vacationer](#vacationer) · [Vague](#vague) · [Vastness](#vastness) · [Velcro](#velcro) · [Venerable](#venerable) · [Vengeance](#vengeance) · [Venison](#venison) · [Venture](#venture) · [Villain](#villain) · [Virtue](#virtue) · [Voyage](#voyage)
 
 **W**
 
-[Waded into](#waded-into) · [Wait out](#wait-out) · [Walk and talk](#walk-and-talk) · [Walk around](#walk-around) · [Walk away](#walk-away) · [Walk through](#walk-through) · [Walked past me](#walked-past-me) · [was not the thing yet](#was-not-the-thing-yet) · [wash up](#wash-up) · [Watered down](#watered-down) · [way out](#way-out) · [Weathering](#weathering) · [Weigh In](#weigh-in) · [weigh on](#weigh-on) · [Wet Work](#wet-work) · [What are you so bouncy about ?](#what-are-you-so-bouncy-about-) · [What’re you up to](#whatre-you-up-to) · [Where rubber meets the road](#where-rubber-meets-the-road) · [whether](#whether) · [Whether This Is the End of the Road](#whether-this-is-the-end-of-the-road) · [whip up](#whip-up) · [Who to turn to](#who-to-turn-to) · [Wholeheartedly](#wholeheartedly) · [Wild west](#wild-west) · [Wilderness](#wilderness) · [Willful](#willful) · [Willingness](#willingness) · [Wind up](#wind-up) · [With the end in mind](#with-the-end-in-mind) · [Withdraw from](#withdraw-from) · [Without fail](#without-fail) · [Witness](#witness) · [Work on](#work-on) · [Work Oneself to the Bone](#work-oneself-to-the-bone) · [Work out](#work-out) · [Work out](#work-out-1) · [Work up](#work-up) · [Wound](#wound) · [Wrangle](#wrangle) · [Wrap Up](#wrap-up) · [Wrap Up](#wrap-up-1) · [Write off](#write-off) · [Write Off / written off](#write-off--written-off) · [Wrong someone](#wrong-someone)
+[Waded into](#waded-into) · [Wait out](#wait-out) · [Walk and talk](#walk-and-talk) · [Walk around](#walk-around) · [Walk away](#walk-away) · [Walk through](#walk-through) · [Walked past me](#walked-past-me) · [was not the thing yet](#was-not-the-thing-yet) · [wash up](#wash-up) · [Watered down](#watered-down) · [way out](#way-out) · [Weathering](#weathering) · [Weigh In](#weigh-in) · [weigh on](#weigh-on) · [Wet Work](#wet-work) · [What are you so bouncy about ?](#what-are-you-so-bouncy-about-) · [What’re you up to](#whatre-you-up-to) · [Where rubber meets the road](#where-rubber-meets-the-road) · [whether](#whether) · [Whether This Is the End of the Road](#whether-this-is-the-end-of-the-road) · [whip up](#whip-up) · [Who to turn to](#who-to-turn-to) · [Wholeheartedly](#wholeheartedly) · [Wild west](#wild-west) · [Wilderness](#wilderness) · [Willful](#willful) · [Willingness](#willingness) · [Wind up](#wind-up) · [With the end in mind](#with-the-end-in-mind) · [Withdraw from](#withdraw-from) · [Without fail](#without-fail) · [Witness](#witness) · [Work on](#work-on) · [Work Oneself to the Bone](#work-oneself-to-the-bone) · [Work out](#work-out) · [Work up](#work-up) · [Wound](#wound) · [Wrangle](#wrangle) · [Wrap Up](#wrap-up) · [Write off](#write-off) · [Write Off / written off](#write-off--written-off) · [Wrong someone](#wrong-someone)
 
 **Y**
 
@@ -143,8 +143,6 @@ Example:
 
 Something is physically connected and dangling or extending outward.
 
----
-
 [↑ Back to index](#index)
 
 # 11. Reflect on
@@ -171,8 +169,6 @@ you pause, look back, and try to understand:
 it happened
 
 How you felt
-
-What you learned
 
 What you might do differently next time
 
@@ -250,21 +246,15 @@ Complete this sentence verbally:
 
 Say it 2–3 times with different endings.
 
----
-
 ### **12\. Armed robbery**
 
 A robbery using weapons.  
  👉 *“He was arrested for armed robbery.”*
 
----
-
 ### **13\. From the get-go**
 
 From the very beginning.  
  👉 *“We knew from the get-go this project would be tough.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -285,16 +275,12 @@ In architecture conversations, “hangs off” often means:
 * branching from  
 * dependent on
 
----
-
 [↑ Back to index](#index)
 
 # 22. Tale as old as time
 
 Something very common or repeated in history.  
  👉 *“Jealousy between siblings is a tale as old as time.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -303,16 +289,12 @@ Something very common or repeated in history.
 Go back, like to a previous time or thought.  
  👉 *“Let’s rewind to what we discussed earlier.”*
 
----
-
 [↑ Back to index](#index)
 
 # 24. All over the place
 
 Disorganized or scattered.  
  👉 *“My thoughts were all over the place.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -321,16 +303,12 @@ Disorganized or scattered.
 Animal that gives birth and feeds milk (like humans, dogs).  
  👉 *“A dolphin is actually a mammal.”*
 
----
-
 [↑ Back to index](#index)
 
 # 26. Practice what you preach
 
 Do what you tell others to do.  
  👉 *“He tells everyone to be punctual but never practices what he preaches.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -339,8 +317,6 @@ Do what you tell others to do.
 Much more than necessary.  
  👉 *“It’s way too cold today\!”*
 
----
-
 [↑ Back to index](#index)
 
 # 28. Pull oneself up by one’s bootstraps
@@ -348,16 +324,12 @@ Much more than necessary.
 Improve one’s life through hard work.  
  👉 *“He pulled himself up by his bootstraps after losing everything.”*
 
----
-
 [↑ Back to index](#index)
 
 # 29. Turning point
 
 A major change in situation or direction.  
  👉 *“That job was the turning point in my career.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -368,8 +340,6 @@ Example:
 * *The kids were hanging off their father.*  
    → The kids were clinging to him playfully.
 
----
-
 [↑ Back to index](#index)
 
 # A bit off
@@ -379,8 +349,6 @@ Example:
 🗣 *“He’s acting a bit off today.”*  
  🗣 *“That milk smells a bit off.”*
 
----
-
 [↑ Back to index](#index)
 
 # A Blast from the Past
@@ -388,21 +356,10 @@ Example:
 **Meaning:** Something that brings back old memories.  
 **Example:** *That song is a real blast from the past\!*
 
----
-
 [↑ Back to index](#index)
 
 # A household staple
 
-[↑ Back to index](#index)
-
-# a new lease of life
-
-phrase
-
-a dramatically improved prospect of life or to become successful or popular again
-
-Since recovering from surgery, Jan feels he has a new lease of life.
 
 [↑ Back to index](#index)
 
@@ -438,8 +395,6 @@ We must abide by the company policy.
 
 👉 *Common in business and professional talk.*
 
----
-
 [↑ Back to index](#index)
 
 # Accord
@@ -452,19 +407,11 @@ We must abide by the company policy.
 * *“They signed an accord to end the conflict.”*  
    🟢 Formal — often used in law, politics, or official speech.
 
----
-
-[↑ Back to index](#index)
-
-# Accord
-
 **Meaning:** Agreement or harmony.  
  **Figurative meaning:** A sense of balance or alignment.
 
 🗣 *“They acted in perfect accord.”*  
  🗣 *“The countries signed an accord on trade.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -487,8 +434,6 @@ he accounted himself the unluckiest man alive
 🗣 *“We need accountability in leadership.”*  
  🗣 *“Having a workout buddy increases accountability.”*
 
----
-
 [↑ Back to index](#index)
 
 # Acquire
@@ -498,16 +443,12 @@ he accounted himself the unluckiest man alive
 🗣 *“He acquired a taste for classical music.”*  
  🗣 *“The company acquired a smaller competitor.”*
 
----
-
 [↑ Back to index](#index)
 
 # Act upon
 
 To follow  
 Ram always acts upon my advice.
-
----
 
 [↑ Back to index](#index)
 
@@ -532,14 +473,6 @@ specific task to be completed, especially following a meeting
 
 # Afoot
 
-[↑ Back to index](#index)
-
-# After Ego (Alter Ego)
-
-**Meaning:** A second self or another side of one’s personality.  
- **Example:** *Superman’s alter ego is Clark Kent.*
-
----
 
 [↑ Back to index](#index)
 
@@ -547,8 +480,6 @@ specific task to be completed, especially following a meeting
 
 **Meaning:** A second self or another side of one’s personality.  
  **Example:** *Superman’s alter ego is Clark Kent.*
-
----
 
 [↑ Back to index](#index)
 
@@ -560,8 +491,6 @@ specific task to be completed, especially following a meeting
 🗣 *“He believed firmly in the afterlife.”*  
  🗣 *“Even after the company shut down, the product found an afterlife as open-source software.”*
 
----
-
 [↑ Back to index](#index)
 
 # Against the law
@@ -570,8 +499,6 @@ specific task to be completed, especially following a meeting
 
 🗣 *“It’s against the law to drink and drive.”*  
  🗣 *“Downloading pirated movies is against the law.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -592,8 +519,6 @@ Here, it means the solution follows what everyone previously decided.
 
 So, it usually refers to a **shared decision in the past**.
 
----
-
 ### **Common spoken sentences you can use 💬**
 
 Try speaking these aloud:
@@ -606,8 +531,6 @@ Try speaking these aloud:
 
 Notice connectors like **as agreed upon**, **that being said**, **earlier** — these make your speech sound natural and structured.
 
----
-
 ### **Where this phrase is especially useful (your technical context) 🧑‍💻**
 
 As an MLOps / Cloud Architect, you can use it in:
@@ -619,11 +542,7 @@ As an MLOps / Cloud Architect, you can use it in:
 * governance discussions  
 * SLA or compliance conversations
 
-Example:
-
 “For example, the deployment pipeline still follows the strategy agreed upon with the platform team.”
-
----
 
 ### **Similar alternatives (to sound more fluent)**
 
@@ -635,11 +554,7 @@ You can also say:
 * “as decided previously”  
 * “as per our agreement”
 
-Example:
-
 “As discussed earlier, we’ll move this workload to Databricks.”
-
----
 
 ### **Small grammar tip ✨**
 
@@ -665,8 +580,6 @@ Try repeating the example sentences aloud once or twice. This helps your brain s
 
 💡 *(Used in casual or motivational tone.)*
 
----
-
 [↑ Back to index](#index)
 
 # aim
@@ -683,6 +596,7 @@ we aim to give you the best possible service
 
 # Ain’t gonna fly
 
+
 [↑ Back to index](#index)
 
 # Albeit
@@ -695,25 +609,12 @@ we aim to give you the best possible service
 
 💡 *(Elegant, formal alternative to “though.”)*
 
----
-
 [↑ Back to index](#index)
 
 # Align
 
 **Meaning:** To match or agree with something.  
  **Example:** *Your goals should align with your values.*
-
----
-
-[↑ Back to index](#index)
-
-# Align
-
-**Meaning:** To match or agree with something.  
- **Example:** *Your goals should align with your values.*
-
----
 
 [↑ Back to index](#index)
 
@@ -851,8 +752,6 @@ The phrase **“all the way up”** usually means **completely, to the highest p
 
 It emphasizes **no halfway**—going fully to the top or maximum.
 
----
-
 ### **Useful spoken phrases with “all the way up”:**
 
 1. *“Turn the AC all the way up, it’s really hot in here.”*
@@ -883,21 +782,15 @@ Examples:
 
 Think of it as **"almost finished."**
 
----
-
 ### **2\. We're almost there.**
 
 Meaning: We are **very close to reaching the goal**, but not necessarily finished yet.
-
-Examples:
 
 * **The deployment is at 95%. We're almost there.**  
 * **Keep going\! We're almost there.**  
 * **The feature is almost ready. We're almost there.**
 
 Think of it as **"very close to the destination or goal."**
-
----
 
 ### **Comparison**
 
@@ -923,8 +816,6 @@ You could also say:
 * **"We're almost done."** → The most common everyday expression.  
 * **"We're in the final stretch."** → A bit more idiomatic and motivational.
 
----
-
 [↑ Back to index](#index)
 
 # Amp up
@@ -935,16 +826,12 @@ You could also say:
 🗣 *“Let’s amp up the music\!”*  
  🗣 *“Her motivational talk really amped up the team.”*
 
----
-
 [↑ Back to index](#index)
 
 # Amusement park
 
 Place with rides and fun attractions.  
  👉 *“We took the kids to the amusement park.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -956,8 +843,6 @@ Place with rides and fun attractions.
 🗣 *“The bay provided safe anchorage for the boats.”*  
  🗣 *“Her family is her emotional anchorage.”*
 
----
-
 [↑ Back to index](#index)
 
 # Antique
@@ -968,25 +853,12 @@ Place with rides and fun attractions.
 🗣 *“That antique clock still works perfectly.”*  
  🗣 *“He collects antique books.”*
 
----
-
 [↑ Back to index](#index)
 
 # Anxious
 
 **Meaning:** Nervous or worried.  
  **Example:** *I’m anxious about tomorrow’s interview.*
-
----
-
-[↑ Back to index](#index)
-
-# Anxious
-
-**Meaning:** Nervous or worried.  
- **Example:** *I’m anxious about tomorrow’s interview.*
-
----
 
 [↑ Back to index](#index)
 
@@ -1002,8 +874,6 @@ For example:
 
 It’s stronger than just saying *“any doubt”* because the word **“whatsoever”** adds extra emphasis.
 
----
-
 ### **Sentences you can practice:**
 
 1. *“I have no doubt whatsoever that our team can deliver on time.”*
@@ -1016,8 +886,6 @@ It’s stronger than just saying *“any doubt”* because the word **“whatsoe
 
 👉 Try speaking them aloud; it will help you get the natural flow.
 
----
-
 ✨ You can use this phrase in **professional settings** (meetings, presentations) when you want to **reassure confidence**, or in **casual talk** when you want to sound very certain about something.
 
 [↑ Back to index](#index)
@@ -1026,17 +894,6 @@ It’s stronger than just saying *“any doubt”* because the word **“whatsoe
 
 **Meaning:** A band worn around the arm for decoration or identification.  
  **Example:** *The players wore black armbands to honor him.*
-
----
-
-[↑ Back to index](#index)
-
-# Armband
-
-**Meaning:** A band worn around the arm for decoration or identification.  
- **Example:** *The players wore black armbands to honor him.*
-
----
 
 [↑ Back to index](#index)
 
@@ -1049,8 +906,6 @@ It’s stronger than just saying *“any doubt”* because the word **“whatsoe
 
 * *“He’s such an arse sometimes.”*  
    🟢 Informal, often humorous or teasing.
-
----
 
 [↑ Back to index](#index)
 
@@ -1067,16 +922,12 @@ in a particular person's opinion
 **Meaning:** From that person’s perspective.  
 **Example:** *As far as I’m concerned, the deal is done.*
 
----
-
 [↑ Back to index](#index)
 
 # As long as
 
 **“As long as”** is a common English phrase that means **“provided that”**, **“if”**, or **“for the duration that.”**  
  Its meaning depends on the context — it can refer to **a condition** or **a time period**.
-
----
 
 ### **💡 1\. When expressing a condition:**
 
@@ -1088,8 +939,6 @@ It means **“if”** or **“on the condition that.”**
 * *I’ll help you **as long as** you’re honest with me.*  
    → (I’ll help **provided that** you’re honest.)
 
----
-
 ### **💡 2\. When referring to time duration:**
 
 It means **“for the time that”** or **“while.”**
@@ -1099,8 +948,6 @@ It means **“for the time that”** or **“while.”**
 
 * *We’ll keep improving the system **as long as** we have the resources.*  
    → (We’ll continue **while** we have resources.)
-
----
 
 ### **🗣️ Common spoken sentences:**
 
@@ -1113,8 +960,6 @@ It means **“for the time that”** or **“while.”**
 * “We’ll continue the meeting **as long as** everyone’s fine with it.”
 
 * “I’ll support your plan **as long as** it aligns with our goals.”
-
----
 
 ### **🔗 Connecting phrases to use with it:**
 
@@ -1157,8 +1002,6 @@ Similar words you can use:
 
 * **supremacy** (stronger tone, often used in competitive or historical contexts)
 
----
-
 Useful phrases you can practice:
 
 1. “On the other hand, his experience gave him ascendancy over the younger team members.”
@@ -1180,8 +1023,6 @@ Useful phrases you can practice:
 🗣 *“Her aspiration is to start her own company.”*  
  🗣 *“We should encourage kids to have big aspirations.”*
 
----
-
 [↑ Back to index](#index)
 
 # Aspirational
@@ -1195,6 +1036,7 @@ Useful phrases you can practice:
 [↑ Back to index](#index)
 
 # Aspiring
+
 
 [↑ Back to index](#index)
 
@@ -1225,8 +1067,6 @@ The phrase is actually **“at the back of one’s mind”** (not “head”).
 
 It’s like a thought or concern that lingers quietly in your mind.
 
----
-
 ### **Examples**
 
 1. *“I tried to enjoy the party, but at the back of my mind I kept worrying about tomorrow’s exam.”*
@@ -1234,8 +1074,6 @@ It’s like a thought or concern that lingers quietly in your mind.
 2. *“Even while she was traveling, the idea of starting her own business was always at the back of her mind.”*
 
 3. *“I wasn’t consciously thinking about the problem, but at the back of my mind, I knew the answer would come to me.”*
-
----
 
 🔹 **“Back of one’s head”** is not a standard idiom — it usually just refers to the physical part of the head.  
  But **“back of one’s mind”** is the common expression people use for thoughts/concerns lingering quietly.
@@ -1249,16 +1087,12 @@ It’s like a thought or concern that lingers quietly in your mind.
 🗣 *“He finally attained his dream of becoming a pilot.”*  
  🗣 *“Attaining your dream takes patience and persistence.”*
 
----
-
 [↑ Back to index](#index)
 
 # Auspicious
 
 **Meaning:** Lucky or promising; showing signs of success.  
  **Example:** *It’s an auspicious day to start a new project.*
-
----
 
 [↑ Back to index](#index)
 
@@ -1270,16 +1104,12 @@ It’s like a thought or concern that lingers quietly in your mind.
 🗣 *“You don’t have the authority to make that call.”*  
  🗣 *“He’s an authority on data science.”*
 
----
-
 [↑ Back to index](#index)
 
 # Avid
 
 **Meaning:** Very enthusiastic or eager.  
  **Example:** *She’s an avid reader.*
-
----
 
 [↑ Back to index](#index)
 
@@ -1292,8 +1122,6 @@ It’s like a thought or concern that lingers quietly in your mind.
  🗣 *“He just babbled through his presentation — no structure at all.”*  
  🗣 *“I tend to babble when I get nervous.”*
 
----
-
 [↑ Back to index](#index)
 
 # Back in the day
@@ -1305,8 +1133,6 @@ It’s like a thought or concern that lingers quietly in your mind.
  🗣 *“Back in the day, movies felt more original.”*
 
 💡 *(Casual, often warm and nostalgic tone.)*
-
----
 
 [↑ Back to index](#index)
 
@@ -1329,8 +1155,6 @@ The phrase **“back over”** usually means *to reverse a vehicle over somethin
 * *He accidentally backed over a toy left in the driveway.*
 
 It can also be used in a figurative way, but most commonly it’s about vehicles moving backward.
-
----
 
 ✅ **Spoken examples you can practice:**
 
@@ -1355,8 +1179,6 @@ So:
 * *Back \= move in reverse.*
 
 * *Back over \= move in reverse **and drive over something.***
-
----
 
 ✅ **Spoken practice sentences:**
 
@@ -1383,8 +1205,6 @@ Meaning: To create a copy of data or provide support.
 * Example 1: Make sure to back up all your important files regularly.  
 * Example 2: The team backed up their presentation on a USB drive as a precaution.
 
----
-
 [↑ Back to index](#index)
 
 # Backdoor Bragging
@@ -1392,25 +1212,12 @@ Meaning: To create a copy of data or provide support.
 **Meaning:** Humblebragging—showing off indirectly.  
  **Example:** *He said, “I’m so tired of being promoted every year.” That’s classic backdoor bragging.*
 
----
-
 [↑ Back to index](#index)
 
 # Backstory
 
 **Meaning:** The background history of a character or event.  
  **Example:** *The villain’s backstory made the plot more interesting.*
-
----
-
-[↑ Back to index](#index)
-
-# Backstory
-
-**Meaning:** The background history of a character or event.  
- **Example:** *The villain’s backstory made the plot more interesting.*
-
----
 
 [↑ Back to index](#index)
 
@@ -1425,11 +1232,10 @@ Meaning: To create a copy of data or provide support.
 
 💡 *(Also used as a verb: “I’ll back you up” \= I’ll support you.)*
 
----
-
 [↑ Back to index](#index)
 
 # Badge of honor
+
 
 [↑ Back to index](#index)
 
@@ -1442,8 +1248,6 @@ Meaning: To create a copy of data or provide support.
 * It’s **slightly more informal** than *spot on* and more common in **British English**.
 
 * In American English, you might not hear “bang on” as often; people usually say *“right on”* or *“exactly right”*.
-
----
 
 ### **Usage in communication**
 
@@ -1462,8 +1266,6 @@ Meaning: To create a copy of data or provide support.
    * *“That guess was bang on\!”*  
       (→ the guess was exactly right.)
 
----
-
 ### **Common spoken sentences to practice**
 
 * “You’re bang on with that suggestion.”
@@ -1471,8 +1273,6 @@ Meaning: To create a copy of data or provide support.
 * “Her prediction was bang on, things happened exactly as she said.”
 
 * “Your assessment is bang on—we should follow it.”
-
----
 
 👉 **Spot on vs. Bang on**
 
@@ -1554,14 +1354,6 @@ Comes from hunting: dogs sometimes bark at the base of a tree where they think t
 
 # Baseball cap
 
-[↑ Back to index](#index)
-
-# Bat Your Eye at Someone
-
-**Meaning:** To flirt or seek attention subtly.  
- **Example:** *She just batted her eyes and got what she wanted.*
-
----
 
 [↑ Back to index](#index)
 
@@ -1569,8 +1361,6 @@ Comes from hunting: dogs sometimes bark at the base of a tree where they think t
 
 **Meaning:** To flirt or seek attention subtly.  
  **Example:** *She just batted her eyes and got what she wanted.*
-
----
 
 [↑ Back to index](#index)
 
@@ -1579,8 +1369,6 @@ Comes from hunting: dogs sometimes bark at the base of a tree where they think t
 **Meaning:** To hit something repeatedly until it breaks.  
  **Figurative:** To overcome resistance.  
  **Example:** *The police battered down the door.* / *She battered down every objection with strong arguments.*
-
----
 
 [↑ Back to index](#index)
 
@@ -1591,16 +1379,12 @@ Comes from hunting: dogs sometimes bark at the base of a tree where they think t
 🗣 *“She’s more concerned with quality than quantity.”*  
  🗣 *“I’m not concerned with appearances.”*
 
----
-
 [↑ Back to index](#index)
 
 # Be engraved in one’s mind
 
 To be unforgettable.  
  👉 *“That moment is engraved in my mind forever.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -1610,8 +1394,6 @@ To be unforgettable.
 
 🗣 *“He said he met the Prime Minister — he’s so full of it\!”*  
  🗣 *“Don’t believe him, he’s full of it half the time.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -1623,8 +1405,6 @@ To be unforgettable.
 🗣 *“Don’t be so hard on yourself.”*  
  🗣 *“The coach is hard on the players, but it pushes them to improve.”*
 
----
-
 [↑ Back to index](#index)
 
 # Be ingrained in someone
@@ -1633,8 +1413,6 @@ To be unforgettable.
 
 🗣 *“Respect for elders is ingrained in our upbringing.”*  
  🗣 *“Those fears are ingrained in him from childhood.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -1649,11 +1427,10 @@ To be unforgettable.
 
 💡 *(Casual, romantic, or emotional interest — often used informally.)*
 
----
-
 [↑ Back to index](#index)
 
 # Be into something
+
 
 [↑ Back to index](#index)
 
@@ -1663,8 +1440,6 @@ To be unforgettable.
 
 🗣 *“I’m itching to travel again.”*  
  🗣 *“He’s been itching to show his new project.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -1685,16 +1460,12 @@ Meaning:
 * Example 1: "The bright red dress was very noticeable in the crowd."  
 * Example 2: "Her enthusiasm was noticeable during the entire presentation."
 
----
-
 [↑ Back to index](#index)
 
 # Be off
 
 To leave, or something not right.  
  👉 *“I’m off to work.” / “Something feels off.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -1706,8 +1477,6 @@ To leave, or something not right.
 🗣 *“She’s always on the go — meetings, calls, gym, you name it.”*  
  🗣 *“I’ve been on the go all week. I need a day off.”*
 
----
-
 [↑ Back to index](#index)
 
 # Be on the lookout for
@@ -1718,8 +1487,6 @@ The phrase **“be on the lookout for”** means:
 
 It’s often used when you need to stay cautious, observant, or ready.
 
----
-
 ### **Examples**
 
 1. *“Be on the lookout for any suspicious activity in the neighborhood.”*
@@ -1727,8 +1494,6 @@ It’s often used when you need to stay cautious, observant, or ready.
 2. *“I’m on the lookout for a good deal on a used laptop.”*
 
 3. *“While hiking, be on the lookout for snakes along the trail.”*
-
----
 
 🔹 **Synonyms / Similar phrases:**
 
@@ -1747,25 +1512,12 @@ It’s often used when you need to stay cautious, observant, or ready.
 **Meaning:** To be something someone likes or is into.  
  **Example:** *Yoga isn’t really my thing.*
 
----
-
-[↑ Back to index](#index)
-
-# Be One’s Thing
-
-**Meaning:** To be something someone likes or is into.  
- **Example:** *Yoga isn’t really my thing.*
-
----
-
 [↑ Back to index](#index)
 
 # Be Prone To
 
 **Meaning:** Likely to suffer from or do something.  
  **Example:** *He’s prone to catching colds.*
-
----
 
 [↑ Back to index](#index)
 
@@ -1776,8 +1528,6 @@ It’s often used when you need to stay cautious, observant, or ready.
 🗣 *“When I heard the news, I was shook.”*  
  🗣 *“That performance had everyone shook.”*
 
----
-
 [↑ Back to index](#index)
 
 # Be someone’s type
@@ -1787,8 +1537,6 @@ It’s often used when you need to stay cautious, observant, or ready.
 🗣 *“You’re totally her type — tall and quiet.”*  
  🗣 *“I’m not really his type; he likes extroverts.”*
 
----
-
 [↑ Back to index](#index)
 
 # Be stuck in a rut
@@ -1797,8 +1545,6 @@ The phrase **“stuck in a rut”** means being **trapped in a dull, repetitive,
 
 💡 **Simple explanation:**  
  Imagine a wheel stuck in a groove (a “rut”) in the road — it keeps turning but doesn’t move forward. Similarly, when you’re “stuck in a rut,” you might be doing the same things every day without feeling any real change or growth.
-
----
 
 ### **🗣️ Examples in spoken English**
 
@@ -1812,8 +1558,6 @@ The phrase **“stuck in a rut”** means being **trapped in a dull, repetitive,
 
 5. “I’m trying to change my routine; I was really stuck in a rut lately.”
 
----
-
 ### **🔗 Useful connecting phrases**
 
 * “On the other hand,” → *“On the other hand, some people prefer routine because it gives them stability.”*
@@ -1821,8 +1565,6 @@ The phrase **“stuck in a rut”** means being **trapped in a dull, repetitive,
 * “For instance,” → *“For instance, working from home every day without a break can make you feel stuck in a rut.”*
 
 * “That being said,” → *“That being said, a little routine isn’t always bad — it keeps you disciplined.”*
-
----
 
 ### **🗣️ Practice tip**
 
@@ -1840,25 +1582,12 @@ Try saying this aloud:
 🗣 *“It’s up to you whether we go or not.”*  
  🗣 *“The final call is up to management.”*
 
----
-
 [↑ Back to index](#index)
 
 # Bead of Dew
 
 **Meaning:** A tiny drop of moisture.  
  **Example:** *Beads of dew sparkled on the grass.*
-
----
-
-[↑ Back to index](#index)
-
-# Bead of Dew
-
-**Meaning:** A tiny drop of moisture.  
- **Example:** *Beads of dew sparkled on the grass.*
-
----
 
 [↑ Back to index](#index)
 
@@ -1874,8 +1603,6 @@ Try saying this aloud:
 
   * “I almost *beaned* my boss with that door — so embarrassing\!”
 
----
-
 [↑ Back to index](#index)
 
 # Bear in mind
@@ -1883,8 +1610,6 @@ Try saying this aloud:
 “**Bear in mind**” means *to remember something important while considering or doing something*.
 
 It’s often used when you want to remind someone about a condition, fact, or limitation before they make a decision.
-
----
 
 ### **Examples:**
 
@@ -1896,8 +1621,6 @@ It’s often used when you want to remind someone about a condition, fact, or li
 
 4. *“It’s expensive, but bear in mind that it lasts much longer than the cheaper option.”*
 
----
-
 ### **Similar phrases you can use:**
 
 * **Keep in mind** → a bit more casual.
@@ -1905,8 +1628,6 @@ It’s often used when you want to remind someone about a condition, fact, or li
 * **Remember that** → direct and simple.
 
 * **Don’t forget that** → more of a reminder tone.
-
----
 
 ✅ Practice saying aloud:
 
@@ -1956,8 +1677,6 @@ Meaning:
 * Example 1: "The leaves began to change colour as autumn approached."  
 * Example 2: "She began to learn French to advance her career."
 
----
-
 [↑ Back to index](#index)
 
 # Below the belt
@@ -2002,8 +1721,6 @@ It’s a **phrasal adjective** or **expression** that means:
 
 * Having an **advantage** compared to another state or person.
 
----
-
 ### **🔹 Common Uses**
 
 1. **Financial / material situation:**
@@ -2022,8 +1739,6 @@ It’s a **phrasal adjective** or **expression** that means:
 
    * *“We’re better off than we were five years ago.”*
 
----
-
 ### **🔹 Spoken Sentences to Practice**
 
 Try saying these aloud:
@@ -2035,8 +1750,6 @@ Try saying these aloud:
 * “That being said, the company is still **better off** than most of its competitors.”
 
 * “In my opinion, we’d be **better off** focusing on quality rather than speed.”
-
----
 
 ### **🔹 Where to Use**
 
@@ -2052,8 +1765,6 @@ Perfect example 👍 — *“I’m better off alone”* is a very natural and co
 
 It’s often used in the context of relationships, friendships, or even work situations.
 
----
-
 ### **🔹 Variations in Meaning**
 
 1. **Personal choice / independence**
@@ -2068,10 +1779,6 @@ It’s often used in the context of relationships, friendships, or even work sit
 
    * *“Sometimes I feel I’m better off alone to focus on myself.”*
 
----
-
-### **🔹 Spoken Sentences to Practice**
-
 * “Honestly, I think I’m **better off alone** for now.”
 
 * “That being said, sometimes we’re **better off alone** than with the wrong people.”
@@ -2079,8 +1786,6 @@ It’s often used in the context of relationships, friendships, or even work sit
 * “For example, I realized I was **better off alone** after that toxic friendship.”
 
 * “On the other hand, being **better off alone** doesn’t mean I don’t value company.”
-
----
 
 ✨ Gentle correction: your sentence *“I’m better off alone”* is **already correct and natural**. You can also say:
 
@@ -2098,15 +1803,11 @@ It’s often used in the context of relationships, friendships, or even work sit
 
 💡 *(Formal, used in law, business, or commitments.)*
 
----
-
 [↑ Back to index](#index)
 
 # Binge
 
 At its core, *binge* means **doing something excessively in a short period of time**, usually more than normal or healthy.
-
----
 
 ### **Different Contexts of Usage**
 
@@ -2138,8 +1839,6 @@ At its core, *binge* means **doing something excessively in a short period of ti
    * *“He went on a study binge before the exams.”*  
       👉 Putting in a very intense, continuous effort for hours.
 
----
-
 ### **Spoken Sentences You Can Use**
 
 * *“I binged the whole season in one night—it was addictive.”*
@@ -2151,8 +1850,6 @@ At its core, *binge* means **doing something excessively in a short period of ti
 * *“He binged on work and forgot to eat lunch.”*
 
 👉 Notice how in spoken English, people often use “binge” with **on** (binge on food, binge on shows, binge on work).
-
----
 
 ✅ Practice tip: Try making 2–3 sentences aloud with *binge on* \+ (food, shows, shopping).
 
@@ -2185,8 +1882,6 @@ At its core, *binge* means **doing something excessively in a short period of ti
    * Example: *The manager blasted into the team for missing the deadline.*  
       (Meaning: The manager scolded them strongly.)
 
----
-
 ### **Phrases you can use in real-life spoken English**
 
 * “She just blasted into the room like a storm.”
@@ -2213,8 +1908,6 @@ It means:
 
 👉 **How much of the system is impacted when something fails or changes**
 
----
-
 ## **💡 Simple way to think about it**
 
 * Small blast radius → only one service is affected  
@@ -2222,15 +1915,11 @@ It means:
 
 👉 So, we try to **reduce the blast radius** in system design.
 
----
-
 ## **💬 Example (MLOps / Cloud context)**
 
 * “If this pipeline fails, what’s the blast radius?”  
 * “We should isolate this service to reduce the blast radius.”  
 * “A bad deployment increased the blast radius and affected multiple jobs.”
-
----
 
 ## **🧠 Where you can use it**
 
@@ -2239,16 +1928,12 @@ It means:
 * Incident discussions  
 * Debugging production failures
 
----
-
 ## **🗣 Practice Sentences (for speaking)**
 
 * “We need to reduce the blast radius of this change.”  
 * “Right now, the blast radius is too large.”  
 * “For example, if this fails, it impacts multiple downstream systems.”  
 * “On the other hand, we can isolate this to limit the blast radius.”
-
----
 
 ## **🎯 Natural Speaking Flow**
 
@@ -2258,14 +1943,10 @@ Try saying this:
  For example, if this component fails, how many systems will be affected?  
  That being said, we should try to limit the impact as much as possible.”
 
----
-
 ## **🔧 Gentle Correction**
 
 You wrote: **“blast radious”**  
  👉 Correct: **“blast radius”**
-
----
 
 ## **💪 Practice Task**
 
@@ -2273,19 +1954,12 @@ Say this aloud:
 
 “We should design this in a way that minimizes the blast radius.”
 
----
-
 If you want, next we can go deeper:  
  👉 I can help you explain **blast radius in a system design interview style** (this is very powerful for your role).
 
 ## **Mustafa and I put together some …”**
 
 ### **Meaning**
-
-👉 It means: *You and Mustafa collaborated to prepare something*  
- (like ideas, analysis, docs, or solutions)
-
----
 
 ## **💬 How to complete this naturally**
 
@@ -2305,8 +1979,6 @@ If you want, next we can go deeper:
 
 * “Mustafa and I put together a quick document outlining the approach.”
 
----
-
 ## **🔥 More Natural Variations (Very Useful)**
 
 * “Mustafa and I worked on this and came up with a few options.”  
@@ -2315,16 +1987,12 @@ If you want, next we can go deeper:
 
 👉 These sound more conversational and less robotic.
 
----
-
 ## **🧠 When to use it**
 
 * Presenting findings in a meeting  
 * Sharing investigation results  
 * Proposing solutions  
 * Giving updates to stakeholders
-
----
 
 ## **🗣 Practice Sentences**
 
@@ -2333,8 +2001,6 @@ If you want, next we can go deeper:
 * “For example, we identified two possible approaches.”  
 * “That being said, we recommend going with the second option.”
 
----
-
 ## **🎯 Natural Meeting Flow**
 
 Try saying this aloud:
@@ -2342,8 +2008,6 @@ Try saying this aloud:
 “Mustafa and I put together a few ideas on this.  
  For example, we explored two different approaches.  
  That being said, we believe the second option is more scalable.”
-
----
 
 ## **💪 Small Improvement Tip**
 
@@ -2354,19 +2018,12 @@ If you want to sound more fluent:
 * “Here’s what we found”  
 * “Let me explain our thinking”
 
----
-
-## **💪 Practice Task**
-
-Say this aloud:
-
 “Mustafa and I looked into this and put together a few options — let me walk you through them.”
-
----
 
 [↑ Back to index](#index)
 
 # Blatantly clear
+
 
 [↑ Back to index](#index)
 
@@ -2380,13 +2037,9 @@ Say this aloud:
 
 **"Blink of an eye"** is an idiom that means something happens **very quickly** or in an **instant**, as fast as it takes to blink your eye.
 
----
-
 ### **Meaning:**
 
 It refers to a **very short amount of time**, often emphasizing how fast or unexpectedly something happens.
-
----
 
 ### **Usage in Sentences:**
 
@@ -2399,8 +2052,6 @@ It refers to a **very short amount of time**, often emphasizing how fast or unex
 3. **To show surprise or shock at a rapid event**:  
    * "He made a decision in the blink of an eye."  
    * (He decided very quickly.)
-
----
 
 ### **Common Contexts:**
 
@@ -2417,8 +2068,6 @@ It refers to a **very short amount of time**, often emphasizing how fast or unex
 
 🗣 *“There’s a blob of paint on the floor.”*  
  🗣 *“I felt like a blob after eating too much.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -2448,8 +2097,6 @@ He blew out the candle.
 🗣 *“Just add sugar, mix it, and Bob’s your uncle — perfect cake\!”*  
  🗣 *“Upload the file, click share, and Bob’s your uncle.”*
 
----
-
 [↑ Back to index](#index)
 
 # Bold
@@ -2458,8 +2105,6 @@ He blew out the candle.
 
 🗣 *“That’s a bold move — I like it.”*  
  🗣 *“She wore a bold red dress.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -2477,8 +2122,6 @@ a bolt-on part of a machine.
 "the bike's bolt-ons were worth more than the asking price"
 
 **"Bolt-on"** can be used both as a **noun** and an **adjective**, and it comes from the idea of **literally bolting something onto** an existing structure. In spoken and business English, it's often used **figuratively** to describe **something that is added on easily without major changes**.
-
----
 
 **🔹 Meanings:**
 
@@ -2499,8 +2142,6 @@ a bolt-on part of a machine.
    * A **bolt-on acquisition** is when a company **buys a smaller business** that fits neatly into its operations.
 
    * *"They’re looking for bolt-on acquisitions to expand their market share."*
-
----
 
 **🔹 Usage in sentences:**
 
@@ -2524,8 +2165,6 @@ a bolt-on part of a machine.
 
 * *“He booby-trapped the gift box as a prank.”*
 
----
-
 [↑ Back to index](#index)
 
 # Bossy
@@ -2533,19 +2172,13 @@ a bolt-on part of a machine.
 **Meaning:** Always telling others what to do.  
 **Example:** *My sister can be really bossy sometimes.*
 
----
-
 [↑ Back to index](#index)
 
 # Bottom Line
 
 The phrase **"bottom line"** is a popular idiom in spoken and written English. It refers to the **most important point**, **final result**, or **main conclusion** of a situation.
 
----
-
 ### **✅ Meanings of “Bottom Line”:**
-
----
 
 ### **1\. Main Point or Key Takeaway**
 
@@ -2557,8 +2190,6 @@ The phrase **"bottom line"** is a popular idiom in spoken and written English. I
 
 * "Bottom line: we can’t afford this right now."
 
----
-
 ### **2\. Final Result in Business (especially profits/losses)**
 
 Refers to the final line in a financial report — net income or loss.
@@ -2569,8 +2200,6 @@ Refers to the final line in a financial report — net income or loss.
 
 * "His decision boosted the company’s bottom line."
 
----
-
 ### **🔹 Common Phrases:**
 
 * “What’s the bottom line?”
@@ -2580,8 +2209,6 @@ Refers to the final line in a financial report — net income or loss.
 * “It affects the bottom line.”
 
 * “That’s the bottom line.”
-
----
 
 ### **💬 Casual Spoken Examples:**
 
@@ -2610,8 +2237,6 @@ It means to travel or move around without staying in one place for long.
 
 It can mean to exchange ideas and get feedback.
 
-**Examples:**
-
 * *Let's bounce around some ideas for the new project.*  
 * *We spent an hour bouncing around possible solutions.*
 
@@ -2619,12 +2244,8 @@ It can mean to exchange ideas and get feedback.
 
 It can describe attention, topics, or focus shifting quickly.
 
-**Examples:**
-
 * *His mind keeps bouncing around from one idea to another.*  
 * *The conversation bounced around different topics.*
-
----
 
 ### **In real-life conversations**
 
@@ -2643,8 +2264,6 @@ It can describe attention, topics, or focus shifting quickly.
 ### **For your English practice**
 
 Since you're an architect and engineer, you might say:
-
-"Early in my career, I bounced around different technologies such as AWS, MLOps, and data engineering. As a result, I gained exposure to multiple domains before specializing."
 
 [↑ Back to index](#index)
 
@@ -2673,8 +2292,6 @@ he was almost bowling people over in his haste
    * ✅ **Spoken example:**  
       *"Our conversation branched off into politics even though we started talking about work."*
 
----
-
 **🔹 Usage Tips:**
 
 * Common in both **casual and professional** spoken English.
@@ -2684,8 +2301,6 @@ he was almost bowling people over in his haste
   * *"The path branches off from the main trail."*
 
   * *"She branched off into a different career."*
-
----
 
 **🔹 Bonus: Forms of "branch off"**
 
@@ -2704,8 +2319,6 @@ Meaning: To expand or extend one’s interests.
 * Example 1: I’m leaving the company to branch out on my own.  
 * Example 2: The company is planning to branch out into new international markets.
 
----
-
 [↑ Back to index](#index)
 
 # Brat
@@ -2716,8 +2329,6 @@ Meaning: To expand or extend one’s interests.
 * *“Stop acting like a brat\!”*
 
 * *“He’s a bit of a brat, but he’s harmless.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -2730,8 +2341,6 @@ Meaning: To expand or extend one’s interests.
   * Example in daily life: “Teaching is my bread and butter.” (That’s how the person earns their living.)
 
 It comes from the idea that bread and butter are the most basic, everyday food—something essential.
-
----
 
 ### **Spoken phrases you can practice:**
 
@@ -2747,38 +2356,20 @@ It comes from the idea that bread and butter are the most basic, everyday food�
 
 # Break down
 
- To stop working (machine or person).  
- My car broke down on the highway.
-
-[↑ Back to index](#index)
-
-# Break down
-
 Meaning: To analyze or divide something into smaller parts.
 
 * Example 1: Let’s break down the project into smaller tasks for better management.  
 * Example 2: She broke down the problem step by step to find the root cause.
 
----
+**Meaning:** To stop working (machine), or lose control emotionally.  
+ **Example:** *My car broke down.* / *She broke down crying.*
 
-[↑ Back to index](#index)
-
-# Break down
+ To stop working (machine or person).  
+ My car broke down on the highway.
 
 To collapse
 
 All the poorly constructed houses broke down.
-
----
-
-[↑ Back to index](#index)
-
-# Break Down
-
-**Meaning:** To stop working (machine), or lose control emotionally.  
- **Example:** *My car broke down.* / *She broke down crying.*
-
----
 
 [↑ Back to index](#index)
 
@@ -2788,8 +2379,6 @@ Meaning: To enter or gain access to a new market or industry.
 
 * Example 1: The company aims to break into the international market next year.  
 * Example 2: They broke into the tech industry with their groundbreaking software.
-
----
 
 [↑ Back to index](#index)
 
@@ -2858,8 +2447,6 @@ Why do you break with me.
 **Meaning:** Failure of function; emotional collapse.  
  **Example:** *His car had a breakdown.* / *She had an emotional breakdown.*
 
----
-
 [↑ Back to index](#index)
 
 # Breathless
@@ -2869,20 +2456,6 @@ Why do you break with me.
 
 🗣 *“The hike left me breathless.”*  
  🗣 *“Her story had the audience breathless.”*
-
----
-
-[↑ Back to index](#index)
-
-# Brick
-
-**Literal meaning:** A solid building block.  
- **Figurative meaning:** A dependable person (British informal), or sometimes an obstacle metaphorically.
-
-🗣 *“She’s such a brick — always dependable.”*  
- 🗣 *“They hit a brick wall with the new policy.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -2900,7 +2473,11 @@ Why do you break with me.
 
 💡 *(In tech slang, “bricked” \= completely unusable, e.g., “I bricked my phone.”)*
 
----
+**Literal meaning:** A solid building block.  
+ **Figurative meaning:** A dependable person (British informal), or sometimes an obstacle metaphorically.
+
+🗣 *“She’s such a brick — always dependable.”*  
+ 🗣 *“They hit a brick wall with the new policy.”*
 
 [↑ Back to index](#index)
 
@@ -2911,8 +2488,6 @@ Meaning: To cause or initiate a change or result.
 * Example 1: The new management team aims to bring about positive changes in the company.  
 * Example 2: His ideas brought about a revolutionary shift in the industry.
 
----
-
 [↑ Back to index](#index)
 
 # Bring in
@@ -2922,8 +2497,6 @@ Meaning: To introduce or implement something new.
 * Example 1: The company plans to bring in a new sales strategy next quarter.  
 * Example 2: The manager brought in an external consultant to improve team performance.
 
----
-
 [↑ Back to index](#index)
 
 # Bring Over
@@ -2931,18 +2504,12 @@ Meaning: To introduce or implement something new.
 **Meaning:** To take something or someone from one place to another.  
  **Example:** *Can you bring over your laptop tomorrow?*
 
----
-
 [↑ Back to index](#index)
 
 # Bring up
 
 **Bring up** – To start talking about a topic.  
  He brought up politics during dinner.
-
-[↑ Back to index](#index)
-
-# Bring up
 
 To foster
 
@@ -2960,8 +2527,6 @@ I was brought up in Dehradun
 * *“The door wouldn’t budge.”* (physically stuck)
 
 * *“He wouldn’t budge on his opinion.”* (mentally stuck)
-
----
 
 [↑ Back to index](#index)
 
@@ -2984,17 +2549,11 @@ When the system started failing in production, we had to bug out of the deployme
 * exiting a failing rollout  
 * stopping a meeting abruptly
 
----
-
 ### **2️⃣ Meaning: Become anxious, confused, or overwhelmed**
 
 Sometimes it describes someone mentally reacting strongly.
 
-**Example:**
-
 He totally bugged out when the server crashed during the demo.
-
----
 
 ### **In technical / workplace context (very useful for you)**
 
@@ -3009,8 +2568,6 @@ For example:
 
 We decided to bug out of the rollout once we noticed latency spikes.
 
----
-
 ### **Natural spoken sentences you can practice 🎯**
 
 Try saying these aloud:
@@ -3023,8 +2580,6 @@ Try saying these aloud:
 
 Notice connectors like **initially**, **at that point**, **to be on the safe side**, and **in hindsight** — these make your speech sound more fluent and structured.
 
----
-
 ### **Similar phrases you can also use**
 
 These are excellent alternatives in architecture discussions:
@@ -3035,11 +2590,7 @@ These are excellent alternatives in architecture discussions:
 * **abort the plan**  
 * **step away from the rollout**
 
-Example:
-
 We backed out of the release instead of taking unnecessary risk.
-
----
 
 [↑ Back to index](#index)
 
@@ -3055,13 +2606,9 @@ You can say:
 
 **“What are the different expressions we can use instead of ‘I don’t want to bug you’?”**
 
-or
-
 **“What are some alternatives to ‘I don’t want to bug you’?”**
 
 Now let’s break it down clearly.
-
----
 
 ## **✅ What does “I don’t want to bug you” mean?**
 
@@ -3073,8 +2620,6 @@ Here, **“bug”** means:
 * to interrupt someone unnecessarily
 
 It’s informal and commonly used in spoken English.
-
----
 
 ## **🔹 Alternatives to “bug” (with slightly different tones)**
 
@@ -3088,8 +2633,6 @@ It’s informal and commonly used in spoken English.
 
 👉 These are perfect for meetings, emails, or client calls.
 
----
-
 ### **2️⃣ Casual / Friendly**
 
 * **I don’t want to annoy you.**  
@@ -3100,8 +2643,6 @@ It’s informal and commonly used in spoken English.
 
 “Pester” sounds slightly stronger — it means repeatedly asking.
 
----
-
 ### **3️⃣ Slightly More Formal Situations (Work/Corporate)**
 
 * **I just wanted to follow up.**  
@@ -3111,8 +2652,6 @@ It’s informal and commonly used in spoken English.
 * **Just a gentle reminder.**
 
 Notice how in professional settings, instead of saying “bug,” people soften the tone.
-
----
 
 ## **🎯 Real-Life Spoken Sentences (Practice These Aloud)**
 
@@ -3126,8 +2665,6 @@ Here are some natural spoken phrases you can use in meetings or calls:
 
 Try speaking these slowly and confidently. Focus on tone — soft and polite.
 
----
-
 ## **🧠 When Do We Use This?**
 
 You use these expressions when:
@@ -3140,8 +2677,6 @@ You use these expressions when:
 
 Especially in corporate environments, softening your request makes you sound professional and respectful.
 
----
-
 ## **💬 Small Communication Tip for You**
 
 In professional English, instead of apologizing too much (“Sorry to bug you…”), sometimes it’s better to confidently say:
@@ -3149,8 +2684,6 @@ In professional English, instead of apologizing too much (“Sorry to bug you…
 **“Just wanted to quickly follow up on this.”**
 
 It sounds assertive but polite.
-
----
 
 Now let me ask you something to practice your speaking skills:
 
@@ -3165,17 +2698,6 @@ Try answering in 3–4 sentences. I’ll correct and improve it for you.
 **Meaning:** To use something as a foundation to develop further.  
  **Example:** *We’ll build on last year’s success.*
 
----
-
-[↑ Back to index](#index)
-
-# Build On
-
-**Meaning:** To use something as a foundation to develop further.  
- **Example:** *We’ll build on last year’s success.*
-
----
-
 [↑ Back to index](#index)
 
 # Bump into
@@ -3187,10 +2709,6 @@ meet someone by chance.
 
 I bumped into her on the way back from the hospital.
 
-[↑ Back to index](#index)
-
-# Bump into
-
 **Meaning:** To meet someone unexpectedly.
 
 🗣 *“I bumped into my old teacher at the mall.”*  
@@ -3200,14 +2718,6 @@ I bumped into her on the way back from the hospital.
 
 # Bury
 
-[↑ Back to index](#index)
-
-# Busk
-
-**Meaning:** To perform music or art in public for money.  
- **Example:** *He used to busk on the subway platform.*
-
----
 
 [↑ Back to index](#index)
 
@@ -3215,8 +2725,6 @@ I bumped into her on the way back from the hospital.
 
 **Meaning:** To perform music or art in public for money.  
  **Example:** *He used to busk on the subway platform.*
-
----
 
 [↑ Back to index](#index)
 
@@ -3224,8 +2732,6 @@ I bumped into her on the way back from the hospital.
 
 **Meaning:** Full of excitement or activity.  
  **Example:** *The café was buzzing with people and music.*
-
----
 
 [↑ Back to index](#index)
 
@@ -3236,8 +2742,6 @@ I bumped into her on the way back from the hospital.
 🗣 *“Her English has improved by leaps and bounds.”*  
  🗣 *“Technology is advancing by leaps and bounds.”*
 
----
-
 [↑ Back to index](#index)
 
 # Byproduct
@@ -3247,8 +2751,6 @@ I bumped into her on the way back from the hospital.
 
 🗣 *“Stress is a byproduct of ambition.”*  
  🗣 *“This discovery was a byproduct of another experiment.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -3264,8 +2766,6 @@ I bumped into her on the way back from the hospital.
 
   * “Only a *cad* would treat someone like that.”
 
----
-
 [↑ Back to index](#index)
 
 # Call off
@@ -3274,12 +2774,6 @@ Meaning: To cancel or terminate an event or activity.
 
 * Example 1: The conference has been called off due to unforeseen circumstances.  
 * Example 2: They decided to call off the meeting because most members couldn’t attend.
-
----
-
-[↑ Back to index](#index)
-
-# Call off
 
 To cancels
 
@@ -3295,8 +2789,6 @@ Meaning: To visit or request someone to do something.
 * Example 1: The client called on us to present our proposal.  
 * Example 2: The teacher called on her to answer the question.
 
----
-
 [↑ Back to index](#index)
 
 # Call out
@@ -3308,8 +2800,6 @@ The *tone* depends heavily on context:
 * It can be **neutral and professional**
 
 * Or it can sound **strong / critical** if not phrased carefully
-
----
 
 **Common professional usages**
 
@@ -3325,13 +2815,9 @@ Used to highlight a problem, gap, or concern.
 
 👉 This is **not blaming**, just flagging something important.
 
----
-
 ### **2️⃣ Calling out assumptions or gaps**
 
 Used during reviews, design discussions, or planning.
-
-**Example:**
 
 * *“I want to call out an assumption we’re making here.”*
 
@@ -3339,21 +2825,15 @@ Used during reviews, design discussions, or planning.
 
 This sounds **mature and analytical**, especially in architecture or design reviews.
 
----
-
 ### **3️⃣ Calling out someone’s contribution (positive usage)**
 
 Often used to **appreciate or recognize** someone publicly.
-
-**Example:**
 
 * *“I’d like to call out John for handling the migration smoothly.”*
 
 * *“Let me call out the team’s effort here.”*
 
 Very common in retrospectives and leadership meetings 👍
-
----
 
 ### **4️⃣ Calling out mistakes or incorrect behavior (sensitive ⚠️)**
 
@@ -3369,8 +2849,6 @@ This can sound **harsh** if used directly.
 
 * *“One thing we should revisit here is…”*
 
----
-
 ## **Safer professional alternatives (when tone matters)**
 
 Instead of **“call out”**, you can say:
@@ -3385,13 +2863,9 @@ Instead of **“call out”**, you can say:
 
 * **surface**
 
-Example:
-
 * *“I want to highlight a potential issue.”*
 
 * *“Let me flag one concern.”*
-
----
 
 ## **Common spoken sentences you can practice 🗣️**
 
@@ -3409,8 +2883,6 @@ Try saying these aloud:
 
 👉 Notice how connecting phrases soften the delivery.
 
----
-
 ## **When is it typically used?**
 
 * Architecture & design reviews
@@ -3423,8 +2895,6 @@ Try saying these aloud:
 
 * Client-facing technical discussions (carefully\!)
 
----
-
 **Small correction & natural phrasing**
 
 Your original phrase:
@@ -3436,8 +2906,6 @@ More natural versions:
 * **“Usage of ‘call out’ in professional and corporate contexts”**
 
 * **“How ‘call out’ is used professionally in companies”**
-
----
 
 ## **Practice tip 🎯**
 
@@ -3452,8 +2920,6 @@ Say this out loud slowly:
 To call someone
 
 I was calling out for help but no one turned up.
-
----
 
 [↑ Back to index](#index)
 
@@ -3475,8 +2941,6 @@ The phrase **"call upon"** has several meanings depending on the context. Here a
 
    * *They called upon God for help.*
 
----
-
 [↑ Back to index](#index)
 
 # Calm down
@@ -3493,8 +2957,6 @@ He finally calmed down after the argument.
 🗣 *“Bringing that topic up opened a whole can of worms.”*  
  🗣 *“I don’t want to open that can of worms again.”*
 
----
-
 [↑ Back to index](#index)
 
 # Canoe
@@ -3504,8 +2966,6 @@ He finally calmed down after the argument.
 
 🗣 *“We went canoeing down the river last weekend.”*  
  🗣 *“You have to paddle your own canoe in this career — no one’s going to do it for you.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -3520,8 +2980,6 @@ He finally calmed down after the argument.
 
 💡 *(Used literally in nature, figuratively in poetic speech.)*
 
----
-
 [↑ Back to index](#index)
 
 # Capacity
@@ -3533,8 +2991,6 @@ He finally calmed down after the argument.
  🗣 *“She has a great capacity for empathy.”*  
  🗣 *“I’m working at full mental capacity today.”*
 
----
-
 [↑ Back to index](#index)
 
 # carrot and stick
@@ -3544,8 +3000,6 @@ He finally calmed down after the argument.
 * **“Carrot and stick”** refers to a **policy or approach that uses a combination of reward (carrot) and punishment (stick)** to influence behavior.
 
 * **Carrot \= reward**, **Stick \= punishment**.
-
----
 
 ### **Usage in Spoken English:**
 
@@ -3560,8 +3014,6 @@ He finally calmed down after the argument.
 3. **Casual conversation:**
 
    * *“Sometimes you need the carrot and stick with kids—praise when they behave, time-out when they don’t.”*
-
----
 
 💡 **Tip for speaking:**
 
@@ -3578,14 +3030,6 @@ Meaning: To continue or proceed with an activity.
 * Example 1: Despite the challenges, we need to carry on with our business plan.  
 * Example 2: He told us to carry on with the meeting while he attended to an urgent call.
 
----
-
-[↑ Back to index](#index)
-
-# Carry on
-
-To continue
-
 He could not carry on his project due to not having enough money.  
 ---
 
@@ -3597,8 +3041,6 @@ Meaning: To perform or complete a task or action.
 
 * Example 1: We need to carry out market research before launching the new product.  
 * Example 2: The scientists carried out an important experiment to test their hypothesis.
-
----
 
 [↑ Back to index](#index)
 
@@ -3624,8 +3066,6 @@ Meaning: To perform or complete a task or action.
    * “His stress from work carried over into his personal life.” (it affected another part of life)
 
    * “The points you earn carry over to the next level.” (like in a game or loyalty program)
-
----
 
 ### **Phrases you can use in speech:**
 
@@ -3664,6 +3104,7 @@ Meaning: To perform or complete a task or action.
 
 # Carve in stone
 
+
 [↑ Back to index](#index)
 
 # Carve out
@@ -3672,8 +3113,6 @@ Meaning: To perform or complete a task or action.
 
 🗣 *“She carved out a niche in digital marketing.”*  
  🗣 *“He’s carving out his own path in filmmaking.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -3686,8 +3125,6 @@ Meaning: To perform or complete a task or action.
 
 💡 *(Useful in formal explanations, meetings, or debates.)*
 
----
-
 [↑ Back to index](#index)
 
 # Cash in
@@ -3696,8 +3133,6 @@ Meaning: To profit or benefit from a situation or opportunity.
 
 * Example 1: The company was able to cash in on the growing demand for eco-friendly products.  
 * Example 2: She cashed in her shares at the peak of the market.
-
----
 
 [↑ Back to index](#index)
 
@@ -3708,8 +3143,6 @@ Meaning: To profit or benefit from a situation or opportunity.
 
 🗣 *“They cast her as the lead actress.”*  
  🗣 *“The news cast a shadow over the celebrations.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -3727,17 +3160,6 @@ Snake casts off the outer skin.
 **Meaning:** To notice, grab, or understand something.  
  **Example:** *Did you catch what she said?*
 
----
-
-[↑ Back to index](#index)
-
-# Catch
-
-**Meaning:** To notice, grab, or understand something.  
- **Example:** *Did you catch what she said?*
-
----
-
 [↑ Back to index](#index)
 
 # Catch up (with)
@@ -3750,8 +3172,6 @@ Snake casts off the outer skin.
 1. **To reach the same level or position** as someone/something.
 
 2. **To reconnect and share updates** (in personal talk).
-
----
 
 ### **🗣️ Common Spoken Usage**
 
@@ -3771,8 +3191,6 @@ Snake casts off the outer skin.
 * **"We haven’t caught up in ages."**  
    → It’s been a while since we talked.
 
----
-
 ### **🔁 Summary:**
 
 * **Catch up (progress)** → “I’ll catch up on emails tonight.”
@@ -3788,8 +3206,6 @@ Meaning: To update or complete something that was missed or delayed.
 * Example 1: I need to catch up on my emails after being out of the office.  
 * Example 2: He spent the weekend catching up on his reading assignments.
 
----
-
 [↑ Back to index](#index)
 
 # Catchy
@@ -3801,21 +3217,10 @@ Meaning: To update or complete something that was missed or delayed.
  🗣 *“We need a catchy title for this campaign.”*  
  🗣 *“Her smile is catchy — everyone lights up around her.”*
 
----
-
 [↑ Back to index](#index)
 
 # Cater to someone
 
-[↑ Back to index](#index)
-
-# catfish
-
-verb
-
-lure (someone) into a relationship by means of a fictional online persona
-
-he was being catfished by a cruel prankster
 
 [↑ Back to index](#index)
 
@@ -3826,6 +3231,10 @@ verb
 use a fake profile to pretend to be someone else
 
 Many people are unaware that they are being catfished until it's too late.
+
+lure (someone) into a relationship by means of a fictional online persona
+
+he was being catfished by a cruel prankster
 
 [↑ Back to index](#index)
 
@@ -3860,11 +3269,10 @@ Many people are unaware that they are being catfished until it's too late.
 
 👉 *Connecting phrase:* “That being said, there’s one caveat…”
 
----
-
 [↑ Back to index](#index)
 
 # Chair lift
+
 
 [↑ Back to index](#index)
 
@@ -3886,8 +3294,6 @@ Many people are unaware that they are being catfished until it's too late.
 🗣 *“I was going to say no, but I changed my mind.”*  
  🗣 *“He never changes his mind once he decides.”*
 
----
-
 [↑ Back to index](#index)
 
 # Channel
@@ -3897,8 +3303,6 @@ Many people are unaware that they are being catfished until it's too late.
 
 🗣 *“She channels her creativity through painting.”*  
  🗣 *“Try to channel your frustration into action.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -3919,15 +3323,6 @@ a person's first responsibility is for the needs of their own family and friends
 
 * Often used in formal storytelling or descriptions.
 
----
-
-[↑ Back to index](#index)
-
-# Check in
-
-**Check in** – To register at a hotel or airport.  
- We checked in at 3 PM.
-
 [↑ Back to index](#index)
 
 # Check in
@@ -3937,7 +3332,8 @@ Meaning: To register or report arrival at a place.
 * Example 1: Please check in at the reception desk before attending the conference.  
 * Example 2: They checked in at the hotel late in the evening.
 
----
+**Check in** – To register at a hotel or airport.  
+ We checked in at 3 PM.
 
 [↑ Back to index](#index)
 
@@ -3973,8 +3369,6 @@ choose and take only (the most beneficial or profitable items, opportunities, et
 
 It has a slightly teasing or humorous tone, as if you’re calling someone a coward for not doing what they planned.
 
----
-
 ### **Phrases you can use in real life:**
 
 1. “I was going to speak up in the meeting, but I chickened out.”
@@ -3985,8 +3379,6 @@ It has a slightly teasing or humorous tone, as if you’re calling someone a cow
 
 4. “They were supposed to challenge the decision, but they chickened out.”
 
----
-
 💡 **Context of usage**:
 
 * Everyday conversations, especially casual ones.
@@ -3995,58 +3387,11 @@ It has a slightly teasing or humorous tone, as if you’re calling someone a cow
 
 * Not usually used in very formal settings.
 
----
-
 ✨ Try saying out loud: *“I was ready to ask my boss for a raise, but I chickened out.”*
 
 [↑ Back to index](#index)
 
 # chime in
-
-phrasal verb of chime  
-join or interrupt a conversation by making a remark.  
-"‘Yes, you do that,’ Dave chimed in eagerly"
-
-**"Chime in"** is a casual and common expression in spoken English. It means to **join a conversation**, especially by **adding your opinion or comment**—often unexpectedly or informally.
-
----
-
-**🔹 Meaning:**
-
-To **interrupt or join in** a discussion, usually to offer your thoughts or agree with someone.
-
----
-
-🔹 Examples:
-
-1. **Conversation:**
-
-   * *"Feel free to chime in if you have any ideas."*  
-      → You’re welcome to share your thoughts.
-
-2. **Meeting:**
-
-   * *"She chimed in with a great suggestion."*  
-      → She joined the discussion with something useful.
-
-3. **Casual:**
-
-   * *"Everyone was arguing, and then he chimed in out of nowhere."*  
-      → He suddenly joined the argument.
-
----
-
-**🔹 Similar phrases:**
-
-* *Jump in*
-
-* *Cut in* (more interrupting)
-
-* *Add your two cents* (informal opinion)
-
-[↑ Back to index](#index)
-
-# Chime In
 
 👉 **Meaning**: “Chime in” means to *add your opinion, comment, or remark in a conversation* (sometimes without being asked). It can be casual, supportive, or interrupting depending on tone.
 
@@ -4066,8 +3411,6 @@ To **interrupt or join in** a discussion, usually to offer your thoughts or agre
 
 * **Interject** – “She interjected with a quick comment.” (formal)
 
----
-
 ### **Sentences for Practice**
 
 1. “If I may chime in, I think we should try a different approach.”
@@ -4080,8 +3423,6 @@ To **interrupt or join in** a discussion, usually to offer your thoughts or agre
 
 5. “Can I just add in one more point here?”
 
----
-
 ✅ **Tip**:
 
 * Use **chime in / jump in** in friendly or team settings.
@@ -4089,6 +3430,41 @@ To **interrupt or join in** a discussion, usually to offer your thoughts or agre
 * Use **weigh in** in meetings or professional discussions.
 
 * Use **cut in / butt in** when someone interrupts unexpectedly.
+
+phrasal verb of chime  
+join or interrupt a conversation by making a remark.  
+"‘Yes, you do that,’ Dave chimed in eagerly"
+
+**"Chime in"** is a casual and common expression in spoken English. It means to **join a conversation**, especially by **adding your opinion or comment**—often unexpectedly or informally.
+
+**🔹 Meaning:**
+
+To **interrupt or join in** a discussion, usually to offer your thoughts or agree with someone.
+
+🔹 Examples:
+
+1. **Conversation:**
+
+   * *"Feel free to chime in if you have any ideas."*  
+      → You’re welcome to share your thoughts.
+
+2. **Meeting:**
+
+   * *"She chimed in with a great suggestion."*  
+      → She joined the discussion with something useful.
+
+3. **Casual:**
+
+   * *"Everyone was arguing, and then he chimed in out of nowhere."*  
+      → He suddenly joined the argument.
+
+**🔹 Similar phrases:**
+
+* *Jump in*
+
+* *Cut in* (more interrupting)
+
+* *Add your two cents* (informal opinion)
 
 [↑ Back to index](#index)
 
@@ -4154,8 +3530,6 @@ It suggests that even small, consistent actions can lead to big results over tim
 🗣 *“He choked during the final round.”*  
  🗣 *“Don’t choke — you’ve practiced for this.”*
 
----
-
 [↑ Back to index](#index)
 
 # choke back
@@ -4176,25 +3550,12 @@ Liz was choking back her anger
 🗣 *“The video call was choppy.”*  
  🗣 *“His speech felt choppy and unorganized.”*
 
----
-
 [↑ Back to index](#index)
 
 # Chore
 
 **Meaning:** A routine task, often boring or domestic.  
  **Example:** *Doing the dishes is my least favorite chore.*
-
----
-
-[↑ Back to index](#index)
-
-# Chore
-
-**Meaning:** A routine task, often boring or domestic.  
- **Example:** *Doing the dishes is my least favorite chore.*
-
----
 
 [↑ Back to index](#index)
 
@@ -4219,8 +3580,6 @@ Can we circle back on this tomorrow when we have more information?
 
 To revisit or follow up on something later.
 
----
-
 **🔹 Examples:**
 
 1. **Business:**
@@ -4237,8 +3596,6 @@ To revisit or follow up on something later.
 
    * *"I’m not sure yet, can I circle back with an answer later?"*  
       → I’ll tell you after thinking or checking.
-
----
 
 **🔹 Casual alternatives:**
 
@@ -4269,8 +3626,6 @@ the restaurant raised the bar for contemporary Scottish cuisine in the capital
 
   * “She was *clad* in confidence and charm.”
 
----
-
 [↑ Back to index](#index)
 
 # Clamping
@@ -4284,8 +3639,6 @@ the restaurant raised the bar for contemporary Scottish cuisine in the capital
   * “He *clamped* the lid on the jar.”
 
   * “She *clamped* her lips shut to keep from arguing.”
-
----
 
 [↑ Back to index](#index)
 
@@ -4310,8 +3663,6 @@ respond quickly to critical remarks or unfair treatment.
 
   * “He *clasped* the medal to his chest proudly.”
 
----
-
 [↑ Back to index](#index)
 
 # clean up
@@ -4326,8 +3677,6 @@ I cleaned up my room
 
 we cleaned Uncle Jim up and made him presentable
 
----
-
 [↑ Back to index](#index)
 
 # Clean up one’s act
@@ -4336,8 +3685,6 @@ we cleaned Uncle Jim up and made him presentable
 
 It suggests that someone was not doing well (messy, lazy, careless, etc.) and now needs to get more serious, disciplined, or professional.
 
----
-
 ### **Examples**
 
 * *“He was late to work too often, so his manager told him to clean up his act.”*
@@ -4345,8 +3692,6 @@ It suggests that someone was not doing well (messy, lazy, careless, etc.) and no
 * *“The company cleaned up its act after the new leadership came in.”*
 
 * *“If you don’t clean up your act, you could lose this opportunity.”*
-
----
 
 ### **Spoken Sentences You Can Use**
 
@@ -4358,15 +3703,11 @@ It suggests that someone was not doing well (messy, lazy, careless, etc.) and no
 
 4. “We should clean up our act before the client meeting.”
 
----
-
 💡 **Context of usage**:
 
 * **Casual**: Talking about personal life, e.g., health, relationships, studies.
 
 * **Professional**: About work habits, discipline, or performance. (Be careful though — saying it directly to someone can sound harsh. It’s softer if you use it about yourself or “we” as a group.)
-
----
 
 👉 Alternatives (more formal/professional):
 
@@ -4375,8 +3716,6 @@ It suggests that someone was not doing well (messy, lazy, careless, etc.) and no
 * “Get back on track”
 
 * “Raise our standards”
-
----
 
 ✨ Practice aloud: *“I need to clean up my act and be more organized.”*
 
@@ -4397,8 +3736,6 @@ It suggests that someone was not doing well (messy, lazy, careless, etc.) and no
 5. **“Maybe we can all step up our game here.”**  
     → Includes yourself, so it doesn’t sound like blame.
 
----
-
 ### **Spoken Sentences You Can Use in Meetings**
 
 * “I think we need to tighten up our approach for the next release.”
@@ -4409,15 +3746,9 @@ It suggests that someone was not doing well (messy, lazy, careless, etc.) and no
 
 * “Moving forward, let’s be more consistent in our updates.”
 
----
-
-💡 **Context of Usage**:
-
 * **Team discussions**: Use “we” instead of “you” to make it collaborative.
 
 * **One-on-one feedback**: Use future-focused phrases like *“It would be good if you could…”* or *“Going forward, I’d like to see…”*.
-
----
 
 👉 Practice aloud: *“Let’s tighten things up so we deliver on time.”*
 
@@ -4435,8 +3766,6 @@ It suggests that someone was not doing well (messy, lazy, careless, etc.) and no
 
   * “A deep *cleft* formed between the two groups.”
 
----
-
 [↑ Back to index](#index)
 
 # Clenched
@@ -4450,8 +3779,6 @@ It suggests that someone was not doing well (messy, lazy, careless, etc.) and no
   * “She *clenched* her fists in rage.”
 
   * “He *clenched* his jaw to keep calm.”
-
----
 
 [↑ Back to index](#index)
 
@@ -4474,8 +3801,6 @@ a clickbait article
 
 🗣 *“Climb aboard, we’re leaving\!”*  
  🗣 *“He was excited to climb aboard the startup early on.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -4510,8 +3835,6 @@ Meaning: To stop operating.
 * Example 1: The firm has decided to close down its Chicago branch.  
 * Example 2: Many small businesses were forced to close down due to the pandemic.
 
----
-
 [↑ Back to index](#index)
 
 # Clouding judgment
@@ -4536,8 +3859,6 @@ In this context, clouding means to obscure or confuse clear thinking, like how c
 🗣 *“I have no clue where he went.”*  
  🗣 *“That clue led the police to the suspect.”*
 
----
-
 [↑ Back to index](#index)
 
 # Clumsiness
@@ -4547,8 +3868,6 @@ In this context, clouding means to obscure or confuse clear thinking, like how c
 
 🗣 *“His clumsiness made everyone laugh.”*  
  🗣 *“There was some clumsiness in how the issue was handled.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -4565,8 +3884,6 @@ In this context, clouding means to obscure or confuse clear thinking, like how c
  🗣 *“That was a clumsy way to apologize.”*  
  🗣 *“He made a clumsy attempt at humor.”*
 
----
-
 [↑ Back to index](#index)
 
 # Coarse
@@ -4578,11 +3895,14 @@ In this context, clouding means to obscure or confuse clear thinking, like how c
 
 * *“She disliked his coarse language.”*
 
----
-
 [↑ Back to index](#index)
 
 # come across
+
+**Meaning:** To find by chance or to seem a certain way.
+
+🗣 *“I came across an old photo yesterday.”*  
+ 🗣 *“He comes across as very confident.”*
 
 verb
 
@@ -4591,17 +3911,6 @@ meet or find someone or something by chance
 I came across these old photos recently
 
 during one of his trips he came across an old friend
-
-[↑ Back to index](#index)
-
-# Come across
-
-**Meaning:** To find by chance or to seem a certain way.
-
-🗣 *“I came across an old photo yesterday.”*  
- 🗣 *“He comes across as very confident.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -4624,8 +3933,6 @@ during one of his trips he came across an old friend
    * *“A bus should come along any minute now.”*  
       → Here, it means *to show up*.
 
----
-
 ### **Useful spoken sentences:**
 
 1. “If you’re free, why don’t you come along with us?”
@@ -4635,8 +3942,6 @@ during one of his trips he came across an old friend
 3. “An opportunity like this doesn’t come along very often.”
 
 4. “We’ll just wait here until the train comes along.”
-
----
 
 💡 **Extra tip for usage:**
 
@@ -4655,8 +3960,6 @@ during one of his trips he came across an old friend
 **Meaning:** To change your mind or opinion; also means to regain consciousness.  
  **Example:** *He didn’t like the idea at first, but he’ll come around.*  
  *She fainted, but she came around after a few minutes.*
-
----
 
 [↑ Back to index](#index)
 
@@ -4705,8 +4008,6 @@ he comes from a family of artists
 
 🗣 *“He came into the world on a rainy morning.”*  
  🗣 *“When a new idea comes into the world, it needs nurturing.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -4783,8 +4084,6 @@ Thank you, You and Luis really came through.
 
    * *“The project came through the crisis stronger.”*
 
----
-
 ### **📐 Examples in Architecture & Solution Design:**
 
 1. **System Delivery**
@@ -4804,8 +4103,6 @@ Thank you, You and Luis really came through.
    * *“The DevOps team came through with the CI/CD automation right before release.”*
 
    * *“The architects came through with a scalable design under tight deadlines.”*
-
----
 
 👉 Tone difference:
 
@@ -4835,13 +4132,6 @@ many a ship has come to grief along this shore
 
 # Come to mind
 
-[↑ Back to index](#index)
-
-# Come up
-
-Increase in the price
-
-Price are coming up.
 
 [↑ Back to index](#index)
 
@@ -4854,16 +4144,12 @@ Price are coming up.
 * *That topic didn’t come up in the discussion.*  
    👉 Spoken: *“Funny thing, your idea came up when we were talking about next week’s plan.”*
 
----
-
 ### **🔹 2\. To happen unexpectedly (often problems, events, opportunities)**
 
 * *Sorry, I can’t come—I had something come up at work.*
 
 * *If any issue comes up, let me know.*  
    👉 Spoken: *“I was going to visit, but something came up at the last minute.”*
-
----
 
 ### **🔹 3\. To approach in time / become due**
 
@@ -4872,8 +4158,6 @@ Price are coming up.
 * *Her birthday is coming up soon.*  
    👉 Spoken: *“We’ve got a long weekend coming up.”*
 
----
-
 ### **🔹 4\. To rise / appear (like the sun, or a person approaching)**
 
 * *The sun came up over the hills.*
@@ -4881,24 +4165,17 @@ Price are coming up.
 * *A man came up to me and asked for directions.*  
    👉 Spoken: *“I’ll wait till the sun comes up.”*
 
----
-
 ### **🔹 5\. To be promoted / advance (less common but used)**
 
 * *She’s really coming up in her career.*
-
----
 
 ✅ **Summary:**  
  “Come up” \= **be mentioned, happen unexpectedly, approach in time, rise, or appear.**  
  It’s one of those **multi-use everyday phrases** you’ll hear constantly in spoken English.
 
-[↑ Back to index](#index)
+Increase in the price
 
-# Come up with
-
-**Come up with** – To invent or think of something.  
- She came up with a great idea.
+Price are coming up.
 
 [↑ Back to index](#index)
 
@@ -4909,13 +4186,8 @@ Meaning: To suggest or produce an idea or solution.
 * Example 1: We need to come up with a creative marketing campaign for the new product.  
 * Example 2: He came up with an innovative idea to increase customer engagement.
 
----
-
-[↑ Back to index](#index)
-
-# Come up with
-
-Produce an idea
+**Come up with** – To invent or think of something.  
+ She came up with a great idea.
 
 I have come up with an idea
 
@@ -4928,8 +4200,6 @@ I have come up with an idea
 🗣 *“You need to commit to your decision.”*  
  🗣 *“She’s fully committed to learning English.”*
 
----
-
 [↑ Back to index](#index)
 
 # Common Spoken Sentences
@@ -4940,8 +4210,6 @@ I have come up with an idea
 * “Most downstream services hang off this event stream.”  
 * “The balcony hangs off the second floor.”
 
----
-
 [↑ Back to index](#index)
 
 # Commotion
@@ -4951,26 +4219,6 @@ I have come up with an idea
 🗣 *“There was a commotion outside the store.”*  
  🗣 *“The kids caused quite a commotion.”*
 
----
-
-[↑ Back to index](#index)
-
-# Commute
-
-**Meaning:** To travel between home and work regularly.  
- **Example:** *I commute an hour each day.*
-
----
-
-[↑ Back to index](#index)
-
-# Commute
-
-**Meaning:** To travel between home and work regularly.  
- **Example:** *I commute an hour each day.*
-
----
-
 [↑ Back to index](#index)
 
 # Commute
@@ -4978,7 +4226,8 @@ I have come up with an idea
 **Meaning:** To travel regularly between home and work.  
  **Example:** *I commute two hours every day.*
 
----
+**Meaning:** To travel between home and work regularly.  
+ **Example:** *I commute an hour each day.*
 
 [↑ Back to index](#index)
 
@@ -4989,8 +4238,6 @@ I have come up with an idea
 
 🗣 *“She treated the patients with great compassion.”*  
  🗣 *“A little compassion can go a long way.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -5007,8 +4254,6 @@ I have come up with an idea
 
 👉 *Tip:* Often used in professional or persuasive speech.
 
----
-
 [↑ Back to index](#index)
 
 # Complex
@@ -5019,25 +4264,12 @@ I have come up with an idea
 🗣 *“It’s a complex system with many moving parts.”*  
  🗣 *“He has a complex about always being perfect.”*
 
----
-
 [↑ Back to index](#index)
 
 # Comply
 
 **Meaning:** To follow rules or instructions.  
  **Example:** *All employees must comply with the policy.*
-
----
-
-[↑ Back to index](#index)
-
-# Comply
-
-**Meaning:** To follow rules or instructions.  
- **Example:** *All employees must comply with the policy.*
-
----
 
 [↑ Back to index](#index)
 
@@ -5058,8 +4290,6 @@ I have come up with an idea
 
 👉 *Connector tip:* “In contrast,” “On the other hand,” helps when comparing both words.
 
----
-
 [↑ Back to index](#index)
 
 # Conform
@@ -5067,25 +4297,12 @@ I have come up with an idea
 **Meaning:** To follow rules or social expectations.  
  **Example:** *He doesn’t conform to traditional ways of thinking.*
 
----
-
 [↑ Back to index](#index)
 
 # Confuse
 
 **Meaning:** To make someone uncertain or puzzled.  
  **Example:** *His explanation just confused me more.*
-
----
-
-[↑ Back to index](#index)
-
-# Confuse
-
-**Meaning:** To make someone uncertain or puzzled.  
- **Example:** *His explanation just confused me more.*
-
----
 
 [↑ Back to index](#index)
 
@@ -5096,8 +4313,6 @@ I have come up with an idea
 
 🗣 *“The conman tricked people into fake investments.”*  
  🗣 *“He’s charming, but a total conman underneath.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -5113,8 +4328,6 @@ Example:
 
 “From an architecture perspective, several services hang off the central orchestration layer. In other words, they depend on it for execution.”
 
----
-
 [↑ Back to index](#index)
 
 # Conscience
@@ -5122,34 +4335,12 @@ Example:
 **Meaning:** The inner sense of right and wrong.  
  **Example:** *His conscience wouldn’t let him lie.*
 
----
-
-[↑ Back to index](#index)
-
-# Conscience
-
-**Meaning:** The inner sense of right and wrong.  
- **Example:** *His conscience wouldn’t let him lie.*
-
----
-
 [↑ Back to index](#index)
 
 # Conscientious
 
 **Meaning:** Careful and responsible in doing work.  
  **Example:** *She’s a conscientious employee—always thorough.*
-
----
-
-[↑ Back to index](#index)
-
-# Conscientious
-
-**Meaning:** Careful and responsible in doing work.  
- **Example:** *She’s a conscientious employee—always thorough.*
-
----
 
 [↑ Back to index](#index)
 
@@ -5157,8 +4348,6 @@ Example:
 
 **Meaning:** Causing public disagreement or debate.  
  **Example:** *His comments were quite controversial.*
-
----
 
 [↑ Back to index](#index)
 
@@ -5171,8 +4360,6 @@ Example:
  🗣 *“You’ll never convince me that pineapple belongs on pizza\!”*  
  🗣 *“Her sincerity convinced everyone in the room.”*
 
----
-
 [↑ Back to index](#index)
 
 # Convoluted
@@ -5182,25 +4369,12 @@ Example:
 🗣 *“That plot is so convoluted — I lost track halfway.”*  
  🗣 *“The process is needlessly convoluted.”*
 
----
-
 [↑ Back to index](#index)
 
 # Cope With
 
 **Meaning:** To deal with or manage a difficult situation.  
  **Example:** *He’s learning to cope with stress.*
-
----
-
-[↑ Back to index](#index)
-
-# Cope With
-
-**Meaning:** To deal with or manage a difficult situation.  
- **Example:** *He’s learning to cope with stress.*
-
----
 
 [↑ Back to index](#index)
 
@@ -5211,8 +4385,6 @@ Example:
 
 🗣 *“He wore a brown corduroy jacket — very old-school.”*  
  🗣 *“Corduroy pants are back in style\!”*
-
----
 
 [↑ Back to index](#index)
 
@@ -5229,8 +4401,6 @@ The word **“cornerstone”** has both a **literal meaning** and a **figurative
   * “Education is the cornerstone of a successful society.”
 
 👉 Think of it like saying *“the most important foundation piece.”*
-
----
 
 ### **Phrases you can use in real life:**
 
@@ -5251,25 +4421,12 @@ The word **“cornerstone”** has both a **literal meaning** and a **figurative
 🗣 *“You can count on me.”*  
  🗣 *“Don’t count on good weather — it might rain.”*
 
----
-
 [↑ Back to index](#index)
 
 # Counterpart
 
 **Meaning:** A person in a similar position in another place or organization.  
  **Example:** *I met my counterpart from the London office.*
-
----
-
-[↑ Back to index](#index)
-
-# Counterpart
-
-**Meaning:** A person in a similar position in another place or organization.  
- **Example:** *I met my counterpart from the London office.*
-
----
 
 [↑ Back to index](#index)
 
@@ -5295,8 +4452,6 @@ It's commonly used in business, leadership, and personal development contexts. �
 🗣 *“He ran away — what a coward.”*  
  🗣 *“Don’t be a coward; tell her the truth.”*
 
----
-
 [↑ Back to index](#index)
 
 # cozying up
@@ -5311,8 +4466,6 @@ For example:
 
 * *“He’s cozying up to the manager to get a promotion.”*
 
----
-
 ### **Phrases you can use in real-life:**
 
 1. “I’m just cozying up with a cup of coffee and a good movie.”
@@ -5322,8 +4475,6 @@ For example:
 3. “We were cozying up by the fire, it was really nice.”
 
 4. “Sometimes you just need to cozy up and relax.”
-
----
 
 💡 **Practice tip**:  
  Try saying the word **“cozying”** slowly → *coh-zee-ing* (3 parts). Many people drop the “y” sound, but keeping it makes your speech clearer.
@@ -5348,8 +4499,6 @@ this photo cracks me up
 
 🗣 *“She’s a crackerjack programmer.”*  
  🗣 *“That’s a crackerjack idea\!”*
-
----
 
 [↑ Back to index](#index)
 
@@ -5377,8 +4526,6 @@ this photo cracks me up
 🗣 *“I’ve got a craving for chocolate.”*  
  🗣 *“She’s craving adventure lately.”*
 
----
-
 [↑ Back to index](#index)
 
 # Creep in
@@ -5387,8 +4534,6 @@ this photo cracks me up
  It means **to enter slowly, quietly, or gradually**, often without being noticed.
 
 It can be used in two main ways:
-
----
 
 ## **1️⃣ Literal Meaning (Physical Movement)**
 
@@ -5400,8 +4545,6 @@ To move inside quietly or secretly.
 * He *crept in* late at night so no one would notice.
 
 Here, “creep” means move slowly and carefully.
-
----
 
 ## **2️⃣ Figurative Meaning (Very Common in Business & Emotions)**
 
@@ -5421,33 +4564,18 @@ This usage is very common in meetings, technical discussions, and emotional cont
 * “Performance issues started creeping in after the new deployment.”  
 * “Data inconsistencies can creep in if validation is not strict.”
 
----
-
 ## **🔹 Simple Explanation**
 
 Think of it like this:
 
 Something enters slowly and gradually — without you realizing it at first.
 
----
-
 [↑ Back to index](#index)
 
 # Crew
 
 **Meaning:** A group working together.  
  **Example:** *The film crew worked overnight.*
-
----
-
-[↑ Back to index](#index)
-
-# Crew
-
-**Meaning:** A group working together.  
- **Example:** *The film crew worked overnight.*
-
----
 
 [↑ Back to index](#index)
 
@@ -5459,8 +4587,6 @@ Something enters slowly and gradually — without you realizing it at first.
 * *“Critics accused the government of crony capitalism.”*  
    🟢 Common in economic or political discussions.
 
----
-
 [↑ Back to index](#index)
 
 # Crucial
@@ -5470,15 +4596,15 @@ Something enters slowly and gradually — without you realizing it at first.
 🗣 *“It’s crucial that we meet this deadline.”*  
  🗣 *“Trust is crucial in any relationship.”*
 
----
-
 [↑ Back to index](#index)
 
 # Crummy
 
+
 [↑ Back to index](#index)
 
 # Crutch
+
 
 [↑ Back to index](#index)
 
@@ -5498,8 +4624,6 @@ Something enters slowly and gradually — without you realizing it at first.
    * "The children cried out in joy when they saw the surprise."  
    * (They shouted with excitement.)
 
----
-
 ### **Cry Loudly (Weeping) vs. Cry Out**
 
 * **Cry loudly**: Refers to weeping or sobbing with tears and noise.  
@@ -5515,8 +4639,6 @@ Meaning: To reduce or decrease something, such as expenses or staff.
 
 * Example 1: Due to budget constraints, we had to cut back on marketing expenses.  
 * Example 2: The company decided to cut back on unnecessary meetings to save time.
-
----
 
 [↑ Back to index](#index)
 
@@ -5538,8 +4660,6 @@ Meaning:
 * Example 1: "I'm cutting down on sugar to improve my health."  
 * Example 2: "They need to cut down on expenses to save more money."
 
----
-
 [↑ Back to index](#index)
 
 # Cut loose
@@ -5559,12 +4679,6 @@ Meaning: To terminate or stop something abruptly.
 * Example 1: The supplier cut off the delivery due to payment issues.  
 * Example 2: The phone call was cut off due to poor network connectivity.
 
----
-
-[↑ Back to index](#index)
-
-# Cut off
-
 To end
 
 He cut off the phone  
@@ -5576,8 +4690,6 @@ He cut off the phone
 
 **Cut short** means **to stop something earlier than planned** or **interrupt it suddenly**.
 
----
-
 ### **Meaning in simple terms:**
 
 * “Cut” \= stop or break.
@@ -5585,8 +4697,6 @@ He cut off the phone
 * “Short” \= before it’s finished.
 
 * Together: **ending something sooner than expected**.
-
----
 
 ### **Spoken usage examples:**
 
@@ -5597,8 +4707,6 @@ He cut off the phone
 3. *His speech was cut short by the fire alarm.*
 
 4. *Their celebration was cut short when the news arrived.*
-
----
 
 💡 **Spoken nuance:**
 
@@ -5629,8 +4737,6 @@ come to the point.
 
 💡 *(Used beautifully in reflective or storytelling tones.)*
 
----
-
 [↑ Back to index](#index)
 
 # day in and day out
@@ -5642,8 +4748,6 @@ The phrase **“day in and day out”** means something that happens **regularly
 * **Work context:** *“I’ve been working on this project day in and day out.”* → I’ve been working on it every single day, consistently.
 
 * **Casual context:** *“He complains about traffic day in and day out.”* → He keeps complaining all the time.
-
----
 
 ✅ Common sentences you can practice:
 
@@ -5688,8 +4792,6 @@ You dazzled me.
  🗣 *“Their new car model will debut next month.”*  
  🗣 *“That was my public speaking debut — nerve-wracking but fun.”*
 
----
-
 [↑ Back to index](#index)
 
 # Deck
@@ -5706,8 +4808,6 @@ The word **deck** has a few common meanings, depending on context:
 
 5. **Slang (informal)** → To **knock someone down** with a punch (e.g., “He decked him with one hit”).
 
----
-
 ### **Usage in sentences (spoken style)**
 
 * **Ship/boat:** “We all gathered on the deck to watch the sunset.”
@@ -5720,8 +4820,6 @@ The word **deck** has a few common meanings, depending on context:
 
 * **Slang:** “He got so angry, he almost decked the guy.”
 
----
-
 ### **Common spoken phrases**
 
 * “Let’s run through the deck before the client call.” (work/presentation context)
@@ -5731,8 +4829,6 @@ The word **deck** has a few common meanings, depending on context:
 * “That being said, I’ll shuffle the deck and deal the cards.” (casual game context)
 
 * “On the other hand, sitting on the deck is nice in the evenings.” (home context)
-
----
 
 👉 I’d encourage you to practice saying:
 
@@ -5751,8 +4847,6 @@ The word **deck** has a few common meanings, depending on context:
 🗣 *“He dedicated himself to teaching underprivileged kids.”*  
  🗣 *“You have to dedicate yourself to your craft.”*
 
----
-
 [↑ Back to index](#index)
 
 # Deflected
@@ -5767,8 +4861,6 @@ The word **deck** has a few common meanings, depending on context:
 
   * “He *deflected* criticism with a joke.”
 
----
-
 [↑ Back to index](#index)
 
 # Delicate
@@ -5779,8 +4871,6 @@ The word **deck** has a few common meanings, depending on context:
 * *“The glass is delicate.”*
 
 * *“It’s a delicate topic — be careful how you say it.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -5801,8 +4891,6 @@ The word **deck** has a few common meanings, depending on context:
 
 Someone related to an ancestor.  
  👉 *“She’s a descendant of a famous king.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -5825,8 +4913,6 @@ he remains a great leader despite age and infirmity
 
 * “Devious” always carries a sly or secretive tone.
 
----
-
 [↑ Back to index](#index)
 
 # Devoted
@@ -5835,8 +4921,6 @@ he remains a great leader despite age and infirmity
 
 🗣 *“She’s devoted to her students.”*  
  🗣 *“He’s a devoted father.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -5847,8 +4931,6 @@ he remains a great leader despite age and infirmity
 🗣 *“Wow, didn’t see that coming at all\!”*  
  🗣 *“That twist in the story — I did not see that coming.”*
 
----
-
 [↑ Back to index](#index)
 
 # Die Down
@@ -5856,34 +4938,12 @@ he remains a great leader despite age and infirmity
 **Meaning:** To become weaker or quieter.  
  **Example:** *The noise finally died down after midnight.*
 
----
-
-[↑ Back to index](#index)
-
-# Die Down
-
-**Meaning:** To become weaker or quieter.  
- **Example:** *The noise finally died down after midnight.*
-
----
-
 [↑ Back to index](#index)
 
 # Diminish
 
 **Meaning:** To make or become smaller or weaker.  
  **Example:** *Don’t let fear diminish your confidence.*
-
----
-
-[↑ Back to index](#index)
-
-# Diminish
-
-**Meaning:** To make or become smaller or weaker.  
- **Example:** *Don’t let fear diminish your confidence.*
-
----
 
 [↑ Back to index](#index)
 
@@ -5912,8 +4972,6 @@ I have some dire news.
 🗣 *“He came to the party in disguise.”*  
  🗣 *“She disguised her disappointment with a smile.”*
 
----
-
 [↑ Back to index](#index)
 
 # Disheveled | dishevel
@@ -5927,8 +4985,6 @@ I have some dire news.
   * “He looked *disheveled* after the long night.”
 
   * “Her *disheveled* look said she’d had a rough day.”
-
----
 
 [↑ Back to index](#index)
 
@@ -5944,8 +5000,6 @@ I have some dire news.
 
   * “The media *distorted* his statement.”
 
----
-
 [↑ Back to index](#index)
 
 # Distress
@@ -5954,8 +5008,6 @@ I have some dire news.
 
 🗣 *“She was in visible distress after the call.”*  
  🗣 *“Financial distress hit many small businesses.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -5966,8 +5018,6 @@ I have some dire news.
 
 🗣 *“Let’s ditch the old plan — it’s not working.”*  
  🗣 *“He ditched class to hang out with friends.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -6040,17 +5090,6 @@ noun
 **Meaning:** The negative aspect of something.  
  **Example:** *The downside of remote work is isolation.*
 
----
-
-[↑ Back to index](#index)
-
-# Downside
-
-**Meaning:** The negative aspect of something.  
- **Example:** *The downside of remote work is isolation.*
-
----
-
 [↑ Back to index](#index)
 
 # Downtime
@@ -6073,8 +5112,6 @@ noun
 
    * *“She uses her downtime to read or go for a walk.”*
 
----
-
 ✅ Sentences to practice:
 
 1. *“We scheduled maintenance to avoid unexpected downtime.”*
@@ -6085,15 +5122,11 @@ noun
 
 4. *“Let’s plan the release in a way that reduces customer downtime.”*
 
----
-
 💡 Context of usage:
 
 * **In IT/Cloud/DevOps meetings** → almost always about servers, systems, or services.
 
 * **In casual life** → relaxation time, break, holiday.
-
----
 
 👉 In your professional calls, instead of saying *“system not working”*, you can naturally say:
 
@@ -6136,8 +5169,6 @@ ask people to look at something
 🗣 *“Tomorrow’s dreaded meeting is giving me anxiety.”*  
  🗣 *“He finally faced the dreaded dentist appointment.”*
 
----
-
 [↑ Back to index](#index)
 
 # Drift away
@@ -6163,12 +5194,6 @@ To **slowly lose focus, interest, or connection**, without realizing it.
 
 🗣️ **Practice tip:** Say it slowly — *“drift a-way”* — stress on **away**.
 
----
-
-[↑ Back to index](#index)
-
-# Drift away
-
 [↑ Back to index](#index)
 
 # Drifted apart
@@ -6182,8 +5207,6 @@ To **slowly lose focus, interest, or connection**, without realizing it.
   * “We *drifted apart* after college.”
 
   * “Over time, the team *drifted apart* due to different goals.”
-
----
 
 [↑ Back to index](#index)
 
@@ -6203,8 +5226,6 @@ When you drift off, you fall asleep gradually and peacefully. If you woke up ear
 
 * It’s a soft, calm way of saying “fell asleep.”
 
----
-
 [↑ Back to index](#index)
 
 # Drill down into
@@ -6223,8 +5244,6 @@ examine or investigate something in detail
 🗣 *“Her drive is what makes the team succeed.”*  
  🗣 *“He’s driven to make a difference.”*
 
----
-
 [↑ Back to index](#index)
 
 # Drop By
@@ -6232,10 +5251,6 @@ examine or investigate something in detail
 To **visit someone briefly** and **without a formal appointment**.
 
 It’s usually **informal**, friendly, and suggests a **short visit** — not staying for long.
-
----
-
----
 
 **🗣️ Usage in Spoken English**
 
@@ -6246,8 +5261,6 @@ Used a lot in **casual conversation**, especially when you want to say:
 * "I came to see you for a bit."
 
 * "I stopped by without planning much."
-
----
 
 **💬 Common Spoken Examples:**
 
@@ -6263,15 +5276,11 @@ Used a lot in **casual conversation**, especially when you want to say:
 4. **"Can I drop by your office for 5 minutes?"**  
     → A quick visit, maybe to talk or check something.
 
----
-
 **🧠 Small things to remember:**
 
 * Similar to **"stop by"** or **"come over"** — but “drop by” is often quicker and more spontaneous.
 
 * It can be **used politely or warmly** in friendly settings or casual workplaces.
-
----
 
 **🗨️ Try using it like this:**
 
@@ -6301,8 +5310,6 @@ Used a lot in **casual conversation**, especially when you want to say:
   * “He *ducked* as the ball flew by.”
 
   * “She *ducked* the question about her promotion.”
-
----
 
 [↑ Back to index](#index)
 
@@ -6346,8 +5353,6 @@ the process of conducting a thorough and careful investigation or research befor
 
    * *“We need to go to the dump to throw away this junk.”* (garbage site)
 
----
-
 ✅ Sentences you can practice:
 
 1. *“Sorry for dumping all this work on you at the last minute.”*
@@ -6357,8 +5362,6 @@ the process of conducting a thorough and careful investigation or research befor
 3. *“I don’t want to dump my problems on you.”*
 
 4. *“We need to dump the logs after processing them.”* (useful in tech)
-
----
 
 💡 In your work (tech/DevOps/ML context), “dump” is often used for data:
 
@@ -6380,8 +5383,6 @@ the process of conducting a thorough and careful investigation or research befor
 
 💡 *(“Eager” has a positive tone, unlike “desperate.”)*
 
----
-
 [↑ Back to index](#index)
 
 # Easier said than done
@@ -6390,8 +5391,6 @@ the process of conducting a thorough and careful investigation or research befor
 
 🗣 *“Managing stress is easier said than done.”*  
  🗣 *“I know I should forgive, but that’s easier said than done.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -6430,17 +5429,6 @@ tourism directed toward exotic, often threatened, natural environments, intended
 **Meaning:** To bring about or cause change.  
  **Example:** *They’re working to effect positive change in the system.*
 
----
-
-[↑ Back to index](#index)
-
-# Effect Change
-
-**Meaning:** To bring about or cause change.  
- **Example:** *They’re working to effect positive change in the system.*
-
----
-
 [↑ Back to index](#index)
 
 # elbow room
@@ -6460,24 +5448,11 @@ Quebec wants a little more elbow room within the federation
 **Meaning:** Old (used respectfully for people).  
  **Example:** *She helps elderly neighbors with groceries.*
 
----
-
-[↑ Back to index](#index)
-
-# Elderly
-
-**Meaning:** Old (used respectfully for people).  
- **Example:** *She helps elderly neighbors with groceries.*
-
----
-
 [↑ Back to index](#index)
 
 # Elusive
 
 The word **“elusive”** is an adjective that means **difficult to find, catch, understand, define, or achieve**.
-
----
 
 ✅ **Examples in sentences:**
 
@@ -6486,8 +5461,6 @@ The word **“elusive”** is an adjective that means **difficult to find, catch
 2. *True happiness can be elusive for many people.* (hard to achieve)
 
 3. *The meaning of the poem is somewhat elusive.* (hard to understand/define)
-
----
 
 👉 In **spoken English**, people often use it to describe something that always seems just out of reach:
 
@@ -6512,8 +5485,6 @@ The word **“elusive”** is an adjective that means **difficult to find, catch
 
 👉 *Tip:* Often used for people or products symbolizing qualities.
 
----
-
 [↑ Back to index](#index)
 
 # Embrace
@@ -6524,25 +5495,12 @@ The word **“elusive”** is an adjective that means **difficult to find, catch
 🗣 *“He embraced the new culture quickly.”*  
  🗣 *“We need to embrace failure as part of growth.”*
 
----
-
 [↑ Back to index](#index)
 
 # Employment Rate
 
 **Meaning:** The percentage of people employed.  
  **Example:** *The employment rate rose this year.*
-
----
-
-[↑ Back to index](#index)
-
-# Employment Rate
-
-**Meaning:** The percentage of people employed.  
- **Example:** *The employment rate rose this year.*
-
----
 
 [↑ Back to index](#index)
 
@@ -6553,8 +5511,6 @@ The word **“elusive”** is an adjective that means **difficult to find, catch
 🗣 *“He tries to emulate his mentor’s work ethic.”*  
  🗣 *“Great artists don’t copy — they emulate and evolve.”*
 
----
-
 [↑ Back to index](#index)
 
 # End up
@@ -6563,8 +5519,6 @@ The word **“elusive”** is an adjective that means **difficult to find, catch
 
 🗣 *“We ended up watching a movie instead.”*  
  🗣 *“He ended up becoming a chef.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -6592,8 +5546,6 @@ It often means:
 
 👉 This phrase sounds **strong and impactful**, great for presentations.
 
----
-
 [↑ Back to index](#index)
 
 # Enlighten the senses
@@ -6603,25 +5555,12 @@ It often means:
 🗣 *“That trip to Japan really enlightened my senses.”*  
  🗣 *“Good art enlightens the senses as much as the mind.”*
 
----
-
 [↑ Back to index](#index)
 
 # Enraged
 
 **Meaning:** Extremely angry.  
  **Example:** *He was enraged by the unfair treatment.*
-
----
-
-[↑ Back to index](#index)
-
-# Enraged
-
-**Meaning:** Extremely angry.  
- **Example:** *He was enraged by the unfair treatment.*
-
----
 
 [↑ Back to index](#index)
 
@@ -6633,8 +5572,6 @@ It often means:
 🗣 *“Please enunciate — I couldn’t understand you.”*  
  🗣 *“He enunciated his vision for the company beautifully.”*
 
----
-
 [↑ Back to index](#index)
 
 # Envisage
@@ -6644,8 +5581,6 @@ It often means:
 
 * *“I can’t envisage a world without music.”*  
    🟢 Slightly formal, but great for thoughtful speech.
-
----
 
 [↑ Back to index](#index)
 
@@ -6671,8 +5606,6 @@ It often means:
 
   * Example: *“The workload is at an epic level this week.”*
 
----
-
 ✅ **Spoken practice sentences:**
 
 * “That movie was on an epic level, I didn’t expect it to be so good.”
@@ -6694,8 +5627,6 @@ It often means:
 🗣 *“I had an epiphany about what I really want in life.”*  
  🗣 *“That conversation gave me a huge epiphany.”*
 
----
-
 [↑ Back to index](#index)
 
 # Epitomized
@@ -6706,8 +5637,6 @@ It often means:
 * *“She epitomized grace and strength.”*
 
 * *“That moment epitomized their teamwork.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -6720,8 +5649,6 @@ Meaning:
 * Example 1: "The real culprit escaped blame while someone else was accused."  
 * Example 2: "He managed to escape punishment by proving his innocence."
 
----
-
 [↑ Back to index](#index)
 
 # Establish oneself
@@ -6730,8 +5657,6 @@ Meaning:
 
 🗣 *“It takes years to establish yourself as an expert.”*  
  🗣 *“He’s established himself as a trusted voice in marketing.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -6755,8 +5680,6 @@ Ever since I decided to refuse to settle, my life has been on a path of unstoppa
 🗣 *“She packed everything but the kitchen sink for a two-day trip.”*  
  🗣 *“That film had action, romance, comedy — everything but the kitchen sink.”*
 
----
-
 [↑ Back to index](#index)
 
 # Exasperated
@@ -6767,8 +5690,6 @@ Ever since I decided to refuse to settle, my life has been on a path of unstoppa
 * *“He sighed, exasperated by her stubbornness.”*
 
 * *“I’m getting exasperated with all these delays.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -6787,8 +5708,6 @@ Young people may feel unreasonable expectations about life if they only follow l
 **Meaning:** To speed up a process.  
  **Example:** *Can you expedite the shipment?*
 
----
-
 [↑ Back to index](#index)
 
 # Exposure
@@ -6796,8 +5715,6 @@ Young people may feel unreasonable expectations about life if they only follow l
 **Meaning:** The state of being visible or unprotected; also, experience or attention.  
  **Example:** *Too much sun exposure can damage your skin.*  
  *The new brand got huge exposure online.*
-
----
 
 [↑ Back to index](#index)
 
@@ -6809,8 +5726,6 @@ Young people may feel unreasonable expectations about life if they only follow l
 🗣 *“Aesop’s fables never get old.”*  
  🗣 *“His success story is almost a modern fable.”*
 
----
-
 [↑ Back to index](#index)
 
 # Facade
@@ -6821,13 +5736,9 @@ Young people may feel unreasonable expectations about life if they only follow l
 🗣 *“The house has a grand facade.”*  
  🗣 *“Behind her cheerful facade, she was struggling.”*
 
----
-
 [↑ Back to index](#index)
 
 # Face value
-
----
 
 **1️⃣ Literal meaning — The printed value of something**  
  The amount written on a coin, stamp, ticket, or financial document.
@@ -6836,8 +5747,6 @@ Young people may feel unreasonable expectations about life if they only follow l
 
 * *"The coin’s face value is one dollar, but collectors will pay more."*
 
----
-
 **2️⃣ Figurative meaning — Accepting something as it appears, without questioning**  
  Taking someone’s words or actions exactly as they are presented, without looking deeper for hidden meaning.
 
@@ -6845,15 +5754,11 @@ Young people may feel unreasonable expectations about life if they only follow l
 
 * *"You can’t take everything she says at face value—sometimes she’s joking."*
 
----
-
 💡 **Tone note:**
 
 * “At face value” often implies *you’re not digging deeper*.
 
 * In everyday speech, it’s often used to warn someone not to be too trusting.
-
----
 
 [↑ Back to index](#index)
 
@@ -6863,8 +5768,6 @@ Young people may feel unreasonable expectations about life if they only follow l
 
 🗣 *“I tried baking once and failed miserably.”*  
  🗣 *“The plan failed miserably, but we learned a lot.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -6880,8 +5783,6 @@ Young people may feel unreasonable expectations about life if they only follow l
 * “Our plan fell apart due to poor coordination.”
 
 👉 *Spoken tip:* Use it for both physical and emotional collapse.
-
----
 
 [↑ Back to index](#index)
 
@@ -6901,6 +5802,7 @@ fail to meet a commitment to make a regular payment.
 
 # fall for
 
+
 [↑ Back to index](#index)
 
 # Falsify
@@ -6914,8 +5816,6 @@ fail to meet a commitment to make a regular payment.
 
 💡 *(Common in legal, academic, or ethical discussions.)*
 
----
-
 [↑ Back to index](#index)
 
 # Familiarize
@@ -6925,11 +5825,10 @@ fail to meet a commitment to make a regular payment.
 🗣 *“Take some time to familiarize yourself with the software.”*  
  🗣 *“I need to familiarize myself with the new policies.”*
 
----
-
 [↑ Back to index](#index)
 
 # Fancy a cuppa
+
 
 [↑ Back to index](#index)
 
@@ -6946,10 +5845,6 @@ To **fend off** means to **defend yourself against something** or **stop somethi
 
 Think of it as *pushing something away before it hits you*.
 
----
-
----
-
 ### **Usage in sentences**
 
 1. **Physical threat**:  
@@ -6961,8 +5856,6 @@ Think of it as *pushing something away before it hits you*.
 4. **Workplace context (your field)**:  
     *“We added an auto-scaling rule to **fend off** unexpected traffic spikes.”*
 
----
-
 ### **Common spoken phrases you can use**
 
 Here are some natural conversational lines you can practice:
@@ -6973,8 +5866,6 @@ Here are some natural conversational lines you can practice:
 * **“For example, rate-limiting helps us fend off API abuse.”**
 
 Try saying these aloud — it helps your spoken fluency and flow.
-
----
 
 ### **Where you can use it**
 
@@ -6992,8 +5883,6 @@ Try saying these aloud — it helps your spoken fluency and flow.
 
 🗣 *“She’s a fervent believer in education.”*  
  🗣 *“His fervent speech moved everyone.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -7013,23 +5902,17 @@ He was just **fiddling around** instead of finishing the task.
 
 Meaning: He wasn’t seriously working.
 
----
-
 ### **2️⃣ Playing with something (hands, phone, object)**
 
 Stop **fiddling around** with your phone and listen.
 
 Meaning: Don’t keep touching or playing with it.
 
----
-
 ### **3️⃣ Casual experimenting (neutral / slightly positive)**
 
 I was **fiddling around** with the code to see if it works.
 
 Meaning: Trying things informally, no strict plan.
-
----
 
 Use these in meetings or casual talk:
 
@@ -7040,8 +5923,6 @@ Use these in meetings or casual talk:
 
 👉 Say them **out loud** once or twice — this phrase is very rhythm-based.
 
----
-
 * **fiddle around with**
 
    “He’s **fiddling around with** the configuration.”
@@ -7051,8 +5932,6 @@ Use these in meetings or casual talk:
   * *play around*  
   * *tinker with* (more technical / positive)
 
----
-
 As an architect or engineer, this sounds **informal**, so use it carefully:
 
 ❌ “I was fiddling around with production config.”  
@@ -7061,8 +5940,6 @@ As an architect or engineer, this sounds **informal**, so use it carefully:
 But in **casual team talk**, it’s perfectly fine:
 
 “I was just **fiddling around** locally to understand the flow.”
-
----
 
 Pair it with connectors:
 
@@ -7079,8 +5956,6 @@ Pair it with connectors:
 🗣 *“Their fidelity to the mission was inspiring.”*  
  🗣 *“This speaker has incredible sound fidelity.”*
 
----
-
 [↑ Back to index](#index)
 
 # Field
@@ -7092,18 +5967,9 @@ Pair it with connectors:
  🗣 *“She’s one of the best doctors in her field.”*  
  🗣 *“The spokesperson fielded all the tough questions.”*
 
----
-
 [↑ Back to index](#index)
 
 # Figure out
-
-**Figure out** – To understand or solve something.  
- I can't figure out this math problem.
-
-[↑ Back to index](#index)
-
-# figure out
 
 phrasal verb of figure  
 solve a problem or discover the answer to a question.  
@@ -7112,9 +5978,8 @@ solve a problem or discover the answer to a question.
 reach an understanding of a person's actions, motives, or personality.  
 "I've never been able to figure him out"
 
-[↑ Back to index](#index)
-
-# Figure out
+**Figure out** – To understand or solve something.  
+ I can't figure out this math problem.
 
 [↑ Back to index](#index)
 
@@ -7125,8 +5990,6 @@ Meaning: To provide information or substitute for someone temporarily.
 * Example 1: Can you fill in for me while I’m on vacation?  
 * Example 2: Please fill in the blanks to complete the form.
 
----
-
 [↑ Back to index](#index)
 
 # Fill in for
@@ -7135,15 +5998,6 @@ Meaning: To substitute or temporarily take someone’s place.
 
 * Example 1: Can you fill in for John while he’s on sick leave?  
 * Example 2: She filled in for her colleague during his vacation.
-
----
-
-[↑ Back to index](#index)
-
-# Fill out
-
-**Fill out** – To complete a form.  
- Please fill out this application form.
 
 [↑ Back to index](#index)
 
@@ -7154,7 +6008,8 @@ Meaning: To complete or provide information on a form or document.
 * Example 1: Please fill out the application form and submit it by Friday.  
 * Example 2: He filled out the registration form quickly and handed it to the receptionist.
 
----
+**Fill out** – To complete a form.  
+ Please fill out this application form.
 
 [↑ Back to index](#index)
 
@@ -7165,8 +6020,6 @@ Meaning: To reach maximum capacity or occupancy.
 * Example 1: The conference room filled up quickly, so we had to find an alternative space.  
 * Example 2: The parking lot filled up within minutes of opening.
 
----
-
 [↑ Back to index](#index)
 
 # Filthy
@@ -7174,34 +6027,12 @@ Meaning: To reach maximum capacity or occupancy.
 **Meaning:** Extremely dirty.  
  **Example:** *The room was filthy after the party.*
 
----
-
-[↑ Back to index](#index)
-
-# Filthy
-
-**Meaning:** Extremely dirty.  
- **Example:** *The room was filthy after the party.*
-
----
-
 [↑ Back to index](#index)
 
 # Find One’s Bearing
 
 **Meaning:** To figure out where you are or what to do.  
  **Example:** *It took me a while to find my bearings in the new city.*
-
----
-
-[↑ Back to index](#index)
-
-# Find One’s Bearing
-
-**Meaning:** To figure out where you are or what to do.  
- **Example:** *It took me a while to find my bearings in the new city.*
-
----
 
 [↑ Back to index](#index)
 
@@ -7214,9 +6045,11 @@ Meaning: To reach maximum capacity or occupancy.
 
 # Fine-tune
 
+
 [↑ Back to index](#index)
 
 # Fire up
+
 
 [↑ Back to index](#index)
 
@@ -7247,20 +6080,10 @@ his reputation is now firmly established
 **Meaning:** To focus too much on something.  
  **Example:** *Don’t fixate on your mistakes.*
 
----
-
-[↑ Back to index](#index)
-
-# Fixate On
-
-**Meaning:** To focus too much on something.  
- **Example:** *Don’t fixate on your mistakes.*
-
----
-
 [↑ Back to index](#index)
 
 # Flashback
+
 
 [↑ Back to index](#index)
 
@@ -7271,8 +6094,6 @@ his reputation is now firmly established
 
 🗣 *“I use flashcards to memorize vocabulary.”*  
  🗣 *“Flashcards make studying less boring.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -7286,8 +6107,6 @@ his reputation is now firmly established
  🗣 *“He delivered a flawless pitch to investors.”*
 
 💡 *(Often used in praise — formal or informal.)*
-
----
 
 [↑ Back to index](#index)
 
@@ -7306,8 +6125,6 @@ a shabby and unpleasant motel or hotel
 🗣 *“The thief fled the scene.”*  
  🗣 *“They had to flee the country during the war.”*
 
----
-
 [↑ Back to index](#index)
 
 # Flip a switch
@@ -7317,8 +6134,6 @@ a shabby and unpleasant motel or hotel
 
 🗣 *“She can flip a switch and go from calm to focused.”*  
  🗣 *“It’s like he flipped a switch and became a new person.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -7330,16 +6145,12 @@ a shabby and unpleasant motel or hotel
 🗣 *“The leaf floated on the water.”*  
  🗣 *“He floated the idea of a new design concept.”*
 
----
-
 [↑ Back to index](#index)
 
 # Flour
 
 **Meaning:** Powder made from grains, used in baking.  
  **Example:** *Add some flour to make the dough.*
-
----
 
 [↑ Back to index](#index)
 
@@ -7351,8 +6162,6 @@ a shabby and unpleasant motel or hotel
 🗣 *“The river flows calmly.”*  
  🗣 *“Once you get in the flow, work feels effortless.”*
 
----
-
 [↑ Back to index](#index)
 
 # Fluff
@@ -7362,8 +6171,6 @@ a shabby and unpleasant motel or hotel
 
 🗣 *“Cut the fluff and get to the point.”*  
  🗣 *“That report was full of fluff but no real insight.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -7405,16 +6212,12 @@ Example: "He will follow through with the project to ensure its success."
 🗣 *“Stop fooling around and focus.”*  
  🗣 *“They were just fooling around, nothing serious.”*
 
----
-
 [↑ Back to index](#index)
 
 # For a Living
 
 **Meaning:** As a job or profession.  
  **Example:** *What do you do for a living?*
-
----
 
 [↑ Back to index](#index)
 
@@ -7432,8 +6235,6 @@ The phrase **“for all intents and purposes”** means *“in every practical s
 
 Here, it means: *maybe not officially, but effectively that’s the case*.
 
----
-
 ### **Common usage in spoken English:**
 
 1. *“The new system is, for all intents and purposes, the same as the old one.”*
@@ -7444,15 +6245,11 @@ Here, it means: *maybe not officially, but effectively that’s the case*.
 
 4. *“She isn’t my boss on paper, but for all intents and purposes, she calls the shots.”*
 
----
-
 ### **When to use it:**
 
 * In **work discussions** when you want to emphasize the *practical effect* rather than the *technical detail*.
 
 * In **casual conversations** when you want to say something is *basically true, even if not formally*.
-
----
 
 💡 Practice tip: Try speaking aloud with different tones. For example:
 
@@ -7486,19 +6283,11 @@ Here, it means: *maybe not officially, but effectively that’s the case*.
 
 👉 In spoken English, when you hear *forging ahead* or *forging a path*, it usually refers to progress and determination.
 
----
-
 ### **🔹 Brewing**
-
-**Literal meaning**:
 
 * Preparing a drink (like tea, coffee, beer) by mixing/steeping.
 
-**Figurative meaning (in day-to-day English):**
-
 * Something is developing or building up, usually something **about to happen** (good or bad).
-
-**Usage in spoken English:**
 
 * *"A storm is brewing."* → something troublesome is about to come.
 
@@ -7507,8 +6296,6 @@ Here, it means: *maybe not officially, but effectively that’s the case*.
 * *"There’s excitement brewing about the new project."* → anticipation is growing.
 
 👉 When people say *something is brewing*, it implies **expectation**—something is forming in the background and will soon show up.
-
----
 
 ### **🔹 Difference in spoken tone**
 
@@ -7519,8 +6306,6 @@ Here, it means: *maybe not officially, but effectively that’s the case*.
 * **Brewing** \= **silent buildup** (something is slowly forming, often in the background, not directly controlled).
 
   * *"There’s a conflict brewing in the office."* (It’s forming quietly, not by someone’s direct action.)
-
----
 
 ✅ So in short:
 
@@ -7538,8 +6323,6 @@ Here, it means: *maybe not officially, but effectively that’s the case*.
 🗣 *“He’s a former athlete turned coach.”*  
  🗣 *“She’s nothing like her former self — much more confident now.”*
 
----
-
 [↑ Back to index](#index)
 
 # Fowl
@@ -7549,8 +6332,6 @@ Here, it means: *maybe not officially, but effectively that’s the case*.
 
 🗣 *“They raise fowls on their farm.”*  
  🗣 *“The dish was made with wild fowl.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -7562,8 +6343,6 @@ Here, it means: *maybe not officially, but effectively that’s the case*.
 * *“He joined a frat during his first year.”*  
    🟢 Sometimes used negatively (party culture), sometimes neutrally.
 
----
-
 [↑ Back to index](#index)
 
 # Freckle
@@ -7574,8 +6353,6 @@ Here, it means: *maybe not officially, but effectively that’s the case*.
 🗣 *“She has cute freckles on her nose.”*  
  🗣 *“His face was freckled from years in the sun.”*
 
----
-
 [↑ Back to index](#index)
 
 # Fresh out of
@@ -7585,8 +6362,6 @@ Here, it means: *maybe not officially, but effectively that’s the case*.
 
 🗣 *“Sorry, we’re fresh out of milk.”*  
  🗣 *“He’s fresh out of college and already has a job.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -7605,8 +6380,6 @@ Here, it means: *maybe not officially, but effectively that’s the case*.
 
 💡 *(“Fringe benefits” \= extra perks beyond salary.)*
 
----
-
 [↑ Back to index](#index)
 
 # From scratch
@@ -7615,8 +6388,6 @@ Here, it means: *maybe not officially, but effectively that’s the case*.
 
 🗣 *“She built her company from scratch.”*  
  🗣 *“I made this cake from scratch\!”*
-
----
 
 [↑ Back to index](#index)
 
@@ -7628,8 +6399,6 @@ It’s very similar to *“going forward”*, but it feels a bit **stronger and 
 
 * **From this point on** → more direct, often used when marking a **clear change in approach** or **a decision moment**.
 
----
-
 ### **✅ Usage in spoken English:**
 
 * *“From this point on, I’ll be more careful with my words.”*
@@ -7637,8 +6406,6 @@ It’s very similar to *“going forward”*, but it feels a bit **stronger and 
 * *“We’re not accepting late submissions from this point on.”*
 
 * *“From this point on, things will be different.”*
-
----
 
 ### **📐 Examples in Architecture & Solution Design context:**
 
@@ -7672,8 +6439,6 @@ It’s very similar to *“going forward”*, but it feels a bit **stronger and 
 
    * *“From this point on, every sprint review will include architecture validation.”*
 
----
-
 👉 Quick difference in tone:
 
 * *“Going forward, we’ll follow microservices.”* → polite, future-oriented.
@@ -7694,8 +6459,6 @@ It’s very similar to *“going forward”*, but it feels a bit **stronger and 
 
   * “Smoking indoors is *frowned upon* here.”
 
----
-
 [↑ Back to index](#index)
 
 # Fudge
@@ -7706,8 +6469,6 @@ It’s very similar to *“going forward”*, but it feels a bit **stronger and 
 *“He fudged the numbers in his report.”*  
 *“Don’t fudge your excuses — just tell me the truth.”*
 
----
-
 [↑ Back to index](#index)
 
 # Fulfill
@@ -7716,8 +6477,6 @@ It’s very similar to *“going forward”*, but it feels a bit **stronger and 
 
 🗣 *“She finally fulfilled her childhood dream.”*  
  🗣 *“Helping others fulfills me more than money ever could.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -7730,8 +6489,6 @@ It’s very similar to *“going forward”*, but it feels a bit **stronger and 
  🗣 *“That hike was exhausting but incredibly fulfilling.”*  
  🗣 *“I want work that feels fulfilling, not just well-paid.”*
 
----
-
 [↑ Back to index](#index)
 
 # Fulfillment
@@ -7741,8 +6498,6 @@ It’s very similar to *“going forward”*, but it feels a bit **stronger and 
 🗣 *“Helping others gives me deep fulfillment.”*  
  🗣 *“He’s chasing fulfillment, not fame.”*
 
----
-
 [↑ Back to index](#index)
 
 # Full potential
@@ -7751,8 +6506,6 @@ It’s very similar to *“going forward”*, but it feels a bit **stronger and 
 
 🗣 *“You’re not using your full potential yet.”*  
  🗣 *“The system hasn’t reached its full potential.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -7771,8 +6524,6 @@ this species has a quiet charm and, furthermore, is an easy garden plant
 **Meaning:** Something that completely changes a situation.  
  **Example:** *Cloud computing was a game changer for the tech industry.*
 
----
-
 [↑ Back to index](#index)
 
 # Game of Cat and Mouse
@@ -7789,8 +6540,6 @@ this species has a quiet charm and, furthermore, is an easy garden plant
 
 🗣 *“The soldiers were ordered back to the garrison.”*  
  🗣 *“This office feels like a garrison during crunch time.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -7812,8 +6561,6 @@ this species has a quiet charm and, furthermore, is an easy garden plant
 
   *“He gasped for breath after running.”*
 
----
-
 [↑ Back to index](#index)
 
 # Gauge
@@ -7825,8 +6572,6 @@ this species has a quiet charm and, furthermore, is an easy garden plant
  🗣 *“It’s hard to gauge his reaction over text.”*  
  🗣 *“She gauged the mood of the room before speaking.”*
 
----
-
 [↑ Back to index](#index)
 
 # Gear up
@@ -7835,8 +6580,6 @@ Meaning: To prepare or get ready for something.
 
 * Example 1: The team is gearing up for the product launch next week.  
 * Example 2: We’re gearing up for the annual conference.
-
----
 
 [↑ Back to index](#index)
 
@@ -7852,8 +6595,6 @@ Used when someone **receives** or **is given** something.
 
 * Did you **get** my email? → (receive)
 
----
-
 ## **💰 2\. “Get” meaning to obtain / buy**
 
 Used when you **obtain**, **buy**, or **secure** something.
@@ -7863,8 +6604,6 @@ Used when you **obtain**, **buy**, or **secure** something.
 * He **got** a ticket for the concert. → (obtained)
 
 * Can you **get** me a coffee? → (buy or bring)
-
----
 
 ## **🚶 3\. “Get” meaning to arrive / reach**
 
@@ -7876,8 +6615,6 @@ Used when you **reach** a place.
 
 * It’s hard to **get** there by bus.
 
----
-
 ## **🧠 4\. “Get” meaning to understand**
 
 Used when you **understand** something.
@@ -7888,8 +6625,6 @@ Used when you **understand** something.
 
 * Finally, I **got** the concept.
 
----
-
 ## **🔄 5\. “Get” meaning to become / change state**
 
 This is one of the most common uses — **“get \+ adjective”** means **to become** that state.
@@ -7899,8 +6634,6 @@ This is one of the most common uses — **“get \+ adjective”** means **to be
 * Don’t **get** angry. → (become angry)
 
 * I **got** tired after work. → (became tired)
-
----
 
 ## **🧍‍♂️ 6\. “Get” with past participle → passive meaning**
 
@@ -7914,8 +6647,6 @@ Used to show something **happened to someone**, often unexpectedly.
 
 *(It’s similar to “be \+ past participle,” but more informal.)*
 
----
-
 ## **🧳 7\. “Get” meaning to fetch / bring**
 
 Used when someone **goes and brings** something or someone.
@@ -7926,8 +6657,6 @@ Used when someone **goes and brings** something or someone.
 
 * He went to **get** his sister from school.
 
----
-
 ## **❤️ 8\. “Get” meaning to have the chance to do something**
 
 * I **got** to meet the CEO. → (had the opportunity)
@@ -7935,8 +6664,6 @@ Used when someone **goes and brings** something or someone.
 * You’ll **get** to see the Eiffel Tower.
 
 * We **got** to try the new restaurant yesterday.
-
----
 
 ## **💬 9\. “Get” in phrasal verbs (changes meaning entirely\!)**
 
@@ -7951,8 +6678,6 @@ Here are some common examples:
 | **get off** | leave a vehicle | We **got off** the train. |
 | **get in** | enter / arrive | The flight **got in** late. |
 | **get away** | escape / take a vacation | We **got away** for the weekend. |
-
----
 
 ## **💡 10\. “Get” in idioms**
 
@@ -7969,8 +6694,6 @@ Here are a few common idiomatic uses:
 
 * **get into trouble** → face problems or punishment  
    *He got into trouble at school.*
-
----
 
 ## **🗣 Bonus: “Get” for emotional reaction or emphasis**
 
@@ -7996,6 +6719,7 @@ he's not very good at getting his ideas across
 
 # Get along
 
+
 [↑ Back to index](#index)
 
 # get along / get along with
@@ -8012,16 +6736,12 @@ he does not get along with his son
 
 "Get along" has two main meanings depending on the context:
 
----
-
 ### **1\. To have a good relationship with someone**
 
 * **Meaning**: When two people are friendly and can work or live together without conflicts.  
 * **Examples**:  
   * "I get along with my coworkers." (I have a good relationship with them.)  
   * "Do you and your siblings get along?" (Are you friendly with each other?)
-
----
 
 ### **2\. To manage or survive (often despite difficulties)**
 
@@ -8032,8 +6752,6 @@ he does not get along with his son
 
 **Get along (with)** – To have a good relationship.  
  I get along well with my sister.
-
----
 
 ### **Usage Tips**
 
@@ -8051,10 +6769,6 @@ Verb छुटकारा पाना
 go places, especially by some kind of transportation
 
 you're not getting around me that easily
-
-[↑ Back to index](#index)
-
-# Get around
 
 [↑ Back to index](#index)
 
@@ -8082,25 +6796,17 @@ used to express disbelief or scepticism
 
 [↑ Back to index](#index)
 
-# Get away
-
-[↑ Back to index](#index)
-
 # Get away with
-
-To escape
-
-He got away with the punishment.
-
-[↑ Back to index](#index)
-
-# get away with
 
 verb
 
 escape blame, punishment, or undesirable consequences for an act that is wrong
 
 you'll never get away with this
+
+To escape
+
+He got away with the punishment.
 
 [↑ Back to index](#index)
 
@@ -8172,8 +6878,6 @@ This is about starting to do or take part in an activity, hobby, job, or topic.
 
   * *"How did you get into cloud computing?"*
 
----
-
 ### **2️⃣ To develop an interest in something**
 
 Often about starting to enjoy or follow something more deeply.
@@ -8186,21 +6890,15 @@ Often about starting to enjoy or follow something more deeply.
 
   * *"He’s getting into jazz music lately."*
 
----
-
 ### **3️⃣ To be accepted or admitted somewhere**
 
 Usually for schools, colleges, clubs, organizations.
 
 * **Meaning:** Gain entry or approval to join.
 
-* **Examples:**
-
   * *"She got into Harvard\!"*
 
   * *"I’m trying to get into that members-only club."*
-
----
 
 ### **4️⃣ To discuss something in detail**
 
@@ -8208,21 +6906,15 @@ Used when you start explaining more deeply.
 
 * **Meaning:** Delve deeper into a topic or issue.
 
-* **Examples:**
-
   * *"Let’s not get into politics right now."*
 
   * *"Can you get into the details of the architecture design?"*
-
----
 
 ### **5️⃣ To be in the mood for something / to start feeling it**
 
 This is more emotional or situational.
 
 * **Meaning:** Become mentally/emotionally engaged.
-
-* **Examples:**
 
   * *"The crowd is really getting into the concert."*
 
@@ -8244,14 +6936,6 @@ He was getting off the car.
 
 # Get off on something
 
-[↑ Back to index](#index)
-
-# Get Off Work
-
-**Meaning:** To finish one’s work for the day.  
- **Example:** *I get off work at six.*
-
----
 
 [↑ Back to index](#index)
 
@@ -8259,8 +6943,6 @@ He was getting off the car.
 
 **Meaning:** To finish one’s work for the day.  
  **Example:** *I get off work at six.*
-
----
 
 [↑ Back to index](#index)
 
@@ -8287,8 +6969,6 @@ Meaning:
 * Example 1: "I'll get on to the manager about your complaint."  
 * Example 2: "The team quickly got on to the next task after completing the report."
 
----
-
 [↑ Back to index](#index)
 
 # get one's feet wet
@@ -8308,8 +6988,6 @@ get your feet wet
 🗣 *“Good leaders aren’t afraid to get their hands dirty.”*  
  🗣 *“You’ll learn faster if you get your hands dirty with real experience.”*
 
----
-
 [↑ Back to index](#index)
 
 # Get one’s point across
@@ -8318,8 +6996,6 @@ get your feet wet
 
 🗣 *“I hope I got my point across in the meeting.”*  
  🗣 *“He struggles to get his point across when he’s nervous.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -8359,10 +7035,6 @@ he struggles to get over her
 
 “Get over it” is an idiom that means to accept something that has happened in the past and move on. It can also mean to stop feeling unhappy or bothered by something, or to finish something like an illness or emotional upset. For example, you might say "He was disappointed at not getting the job, but he'll get over it". 
 
-[↑ Back to index](#index)
-
-# Get over it
-
 "Get over it" or "get over (something)" means to stop feeling unhappy about something, or stop being controlled or bothered by something. 
 
 [↑ Back to index](#index)
@@ -8383,8 +7055,6 @@ we have been campaigning to get rid of the car tax for 20 years
 
 🗣 *“Don’t let that comment get you down.”*  
  🗣 *“Rainy weather always gets me down.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -8428,6 +7098,7 @@ What did you get up to last weekend?
 
 # Get word
 
+
 [↑ Back to index](#index)
 
 # Get your shit together
@@ -8456,8 +7127,6 @@ a popular island getaway
 🗣 *“That sounded like total gibberish to me.”*  
  🗣 *“His emails are full of technical gibberish.”*
 
----
-
 [↑ Back to index](#index)
 
 # Giggled
@@ -8469,35 +7138,12 @@ a popular island getaway
 
 * *“She giggled shyly when he complimented her.”*
 
----
-
 [↑ Back to index](#index)
 
 # Give a Cue
 
 **Meaning:** To signal someone to do something.  
  **Example:** *He gave me the cue to start speaking.*
-
----
-
-[↑ Back to index](#index)
-
-# Give a Cue
-
-**Meaning:** To signal someone to do something.  
- **Example:** *He gave me the cue to start speaking.*
-
----
-
-[↑ Back to index](#index)
-
-# Give a shit
-
-(Casual/slang) To care about something.  
- 👉 *“I don’t give a shit what they think.”*  
- *(use carefully — informal & rude)*
-
----
 
 [↑ Back to index](#index)
 
@@ -8512,7 +7158,9 @@ a popular island getaway
 
 ⚠️ *Use casually or among friends — not in formal settings.*
 
----
+(Casual/slang) To care about something.  
+ 👉 *“I don’t give a shit what they think.”*  
+ *(use carefully — informal & rude)*
 
 [↑ Back to index](#index)
 
@@ -8522,18 +7170,6 @@ a popular island getaway
 
 🗣 *“I’ll give him the benefit of the doubt — maybe he just forgot.”*  
  🗣 *“Let’s give her the benefit of the doubt before jumping to conclusions.”*
-
----
-
-[↑ Back to index](#index)
-
-# give something a miss
-
-phrase
-
-decide not to do something
-
-Clive felt uneasy about the event, so he decided to give it a miss this time round.
 
 [↑ Back to index](#index)
 
@@ -8554,8 +7190,6 @@ Clive felt uneasy about the event, so he decided to give it a miss this time rou
 🗣 *“I’ve never done yoga, but I’ll give it a try.”*  
  🗣 *“Give it a try — you might surprise yourself.”*
 
----
-
 [↑ Back to index](#index)
 
 # Give up
@@ -8566,8 +7200,6 @@ I just want to get rid of this trouble
 
 **Give up** – To stop trying.  
  Don’t give up—you’re almost there\!
-
----
 
 [↑ Back to index](#index)
 
@@ -8584,8 +7216,6 @@ I just want to get rid of this trouble
  🗣 *“His nervous smile was a dead giveaway that he was lying.”*  
  🗣 *“The accent was a giveaway that she wasn’t local.”*
 
----
-
 [↑ Back to index](#index)
 
 # Given
@@ -8600,8 +7230,6 @@ I just want to get rid of this trouble
 
 It’s a quick way to say *“because of”* or *“taking into account.”*
 
----
-
 ### **2\. As an adjective (meaning "particular / fixed")**
 
 * *“On any given day, you’ll find her at the library.”* (on any particular day)
@@ -8610,8 +7238,6 @@ It’s a quick way to say *“because of”* or *“taking into account.”*
 
 This is used when talking about something specific in a context.
 
----
-
 ### **3\. As a noun (something taken as true / a fact) (less spoken, more academic/formal)**
 
 * *“That’s a given.”* (That’s obvious / certain.)
@@ -8619,8 +7245,6 @@ This is used when talking about something specific in a context.
 * *“It’s a given that prices will rise.”*
 
 This is very natural in spoken English when you mean something is obvious.
-
----
 
 ✅ In everyday spoken English, **\#1 and \#3 are most common**:
 
@@ -8668,8 +7292,6 @@ The phrase **"gloss over"** (not "glass over") is a **phrasal verb** that means:
 
 It’s often used when someone avoids going into detail about a mistake, problem, or sensitive topic.
 
----
-
 ### **🔹 How to Use "Gloss Over" in Spoken English:**
 
 #### **1\. Talking about Avoiding Details**
@@ -8692,8 +7314,6 @@ It’s often used when someone avoids going into detail about a mistake, problem
 
 * "He glossed over what happened last night. I could tell he was hiding something."
 
----
-
 ### **💡 Pro Tip:**
 
 **Tone matters.** "Gloss over" often has a **negative or critical** tone. It implies someone is **not being transparent** or is **avoiding the truth**.
@@ -8701,16 +7321,6 @@ It’s often used when someone avoids going into detail about a mistake, problem
 [↑ Back to index](#index)
 
 # gnaw
-
-verb
-
-cause persistent and wearing distress or anxiety
-
-the doubts continued to gnaw at me
-
-[↑ Back to index](#index)
-
-# Gnaw
 
 **Literal meaning:** To bite or chew repeatedly.  
  **Figurative meaning:** To mentally or emotionally trouble someone.
@@ -8720,7 +7330,11 @@ the doubts continued to gnaw at me
 
 💡 *(“Gnawing feeling” \= persistent unease or anxiety.)*
 
----
+verb
+
+cause persistent and wearing distress or anxiety
+
+the doubts continued to gnaw at me
 
 [↑ Back to index](#index)
 
@@ -8773,8 +7387,6 @@ Meaning:
 * Example 1: "Several businesses went bankrupt during the economic crisis."  
 * Example 2: "The company filed for bankruptcy after years of declining revenue."
 
----
-
 [↑ Back to index](#index)
 
 # go cold turkey
@@ -8811,8 +7423,6 @@ Prices of mobiles are going down day by day.
 
 🗣 *“Life has come full circle — I’m back in my hometown.”*  
  🗣 *“Our project went full circle after years of changes.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -8863,10 +7473,6 @@ phrasal verb of go
 continue or persevere.  
 "I can't go on protecting you"
 
-[↑ Back to index](#index)
-
-# Go on
-
 To continue
 
 Go on with your story please
@@ -8875,13 +7481,6 @@ Go on with your story please
 
 # Go out
 
-**Go out** – To leave home for social activities.  
- We went out for dinner.
-
-[↑ Back to index](#index)
-
-# go out
-
 verb
 
 leave one's home to go to an entertainment or social event, typically in the evening
@@ -8889,6 +7488,9 @@ leave one's home to go to an entertainment or social event, typically in the eve
 I'm going out for dinner
 
 I hardly ever go out
+
+**Go out** – To leave home for social activities.  
+ We went out for dinner.
 
 [↑ Back to index](#index)
 
@@ -8901,8 +7503,6 @@ Meaning:
 * Example 1: "Let's go over the presentation one more time before the meeting."  
 * Example 2: "He went over the report to ensure there were no mistakes."  
 * Does someone has anything in mind to go over
-
----
 
 [↑ Back to index](#index)
 
@@ -8941,9 +7541,10 @@ The phrase **"go through"** has multiple meanings depending on the context. Here
 * We **went through** a dark tunnel during the train ride.  
 * The bullet **went through** the wall\!
 
-[↑ Back to index](#index)
+**Meaning:** To experience or endure something.
 
-# Go Through
+🗣 *“She’s going through a tough time.”*  
+ 🗣 *“We went through all the files again.”*
 
 To Read
 
@@ -8954,22 +7555,9 @@ He had to go through such a trouble.
 
 [↑ Back to index](#index)
 
-# Go through
-
-**Meaning:** To experience or endure something.
-
-🗣 *“She’s going through a tough time.”*  
- 🗣 *“We went through all the files again.”*
-
----
-
-[↑ Back to index](#index)
-
 # Go through the motions
 
 The phrase **“go through the motions”** means to **do something in a mechanical or routine way, without real effort, energy, or enthusiasm**. It’s like you’re just doing the steps because you have to, not because you actually care.
-
----
 
 ### **🔹 Examples in sentences**
 
@@ -8978,8 +7566,6 @@ The phrase **“go through the motions”** means to **do something in a mechani
 * *During the rehearsal, the actors just went through the motions—they weren’t truly performing.*
 
 * *Sometimes in relationships, people stop trying and just go through the motions.*
-
----
 
 👉 In **spoken English**, it’s often used when someone is **disengaged** or **acting without passion**:
 
@@ -9001,38 +7587,21 @@ Price of food grain are increasing.
 
 # go viral
 
+**Meaning:** To become extremely popular or rapidly shared online.
+
+🗣 *“Her dance video went viral overnight.”*  
+ 🗣 *“You never know what kind of content will go viral.”*
+
 idiomatic
 
 spread quickly over the internet
 
 [↑ Back to index](#index)
 
-# Go viral
-
-**Meaning:** To become extremely popular or rapidly shared online.
-
-🗣 *“Her dance video went viral overnight.”*  
- 🗣 *“You never know what kind of content will go viral.”*
-
----
-
-[↑ Back to index](#index)
-
 # Go With the Flow
 
 **Meaning:** To accept things as they come; not resist.  
  **Example:** *I just go with the flow when traveling.*
-
----
-
-[↑ Back to index](#index)
-
-# Go With the Flow
-
-**Meaning:** To accept things as they come; not resist.  
- **Example:** *I just go with the flow when traveling.*
-
----
 
 [↑ Back to index](#index)
 
@@ -9044,11 +7613,10 @@ spread quickly over the internet
 🗣 *“That movie was god-awful\!”*  
  🗣 *“The weather’s been god-awful all week.”*
 
----
-
 [↑ Back to index](#index)
 
 # Goggles
+
 
 [↑ Back to index](#index)
 
@@ -9059,8 +7627,6 @@ spread quickly over the internet
 
 It’s a polite and forward-looking phrase, often replacing “from now on” or “in the future.”
 
----
-
 ### **✅ Usage in spoken English:**
 
 * *“Going forward, we’ll need to prioritize customer feedback more.”*
@@ -9068,8 +7634,6 @@ It’s a polite and forward-looking phrase, often replacing “from now on” or
 * *“This mistake won’t be repeated going forward.”*
 
 * *“Going forward, let’s align our efforts with the new strategy.”*
-
----
 
 ### **📐 Examples from Architecture & Solution Design side:**
 
@@ -9103,10 +7667,6 @@ It’s a polite and forward-looking phrase, often replacing “from now on” or
 
    * *“Going forward, we’ll document all architectural decisions in a central repository.”*
 
-[↑ Back to index](#index)
-
-# going forward
-
 idiom
 
 refers to the future or the time ahead
@@ -9117,8 +7677,6 @@ refers to the future or the time ahead
 
 The phrase **“goof around”** is an **informal phrasal verb** that means to **waste time by being silly, playful, or not serious**. It’s often used when people are joking, laughing, or not focusing on what they’re supposed to be doing. 😅
 
----
-
 ### **🔹 Examples in sentences**
 
 * *Stop goofing around and finish your homework.*
@@ -9126,8 +7684,6 @@ The phrase **“goof around”** is an **informal phrasal verb** that means to *
 * *We were just goofing around at the park, playing games and laughing.*
 
 * *The kids goofed around all afternoon instead of studying.*
-
----
 
 👉 In **spoken English**, it’s a light, casual way to say “mess around” or “play around”:
 
@@ -9157,14 +7713,13 @@ It’s often used in casual speech instead of saying *“I made a mistake”* or
 
 # Goofy
 
+
 [↑ Back to index](#index)
 
 # Goosebumps
 
 **Meaning:** Tiny bumps on skin from fear or excitement.  
  **Example:** *That song gave me goosebumps.*
-
----
 
 [↑ Back to index](#index)
 
@@ -9175,8 +7730,6 @@ It’s often used in casual speech instead of saying *“I made a mistake”* or
 
 🗣 *“You look gorgeous tonight.”*  
  🗣 *“The sunset was absolutely gorgeous.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -9191,8 +7744,6 @@ It’s often used in casual speech instead of saying *“I made a mistake”* or
   * “I *got off* the bus at the wrong stop.”
 
   * “He *got off* easy after missing the deadline.”
-
----
 
 [↑ Back to index](#index)
 
@@ -9215,8 +7766,6 @@ Something **high-quality, premium, or made with special care**, usually food.
 
 🗣️ Pronunciation tip: **GOR-may** (silent “t”).
 
----
-
 ## **🔗 Useful connecting sentences (very natural speech)**
 
 Try combining phrases like this:
@@ -9225,16 +7774,12 @@ Try combining phrases like this:
 * *“Fear was the enemy within, but I pushed through it.”*  
 * *“That being said, we need to tackle this head on.”*
 
----
-
 ## **✨ Gentle correction & natural phrasing**
 
 Your question was good 👍  
  A slightly more natural version would be:
 
 👉 **“Can you explain the meaning and usage of these words?”**
-
----
 
 ## **🎯 Practice task (important)**
 
@@ -9253,8 +7798,6 @@ If you want, next time **you explain one of these phrases yourself**, and I’ll
 🗣 *“Let’s grab a bite before the movie.”*  
  🗣 *“We grabbed a bite at that new café downtown.”*
 
----
-
 [↑ Back to index](#index)
 
 # Grand finale
@@ -9264,8 +7807,6 @@ If you want, next time **you explain one of these phrases yourself**, and I’ll
 🗣 *“The fireworks were the grand finale of the show.”*  
  🗣 *“That speech was a grand finale to the conference.”*
 
----
-
 [↑ Back to index](#index)
 
 # Gratification
@@ -9274,8 +7815,6 @@ If you want, next time **you explain one of these phrases yourself**, and I’ll
 
 🗣 *“There’s instant gratification in social media likes.”*  
  🗣 *“True success comes from delayed gratification.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -9287,8 +7826,6 @@ If you want, next time **you explain one of these phrases yourself**, and I’ll
 🗣 *“This town’s full of old graveyards.”*  
  🗣 *“That app idea ended up in the graveyard of forgotten startups.”*
 
----
-
 [↑ Back to index](#index)
 
 # Grinded against
@@ -9299,16 +7836,12 @@ If you want, next time **you explain one of these phrases yourself**, and I’ll
 * *“He grinded against her on the dance floor.”*  
    🟠 Informal and physical — often in dance or intimate scenes.
 
----
-
 [↑ Back to index](#index)
 
 # Groom
 
 **Meaning:** To clean or take care of appearance; also to prepare someone for a role.  
  **Example:** *The horse was well groomed.* / *He’s being groomed for a leadership position.*
-
----
 
 [↑ Back to index](#index)
 
@@ -9320,8 +7853,6 @@ If you want, next time **you explain one of these phrases yourself**, and I’ll
 * *“She complained that he groped her in the crowd.”*  
    🛑 Always negative; used for unwanted or illegal touching.
 
----
-
 [↑ Back to index](#index)
 
 # Groundbreaking
@@ -9332,11 +7863,10 @@ If you want, next time **you explain one of these phrases yourself**, and I’ll
 🗣 *“That’s a groundbreaking discovery in medical science.”*  
  🗣 *“Their new app is truly groundbreaking — nothing like it exists.”*
 
----
-
 [↑ Back to index](#index)
 
 # Grow out of
+
 
 [↑ Back to index](#index)
 
@@ -9360,8 +7890,6 @@ If you want, next time **you explain one of these phrases yourself**, and I’ll
 
 * Used when someone complains softly but clearly shows annoyance.
 
----
-
 [↑ Back to index](#index)
 
 # Habit stacking
@@ -9370,8 +7898,6 @@ If you want, next time **you explain one of these phrases yourself**, and I’ll
 
 🗣 *“I practice habit stacking — I stretch while brewing coffee.”*  
  🗣 *“It’s a smart way to stay consistent.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -9382,8 +7908,6 @@ If you want, next time **you explain one of these phrases yourself**, and I’ll
 
 🗣 *“Here’s a neat productivity hack for your workflow.”*  
  🗣 *“He hacked his way into the system.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -9408,8 +7932,6 @@ If you want, next time **you explain one of these phrases yourself**, and I’ll
  **Figurative:** Pure or saint-like quality.  
  **Example:** *He acts like he’s got a halo over his head.*
 
----
-
 [↑ Back to index](#index)
 
 # Hand in
@@ -9421,26 +7943,16 @@ If you want, next time **you explain one of these phrases yourself**, and I’ll
 
 # Hand out
 
-Meaning:
-
-* To distribute or give items to multiple people.  
-* To pass around something.  
-* Example 1: "The teacher handed out the test papers to all students."  
-* Example 2: "Volunteers handed out food and water to those in need."
-
----
-
-[↑ Back to index](#index)
-
-# Hand out
-
 **Literal meaning:** To distribute items (papers, food, etc.).  
  **Figurative meaning:** To give something freely — sometimes used critically when something is too easy to get.
 
 🗣 *“The teacher handed out the exam sheets.”*  
  🗣 *“They don’t hand out promotions — you have to earn them.”*
 
----
+* To distribute or give items to multiple people.  
+* To pass around something.  
+* Example 1: "The teacher handed out the test papers to all students."  
+* Example 2: "Volunteers handed out food and water to those in need."
 
 [↑ Back to index](#index)
 
@@ -9460,8 +7972,6 @@ Meaning:
 
 4. **Sports:** In American football, a handoff is when the quarterback hands the ball to another player.
 
----
-
 ### **Phrases you can practice:**
 
 * “Let’s do a quick handoff so the next team has all the details.”
@@ -9476,8 +7986,6 @@ Meaning:
 
 In simple words:  
  👉 *When one person finishes their part and passes it to someone else, that is a handoff.*
-
----
 
 ## **🔹 Usage in Different Contexts**
 
@@ -9496,21 +8004,15 @@ In simple words:
 
 That means responsibility shifts from one team to another.
 
----
-
 ### **2️⃣ In Healthcare**
 
 When one doctor or nurse transfers patient responsibility to another.
 
 “The night shift handoff was not clear.”
 
----
-
 ### **3️⃣ In Sports**
 
 In American football, when one player passes the ball to another — that’s also called a handoff.
-
----
 
 ## **🔹 Spoken English Examples (Natural Phrases)**
 
@@ -9526,8 +8028,6 @@ Here are 5 natural sentences you can use in meetings:
 
 5. “To avoid delays, the handoff should be clearly defined.”
 
----
-
 ## **🔹 Useful Connecting Phrases You Can Practice**
 
 You can say:
@@ -9540,8 +8040,6 @@ You can say:
 
 * “In my experience, most production issues happen during handoff.”
 
----
-
 ## **🔹 Small Grammar Tip (for you)**
 
 You wrote:
@@ -9553,8 +8051,6 @@ More natural way:
 👉 “Can you briefly explain the meaning and usage of ‘handoff’ in spoken English?”
 
 Try to use full question structure in formal communication.
-
----
 
 Now I want you to practice 👇
 
@@ -9576,8 +8072,6 @@ Explain this sentence in your own words:
 
   * “She gave me a *hands-off look* when I tried to help.”
 
----
-
 [↑ Back to index](#index)
 
 # Hang on
@@ -9593,8 +8087,6 @@ People use it when they want someone to pause briefly.
 
 👉 In meetings, phone calls, or conversations, this is the most common usage.
 
----
-
 ### **2️⃣ Meaning: *Hold something tightly***
 
 Used in physical situations.
@@ -9602,16 +8094,12 @@ Used in physical situations.
 **Example:**  
  “Hang on to the railing while going downstairs.”
 
----
-
 ### **3️⃣ Meaning: *Stay strong / don’t give up***
 
 Used emotionally or motivationally.
 
 **Example:**  
  “Hang on, things will improve soon.”
-
----
 
 ### **Natural spoken sentences you can practice**
 
@@ -9624,8 +8112,6 @@ Try saying these aloud:
 
 These are very useful in **client calls, architecture discussions, and technical meetings**.
 
----
-
 ### **Useful connectors to make your speech smoother**
 
 You can combine *hang on* with linking phrases:
@@ -9633,8 +8119,6 @@ You can combine *hang on* with linking phrases:
 * “Hang on, **before that**, let me clarify one point.”  
 * “Hang on, **just to be sure**, are we talking about the production environment?”  
 * “Hang on, **that being said**, we may need another validation step.”
-
----
 
 ### **Other contexts where “hang on” is commonly used**
 
@@ -9646,8 +8130,6 @@ You can combine *hang on* with linking phrases:
 
 **Presentation**  
  “Hang on, let me explain this architecture flow step by step.”
-
----
 
 If you’d like, I can also explain the difference between **“hang on,” “hold on,” and “wait a second”**—they sound similar but are used slightly differently in professional conversations.
 
@@ -9665,8 +8147,6 @@ We usually hang out at the coffee shop.
 **Meaning:** To spend relaxed time with someone.  
  **Example:** *I love hanging out with my friends.*
 
----
-
 [↑ Back to index](#index)
 
 # Hangs off
@@ -9674,8 +8154,6 @@ We usually hang out at the coffee shop.
 **“Hangs off”** usually means **something is attached to or depends on something else**, or sometimes **someone is leaning/sitting from an edge**.
 
 The exact meaning depends on the context.
-
----
 
 [↑ Back to index](#index)
 
@@ -9697,8 +8175,6 @@ The exact meaning depends on the context.
 
    * *“They survived through a harsh winter.”*
 
----
-
 ✅ **Spoken practice sentences:**
 
 * “I know my words may sound harsh, but I really want to be honest.”
@@ -9708,8 +8184,6 @@ The exact meaning depends on the context.
 * “That being said, we should avoid being unnecessarily harsh with people.”
 
 * “The weather outside is really harsh today—it’s freezing.”
-
----
 
 👉 Tip for meetings or casual talk:  
  Instead of directly saying *“You’re being harsh”*, you can soften it with:
@@ -9725,8 +8199,6 @@ The exact meaning depends on the context.
 To collect crops or gather results.  
  👉 *“Farmers are busy harvesting now.”*
 
----
-
 [↑ Back to index](#index)
 
 # Haunted
@@ -9737,8 +8209,6 @@ To collect crops or gather results.
 🗣 *“That house looks haunted.”*  
  🗣 *“He’s haunted by what happened years ago.”*
 
----
-
 [↑ Back to index](#index)
 
 # Have a crush on someone
@@ -9747,8 +8217,6 @@ To collect crops or gather results.
 
 🗣 *“I had a huge crush on her in college.”*  
  🗣 *“He’s totally got a crush on his coworker.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -9782,11 +8250,10 @@ To be very busy or stressed with many tasks.
 🗣 *“He definitely has a thing for her.”*  
  🗣 *“I think she has a thing for musicians.”*
 
----
-
 [↑ Back to index](#index)
 
 # Have been through a lot
+
 
 [↑ Back to index](#index)
 
@@ -9794,8 +8261,6 @@ To be very busy or stressed with many tasks.
 
 **Meaning:** To have money in physical form (notes/coins).  
  **Example:** *Do you have cash on you? The shop doesn’t take cards.*
-
----
 
 [↑ Back to index](#index)
 
@@ -9902,13 +8367,9 @@ So in your sentence **“Please have this picked up on priority”**,
 
 * Tone: more **informal, commanding, or motivational**.
 
-* Example:
-
   * *I need to get this report finished before the deadline.*
 
   * (Either I’ll do it myself or push to make sure it’s done quickly.)
-
----
 
 🔹 **Key difference in feeling:**
 
@@ -9927,8 +8388,6 @@ So in your sentence **“Please have this picked up on priority”**,
 🗣 *“They finally had it out after weeks of tension.”*  
  🗣 *“Sometimes you just need to have it out and clear the air.”*
 
----
-
 [↑ Back to index](#index)
 
 # Have someone’s back
@@ -9939,8 +8398,6 @@ So in your sentence **“Please have this picked up on priority”**,
 🗣 *“Don’t worry about what they say — I’ve got your back.”*  
  🗣 *“It feels good to know someone’s got my back at work.”*
 
----
-
 [↑ Back to index](#index)
 
 # Have something in mind
@@ -9950,8 +8407,6 @@ So in your sentence **“Please have this picked up on priority”**,
 🗣 *“I have something in mind for your birthday.”*  
  🗣 *“Do you have a location in mind for dinner?”*
 
----
-
 [↑ Back to index](#index)
 
 # Have what it takes
@@ -9960,8 +8415,6 @@ So in your sentence **“Please have this picked up on priority”**,
 
 🗣 *“Do you think you have what it takes to be a leader?”*  
  🗣 *“She definitely has what it takes to win.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -9973,8 +8426,6 @@ So in your sentence **“Please have this picked up on priority”**,
 * *“The view was hazy this morning.”*
 
 * *“My memory of that day is hazy.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -9990,25 +8441,17 @@ So in your sentence **“Please have this picked up on priority”**,
 
   * *He kept his head down to avoid the cold wind.*
 
----
-
 ### **2\. Idiomatic meaning — “focus and work hard”**
 
 * **Meaning:** To concentrate completely on a task, usually without distractions, until it’s finished.
-
-* **Example:**
 
   * *I have a big deadline tomorrow, so I’ll keep my head down and finish this project.*
 
   * *We all had to put our heads down and study for the exam.*
 
----
-
 ### **3\. Idiomatic meaning — “stay out of trouble”**
 
 * **Meaning:** To avoid attracting attention, especially to avoid problems or criticism.
-
-* **Example:**
 
   * *There’s a lot of office politics right now — better keep your head down.*
 
@@ -10030,8 +8473,6 @@ So in your sentence **“Please have this picked up on priority”**,
 
   * *She walked past me with her head down.*
 
----
-
 ### **2\. Heads down (plural)**
 
 * Used when talking about **multiple people** all lowering their heads (literally or figuratively).
@@ -10040,21 +8481,15 @@ So in your sentence **“Please have this picked up on priority”**,
 
   * *Heads down, everyone\!* → telling a group to focus or avoid attention.
 
-* **Examples:**
-
   * *During the storm, we all kept our heads down and waited it out.*
 
   * *The coach said, “Heads down, team — we still have work to do\!”*
-
----
 
 ✅ **Rule of thumb for spoken English:**
 
 * Talking about **yourself** or **one person** → *head down*.
 
 * Talking to/about **a group** → *heads down*.
-
----
 
 If you want to say you’ll work with focus to solve a bug, you could naturally say:
 
@@ -10078,27 +8513,6 @@ So:
 [↑ Back to index](#index)
 
 # Head on
-
-### **Meaning**
-
-To **face a problem directly**, without avoiding it.
-
-### **Usage & examples**
-
-* *“We need to tackle this issue head on.”*  
-* *“I decided to face the feedback head on instead of ignoring it.”*  
-* *“Let’s address the performance issue head on.”*
-
-**Common pairing:**  
- 👉 *face / tackle / deal with \+ problem head on*
-
-🗣️ This is **very professional English** — excellent for meetings.
-
----
-
-[↑ Back to index](#index)
-
-# Head On
 
 **Meaning:** To confront something directly and bravely, without avoiding it.  
  **Examples (spoken):**
@@ -10129,7 +8543,20 @@ Very strong and confident phrase 💪
 
 “Rather than delaying, I want to handle this situation head-on.”
 
----
+### **Meaning**
+
+To **face a problem directly**, without avoiding it.
+
+### **Usage & examples**
+
+* *“We need to tackle this issue head on.”*  
+* *“I decided to face the feedback head on instead of ignoring it.”*  
+* *“Let’s address the performance issue head on.”*
+
+**Common pairing:**  
+ 👉 *face / tackle / deal with \+ problem head on*
+
+🗣️ This is **very professional English** — excellent for meetings.
 
 [↑ Back to index](#index)
 
@@ -10158,8 +8585,6 @@ So if you just hear **“head over”** without “heels,” it almost always me
 A quick warning or notice.  
  👉 *“Thanks for the heads up about the meeting.”*
 
----
-
 [↑ Back to index](#index)
 
 # Hear me out
@@ -10167,8 +8592,6 @@ A quick warning or notice.
 **“Please listen to everything I have to say before reacting or judging.”**
 
 It’s used when you're trying to explain something important, defend yourself, or share an idea — especially if you expect resistance or misunderstanding.
-
----
 
 **🔹 How to Use It in Sentences:**
 
@@ -10188,8 +8611,6 @@ It’s used when you're trying to explain something important, defend yourself, 
 
 * "I messed up, yes. But hear me out — there’s more to it."
 
----
-
 **💡 Tone Tip:**
 
 Saying "hear me out" politely, with a calm voice and eye contact, makes people more likely to **actually** listen.
@@ -10208,8 +8629,6 @@ Saying "hear me out" politely, with a calm voice and eye contact, makes people m
 * “He handled the heckling with humor.”
 
 👉 *Common in:* Live shows, debates, or political events.
-
----
 
 [↑ Back to index](#index)
 
@@ -10234,8 +8653,6 @@ It can have a **positive** tone (strong determination) or a **negative** one (st
 🗣 *“I felt helpless watching it happen.”*  
  🗣 *“He’s not helpless — he just needs direction.”*
 
----
-
 [↑ Back to index](#index)
 
 # Herculean task
@@ -10244,8 +8661,6 @@ A **“Herculean task”** means a job or duty that is **extremely difficult, de
 
 The phrase comes from **Hercules**, a hero in Greek mythology known for his superhuman strength and for completing the *Twelve Labors*, which were nearly impossible challenges. So, when you say something is a *Herculean task*, you’re comparing it to those legendary feats.
 
----
-
 ✅ **Examples in sentences (spoken style):**
 
 * *“Migrating all our data to the new system was a Herculean task, but we managed it.”*
@@ -10253,8 +8668,6 @@ The phrase comes from **Hercules**, a hero in Greek mythology known for his supe
 * *“Convincing him to change his mind feels like a Herculean task.”*
 
 * *“Finishing the project in one week would be a Herculean task for any team.”*
-
----
 
 ✨ **Useful spoken phrases for meetings or casual talk:**
 
@@ -10276,8 +8689,6 @@ The phrase comes from **Hercules**, a hero in Greek mythology known for his supe
 🗣 *“He looked hesitant to speak his mind.”*  
  🗣 *“I was hesitant about joining, but it turned out great.”*
 
----
-
 [↑ Back to index](#index)
 
 # Hieroglyph
@@ -10294,8 +8705,6 @@ The phrase comes from **Hercules**, a hero in Greek mythology known for his supe
 🗣 *“Instagram is just everyone’s highlight reel.”*  
  🗣 *“His presentation was basically a highlight reel of past wins.”*
 
----
-
 [↑ Back to index](#index)
 
 # Hinge
@@ -10306,8 +8715,6 @@ The phrase comes from **Hercules**, a hero in Greek mythology known for his supe
 🗣 *“Success hinges on good communication.”*  
  🗣 *“Everything hinged on that one decision.”*
 
----
-
 [↑ Back to index](#index)
 
 # Hit rock bottom
@@ -10316,8 +8723,6 @@ The phrase comes from **Hercules**, a hero in Greek mythology known for his supe
 
 🗣 *“He hit rock bottom before turning his life around.”*  
  🗣 *“Sometimes you need to hit rock bottom to rebuild stronger.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -10329,8 +8734,6 @@ The phrase comes from **Hercules**, a hero in Greek mythology known for his supe
  🗣 *“The project needs someone who can hit the ground running.”*
 
 💡 *(Common in professional speech — implies readiness and strong momentum.)*
-
----
 
 [↑ Back to index](#index)
 
@@ -10365,8 +8768,6 @@ if you have a serious band and would like to play some music, hit me up
 
 * *“They got hitched last summer.”* (informal for married)
 
----
-
 [↑ Back to index](#index)
 
 # Hive
@@ -10376,8 +8777,6 @@ if you have a serious band and would like to play some music, hit me up
 
 🗣 *“The office was a hive of productivity this morning.”*  
  🗣 *“That café’s always a hive of chatter.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -10411,8 +8810,6 @@ For example:
 
 The dependency on another team is holding us back from releasing this feature.
 
----
-
 Natural spoken sentences you can use
 
 Try saying these aloud:
@@ -10423,8 +8820,6 @@ Try saying these aloud:
 * *We were ready to deploy; however, one blocker held us back.*  
 * *That being said, we shouldn’t hold back progress because of minor issues.*
 
----
-
 Useful connectors to improve flow
 
 You can combine **hold back** with linking phrases like:
@@ -10434,11 +8829,7 @@ You can combine **hold back** with linking phrases like:
 * *That being said,* we shouldn’t hold back the release too long.  
 * *At the same time,* we don’t want to rush without validation.
 
-Example:
-
 For example, the missing API contract is holding us back; however, once it’s finalized, we can move quickly.
-
----
 
 Other contexts where “hold back” is useful
 
@@ -10472,16 +8863,10 @@ You can use it in:
 
 👉 In everyday speech, when someone says *“Hold on”*, they usually mean *“Wait a second.”*
 
-[↑ Back to index](#index)
-
-# Hold on
-
 Meaning: To wait or remain in a position.
 
 * Example 1: Please hold on while I transfer your call to the appropriate department.  
 * Example 2: Hold on a second—I’ll grab my notebook and join you.
-
----
 
 [↑ Back to index](#index)
 
@@ -10508,8 +8893,6 @@ My train got held up due to heavy rain.
 
 **✅ 2\. Stopped (often by police, security, or obstacles)**
 
-Examples
-
 We were held up at the checkpoint.
 
 His car was held up by road construction.
@@ -10518,15 +8901,11 @@ His car was held up by road construction.
 
 This is more dramatic and less common in daily conversation.
 
-Example
-
 The shop was held up last night.
 
 **✅ 4\. To survive or remain strong (“hold up well”)**
 
 Used when someone or something is coping okay.
-
-**Examples**
 
 How are you holding up?
 
@@ -10542,12 +8921,6 @@ The store was held up → robbed
 
 I’m holding up → I’m managing / I’m okay
 
----
-
-[↑ Back to index](#index)
-
-# Hold up
-
 **Literal meaning:** To lift or support something.  
  **Figurative meanings:**
 
@@ -10560,8 +8933,6 @@ I’m holding up → I’m managing / I’m okay
 🗣 *“Traffic held us up for an hour.”*  
  🗣 *“How are you holding up after the exam?”*  
  🗣 *“That theory doesn’t hold up under scrutiny.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -10583,8 +8954,6 @@ The company's holistic approach to employee well-being addresses physical, menta
 
 * *She hooked on her necklace before leaving the house.*
 
----
-
 ### **🔹 2\. To become very interested or addicted to something (informal, more common in spoken English)**
 
 * *I got hooked on that new Netflix series—it’s so good\!*
@@ -10595,13 +8964,9 @@ The company's holistic approach to employee well-being addresses physical, menta
 
 👉 Here, people often just say **“hooked on”** instead of “hook on.”
 
----
-
 ### **🔹 3\. To rely on / depend on (less common, figurative)**
 
 * *The company is hooked on foreign investment.*
-
----
 
 ✅ **Spoken-style examples:**
 
@@ -10618,70 +8983,50 @@ The company's holistic approach to employee well-being addresses physical, menta
 Something very special, respected, or holy.  
  👉 *“Family time is sacred for me.”*
 
----
-
 ### **2\. I’m on it**
 
 Means you’re already taking care of something.  
  👉 *“Don’t worry about the report, I’m on it.”*
-
----
 
 ### **3\. Savannah**
 
 A flat grassland, often with few trees (like in Africa).  
  👉 *“Lions usually live in the savannah.”*
 
----
-
 ### **4\. Wreak havoc**
 
 Cause chaos or serious damage.  
  👉 *“The storm wreaked havoc across the city.”*
-
----
 
 ### **5\. Vulnerable**
 
 Easily hurt, affected, or open to danger.  
  👉 *“She felt vulnerable after losing her job.”*
 
----
-
 ### **6\. Set apart**
 
 To make something different or special from others.  
  👉 *“Her creativity really sets her apart from others.”*
-
----
 
 ### **7\. Castoff**
 
 Something or someone rejected or thrown away.  
  👉 *“He bought a castoff jacket from a thrift shop.”*
 
----
-
 ### **8\. Swear by**
 
 To strongly trust or believe in something.  
  👉 *“I swear by green tea for good health.”*
-
----
 
 ### **9\. Mess up**
 
 Make a mistake or ruin something.  
  👉 *“I totally messed up the presentation.”*
 
----
-
 ### **10\. Lead with**
 
 Start or approach something with a particular focus.  
  👉 *“In interviews, I always lead with my strongest skill.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -10702,41 +9047,27 @@ Used when connecting devices or equipment.
 
 * “I just hooked up my phone to the car’s Bluetooth.”
 
----
-
 ### **👯 2\. To meet or get together (casual social sense)**
 
 This is informal and friendly, often about meeting people.
-
-**Examples:**
 
 * “Let’s hook up for coffee sometime.”
 
 * “We hooked up after the conference and talked for hours.”
 
----
-
 ### **❤️‍🔥 3\. To have a casual romantic or sexual encounter**
 
 This is very informal and often implies physical intimacy. Be careful with this meaning—only use it when appropriate or with people who understand you're using it in this context.
 
-**Examples:**
-
 * “They hooked up at the party last night.” (implies a romantic/sexual encounter)
-
----
 
 ### **💼 4\. To help someone get something / to arrange a deal**
 
 Often used when you help someone get connected with an opportunity, product, or service.
 
-**Examples:**
-
 * “He hooked me up with a job at his company.”
 
 * “Can you hook me up with some concert tickets?”
-
----
 
 ### **🔁 Casual sentence practice:**
 
@@ -10755,17 +9086,6 @@ Try these out loud to get the feel:
 **Meaning:** To join in or participate.  
  **Example:** *We’re starting a new project—want to hop on board?*
 
----
-
-[↑ Back to index](#index)
-
-# Hop On Board
-
-**Meaning:** To join in or participate.  
- **Example:** *We’re starting a new project—want to hop on board?*
-
----
-
 [↑ Back to index](#index)
 
 # hotspot
@@ -10783,17 +9103,6 @@ she knew all the Manhattan hotspots for classy blues and retro jazz
 **Meaning:** To stay in one place in the air or nearby.  
  **Example:** *The helicopter hovered over the city.*
 
----
-
-[↑ Back to index](#index)
-
-# Hover
-
-**Meaning:** To stay in one place in the air or nearby.  
- **Example:** *The helicopter hovered over the city.*
-
----
-
 [↑ Back to index](#index)
 
 # How dare you
@@ -10802,8 +9111,6 @@ she knew all the Manhattan hotspots for classy blues and retro jazz
 
 🗣 *“How dare you talk to me like that\!”*  
  🗣 *“How dare you ignore her after what she’s done for you?”*
-
----
 
 [↑ Back to index](#index)
 
@@ -10835,8 +9142,6 @@ In what way : why does one think that? "This room looks different." "How so?
 
 * *“The kids huddled under one umbrella.”*
 
----
-
 [↑ Back to index](#index)
 
 # Huffed
@@ -10847,8 +9152,6 @@ In what way : why does one think that? "This room looks different." "How so?
 * *“She huffed and crossed her arms.”*
 
 * *“‘Fine,’ he huffed, giving up.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -10861,8 +9164,6 @@ In what way : why does one think that? "This room looks different." "How so?
 
 * Often used in romantic or light-hearted writing.
 
----
-
 [↑ Back to index](#index)
 
 # Hum
@@ -10872,8 +9173,6 @@ In what way : why does one think that? "This room looks different." "How so?
 
 🗣 *“The fridge is humming again.”*  
  🗣 *“The office was humming with excitement before the launch.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -10892,25 +9191,12 @@ In what way : why does one think that? "This room looks different." "How so?
 
 💡 *(“Humble beginnings” \= modest or simple background.)*
 
----
-
 [↑ Back to index](#index)
 
 # Humility
 
 **Meaning:** Being humble; not thinking too highly of oneself.  
  **Example:** *True strength comes with humility.*
-
----
-
-[↑ Back to index](#index)
-
-# Humility
-
-**Meaning:** Being humble; not thinking too highly of oneself.  
- **Example:** *True strength comes with humility.*
-
----
 
 [↑ Back to index](#index)
 
@@ -10921,21 +9207,6 @@ In what way : why does one think that? "This room looks different." "How so?
 
 * *“We had to hump all the boxes upstairs.”* (literal)  
    🟠 Be cautious — it often has a sexual meaning in casual talk.
-
----
-
-[↑ Back to index](#index)
-
-# Hurl
-
-**Meaning:** Throw something forcefully — or vomit (informal).  
-**Usage:**
-
-* *“He hurled the ball across the field.”*
-
-* *“I felt so sick I almost hurled.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -10952,7 +9223,12 @@ In what way : why does one think that? "This room looks different." "How so?
 
 👉 *Connector idea:* “Out of anger,” “In frustration,” “Without thinking, he hurled…”
 
----
+**Meaning:** Throw something forcefully — or vomit (informal).  
+**Usage:**
+
+* *“He hurled the ball across the field.”*
+
+* *“I felt so sick I almost hurled.”*
 
 [↑ Back to index](#index)
 
@@ -10961,11 +9237,10 @@ In what way : why does one think that? "This room looks different." "How so?
 **Meaning:** Busy and noisy activity.  
  **Example:** *I love the hustle and bustle of city life.*
 
----
-
 [↑ Back to index](#index)
 
 # Hypocritical
+
 
 [↑ Back to index](#index)
 
@@ -10976,8 +9251,6 @@ In what way : why does one think that? "This room looks different." "How so?
 
 It shows **zero interest or concern** about something.
 
----
-
 ### **Examples**
 
 * *“He said I was late, but honestly, I couldn’t care less.”*
@@ -10985,8 +9258,6 @@ It shows **zero interest or concern** about something.
 * *“Some people don’t like my style — I couldn’t care less.”*
 
 * *“She couldn’t care less about the gossip.”*
-
----
 
 ### **Sentences You Can Use**
 
@@ -10997,8 +9268,6 @@ It shows **zero interest or concern** about something.
 3. “People said it was risky, but I couldn’t care less.”
 
 4. “Honestly, I couldn’t care less what they think.”
-
----
 
 ⚠️ **Tone warning**:
 
@@ -11012,13 +9281,12 @@ It shows **zero interest or concern** about something.
 
   * “I’m neutral about that.”
 
----
-
 ✨ Practice aloud: *“Honestly, I couldn’t care less about that detail.”*
 
 [↑ Back to index](#index)
 
 # I don’t know shit
+
 
 [↑ Back to index](#index)
 
@@ -11064,8 +9332,6 @@ Example: "This isn’t my area of expertise. I want off this case."
 * *“He woke up gasping after the nightmare.”*  
    🟢 Common in intense or emotional scenes.
 
----
-
 [↑ Back to index](#index)
 
 # I'm cross with you
@@ -11103,8 +9369,6 @@ Slang term:
 🗣 *“She’s confident — if you’ve got it, flaunt it\!”*  
  🗣 *“He worked hard for that physique — he can flaunt it.”*
 
----
-
 [↑ Back to index](#index)
 
 # Ignorance
@@ -11114,8 +9378,6 @@ Slang term:
 
 🗣 *“Ignorance of the law is no excuse.”*  
  🗣 *“He’s living in blissful ignorance.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -11127,8 +9389,6 @@ Slang term:
 🗣 *“Language immersion helps you learn faster.”*  
  🗣 *“He’s in total immersion mode for his new project.”*
 
----
-
 [↑ Back to index](#index)
 
 # Imminent
@@ -11139,8 +9399,6 @@ Slang term:
 * *“A storm is imminent.”*
 
 * *“The company faces imminent closure.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -11155,8 +9413,6 @@ Slang term:
   * “He smiled *imperceptibly* when he heard her name.”
 
   * “The tension in the room grew *imperceptibly*.”
-
----
 
 [↑ Back to index](#index)
 
@@ -11176,8 +9432,6 @@ It means **to pretend to be someone else**, usually by copying their voice, beha
 
    * *“Someone tried to impersonate me online.”*
 
----
-
 ✅ **Spoken practice sentences:**
 
 * “He impersonated his teacher so well, everyone laughed.”
@@ -11188,8 +9442,6 @@ It means **to pretend to be someone else**, usually by copying their voice, beha
 
 * “She’s great at impersonating celebrities.”
 
----
-
 👉 **Contexts of usage:**
 
 * **Comedy/acting:** Copying someone for fun.
@@ -11197,8 +9449,6 @@ It means **to pretend to be someone else**, usually by copying their voice, beha
 * **Fraud/security:** Pretending to be someone for dishonest purposes.
 
 * **Casual talk:** *“Don’t impersonate me while I’m not there\!”* (joking with friends).
-
----
 
 ✨ Small tip: In casual speech, instead of *impersonate*, people often say **“mimic,” “imitate,” or “do an impression of.”**
 
@@ -11214,8 +9464,6 @@ It means **to pretend to be someone else**, usually by copying their voice, beha
 
 💡 *(Professional and action-oriented word — common in business, tech, and policy talk.)*
 
----
-
 [↑ Back to index](#index)
 
 # Imply
@@ -11225,8 +9473,6 @@ It means **to pretend to be someone else**, usually by copying their voice, beha
 
 🗣 *“Are you implying I made a mistake?”*  
  🗣 *“Her tone implied she wasn’t happy.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -11242,8 +9488,6 @@ It means **to pretend to be someone else**, usually by copying their voice, beha
 * “Sometimes it’s hard to resist an impulse purchase.”
 
 👉 *Connector idea:* “Without thinking,” “At that moment.”
-
----
 
 [↑ Back to index](#index)
 
@@ -11285,8 +9529,6 @@ Here are some examples you can use in conversation:
 
    * *"In hindsight, we should have gone with the other vendor."*
 
----
-
 ### **🧠 Memory Tip:**
 
 * Think of “hind” \= behind \= looking **backward in time**.
@@ -11303,8 +9545,6 @@ Here are some examples you can use in conversation:
 🗣 *“Sorry, that item’s not in stock right now.”*  
  🗣 *“We’ll have new laptops in stock by Friday.”*  
  🗣 *“Confidence isn’t exactly in stock today.”* (figurative humor)
-
----
 
 [↑ Back to index](#index)
 
@@ -11330,8 +9570,6 @@ For example:
 
 It’s a descriptive phrase, often used in storytelling or daily conversation to give a sense of space or perspective.
 
----
-
 ### **Common sentences you could use in real life:**
 
 1. *“I could see the lights of the city in the distance.”*
@@ -11352,8 +9590,6 @@ It’s a descriptive phrase, often used in storytelling or daily conversation to
 
 🗣 *“She’s in tune with her emotions.”*  
  🗣 *“Good leaders stay in tune with their teams.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -11385,8 +9621,6 @@ without success or a result.
 
 * *“He’s known for his incisive wit.”*
 
----
-
 [↑ Back to index](#index)
 
 # incommunicado
@@ -11406,8 +9640,6 @@ they were separated and detained incommunicado
 🗣 *“Their personalities were totally incompatible.”*  
  🗣 *“That software’s incompatible with my system.”*
 
----
-
 [↑ Back to index](#index)
 
 # Inconceivable
@@ -11425,8 +9657,6 @@ The word **“inconceivable”** means *something that is impossible to imagine,
 3. *“It’s inconceivable to me that she didn’t know about the issue.”*  
     (means: unbelievable, unimaginable)
 
----
-
 ### **Common Phrases You Could Use in Conversation:**
 
 * “That’s inconceivable—I never thought it could happen.”
@@ -11436,8 +9666,6 @@ The word **“inconceivable”** means *something that is impossible to imagine,
 * “The idea seemed inconceivable at first, but now it makes sense.”
 
 * “Honestly, it’s inconceivable that they ignored such a big problem.”
-
----
 
 👉 Practice tip: When you want to sound natural in a meeting or casual talk, you can replace *“unbelievable”* or *“impossible to imagine”* with **“inconceivable”**.
 
@@ -11450,8 +9678,6 @@ The word **“inconceivable”** means *something that is impossible to imagine,
 
 🗣 *“The inconsistency in his statements made me doubt him.”*  
  🗣 *“Her performance has been inconsistent lately.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -11467,8 +9693,6 @@ The word **“inconceivable”** means *something that is impossible to imagine,
 
   * “Her joy was *indescribable* when she saw her baby.”
 
----
-
 [↑ Back to index](#index)
 
 # Indigenous
@@ -11478,8 +9702,6 @@ The word **“inconceivable”** means *something that is impossible to imagine,
 
 🗣 *“Indigenous art reflects centuries of tradition.”*  
  🗣 *“We must preserve indigenous knowledge systems.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -11492,8 +9714,6 @@ The word **“inconceivable”** means *something that is impossible to imagine,
 
 * Often used in more serious or emotional situations.
 
----
-
 [↑ Back to index](#index)
 
 # Indispensable
@@ -11504,8 +9724,6 @@ The word **“inconceivable”** means *something that is impossible to imagine,
 * *“Her expertise is indispensable to the team.”*
 
 * *“Water is indispensable for life.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -11527,11 +9745,10 @@ The word **“inconceivable”** means *something that is impossible to imagine,
 🗣 *“The gas is chemically inert.”*  
  🗣 *“I felt inert all weekend — couldn’t do a thing.”*
 
----
-
 [↑ Back to index](#index)
 
 # Infamous
+
 
 [↑ Back to index](#index)
 
@@ -11542,8 +9759,6 @@ The word **“inconceivable”** means *something that is impossible to imagine,
 
 🗣 *“His voice had a kind inflection.”*  
  🗣 *“We’re at an inflection point in our company’s growth.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -11556,25 +9771,12 @@ The word **“inconceivable”** means *something that is impossible to imagine,
 
 * *“She didn’t appreciate his subtle innuendos.”*
 
----
-
 [↑ Back to index](#index)
 
 # Insecurity
 
 **Meaning:** Lack of confidence or self-doubt.  
  **Example:** *Her insecurity makes her overthink everything.*
-
----
-
-[↑ Back to index](#index)
-
-# Insecurity
-
-**Meaning:** Lack of confidence or self-doubt.  
- **Example:** *Her insecurity makes her overthink everything.*
-
----
 
 [↑ Back to index](#index)
 
@@ -11584,8 +9786,6 @@ The word **“inconceivable”** means *something that is impossible to imagine,
 
 🗣 *“It’s an insidious disease — hard to detect early.”*  
  🗣 *“Social media addiction can be insidious.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -11606,8 +9806,6 @@ The word **“insinuated”** comes from the verb **insinuate**.
    👉 *She insinuated herself into the group by being overly friendly.*  
    (She gradually inserted herself into the group.)
 
----
-
 🔑 **Synonyms (for the first sense):**  
  implied, hinted, suggested, alluded, intimated
 
@@ -11621,25 +9819,12 @@ The word **“insinuated”** comes from the verb **insinuate**.
 **Meaning:** To accept or absorb ideas deeply.  
  **Example:** *She internalized those harsh comments.*
 
----
-
-[↑ Back to index](#index)
-
-# Internalize
-
-**Meaning:** To accept or absorb ideas deeply.  
- **Example:** *She internalized those harsh comments.*
-
----
-
 [↑ Back to index](#index)
 
 # Interrogate
 
 **Meaning:** To question someone thoroughly.  
  **Example:** *The detective interrogated the witness for hours.*
-
----
 
 [↑ Back to index](#index)
 
@@ -11652,16 +9837,12 @@ The word **“insinuated”** comes from the verb **insinuate**.
 
 * *“Their fates were intertwined.”* (figurative, storytelling)
 
----
-
 [↑ Back to index](#index)
 
 # Intricate
 
 **Meaning:** Complex and detailed.  
  **Example:** *The design was so intricate—it must’ve taken days.*
-
----
 
 [↑ Back to index](#index)
 
@@ -11672,8 +9853,6 @@ The word **“insinuated”** comes from the verb **insinuate**.
 🗣 *“The police are investigating the matter.”*  
  🗣 *“I like to investigate how systems really work.”*
 
----
-
 [↑ Back to index](#index)
 
 # Irately biting his ear off
@@ -11683,8 +9862,6 @@ The word **“insinuated”** comes from the verb **insinuate**.
 
 * *“She was irately biting his ear off after he forgot her birthday.”*  
    🟢 “Bite someone’s ear off” \= yell angrily or nag.
-
----
 
 [↑ Back to index](#index)
 
@@ -11712,8 +9889,6 @@ solve or settle difficulties or problems.
 3. **Dramatic irony** – more common in stories or movies, where the audience knows something the character doesn’t.  
     *Example*: In a movie, we know the villain is hiding in the room, but the hero doesn’t.
 
----
-
 ### **Common spoken usage**
 
 * “That’s ironic, isn’t it?”
@@ -11721,8 +9896,6 @@ solve or settle difficulties or problems.
 * “Kind of ironic that he failed the test he helped design.”
 
 * “It’s ironic—we worked so hard on speed, but now the system runs slower.”
-
----
 
 ### **Phrases you can practice saying**
 
@@ -11764,8 +9937,6 @@ The phrase **“it is imperative”** means **“it is absolutely necessary”**
 3. *It is imperative for leaders to listen to their teams.*  
     → (Leaders **must** listen, it’s not optional.)
 
----
-
 ### **Phrases you can use in conversation:**
 
 * “It is imperative that we take immediate action.”
@@ -11784,8 +9955,6 @@ The phrase **“it is imperative”** means **“it is absolutely necessary”**
 
 🗣 *“It pays to be patient in negotiations.”*  
  🗣 *“It pays to stay kind — you never know who’s watching.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -11811,8 +9980,6 @@ It often carries a negative connotation, suggesting that a more thorough or deci
 🗣 *“Wait, dog yoga? That’s actually a thing?”*  
  🗣 *“Working remotely from beaches — yeah, it’s a thing now.”*
 
----
-
 [↑ Back to index](#index)
 
 # It’s no use (doing something)
@@ -11821,8 +9988,6 @@ It often carries a negative connotation, suggesting that a more thorough or deci
 
 🗣 *“It’s no use arguing with him — he never listens.”*  
  🗣 *“It’s no use crying over spilled milk.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -11838,8 +10003,6 @@ It often carries a negative connotation, suggesting that a more thorough or deci
 
 🗣 *“The train was jam-packed this morning.”*  
  🗣 *“My schedule is jam-packed today.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -11860,8 +10023,6 @@ her little jaunt in France was over
 🗣 *“The view from the mountain was jaw-dropping.”*  
  🗣 *“Her performance was absolutely jaw-dropping.”*
 
----
-
 [↑ Back to index](#index)
 
 # Jerk around
@@ -11873,8 +10034,6 @@ her little jaunt in France was over
 
 * *"The company jerked us around for weeks before finally rejecting our proposal."*
 
----
-
 **2️⃣ To fool around / mess around**  
  Used for acting silly, joking, or not focusing on work.
 
@@ -11882,19 +10041,13 @@ her little jaunt in France was over
 
 * *"They were just jerking around instead of fixing the problem."*
 
----
-
 **3️⃣ To move or act in a sudden, erratic way** *(less common)*
 
 * *"The boat jerked around in the waves."*
 
----
-
 💡 Tone note:  
  When aimed at a **person**, “jerk around” can sound accusatory or frustrated.  
  When used about **yourself or friends**, it can be casual and playful.
-
----
 
 [↑ Back to index](#index)
 
@@ -11928,6 +10081,7 @@ a commercial enterprise undertaken jointly by two or more parties which otherwis
 
 # journaling
 
+
 [↑ Back to index](#index)
 
 # Joyride
@@ -11938,8 +10092,6 @@ a commercial enterprise undertaken jointly by two or more parties which otherwis
 🗣 *“They took his car for a joyride.”*  
  🗣 *“The project started as a joyride but ended in chaos.”*
 
----
-
 [↑ Back to index](#index)
 
 # Jump at an opportunity
@@ -11948,8 +10100,6 @@ a commercial enterprise undertaken jointly by two or more parties which otherwis
 
 🗣 *“She jumped at the opportunity to study abroad.”*  
  🗣 *“I’d jump at that offer if I were you.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -11962,8 +10112,6 @@ a commercial enterprise undertaken jointly by two or more parties which otherwis
  🗣 *“I wasn’t a fan of that show at first, but I jumped on the bandwagon eventually.”*
 
 💡 *(Used humorously or critically — implies following, not leading.)*
-
----
 
 [↑ Back to index](#index)
 
@@ -11983,25 +10131,12 @@ They've only just met \- isn't it jumping the gun to be talking about marriage a
 🗣 *“Keep an eye out for my package — it should arrive today.”*  
  🗣 *“We should keep an eye out for any changes in the market.”*
 
----
-
 [↑ Back to index](#index)
 
 # Keep One’s Eye Peeled
 
 **Meaning:** To watch carefully or stay alert.  
  **Example:** *Keep your eyes peeled for the delivery truck.*
-
----
-
-[↑ Back to index](#index)
-
-# Keep One’s Eye Peeled
-
-**Meaning:** To watch carefully or stay alert.  
- **Example:** *Keep your eyes peeled for the delivery truck.*
-
----
 
 [↑ Back to index](#index)
 
@@ -12011,8 +10146,6 @@ They've only just met \- isn't it jumping the gun to be talking about marriage a
 
 🗣 *“Keep out — private property.”*  
  🗣 *“He tried to keep emotions out of his decisions.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -12026,8 +10159,6 @@ They've only just met \- isn't it jumping the gun to be talking about marriage a
  🗣 *“You always keep me honest when I exaggerate.”*
 
 💡 *(Common in workplaces or when discussing integrity.)*
-
----
 
 [↑ Back to index](#index)
 
@@ -12043,16 +10174,6 @@ I'll keep you posted on his progress
 
 # Keep up
 
-To continue
-
-Keep up the good work
-
----
-
-[↑ Back to index](#index)
-
-# keep up
-
 phrasal verb of keep  
 1\.  
 move or progress at the same rate as someone or something else.  
@@ -12060,6 +10181,8 @@ move or progress at the same rate as someone or something else.
 2\.  
 continue a course of action.  
 "keep up the good work"
+
+To continue
 
 [↑ Back to index](#index)
 
@@ -12069,12 +10192,6 @@ Meaning: To stay updated or remain at the same level as others.
 
 * Example 1: It’s important to keep up with the latest industry trends and developments.  
 * Example 2: He struggled to keep up with the fast pace of the new job.
-
----
-
-[↑ Back to index](#index)
-
-# keep up with
 
 verb
 
@@ -12090,8 +10207,6 @@ move at the same speed as others
 🗣 *“A kernel of corn popped right out of the pan.”*  
  🗣 *“There’s a kernel of truth in every rumor.”*  
  🗣 *“The kernel of his argument was actually quite convincing.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -12121,8 +10236,6 @@ After hours of studying, the fatigue finally kicked in and I had to take a nap.
 🗣 *“Editing means learning to kill your darlings.”*  
  🗣 *“He deleted his favorite scene because it didn’t fit the story.”*
 
----
-
 [↑ Back to index](#index)
 
 # Kill two birds with one stone
@@ -12134,11 +10247,10 @@ After hours of studying, the fatigue finally kicked in and I had to take a nap.
 
 💡 *(A go-to idiom for efficient multitasking.)*
 
----
-
 [↑ Back to index](#index)
 
 # Kneel
+
 
 [↑ Back to index](#index)
 
@@ -12148,8 +10260,6 @@ After hours of studying, the fatigue finally kicked in and I had to take a nap.
 
 🗣 *“She’s a bit kooky but incredibly creative.”*  
  🗣 *“His kooky ideas often turn out brilliant.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -12164,8 +10274,6 @@ After hours of studying, the fatigue finally kicked in and I had to take a nap.
 * In general life: *“Some countries are lagging behind in adopting new technology.”*
 
 It has a slightly **negative connotation**, implying that someone or something is not keeping up as expected.
-
----
 
 ### **Phrases you can use in conversations:**
 
@@ -12197,8 +10305,6 @@ what would i say if Im way behind my aspiration to become something
 
 * **“So far, I’m behind my own goals, but I’m still moving forward.”**
 
----
-
 ### **Example sentences for speaking practice:**
 
 1. “Honestly, I’m way behind where I wanted to be in my career, but I’m trying to catch up.”
@@ -12208,8 +10314,6 @@ what would i say if Im way behind my aspiration to become something
 3. “For example, I planned to achieve this in three years, but I’m still not there yet.”
 
 4. “That being said, I’m learning along the way, so the journey still matters.”
-
----
 
 ✨ Notice that I softened the tone a little — this way, it doesn’t sound overly harsh or discouraging. It shows self-awareness **and** determination.
 
@@ -12243,8 +10347,6 @@ to suddenly attack someone or something physically or criticize him, her, or it 
 3. **To express anger suddenly or without control:**  
     → “She’s been under a lot of pressure lately, so she sometimes lashes out at people.”
 
----
-
 ### **🔹 Spoken English Examples:**
 
 * “Sorry for lashing out earlier — I was just really stressed.”
@@ -12257,8 +10359,6 @@ to suddenly attack someone or something physically or criticize him, her, or it 
 
 * “Instead of lashing out, it’s better to take a deep breath and talk calmly.”
 
----
-
 ### **🔹 Connecting Phrases You Can Use:**
 
 * “That being said, I shouldn’t have lashed out.”
@@ -12266,8 +10366,6 @@ to suddenly attack someone or something physically or criticize him, her, or it 
 * “For example, when someone criticizes my work, I sometimes lash out without realizing it.”
 
 * “On the other hand, some people stay silent instead of lashing out.”
-
----
 
 💬 **Practice tip:**  
  Try saying:
@@ -12288,8 +10386,6 @@ to suddenly attack someone or something physically or criticize him, her, or it 
 
 Here it simply means *was located at the back of*.
 
----
-
 ### **2\. Figurative meaning**
 
 * To be the cause or reason for something (what “lay behind” an event \= what caused it).
@@ -12302,15 +10398,11 @@ Here it simply means *was located at the back of*.
 
 So figuratively, it’s about the underlying **cause or hidden reason**.
 
----
-
 ### **In spoken style**
 
 * *“What do you think lay behind his sudden anger?”* → What really caused it?
 
 * *“I believe her insecurity lay behind those remarks.”*
-
----
 
 ✅ **Key idea:**
 
@@ -12328,8 +10420,6 @@ So figuratively, it’s about the underlying **cause or hidden reason**.
 🗣 *“The workers laid bricks all morning.”*  
  🗣 *“He laid the first brick for his dream project.”*  
  🗣 *“I almost laid a brick when I saw that exam paper\!”* (slang, humorous)
-
----
 
 [↑ Back to index](#index)
 
@@ -12357,8 +10447,6 @@ The soldiers were ordered to lay down their weapons.
 
 After a long day, he decided to lay down for a quick nap.
 
----
-
 [↑ Back to index](#index)
 
 # Lay eyes on
@@ -12368,19 +10456,6 @@ After a long day, he decided to lay down for a quick nap.
 
 🗣 *“I haven’t laid eyes on him since college\!”*  
  🗣 *“The moment I laid eyes on that view, I knew I’d found my dream home.”*
-
----
-
-[↑ Back to index](#index)
-
-# Lay off
-
-Meaning:
-
-* To terminate employment; dismiss workers.  
-* To stop bothering or criticizing someone.  
-* Example 1: "The company had to lay off 100 employees due to budget cuts."  
-* Example 2: "Lay off him\! He’s already doing his best."
 
 [↑ Back to index](#index)
 
@@ -12395,8 +10470,6 @@ Meaning: To dismiss or terminate employees due to economic reasons.
 
 **"Lay off"** is a **phrasal verb** with different meanings based on context, but the most common are:
 
----
-
 ### **1\. Business / Employment Context**
 
 ➡️ **To lay someone off** means to **terminate their job**, usually due to **company downsizing, budget cuts, or restructuring**, **not because of poor performance**.
@@ -12409,21 +10482,15 @@ Meaning: To dismiss or terminate employees due to economic reasons.
 
 * *Being laid off is hard, especially when you’ve worked there for years.*
 
----
-
 ### **2\. Casual / Informal Context**
 
 ➡️ **"Lay off (something/someone)"** also means to **stop doing something**, especially when it's annoying, harmful, or excessive.
-
-#### **🔹 Example sentences:**
 
 * *Hey, lay off the junk food — it’s not good for you.*
 
 * *Can you lay off him? He’s already stressed out.*
 
 * *You need to lay off the complaints and try to help instead.*
-
----
 
 ### **✅ Summary of Key Uses:**
 
@@ -12433,7 +10500,10 @@ Meaning: To dismiss or terminate employees due to economic reasons.
 | **lay off something** | Stop doing/using something (informal) | *You should lay off caffeine for a while.* |
 | **lay off someone** | Stop bothering or criticizing someone | *Lay off her — she’s doing her best.* |
 
----
+* To terminate employment; dismiss workers.  
+* To stop bothering or criticizing someone.  
+* Example 1: "The company had to lay off 100 employees due to budget cuts."  
+* Example 2: "Lay off him\! He’s already doing his best."
 
 [↑ Back to index](#index)
 
@@ -12482,8 +10552,6 @@ Meaning: To dismiss or terminate employees due to economic reasons.
 **Meaning:** Thin or having little fat; also means efficient with no waste.  
  **Example:** *He stays lean by running daily.* / *Our team runs lean but productive.*
 
----
-
 [↑ Back to index](#index)
 
 # Lean into
@@ -12499,8 +10567,6 @@ It’s often used in professional and personal growth contexts.
 * *“If you want to grow as a leader, you have to lean into uncomfortable conversations.”* → You need to accept and handle difficult conversations instead of avoiding them.
 
 * *“He leaned into his creativity and started his own design company.”* → He embraced his talent and used it to move forward.
-
----
 
 ### **Phrases you can practice in conversations:**
 
@@ -12556,8 +10622,6 @@ It can mean a few different things depending on the context:
    * Example: *“Do you want to include that detail in the report?” → “No, leave it off.”*  
       (means exclude it).
 
----
-
 Here are some **spoken phrases** you can practice:
 
 * *“Let’s leave it off for now and pick it up later.”*
@@ -12581,8 +10645,6 @@ Meaning:
 * Example 1: "She usually leaves work to go home at 5 PM."  
 * Example 2: "He left work early to attend his daughter’s school event."
 
----
-
 [↑ Back to index](#index)
 
 # Lecherously
@@ -12593,8 +10655,6 @@ Meaning:
 * *“He smiled lecherously at her.”*  
    🟠 Negative — often used to describe creepy or vulgar behavior.
 
----
-
 [↑ Back to index](#index)
 
 # Leered
@@ -12604,8 +10664,6 @@ Meaning:
 
 * *“He leered at her across the room.”*  
    🟠 Always negative — it suggests bad intent or sleaziness.
-
----
 
 [↑ Back to index](#index)
 
@@ -12619,8 +10677,6 @@ Meaning:
  🗣 *“She’s getting compliments left and right.”*
 
 💡 *(Used often to describe abundance — of good or bad things.)*
-
----
 
 [↑ Back to index](#index)
 
@@ -12646,8 +10702,6 @@ You can use it in:
 * learning sessions  
 * casual conversations
 
----
-
 Common spoken sentences you can use 🎯
 
 Try practicing these aloud:
@@ -12666,16 +10720,12 @@ Notice the connectors:
 * **I think**  
    These make your speech sound natural and structured.
 
----
-
 Usage in IT / architecture discussions 💻
 
 Since you often explain technical workflows (for example, pipelines, deployments, or MLOps stages), this phrase is very useful:
 
 * “Previously, we left off at the model training phase; today we’ll move to deployment.”  
 * “As far as I remember, we left off after setting up the cluster configuration.”
-
----
 
 Similar expressions (use interchangeably)
 
@@ -12688,8 +10738,6 @@ Example comparison:
 
 “Let’s resume from the last point” sounds slightly formal.  
  “Let’s pick up where we left off” sounds natural in meetings.
-
----
 
 Quick speaking practice exercise 🗣️
 
@@ -12733,8 +10781,6 @@ This sentence is excellent for presentations and client calls.
 
 *“I felt detached from the discussion.”*
 
----
-
 ### **Words that are *close* but slightly off**
 
 * **Isolated** → usually implies being *separated or alone*, even physically  
@@ -12742,8 +10788,6 @@ This sentence is excellent for presentations and client calls.
 * **Lost** → more about confusion than exclusion
 
 They’re not wrong, just less precise for this scenario.
-
----
 
 ### **Best one-line, natural sentence**
 
@@ -12770,8 +10814,6 @@ Or more casual:
 
 👉 *Use it for emphasis — it shows contrast or exaggeration naturally.*
 
----
-
 [↑ Back to index](#index)
 
 # let out
@@ -12792,8 +10834,6 @@ phrasal verb of let
  **Figurative:** To share personal feelings.  
  **Example:** *Can you let me in?* / *She finally let me in on her secret.*
 
----
-
 [↑ Back to index](#index)
 
 # Let the cat out of the bag
@@ -12802,8 +10842,6 @@ phrasal verb of let
 
 🗣 *“Who let the cat out of the bag about the surprise party?”*  
  🗣 *“I accidentally let the cat out of the bag.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -12825,25 +10863,8 @@ When are you going to level with me?
 🗣 *“We can leverage our network to find investors.”*  
  🗣 *“She leveraged her experience to negotiate better pay.”*
 
----
-
-[↑ Back to index](#index)
-
-# Leverage
-
 **Meaning:** To use something effectively to your advantage.  
  **Example:** *We can leverage our network to grow faster.*
-
----
-
-[↑ Back to index](#index)
-
-# Leverage
-
-**Meaning:** To use something effectively to your advantage.  
- **Example:** *We can leverage our network to grow faster.*
-
----
 
 [↑ Back to index](#index)
 
@@ -12859,8 +10880,6 @@ When are you going to level with me?
 * “Life won’t spare you, but it will teach you.”
 
 👉 *Use it in motivational or reflective talk.*
-
----
 
 [↑ Back to index](#index)
 
@@ -12898,8 +10917,6 @@ Robbie felt her spirits lighten a little
 🗣 *“He used to have a slight lisp as a child.”*  
  🗣 *“Her lisp gives her voice a really sweet tone.”*
 
----
-
 [↑ Back to index](#index)
 
 # listen up
@@ -12916,17 +10933,6 @@ A "rocky" relationship means your partnership is currently facing significant ch
 
 **Meaning:** Gradually; step by step.  
  **Example:** *He improved little by little every day.*
-
----
-
-[↑ Back to index](#index)
-
-# Little by Little
-
-**Meaning:** Gradually; step by step.  
- **Example:** *He improved little by little every day.*
-
----
 
 [↑ Back to index](#index)
 
@@ -12961,8 +10967,6 @@ the match didn't liven up until the second half
 4. **Finance/investing**: To secure a rate or profit.
 
    * Example: *“He locked in his gains before the market dipped.”*
-
----
 
 ### **Phrases you can use in real conversations:**
 
@@ -13011,13 +11015,6 @@ Are  you looking for a room?
 
 # Look forward to
 
-**Look forward to** – To anticipate with excitement.  
-I look forward to seeing you soon.
-
-[↑ Back to index](#index)
-
-# Look forward to
-
 Meaning:
 
 * To anticipate something with pleasure.  
@@ -13025,36 +11022,14 @@ Meaning:
 * Example 1: "I'm looking forward to seeing you at the party."  
 * Example 2: "We’re looking forward to the release of the new product."
 
----
-
-[↑ Back to index](#index)
-
-# Look forward to
-
-Meaning: To anticipate or be excited about something in the future.
-
 * Example 1: We look forward to collaborating with your company on upcoming projects.  
 * Example 2: I’m looking forward to the weekend getaway.
-
----
-
-[↑ Back to index](#index)
-
-# Look forward to
-
-**Meaning:** To be excited or eager about something in the future.
 
 🗣 *“I’m looking forward to our meeting tomorrow.”*  
  🗣 *“She’s really looking forward to the holidays.”*
 
----
-
-[↑ Back to index](#index)
-
-# Look into
-
-**Look into** – To investigate or examine.  
- I'll look into the issue tomorrow.
+**Look forward to** – To anticipate with excitement.  
+I look forward to seeing you soon.
 
 [↑ Back to index](#index)
 
@@ -13065,25 +11040,16 @@ Meaning: To investigate or examine a situation or problem.
 * Example 1: We will look into the issue and provide a solution as soon as possible.  
 * Example 2: The police are looking into the matter thoroughly to uncover the truth.
 
----
-
-[↑ Back to index](#index)
-
-# Look into
-
-To investigate  
-Police is looking into the matter  
----
-
-[↑ Back to index](#index)
-
-# Look into
-
 **Meaning:** To investigate or examine something.
 
 🗣 *“I’ll look into the issue and get back to you.”*  
  🗣 *“They’re looking into ways to cut costs.”*
 
+**Look into** – To investigate or examine.  
+ I'll look into the issue tomorrow.
+
+To investigate  
+Police is looking into the matter  
 ---
 
 [↑ Back to index](#index)
@@ -13092,8 +11058,6 @@ Police is looking into the matter
 
 **Look on** means to **watch** something happen without taking part in it.  
  It often implies being an observer — sometimes powerless to act, sometimes just choosing not to get involved.
-
----
 
 ### **🔸 Examples:**
 
@@ -13109,8 +11073,6 @@ Police is looking into the matter
 
    * *"Bystanders looked on in shock as the building caught fire."*
 
----
-
 ### **🔸 Synonyms:**
 
 * Watch
@@ -13120,8 +11082,6 @@ Police is looking into the matter
 * Witness
 
 * Be a spectator
-
----
 
 💡 **Not to confuse**:
 
@@ -13142,8 +11102,6 @@ Police is looking into the matter
 * “I’ll send the form — just look it over and sign it.”
 
 👉 *Common in offices:* Emails, client discussions, or agreements.
-
----
 
 [↑ Back to index](#index)
 
@@ -13167,8 +11125,6 @@ In casual conversation, **"look through"** usually has these main senses:
 
    * *"She looked right through me."* (acted like she didn’t see me)
 
----
-
 **2\. Usage in spoken English**
 
 In natural speech, "look through" is often:
@@ -13178,8 +11134,6 @@ In natural speech, "look through" is often:
 * Often combined with **pronouns** like *look through it / look through them*.
 
 * Frequently used with **time markers**: *"I’ll look through it later"* or *"Just look through these before the meeting."*
-
----
 
 **3\. Usage in a presentation about AI**
 
@@ -13235,17 +11189,11 @@ Im looking up a word in the dictionary
 
 * *“He looked up the error code to find a solution.”*
 
----
-
 ### **2\. Lookup (noun or adjective)**
-
-**Meaning:**
 
 * *Lookup* (one word) is usually a **noun** or an **adjective** referring to the **process or action of searching** for information.
 
 * Common in computing or databases: a *lookup table* or *lookup operation* means using a key to find data.
-
-**Examples:**
 
 * *“The program performs a fast lookup to retrieve user details.”*
 
@@ -13261,8 +11209,6 @@ Im looking up a word in the dictionary
 
 * *“During the design review, I looked up how our cloud provider handles autoscaling policies.”*
 
----
-
 ### **Lookup (noun or adjective)**
 
 * *“We implemented a lookup table to map cloud resource IDs to their owners for better audit tracking.”*
@@ -13270,12 +11216,6 @@ Im looking up a word in the dictionary
 * *“The AIOps system performs a fast lookup of log patterns to detect anomalies in real time.”*
 
 * *“Our monitoring pipeline includes a lookup step that enriches alerts with metadata from the CMDB.”*
-
----
-
-[↑ Back to index](#index)
-
-# Look up
 
 [↑ Back to index](#index)
 
@@ -13286,8 +11226,6 @@ Meaning: To admire or respect someone.
 * Example 1: Many employees look up to the CEO for his leadership skills.  
 * Example 2: She looks up to her mentor for guidance and inspiration.
 
----
-
 [↑ Back to index](#index)
 
 # Loop back
@@ -13296,8 +11234,6 @@ Meaning: To admire or respect someone.
 
 🗣 *“Let’s loop back to this point after lunch.”*  
  🗣 *“I’ll loop back with you once I get the data.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -13332,34 +11268,12 @@ beer relaxes certain parts of your brain and loosens you up
 **Meaning:** To stop communicating with someone.  
  **Example:** *I lost touch with my college friends.*
 
----
-
-[↑ Back to index](#index)
-
-# Lose Touch With
-
-**Meaning:** To stop communicating with someone.  
- **Example:** *I lost touch with my college friends.*
-
----
-
 [↑ Back to index](#index)
 
 # Lousy
 
 **Meaning:** Very bad or unpleasant.  
  **Example:** *I felt lousy after the argument.*
-
----
-
-[↑ Back to index](#index)
-
-# Lousy
-
-**Meaning:** Very bad or unpleasant.  
- **Example:** *I felt lousy after the argument.*
-
----
 
 [↑ Back to index](#index)
 
@@ -13374,8 +11288,6 @@ For example:
 * *“There’s always a risk lurking behind new technologies.”* (a hidden problem or danger not obvious at first)
 
 It can be **literal** (a person physically hiding) or **figurative** (a problem, feeling, or threat in the background).
-
----
 
 ✅ **Spoken English practice sentences**
 
@@ -13401,11 +11313,10 @@ It can be **literal** (a person physically hiding) or **figurative** (a problem,
 * *“She had luscious hair that shimmered in the light.”*  
    🟢 *Tip:* Use it when something feels rich, soft, or luxurious.
 
----
-
 [↑ Back to index](#index)
 
 # Luxurious
+
 
 [↑ Back to index](#index)
 
@@ -13414,15 +11325,11 @@ It can be **literal** (a person physically hiding) or **figurative** (a problem,
 **Meaning:** To completely change direction or opinion.  
  **Example:** *She made a 180-degree turn and decided to support the idea.*
 
----
-
 [↑ Back to index](#index)
 
 # Make an impression on
 
 The phrase **“make an impression on”** means to affect someone’s thoughts or feelings strongly, usually by standing out in a positive (or sometimes negative) way. It’s about how people remember you after an interaction.
-
----
 
 **Usage in different contexts**
 
@@ -13457,8 +11364,6 @@ The phrase **“make an impression on”** means to affect someone’s thoughts 
 🗣 *“The ship made berth at the harbor just before dawn.”*  
  🗣 *“They made berth for a new manager in the department.”*
 
----
-
 [↑ Back to index](#index)
 
 # Make It
@@ -13466,25 +11371,12 @@ The phrase **“make an impression on”** means to affect someone’s thoughts 
 **Meaning:** To succeed or reach somewhere in time.  
  **Example:** *I finally made it to the meeting\!* / *She worked hard and made it in the industry.*
 
----
-
 [↑ Back to index](#index)
 
 # Make Oneself Useful
 
 **Meaning:** To help or do something productive.  
  **Example:** *Stop standing around—make yourself useful\!*
-
----
-
-[↑ Back to index](#index)
-
-# Make Oneself Useful
-
-**Meaning:** To help or do something productive.  
- **Example:** *Stop standing around—make yourself useful\!*
-
----
 
 [↑ Back to index](#index)
 
@@ -13510,8 +11402,6 @@ The phrase **“make out”** can mean different things depending on the context
 
    * *“They were making out in the car.”* (kissing or being intimate)
 
----
-
 ✅ **Useful sentences for conversation practice**:
 
 * “I couldn’t make out what you just said, could you repeat?”
@@ -13521,8 +11411,6 @@ The phrase **“make out”** can mean different things depending on the context
 * “He makes it out like it was all my fault.”
 
 * “How are you making out with the project so far?”
-
----
 
 👉 Try practicing aloud with connecting phrases:
 
@@ -13559,8 +11447,6 @@ They made up after the argument.
 🗣 *“The government issued a health mandate.”*  
  🗣 *“As a doctor, I feel a moral mandate to speak up.”*
 
----
-
 [↑ Back to index](#index)
 
 # Manipulator
@@ -13570,25 +11456,12 @@ They made up after the argument.
 🗣 *“He’s a master manipulator — always twisting the truth.”*  
  🗣 *“Beware of emotional manipulators who play the victim.”*
 
----
-
 [↑ Back to index](#index)
 
 # Mark of Somebody
 
 **Meaning:** A quality that identifies someone’s character.  
  **Example:** *Patience is the mark of a true leader.*
-
----
-
-[↑ Back to index](#index)
-
-# Mark of Somebody
-
-**Meaning:** A quality that identifies someone’s character.  
- **Example:** *Patience is the mark of a true leader.*
-
----
 
 [↑ Back to index](#index)
 
@@ -13600,8 +11473,6 @@ They made up after the argument.
 🗣 *“That DJ did a crazy mash-up of 80s hits.”*  
  🗣 *“This movie is a mash-up of comedy and sci-fi.”*
 
----
-
 [↑ Back to index](#index)
 
 # Mass
@@ -13609,25 +11480,12 @@ They made up after the argument.
 **Meaning:** A large quantity or group.  
  **Example:** *A mass of people gathered outside.* / *Mass communication.*
 
----
-
 [↑ Back to index](#index)
 
 # Mate
 
 **Meaning:** Friend or partner (common in British English).  
  **Example:** *Hey mate, how’s it going?*
-
----
-
-[↑ Back to index](#index)
-
-# Mate
-
-**Meaning:** Friend or partner (common in British English).  
- **Example:** *Hey mate, how’s it going?*
-
----
 
 [↑ Back to index](#index)
 
@@ -13638,8 +11496,6 @@ They made up after the argument.
 
 🗣 *“Don’t be so melodramatic — it’s just a scratch.”*  
  🗣 *“She tends to get melodramatic over small issues.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -13659,8 +11515,6 @@ an often humorous image, video, etc., passed from one internet user to another
 🗣 *“My laptop’s totally messed up.”*  
  🗣 *“He’s been a bit messed up since the breakup.”*
 
----
-
 [↑ Back to index](#index)
 
 # metrics
@@ -13678,8 +11532,6 @@ the report provides various metrics at the class and method level
 A **milestone** is an **important stage, event, or achievement** in a process, project, or someone’s life.  
  Think of it as a **marker of progress**.
 
----
-
 ### **Quick Examples**
 
 * *“Finishing this module is a big milestone for the project.”*
@@ -13688,8 +11540,6 @@ A **milestone** is an **important stage, event, or achievement** in a process, p
 
 * *“We reached the milestone of 1 million users.”*
 
----
-
 ### **Sentences You Can Use**
 
 1. “Completing testing is our next milestone.”
@@ -13697,8 +11547,6 @@ A **milestone** is an **important stage, event, or achievement** in a process, p
 2. “This release marks an important milestone for the team.”
 
 3. “Hitting that sales target was a big milestone.”
-
----
 
 👉 Formal alternatives: **achievement, landmark, turning point**.
 
@@ -13711,19 +11559,16 @@ A **milestone** is an **important stage, event, or achievement** in a process, p
 🗣 *“He can mimic accents perfectly.”*  
  🗣 *“Children often mimic their parents.”*
 
----
-
 [↑ Back to index](#index)
 
 # Mindset
+
 
 [↑ Back to index](#index)
 
 # Mingle
 
 **Mingle** means to **move around and talk to different people in a social setting**. It’s about mixing with others and having casual conversations, instead of sticking with just one group.
-
----
 
 ### **Quick Examples**
 
@@ -13732,8 +11577,6 @@ A **milestone** is an **important stage, event, or achievement** in a process, p
 * *“I don’t know many people here, but I’ll try to mingle.”*
 
 * *“She likes to mingle with colleagues after work.”*
-
----
 
 ### **Sentences You Can Use**
 
@@ -13745,8 +11588,6 @@ A **milestone** is an **important stage, event, or achievement** in a process, p
 
 4. “I’m not great at mingling, but I’ll give it a try.”
 
----
-
 💡 **Context of usage**:
 
 * **Casual/social**: parties, weddings, networking events.
@@ -13754,8 +11595,6 @@ A **milestone** is an **important stage, event, or achievement** in a process, p
 * **Professional**: company gatherings, conferences (often said as *“network and mingle”*).
 
 👉 Formal alternatives: **socialize, network, interact**.
-
----
 
 ✨ Practice aloud: *“I’ll mingle with the team after the meeting.”*
 
@@ -13775,25 +11614,17 @@ A **milestone** is an **important stage, event, or achievement** in a process, p
 
 * *“The colors mingled beautifully on the canvas.”*
 
----
-
-### **Sentences You Can Use**
-
 1. “The aroma of spices mingled in the air.”
 
 2. “Rain mingled with dust on the ground.”
 
 3. “Music mingled with laughter during the festival.”
 
----
-
 💡 **So, summary**:
 
 * **Social sense** → moving around and mixing with people.
 
 * **Literal sense** → different things (sounds, smells, colors, feelings, objects) mixing together.
-
----
 
 👉 Practice aloud: *“The smell of rain mingled with the cool breeze.”*
 
@@ -13806,25 +11637,12 @@ Do you want me to also give you a few **metaphorical uses** (like “cultures mi
 **Meaning:** Playfully causing trouble or teasing.  
  **Example:** *He gave me a mischievous smile before hiding my keys.*
 
----
-
 [↑ Back to index](#index)
 
 # Misconception
 
 **Meaning:** A wrong or mistaken belief.  
  **Example:** *It’s a common misconception that bats are blind.*
-
----
-
-[↑ Back to index](#index)
-
-# Misconception
-
-**Meaning:** A wrong or mistaken belief.  
- **Example:** *It’s a common misconception that bats are blind.*
-
----
 
 [↑ Back to index](#index)
 
@@ -13841,8 +11659,6 @@ Do you want me to also give you a few **metaphorical uses** (like “cultures mi
  🗣 *“There was a mix-up at the airport with our luggage.”*  
  🗣 *“Don’t mix up confidence with arrogance.”*
 
----
-
 [↑ Back to index](#index)
 
 # Mockery
@@ -13851,8 +11667,6 @@ Do you want me to also give you a few **metaphorical uses** (like “cultures mi
 
 🗣 *“They made a mockery of the rules.”*  
  🗣 *“The debate turned into a mockery.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -13872,8 +11686,6 @@ Do you want me to also give you a few **metaphorical uses** (like “cultures mi
 
 🗣 *“Our new system is modeled after Google’s architecture.”*  
  🗣 *“He modeled his leadership style after his mentor.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -13903,8 +11715,6 @@ Great word\! **Molasses** is thick, dark syrup that comes from refining sugarcan
 
    * *“Getting him out of bed in the morning is like pulling molasses uphill.”*
 
----
-
 ✅ Sentences you can practice:
 
 1. *“The project moved forward as slowly as molasses.”*
@@ -13916,8 +11726,6 @@ Great word\! **Molasses** is thick, dark syrup that comes from refining sugarcan
 4. *“This syrup is thick, almost like molasses.”*
 
 👉 Notice how it’s often used in similes: *“like molasses”* to stress slowness.
-
----
 
 💡 Context of usage:
 
@@ -13937,8 +11745,6 @@ Great word\! **Molasses** is thick, dark syrup that comes from refining sugarcan
 🗣 *“The clay is soft and moldable.”*  
  🗣 *“Children’s minds are highly moldable at a young age.”*
 
----
-
 [↑ Back to index](#index)
 
 # Moment of Truth
@@ -13954,8 +11760,6 @@ For example:
 * In personal life, confessing your feelings to someone can also feel like *the moment of truth*.
 
 It usually carries a sense of pressure and finality—where preparation ends, and reality shows the result.
-
----
 
 ✅ Here are some **spoken phrases** you could use in real life:
 
@@ -13977,8 +11781,6 @@ It usually carries a sense of pressure and finality—where preparation ends, an
 🗣 *“He lives like a monk — no luxuries at all.”*  
  🗣 *“Monks dedicate their lives to meditation and peace.”*
 
----
-
 [↑ Back to index](#index)
 
 # Mood Swings
@@ -13986,34 +11788,12 @@ It usually carries a sense of pressure and finality—where preparation ends, an
 **Meaning:** Sudden changes in mood.  
  **Example:** *Teenagers often have mood swings.*
 
----
-
-[↑ Back to index](#index)
-
-# Mood Swings
-
-**Meaning:** Sudden changes in mood.  
- **Example:** *Teenagers often have mood swings.*
-
----
-
 [↑ Back to index](#index)
 
 # Mortar
 
 **Meaning:** A mixture used to hold bricks together.  
  **Example:** *The wall was built with cement and mortar.*
-
----
-
-[↑ Back to index](#index)
-
-# Mortar
-
-**Meaning:** A mixture used to hold bricks together.  
- **Example:** *The wall was built with cement and mortar.*
-
----
 
 [↑ Back to index](#index)
 
@@ -14026,8 +11806,6 @@ It usually carries a sense of pressure and finality—where preparation ends, an
 
 * Often used when something hurts your pride or dignity.
 
----
-
 [↑ Back to index](#index)
 
 # Mote of dust
@@ -14037,8 +11815,6 @@ It usually carries a sense of pressure and finality—where preparation ends, an
 
 🗣 *“Not even a mote of dust was left after cleaning.”*  
  🗣 *“In the grand universe, we’re just a mote of dust.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -14084,8 +11860,6 @@ For example, "Nobody likes to be rejected, but I got past it".
 The phrase **“moving forward”** means *from this point on* or *in the future*.  
  It’s often used in **spoken English** to shift focus toward **what will happen next** or **what should be done next** — especially in meetings or discussions.
 
----
-
 ### **✅ Examples in spoken English**
 
 1. **“Moving forward, we should document all our deployments.”**  
@@ -14100,8 +11874,6 @@ The phrase **“moving forward”** means *from this point on* or *in the future
 4. **“I think moving forward, we’ll face some new challenges.”**  
     → (In the future, there may be new issues.)
 
----
-
 ### **⚠️ Your example:**
 
 “Moving forward in further we can get this as issue as well.”
@@ -14114,8 +11886,6 @@ That sentence is understandable but **not natural**.
 * ✅ “We could run into this issue again moving forward.”
 
 * ✅ “This could become a recurring issue moving forward.”
-
----
 
 ### **💬 Common spoken phrases you can practice:**
 
@@ -14136,17 +11906,6 @@ That sentence is understandable but **not natural**.
 **Meaning:** Softened sound, unclear or dull.  
  **Example:** *I heard muffled voices from the next room.*
 
----
-
-[↑ Back to index](#index)
-
-# Muffled
-
-**Meaning:** Softened sound, unclear or dull.  
- **Example:** *I heard muffled voices from the next room.*
-
----
-
 [↑ Back to index](#index)
 
 # Mumble
@@ -14154,25 +11913,12 @@ That sentence is understandable but **not natural**.
 Speak unclearly or quietly.  
  👉 *“Don’t mumble—speak clearly.”*
 
----
-
 [↑ Back to index](#index)
 
 # Mundane
 
 **Meaning:** Ordinary or boring.  
  **Example:** *He found his office job too mundane.*
-
----
-
-[↑ Back to index](#index)
-
-# Mundane
-
-**Meaning:** Ordinary or boring.  
- **Example:** *He found his office job too mundane.*
-
----
 
 [↑ Back to index](#index)
 
@@ -14186,25 +11932,12 @@ Speak unclearly or quietly.
 
 💡 *(Playful term, used with humor.)*
 
----
-
 [↑ Back to index](#index)
 
 # Narrator
 
 **Meaning:** The person who tells the story.  
  **Example:** *The narrator explains what’s happening in the background.*
-
----
-
-[↑ Back to index](#index)
-
-# Narrator
-
-**Meaning:** The person who tells the story.  
- **Example:** *The narrator explains what’s happening in the background.*
-
----
 
 [↑ Back to index](#index)
 
@@ -14219,17 +11952,6 @@ Speak unclearly or quietly.
 **Meaning:** A person who always finds fault or doubts success.  
  **Example:** *Ignore the naysayers and keep going.*
 
----
-
-[↑ Back to index](#index)
-
-# Naysayer
-
-**Meaning:** A person who always finds fault or doubts success.  
- **Example:** *Ignore the naysayers and keep going.*
-
----
-
 [↑ Back to index](#index)
 
 # Neat trick
@@ -14238,8 +11960,6 @@ Speak unclearly or quietly.
 
 🗣 *“That’s a neat trick — how did you manage it?”*  
  🗣 *“He’s got a neat trick for remembering names.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -14251,23 +11971,17 @@ Speak unclearly or quietly.
 * *“They were necking in the car.”*  
    🟠 Informal; mildly romantic or suggestive.
 
----
-
 [↑ Back to index](#index)
 
 # Needle back
 
 **“Needle back”** is usually used in the context of **responding to someone who is teasing, provoking, or criticizing you**. It comes from the verb **“needle”**, which means **to annoy, provoke, or goad someone deliberately**.
 
----
-
 ### **Meaning:**
 
 * **Needle back \= respond in kind to someone who is needling you.**
 
 * Often playful, sometimes defensive, depending on tone.
-
----
 
 ### **Usage in Spoken English:**
 
@@ -14282,8 +11996,6 @@ Speak unclearly or quietly.
 3. **Figurative / mild conflict:**
 
    * *“The two politicians needled back and forth during the debate.”*
-
----
 
 💡 **Tip for speaking:**
 
@@ -14300,8 +12012,6 @@ Speak unclearly or quietly.
 🗣 *“Her new job is night and day compared to the last one.”*  
  🗣 *“The improvement in your speech is like night and day\!”*
 
----
-
 [↑ Back to index](#index)
 
 # Nimble
@@ -14314,8 +12024,6 @@ Speak unclearly or quietly.
 
 💡 *(Used often to describe flexible organizations or thinkers.)*
 
----
-
 [↑ Back to index](#index)
 
 # Nip
@@ -14326,8 +12034,6 @@ Speak unclearly or quietly.
 
 * *“The baby kept nipping my arm.”* (pinching playfully)
 
----
-
 ### **2\. To cut off or stop something quickly (often in the phrase *“nip in the bud”*)**
 
 👉 *“Nip in the bud”* means to stop a problem early before it grows bigger.
@@ -14336,21 +12042,15 @@ Speak unclearly or quietly.
 
 * *“If you see negativity in the team, nip it in the bud.”*
 
----
-
 ### **3\. To go quickly (British informal)**
 
 * *“I’ll just nip to the store.”* (I’ll quickly go to the store)
 
 * *“She nipped out for a coffee.”*
 
----
-
 ### **4\. A small amount of alcohol (informal)**
 
 * *“He had a quick nip of whiskey.”*
-
----
 
 ### **Spoken Sentences You Can Use**
 
@@ -14361,8 +12061,6 @@ Speak unclearly or quietly.
 3. “The dog nipped my finger, but it wasn’t serious.”
 
 4. “Let’s nip that rumor in the bud before it gets out of hand.”
-
----
 
 💡 **Context of usage**:
 
@@ -14383,8 +12081,6 @@ Speak unclearly or quietly.
 
 💡 *(Very natural in workplace or relationship talk — “cut it off early.”)*
 
----
-
 [↑ Back to index](#index)
 
 # Nitty Gritty
@@ -14403,8 +12099,6 @@ the most important aspects or practical details of a subject or situation.
 🗣 *“Let’s get down to the nitty-gritty of the plan.”*  
  🗣 *“Once you understand the nitty-gritty, the rest is easy.”*
 
----
-
 [↑ Back to index](#index)
 
 # no doubt
@@ -14417,34 +12111,17 @@ those who left were attracted, no doubt, by higher pay
 
 they no doubt did what they could to help her, but their best proved insufficient
 
-[↑ Back to index](#index)
-
-# No doubt
-
 **Meaning:** Certainly; without question.
 
 🗣 *“No doubt she’ll ace the exam.”*  
  🗣 *“That’s the best restaurant in town, no doubt.”*
 
----
-
 [↑ Back to index](#index)
 
 # No Hard Feelings
 
 **Meaning:** No anger or resentment after a disagreement.  
  **Example:** *No hard feelings, right?*
-
----
-
-[↑ Back to index](#index)
-
-# No Hard Feelings
-
-**Meaning:** No anger or resentment after a disagreement.  
- **Example:** *No hard feelings, right?*
-
----
 
 [↑ Back to index](#index)
 
@@ -14454,8 +12131,6 @@ they no doubt did what they could to help her, but their best proved insufficien
 
 🗣 *“Thanks for helping\!”*  
  🗣 *“No problem, happy to help.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -14474,17 +12149,6 @@ they wanted a lot of money with no strings attached
 **Meaning:** Not open to discussion or compromise.  
  **Example:** *Honesty is non-negotiable for me.*
 
----
-
-[↑ Back to index](#index)
-
-# Non-Negotiable
-
-**Meaning:** Not open to discussion or compromise.  
- **Example:** *Honesty is non-negotiable for me.*
-
----
-
 [↑ Back to index](#index)
 
 # Nonsense
@@ -14495,8 +12159,6 @@ they wanted a lot of money with no strings attached
 🗣 *“That’s absolute nonsense — don’t believe it.”*  
  🗣 *“Stop talking nonsense and focus.”*
 
----
-
 [↑ Back to index](#index)
 
 # Note down
@@ -14505,8 +12167,6 @@ Meaning: To write something down.
 
 * Example 1: Her answers were noted down on the chart.  
 * Example 2: He quickly noted down the key points from the meeting.
-
----
 
 [↑ Back to index](#index)
 
@@ -14542,25 +12202,12 @@ It’s a way to strongly praise or highlight how impressive something or someone
  🗣 *“He’s notorious for arriving late.”*  
  🗣 *“The place serves the city’s notorious chili wings.”*
 
----
-
 [↑ Back to index](#index)
 
 # Novice
 
 **Meaning:** A beginner.  
  **Example:** *I’m a novice at photography.*
-
----
-
-[↑ Back to index](#index)
-
-# Novice
-
-**Meaning:** A beginner.  
- **Example:** *I’m a novice at photography.*
-
----
 
 [↑ Back to index](#index)
 
@@ -14581,8 +12228,6 @@ This means *“not at all near to”* or *“far from being”*.
 * *“We’re nowhere close to finishing the work.”* (We still have a long way to go.)
 
 It’s often used for **emphasis** when something is very far from the truth, a goal, or an expectation.
-
----
 
 ### **Similar words/phrases and usage**
 
@@ -14605,8 +12250,6 @@ It’s often used for **emphasis** when something is very far from the truth, a 
 
    * *“Your guess is miles away from the real answer.”*
 
----
-
 ### **Common spoken sentences you can practice:**
 
 1. *“We’re nowhere close to finishing this project.”*
@@ -14623,13 +12266,12 @@ It’s often used for **emphasis** when something is very far from the truth, a 
 
 # Nuanced
 
+
 [↑ Back to index](#index)
 
 # Obnoxious
 
 The word **“obnoxious”** is an **adjective** used to describe someone or something that is **very unpleasant, annoying, or offensive**. It’s stronger than just “annoying” — it carries the sense of being irritating in a loud or rude way.
-
----
 
 ### **🔹 Examples in sentences**
 
@@ -14638,8 +12280,6 @@ The word **“obnoxious”** is an **adjective** used to describe someone or som
 * *The party guests were being loud and obnoxious all night.*
 
 * *That obnoxious smell made it hard to stay in the room.*
-
----
 
 👉 In **spoken English**, it’s often used casually to complain about behavior:
 
@@ -14660,16 +12300,12 @@ The word **“obnoxious”** is an **adjective** used to describe someone or som
 
 * *“The prices were obscene.”* (figurative — ridiculously high)
 
----
-
 [↑ Back to index](#index)
 
 # Obstacle
 
 **Meaning:** Something that blocks your way or progress.  
  **Example:** *Fear is the biggest obstacle to success.*
-
----
 
 [↑ Back to index](#index)
 
@@ -14690,8 +12326,6 @@ Did it ever occur to you that you might be overtraining
 🗣 *“The odds are against us, but let’s give it a shot.”*  
  🗣 *“He beat the odds and made it big.”*
 
----
-
 [↑ Back to index](#index)
 
 # Off guard
@@ -14706,8 +12340,6 @@ So, the idea is: **you were not mentally prepared.**
 For example:  
  If someone suddenly asks you a difficult question in a meeting and you were not expecting it, you might feel **caught off guard**.
 
----
-
 ### **Simple Examples (Real-life usage)**
 
 1. **Meeting / Work**  
@@ -14719,19 +12351,13 @@ For example:
 4. **Personal reaction**  
 * *“I was caught off guard when she mentioned my name in the presentation.”*
 
----
-
 ### **Important Phrase**
 
 The most common expression is:
 
 **“caught off guard”**
 
-Example:
-
 * *“I was caught off guard by that question.”*
-
----
 
 ### **Comparison with similar words**
 
@@ -14747,8 +12373,6 @@ Example difference:
 * *“I was surprised by the question.”*  
 * *“I was caught off guard by the question.”* → stronger; shows **lack of preparation**
 
----
-
 ### **Useful Spoken Sentences (Practice for meetings)**
 
 Try speaking these aloud:
@@ -14759,8 +12383,6 @@ Try speaking these aloud:
 4. **“For example, when unexpected questions come in a meeting, they can sometimes catch you off guard.”**  
 5. **“That being said, it’s always good to pause and organize your thoughts before answering.”**
 
----
-
 ### **How you might use it in your real scenario**
 
 Since you mentioned earlier that **sometimes in client calls you struggle when unexpected questions come**, you could say something like:
@@ -14769,8 +12391,6 @@ Since you mentioned earlier that **sometimes in client calls you struggle when u
 
 This sounds **natural and professional in meetings**.
 
----
-
 ### **Quick Speaking Practice**
 
 Say this sentence aloud 3 times:
@@ -14778,8 +12398,6 @@ Say this sentence aloud 3 times:
 **“The question caught me off guard, but let me think through it and explain.”**
 
 This will help you sound **calm and confident even when surprised**.
-
----
 
 If you'd like, I can also show you **5 advanced phrases similar to “caught off guard” that sound very natural in meetings.** (These are extremely useful in professional conversations.)
 
@@ -14855,8 +12473,6 @@ For example:
 
 * Complicated instructions in a tool could be *off-putting* for new users.
 
----
-
 ### **Common spoken sentences:**
 
 1. “I found his tone quite off-putting, to be honest.”
@@ -14866,8 +12482,6 @@ For example:
 3. “Her comment was off-putting, but I tried not to take it personally.”
 
 4. “The user interface looks off-putting at first, but it gets easier once you try it.”
-
----
 
 👉 You can use “off-putting” in both formal (work, presentations) and informal (casual chat) settings.
 
@@ -14884,8 +12498,6 @@ For example:
 
 💡 *(Sounds respectful and purposeful — often used in creative or business settings.)*
 
----
-
 [↑ Back to index](#index)
 
 # On and on
@@ -14898,8 +12510,6 @@ The phrase **“on and on”** means *something continues without stopping, ofte
 * Actions or processes that keep repeating
 
 * Time that feels endless
-
----
 
 **Examples in Spoken English**
 
@@ -14918,8 +12528,6 @@ The phrase **“on and on”** means *something continues without stopping, ofte
    * *“She kept working on and on until the project was finally done.”*  
       (She continued without stopping.)
 
----
-
 Connected Sentences (how to link smoothly)
 
 * *“The lecture went on and on, **and to make matters worse**, the speaker didn’t even take questions.”*
@@ -14927,8 +12535,6 @@ Connected Sentences (how to link smoothly)
 * *“He kept talking on and on about his vacation, **but at the same time**, it was nice to see his excitement.”*
 
 * *“The rain went on and on, **so eventually**, the match had to be canceled.”*
-
----
 
 Phrases you can practice saying in meetings or casual talk
 
@@ -14970,8 +12576,6 @@ Sometimes “on him / on her” literally means physically “on top of” or �
 
 * *“Don’t blame me, it’s on her.”* → The fault is hers.
 
----
-
 ✅ **So, the pattern is not a special grammar rule by itself**. It usually comes from either:
 
 * A phrasal verb (*count on, rely on, depend on*),
@@ -14979,8 +12583,6 @@ Sometimes “on him / on her” literally means physically “on top of” or �
 * A descriptive phrase (*looks good on him*),
 
 * Or an idiom (*that’s on him \= his responsibility*).
-
----
 
 ### **Phrases you can practice saying:**
 
@@ -15012,8 +12614,6 @@ Sometimes “on him / on her” literally means physically “on top of” or �
 
 16. *“The manager’s remarks **on** the project were helpful.”* → remarks **about** the project.
 
-    ---
-
     ### **💡 Compare with other prepositions:**
 
 * **“On”** → about the topic. (*review on the movie*)
@@ -15021,8 +12621,6 @@ Sometimes “on him / on her” literally means physically “on top of” or �
 * **“About”** → also works, but **“on” sounds more formal and natural** in work/academic settings.
 
 * **“For”** → different meaning. *“Feedback for me”* \= directed to me, not necessarily about my work.
-
-  ---
 
   ### **Spoken phrases you can practice:**
 
@@ -15067,15 +12665,11 @@ It means equal to or at the same level as something or someone else — often us
 🗣 *“You spilled that on purpose\!”*  
  🗣 *“He did it on purpose to make a point.”*
 
----
-
 [↑ Back to index](#index)
 
 # on the flip side
 
 The phrase **“on the flip side”** is a casual, conversational way to say **“on the other hand”** or **“from another perspective.”** It’s used when you want to show contrast or present a different point of view.
-
----
 
 ### **Usage in Spoken English:**
 
@@ -15092,8 +12686,6 @@ The phrase **“on the flip side”** is a casual, conversational way to say **�
 3. **To soften disagreement or criticism:**
 
    * *“Your idea is interesting. On the flip side, we might need to consider the costs.”*
-
----
 
 💡 **Tip:**
 
@@ -15135,31 +12727,10 @@ Jannie saw that the stock prices were on the up, so she immediately invested in 
 
 [↑ Back to index](#index)
 
-# on the up
-
-phrase
-
-Improving and becoming more successful
-
-Jannie saw that the stock prices were on the up, so she immediately invested in the company.
-
-[↑ Back to index](#index)
-
 # One-Size-Fits-All
 
 **Meaning:** Suitable for everyone (often said sarcastically).  
  **Example:** *There’s no one-size-fits-all solution to learning.*
-
----
-
-[↑ Back to index](#index)
-
-# One-Size-Fits-All
-
-**Meaning:** Suitable for everyone (often said sarcastically).  
- **Example:** *There’s no one-size-fits-all solution to learning.*
-
----
 
 [↑ Back to index](#index)
 
@@ -15171,16 +12742,12 @@ Jannie saw that the stock prices were on the up, so she immediately invested in 
 🗣 *“He accepted his lot in life with grace.”*  
  🗣 *“Some people try to change their lot in life — others just accept it.”*
 
----
-
 [↑ Back to index](#index)
 
 # One’s Place
 
 **Meaning:** Someone’s home.  
  **Example:** *Let’s hang out at my place tonight.*
-
----
 
 [↑ Back to index](#index)
 
@@ -15190,8 +12757,6 @@ Jannie saw that the stock prices were on the up, so she immediately invested in 
 
 🗣 *“She waited for the opportune moment to speak.”*  
  🗣 *“This is an opportune moment to launch the campaign.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -15203,8 +12768,6 @@ Jannie saw that the stock prices were on the up, so she immediately invested in 
 🗣 *“We had our company orientation last week.”*  
  🗣 *“Her orientation toward ethics makes her stand out.”*
 
----
-
 [↑ Back to index](#index)
 
 # Orphanage
@@ -15214,8 +12777,6 @@ Jannie saw that the stock prices were on the up, so she immediately invested in 
 
 🗣 *“She volunteered at an orphanage during her summer break.”*  
  🗣 *“That old library feels like an orphanage of forgotten books.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -15227,8 +12788,6 @@ Jannie saw that the stock prices were on the up, so she immediately invested in 
 🗣 *“He showed up out of nowhere\!”*  
  🗣 *“That idea just hit me out of nowhere.”*
 
----
-
 [↑ Back to index](#index)
 
 # Out of the gate
@@ -15237,8 +12796,6 @@ Jannie saw that the stock prices were on the up, so she immediately invested in 
 
 🗣 *“The product was successful right out of the gate.”*  
  🗣 *“He made a strong impression out of the gate.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -15270,14 +12827,6 @@ Example: "It was out of the way for him to act so kindly."
 
 # Outcome
 
-[↑ Back to index](#index)
-
-# Outrageous
-
-**Meaning:** Shockingly bad or surprisingly good (depending on tone).  
- **Example:** *The prices were outrageous\!* / *That joke was outrageous but funny.*
-
----
 
 [↑ Back to index](#index)
 
@@ -15285,8 +12834,6 @@ Example: "It was out of the way for him to act so kindly."
 
 **Meaning:** Shockingly bad or surprisingly good (depending on tone).  
  **Example:** *The prices were outrageous\!* / *That joke was outrageous but funny.*
-
----
 
 [↑ Back to index](#index)
 
@@ -15309,10 +12856,6 @@ excessive, extravagant, extreme, insane, inappropriate, unbearable, flamboyant, 
 **"Over the top"** means **excessive**, **exaggerated**, or **beyond what’s reasonable or normal**.  
  It can describe behavior, emotions, style, or actions — sometimes in a negative way (too much) and sometimes in a playful or admiring way (dramatic flair).
 
----
-
-### **🔸 Examples:**
-
 1. **Negative / Excessive**
 
    * *"His reaction to the mistake was over the top — he yelled for an hour."*
@@ -15325,8 +12868,6 @@ excessive, extravagant, extreme, insane, inappropriate, unbearable, flamboyant, 
 
    * *"She wore an over-the-top costume for Halloween and stole the show."*
 
----
-
 ### **🔸 Synonyms:**
 
 * Excessive
@@ -15337,8 +12878,6 @@ excessive, extravagant, extreme, insane, inappropriate, unbearable, flamboyant, 
 
 * Dramatic
 
----
-
 💡 In **military history**, "over the top" originally meant soldiers going out of their trenches to attack — but in everyday English today, it’s almost always about **exaggeration**.
 
 [↑ Back to index](#index)
@@ -15347,17 +12886,6 @@ excessive, extravagant, extreme, insane, inappropriate, unbearable, flamboyant, 
 
 **Meaning:** To defeat or successfully deal with something.  
  **Example:** *She overcame her fear of public speaking.*
-
----
-
-[↑ Back to index](#index)
-
-# Overcome
-
-**Meaning:** To defeat or successfully deal with something.  
- **Example:** *She overcame her fear of public speaking.*
-
----
 
 [↑ Back to index](#index)
 
@@ -15370,8 +12898,6 @@ excessive, extravagant, extreme, insane, inappropriate, unbearable, flamboyant, 
 
 * You can also use it metaphorically: *“The decor was overly rich for my taste.”*
 
----
-
 [↑ Back to index](#index)
 
 # Overpacker
@@ -15381,25 +12907,12 @@ excessive, extravagant, extreme, insane, inappropriate, unbearable, flamboyant, 
 🗣 *“I’m such an overpacker — I bring clothes I never wear.”*  
  🗣 *“She’s a classic overpacker; her suitcase won’t even close.”*
 
----
-
 [↑ Back to index](#index)
 
 # Overrated
 
 **Meaning:** Not as good as people say.  
  **Example:** *That movie was so overrated.*
-
----
-
-[↑ Back to index](#index)
-
-# Overrated
-
-**Meaning:** Not as good as people say.  
- **Example:** *That movie was so overrated.*
-
----
 
 [↑ Back to index](#index)
 
@@ -15411,8 +12924,6 @@ The verb **“oversee”** means:
 
 It comes from “over” (above) \+ “see” (to look), so it literally means *“to look over from above.”*
 
----
-
 ### **Usage examples**
 
 1. *“The manager will oversee the project to ensure everything runs smoothly.”*
@@ -15420,8 +12931,6 @@ It comes from “over” (above) \+ “see” (to look), so it literally means *
 2. *“Teachers oversee students during examinations to prevent cheating.”*
 
 3. *“She was hired to oversee the daily operations of the company.”*
-
----
 
 🔹 **Synonyms:** supervise, manage, monitor, direct, administer, control.
 
@@ -15434,8 +12943,6 @@ It comes from “over” (above) \+ “see” (to look), so it literally means *
 
 🗣 *“‘Act naturally’ is such a classic oxymoron.”*  
  🗣 *“Working vacation — talk about an oxymoron.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -15464,8 +12971,6 @@ gerund or present participle: **pacing**
 
   * “The kids were *paddling* in the stream.”
 
----
-
 [↑ Back to index](#index)
 
 # Pail
@@ -15475,8 +12980,6 @@ gerund or present participle: **pacing**
 
 🗣 *“She filled the pail with water from the well.”*  
  🗣 *“That kind of behavior is beyond the pale.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -15490,8 +12993,6 @@ For example, in a meeting, your manager might say:
 
 It’s often used in business, storytelling, or personal conversations when someone wants a fuller explanation instead of short facts.
 
----
-
 ### **Useful sentences you can practice:**
 
 1. *“Let me paint the picture for you—this is where we started and this is where we are now.”*
@@ -15501,8 +13002,6 @@ It’s often used in business, storytelling, or personal conversations when some
 3. *“Before I explain the solution, I’ll paint the picture of the problem first.”*
 
 4. *“That paints a pretty good picture of the challenges we’re facing.”*
-
----
 
 💡 **Context of usage**:
 
@@ -15522,8 +13021,6 @@ It’s often used in business, storytelling, or personal conversations when some
  🗣 *“Let’s paint the town red this weekend\!”*
 
 💡 *(Usually used playfully or in stories — evokes energy and fun.)*
-
----
 
 [↑ Back to index](#index)
 
@@ -15546,8 +13043,6 @@ It’s often used in business, storytelling, or personal conversations when some
 
 * *“There was palpable excitement in the air.”*
 
----
-
 [↑ Back to index](#index)
 
 # Pan out
@@ -15567,14 +13062,8 @@ It’s often used in business, storytelling, or personal conversations when some
 
 It’s mostly used in **informal spoken English** today.
 
-[↑ Back to index](#index)
-
-# Pan out
-
 To turn out or happen successfully.  
  👉 *“Let’s see how this plan pans out.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -15586,25 +13075,12 @@ To turn out or happen successfully.
 🗣 *“You’ll find people panhandling near the station.”*  
  🗣 *“He’s been panhandling for sponsorships all week.”*
 
----
-
 [↑ Back to index](#index)
 
 # Paradigm
 
 **Meaning:** A model or pattern of something.  
  **Example:** *We need a new paradigm for education.*
-
----
-
-[↑ Back to index](#index)
-
-# Paradigm
-
-**Meaning:** A model or pattern of something.  
- **Example:** *We need a new paradigm for education.*
-
----
 
 [↑ Back to index](#index)
 
@@ -15614,8 +13090,6 @@ To turn out or happen successfully.
 
 🗣 *“AI has brought a paradigm shift in how we work.”*  
  🗣 *“Remote work represents a cultural paradigm shift.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -15632,8 +13106,6 @@ To turn out or happen successfully.
 
 👉 *Connector tip:* Use it to introduce contrast or irony — “Interestingly,” “Strangely enough.”
 
----
-
 [↑ Back to index](#index)
 
 # Pass on
@@ -15642,8 +13114,6 @@ Meaning: To decline or reject an offer or opportunity.
 
 * Example 1: After careful consideration, I decided to pass on the investment opportunity.  
 * Example 2: He passed on the promotion to focus on his family life.
-
----
 
 [↑ Back to index](#index)
 
@@ -15654,8 +13124,6 @@ Meaning: To decline or reject an offer or opportunity.
 
 🗣 *“There’s a pattern in his mistakes.”*  
  🗣 *“Fashion trends always follow a cycle — it’s a pattern.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -15672,11 +13140,10 @@ Meaning: To decline or reject an offer or opportunity.
 
 👉 *Spoken connectors:* “As a result,” “In doing so,” “That step paved the way…”
 
----
-
 [↑ Back to index](#index)
 
 # Pay homage
+
 
 [↑ Back to index](#index)
 
@@ -15697,8 +13164,6 @@ Meaning: To decline or reject an offer or opportunity.
 * *“He peeked through the door.”*  
    🟢 Implies curiosity or playfulness.
 
----
-
 [↑ Back to index](#index)
 
 # Peer
@@ -15711,8 +13176,6 @@ Meaning: To decline or reject an offer or opportunity.
  🗣 *“Peer pressure can influence decisions.”*
 
 💡 *(Professional tone: “peer review,” “peer network.” Informal tone: “my peers at work.”)*
-
----
 
 [↑ Back to index](#index)
 
@@ -15728,8 +13191,6 @@ Meaning: To decline or reject an offer or opportunity.
 
   * “She grew *pensive* thinking about her past.”
 
----
-
 [↑ Back to index](#index)
 
 # Pent up
@@ -15742,8 +13203,6 @@ Meaning: To decline or reject an offer or opportunity.
 
 It comes from the idea of something being “penned up” (like animals in a pen) — trapped and unable to get out.
 
----
-
 ✅ **Examples in sentences (spoken style):**
 
 1. “He finally shouted after days of keeping his **pent-up frustration** inside.”
@@ -15754,8 +13213,6 @@ It comes from the idea of something being “penned up” (like animals in a pen
 
 4. “I think I need to go for a run; I’ve got a lot of **pent-up energy**.”
 
----
-
 💡 **Where you can use it:**
 
 * In **work meetings**, if talking about stress: *“We shouldn’t let **pent-up frustration** affect the team.”*
@@ -15763,8 +13220,6 @@ It comes from the idea of something being “penned up” (like animals in a pen
 * In **casual talk**, about kids or friends: *“They had so much **pent-up energy** after being indoors.”*
 
 * In **personal reflection**, about emotions: *“I realized I had a lot of **pent-up feelings** I needed to express.”*
-
----
 
 👉 Try speaking aloud:
 
@@ -15778,13 +13233,9 @@ It comes from the idea of something being “penned up” (like animals in a pen
 
 **Pent-up** describes **feelings, energy, or emotions** that have been **kept inside or restrained for a long time**, often building pressure until they are released.
 
----
-
 ### **🔸 Definition:**
 
 Stored or suppressed over time, unable to be freely expressed.
-
----
 
 ### **🔸 Examples:**
 
@@ -15800,8 +13251,6 @@ Stored or suppressed over time, unable to be freely expressed.
 
    * *"He released his pent-up creativity through painting."*
 
----
-
 ### **🔸 Synonyms:**
 
 * Repressed
@@ -15812,8 +13261,6 @@ Stored or suppressed over time, unable to be freely expressed.
 
 * Held back
 
----
-
 💡 Often used with **anger**, **frustration**, **energy**, **demand**, or **emotion**.
 
 Think of it like a **pressure cooker** — the more it’s held in, the stronger the release.
@@ -15821,6 +13268,7 @@ Think of it like a **pressure cooker** — the more it’s held in, the stronger
 [↑ Back to index](#index)
 
 # perception
+
 
 [↑ Back to index](#index)
 
@@ -15831,15 +13279,6 @@ Think of it like a **pressure cooker** — the more it’s held in, the stronger
 
 * *“That was a very perceptive observation.”*  
    🟢 A compliment — means you notice subtle details.
-
----
-
-[↑ Back to index](#index)
-
-# Perform
-
-**Meaning:** To act, sing, or do a task.  
- **Example:** *She performed beautifully on stage.*
 
 [↑ Back to index](#index)
 
@@ -15871,8 +13310,6 @@ the coffee had perked him up long enough to tackle the reviews
 
 * *“The dog perked up at the sound of food being opened.”*
 
----
-
 [↑ Back to index](#index)
 
 # Perpetuate
@@ -15881,8 +13318,6 @@ the coffee had perked him up long enough to tackle the reviews
 
 🗣 *“That stereotype perpetuates gender bias.”*  
  🗣 *“We shouldn’t perpetuate myths without proof.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -15897,8 +13332,6 @@ the coffee had perked him up long enough to tackle the reviews
 
 💡 *(Closely linked to “resilience” and “determination.”)*
 
----
-
 [↑ Back to index](#index)
 
 # Personal best
@@ -15907,8 +13340,6 @@ the coffee had perked him up long enough to tackle the reviews
 
 🗣 *“I ran my personal best in the marathon.”*  
  🗣 *“That speech was your personal best yet.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -15931,8 +13362,6 @@ Meaning: To introduce or implement something gradually.
 * Example 1: The new policy will be phased in over the next few months.  
 * Example 2: They plan to phase in the new training program by next year.
 
----
-
 [↑ Back to index](#index)
 
 # Phase out
@@ -15942,20 +13371,10 @@ Meaning: To gradually discontinue or replace something.
 * Example 1: The company plans to phase out the outdated software system.  
 * Example 2: Single-use plastics are being phased out in many countries.
 
----
-
 [↑ Back to index](#index)
 
 # Phenomenon
 
-[↑ Back to index](#index)
-
-# Phony
-
-**Meaning:** Fake or insincere.  
- **Example:** *He sounded friendly, but it felt phony.*
-
----
 
 [↑ Back to index](#index)
 
@@ -15963,8 +13382,6 @@ Meaning: To gradually discontinue or replace something.
 
 **Meaning:** Fake or insincere.  
  **Example:** *He sounded friendly, but it felt phony.*
-
----
 
 [↑ Back to index](#index)
 
@@ -15983,16 +13400,12 @@ Meaning: To gradually discontinue or replace something.
  🗣 *“Business is finally picking up again.”*  
  🗣 *“Let’s pick up where we left off.”*
 
----
-
 [↑ Back to index](#index)
 
 # Pick-Me-Up
 
 **Meaning:** Something that boosts your mood or energy.  
 **Example:** *Coffee is my morning pick-me-up.*
-
----
 
 [↑ Back to index](#index)
 
@@ -16003,8 +13416,6 @@ Meaning: To gradually discontinue or replace something.
 
 🗣 *“The village looked absolutely picturesque.”*  
  🗣 *“It was a picturesque evening by the lake.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -16028,30 +13439,15 @@ A **“pipe dream”** means a hope, plan, or idea that is unrealistic or unlike
 **Meaning:** To arouse interest or attention.  
  **Example:** *The mysterious ad piqued my curiosity.*
 
----
-
-[↑ Back to index](#index)
-
-# Pique Curiosity
-
-**Meaning:** To arouse interest or attention.  
- **Example:** *The mysterious ad piqued my curiosity.*
-
----
-
 [↑ Back to index](#index)
 
 # Pivot away
 
 **"Pivot away"** is a common phrase in spoken (and written) English that means **to change direction, focus, or strategy**—especially when moving away from a current topic, plan, or approach.
 
----
-
 ### **🔹 Meaning**
 
 To "pivot away" from something means to deliberately **stop focusing on one thing and move toward something else**—just like how a basketball player pivots by shifting one foot to turn in a different direction.
-
----
 
 ### **🔹 Usage in Spoken English**
 
@@ -16073,8 +13469,6 @@ To "pivot away" from something means to deliberately **stop focusing on one thin
 
 🔸 *“He smoothly pivoted away from the controversy by highlighting his future plans.”*
 
----
-
 ### **🔹 Similar Phrases**
 
 * Shift focus from
@@ -16084,8 +13478,6 @@ To "pivot away" from something means to deliberately **stop focusing on one thin
 * Transition away from
 
 * Change direction
-
----
 
 ### **🔹 Example (Tech Team Discussion)**
 
@@ -16160,8 +13552,6 @@ He kept pontificating about architecture decisions without listening to the team
 
 In workplace settings (especially architecture or MLOps discussions), this word is useful when describing communication style.
 
----
-
 ### **Where you can use it (technical context) 💻**
 
 As a Cloud Architect or MLOps Engineer, you might use it when discussing collaboration styles:
@@ -16171,13 +13561,9 @@ As a Cloud Architect or MLOps Engineer, you might use it when discussing collabo
 * stakeholder discussions  
 * leadership communication feedback
 
-Example:
-
 Instead of pontificating, we should open this for discussion across teams.
 
 This sounds mature and diplomatic.
-
----
 
 ### **Natural spoken sentences you can use 🎯**
 
@@ -16189,8 +13575,6 @@ Practice saying these aloud:
 4. “For example, we can present options instead of pontificating about a single solution.”  
 5. “On the other hand, a little confidence is good—as long as it doesn’t become pontification.”
 
----
-
 ### **Related useful alternatives (more common in meetings)**
 
 These sound more natural in everyday corporate conversation:
@@ -16200,11 +13584,7 @@ These sound more natural in everyday corporate conversation:
 * “talking at people instead of with people”  
 * “pushing a viewpoint strongly”
 
-Example:
-
 I don’t want to be too opinionated here, but this architecture might not scale well.
-
----
 
 ### **Gentle correction of your word ✏️**
 
@@ -16214,8 +13594,6 @@ You wrote: **ponitification**
 A natural way to ask your question would be:
 
 What does pontification mean, and how do we use it in conversation?
-
----
 
 Try speaking one sentence aloud now:
 
@@ -16232,8 +13610,6 @@ If you'd like, I can also show **polite ways to disagree in meetings without sou
 🗣 *“An idea just popped into my head.”*  
  🗣 *“Her name popped into my head out of nowhere.”*
 
----
-
 [↑ Back to index](#index)
 
 # Pop up
@@ -16244,8 +13620,6 @@ If you'd like, I can also show **polite ways to disagree in meetings without sou
 🗣 *“New coffee shops keep popping up around the city.”*  
  🗣 *“That idea just popped up in my head.”*
 
----
-
 [↑ Back to index](#index)
 
 # Posturing
@@ -16254,8 +13628,6 @@ If you'd like, I can also show **polite ways to disagree in meetings without sou
 
 🗣 *“All that talk was just political posturing.”*  
  🗣 *“He’s posturing for attention instead of solving the problem.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -16268,8 +13640,6 @@ If you'd like, I can also show **polite ways to disagree in meetings without sou
 
 💡 *(Playful insult, informal — “potty” \= childish way to say “toilet.”)*
 
----
-
 [↑ Back to index](#index)
 
 # Pound into
@@ -16277,8 +13647,6 @@ If you'd like, I can also show **polite ways to disagree in meetings without sou
 **"Pound into"** is a phrasal verb that generally means to **forcefully instill, emphasize, or drive something into someone’s mind or memory** — often through repetition or strong insistence.
 
 It can also be used **literally** for physically pounding something into a surface.
-
----
 
 ### **🔸 Figurative Meaning (most common):**
 
@@ -16290,19 +13658,13 @@ To teach or stress something repeatedly until it’s fully understood.
 
 * *"Our teacher pounded the formulas into our heads before the exam."*
 
----
-
 ### **🔸 Literal Meaning:**
 
 To physically hit or hammer something into another surface.
 
-**Examples**:
-
 * *"He pounded the nails into the wood."*
 
 * *"They pounded the stakes into the ground."*
-
----
 
 ### **🔸 Synonyms (figurative):**
 
@@ -16322,8 +13684,6 @@ It means: **the more you practice something, the better you get at it.**
 
 👉 It encourages consistency and effort.
 
----
-
 ✅ **Spoken practice sentences:**
 
 * “Don’t worry if it’s difficult now—practice makes perfect.”
@@ -16333,8 +13693,6 @@ It means: **the more you practice something, the better you get at it.**
 * “That being said, practice makes perfect only if you do it the right way.”
 
 * “I keep reminding myself that practice makes perfect when I learn English.”
-
----
 
 👉 **Context of usage:**
 
@@ -16351,17 +13709,6 @@ It means: **the more you practice something, the better you get at it.**
 **Meaning:** A person who’s difficult or self-important.  
  **Example:** *He’s talented but a bit of a prima donna.*
 
----
-
-[↑ Back to index](#index)
-
-# Prima Donna
-
-**Meaning:** A person who’s difficult or self-important.  
- **Example:** *He’s talented but a bit of a prima donna.*
-
----
-
 [↑ Back to index](#index)
 
 # Proactive
@@ -16370,8 +13717,6 @@ It means: **the more you practice something, the better you get at it.**
 
 🗣 *“Be proactive — don’t wait for instructions.”*  
  🗣 *“She’s one of the most proactive managers I’ve met.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -16390,8 +13735,6 @@ It means: **the more you practice something, the better you get at it.**
 
 💡 *(“Processing” emotions is very common in empathetic, conversational English.)*
 
----
-
 [↑ Back to index](#index)
 
 # Profanities
@@ -16402,8 +13745,6 @@ It means: **the more you practice something, the better you get at it.**
 * *“He shouted profanities at the driver.”*  
    🟠 Used to refer to cursing without repeating the bad words.
 
----
-
 [↑ Back to index](#index)
 
 # Prosperous
@@ -16412,8 +13753,6 @@ It means: **the more you practice something, the better you get at it.**
 
 🗣 *“They live a prosperous life.”*  
  🗣 *“Hard work leads to a prosperous future.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -16424,8 +13763,6 @@ It means: **the more you practice something, the better you get at it.**
 
 🗣 *“In our startup journey, she’s definitely the protagonist — always pushing things forward.”*  
  🗣 *“Every story needs a strong protagonist, whether it’s fiction or real life.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -16462,8 +13799,6 @@ the concept is difficult to prove
 
 * *“The fabric puckered around the edges.”*
 
----
-
 [↑ Back to index](#index)
 
 # Pull (something) off
@@ -16489,8 +13824,6 @@ Pull a 180” is an informal phrase that means to **make a complete reversal or 
 
 * *“I thought the movie was boring, but halfway through it pulled a 180 and got really exciting.”*
 
----
-
 ### **Spoken Sentences You Can Use:**
 
 1. “At first, I didn’t like the proposal, but then I kind of pulled a 180.”
@@ -16500,8 +13833,6 @@ Pull a 180” is an informal phrase that means to **make a complete reversal or 
 3. “I was planning to skip the event, but I pulled a 180 and showed up.”
 
 4. “The discussion pulled a 180 once new data came in.”
-
----
 
 ✅ You can use this in both casual and professional settings, though it’s more common in casual speech.  
  For more formal contexts, you could say **“made a complete turnaround”** or **“completely reversed their position.”**
@@ -16532,92 +13863,64 @@ phrasal verb of pull
 
 * "She pulled up at the gas station."
 
----
-
 2️⃣ **To retrieve or display information**  
  Common in workplace or tech contexts.
 
 **Meaning:** Open or bring something into view on a device or system.
 
-**Examples:**
-
 * "Let me pull up the report on my laptop."
 
 * "Can you pull up that document from last week?"
-
----
 
 3️⃣ **To join or come closer**  
  Used as an invitation in casual situations.
 
 **Meaning:** Move near and become part of the group or activity.
 
-**Examples:**
-
 * "Pull up a chair and have dinner with us."
 
 * "Come on, pull up and join the game."
-
----
 
 4️⃣ **To confront or correct someone**  
  More common in UK/Australia English.
 
 **Meaning:** Call out or point out someone’s mistake or behaviour.
 
-**Examples:**
-
 * "She pulled me up for being late again."
 
 * "He pulled her up about that incorrect figure."
-
----
 
 5️⃣ **To improve performance**  
  Usually about grades, standards, or results.
 
 **Meaning:** Raise quality, skill, or achievement.
 
-**Examples:**
-
 * "You need to pull up your grades before the finals."
 
 * "He pulled up his performance in the second half."
-
----
 
 6️⃣ **To arrive (slang)**  
  Casual/street usage meaning to show up somewhere.
 
 **Meaning:** Come to a place, often unexpectedly or casually.
 
-**Examples:**
-
 * "We pulled up to the party at midnight."
 
 * "He just pulled up outside my house."
-
----
 
 7️⃣ **To approach aggressively (slang)**  
  Street slang with a confrontational tone.
 
 **Meaning:** Go toward someone to challenge or confront.
 
-**Examples:**
-
 * "They pulled up on him in the parking lot."
 
 * "You talking big—pull up then\!"
-
----
 
 8️⃣ **Special uses**  
  Different contexts with more specific meanings.
 
 **Meaning:** Varies by field.
-
-**Examples:**
 
 * **Fitness:** "I can do 12 pull-ups now."
 
@@ -16637,8 +13940,6 @@ When a car or bike **pulls up**, it stops.
 
 👉 This is very common in daily conversation.
 
----
-
 ### **2️⃣ To improve performance**
 
 It can also mean to **improve or recover from a bad situation**.
@@ -16648,8 +13949,6 @@ It can also mean to **improve or recover from a bad situation**.
 * “The team pulled up after a weak start.”
 
 Here it means **to raise or improve something**.
-
----
 
 ### **3️⃣ To open something on a screen**
 
@@ -16661,13 +13960,9 @@ In technical or office conversations, it means **to display something**.
 
 💡 As a Databricks/MLOps Architect, you can use this often in meetings.
 
----
-
 ### **4️⃣ Gym context (noun) – “Pull-up”**
 
 A **pull-up** is an exercise where you lift your body by pulling yourself up on a bar.
-
----
 
 ## **🔹 How you can use it in meetings**
 
@@ -16693,8 +13988,6 @@ Notice the connecting phrases:
 
 These help your speech flow naturally.
 
----
-
 ## **🔹 Other contexts where it's used**
 
 * Police stopping someone: “The officer signaled him to pull up.”
@@ -16702,8 +13995,6 @@ These help your speech flow naturally.
 * Emotional context (rare but used): “He pulled himself up after the setback.”
 
 * Sports commentary
-
----
 
 ### **🗣️ Speaking Practice (Say this aloud)**
 
@@ -16790,8 +14081,6 @@ The other day
 **Meaning:** Strong, sharp smell or taste.  
  **Example:** *The cheese was too pungent for me.*
 
----
-
 [↑ Back to index](#index)
 
 # Purred
@@ -16805,25 +14094,12 @@ Figuratively — to speak in a smooth, soft, or seductive tone.
 
 * *“‘You missed me, didn’t you?’ she purred.”*
 
----
-
 [↑ Back to index](#index)
 
 # Pursuit
 
 **Meaning:** The act of chasing or striving for something.  
  **Example:** *He’s in pursuit of excellence.*
-
----
-
-[↑ Back to index](#index)
-
-# Pursuit
-
-**Meaning:** The act of chasing or striving for something.  
- **Example:** *He’s in pursuit of excellence.*
-
----
 
 [↑ Back to index](#index)
 
@@ -16842,8 +14118,6 @@ Meaning (simple explanation)
 
 The exact meaning depends on the context.
 
----
-
 Common usages in workplace conversations
 
 1\. Push back \= politely disagree
@@ -16856,21 +14130,15 @@ Here, you are not rejecting directly—you are **raising a concern respectfully*
 
 2\. Push back \= delay something
 
-Example:
-
 Let’s push back the deployment to next week.
 
 Meaning: postpone.
 
 3\. Push back \= resist pressure or unrealistic expectations
 
-Example:
-
 We should push back on this timeline—it’s too aggressive.
 
 Meaning: negotiate or challenge the timeline.
-
----
 
 How architects and technical leaders use it
 
@@ -16881,13 +14149,9 @@ In architecture discussions, “push back” sounds professional and balanced. I
 * technical maturity  
 * collaboration (not confrontation)
 
-Example:
-
 I want to push back slightly on using a monolithic approach here. A modular design may give us better flexibility in the long run.
 
 Notice the softener **“slightly”**—this makes it sound diplomatic.
-
----
 
 5 spoken sentences you can use in meetings
 
@@ -16901,8 +14165,6 @@ Practice saying these aloud:
 
 Try speaking them slowly and confidently. This phrase is very common in senior-level discussions.
 
----
-
 Useful connectors to sound more fluent while pushing back
 
 You can combine these:
@@ -16913,11 +14175,7 @@ You can combine these:
 * “Having said that…”  
 * “On the other hand…”
 
-Example:
-
 That being said, I’d like to push back on adding another layer here because it increases latency.
-
----
 
 Other contexts where “push back” is used
 
@@ -16938,27 +14196,6 @@ It’s reasonable to push back if expectations are unrealistic.
 **Team coordination**
 
 Let’s push back this task until dependencies are resolved.
-
-[↑ Back to index](#index)
-
-# Push through
-
-### **Meaning**
-
-To **continue despite difficulty, fatigue, or obstacles**.
-
-### **Usage & examples**
-
-* *“The deadline is tight, but we’ll push through.”*  
-* *“I was tired, but I pushed through the last hour of work.”*  
-* *“You just need to push through this phase.”*
-
-**Where it’s used:**  
- Work pressure, exams, fitness, emotional situations.
-
-👉 Very **motivational and encouraging** phrase.
-
----
 
 [↑ Back to index](#index)
 
@@ -16986,6 +14223,21 @@ Very common in **work, fitness, and life struggles**.
 
 “This week is stressful, but I’m trying to push through.”
 
+### **Meaning**
+
+To **continue despite difficulty, fatigue, or obstacles**.
+
+### **Usage & examples**
+
+* *“The deadline is tight, but we’ll push through.”*  
+* *“I was tired, but I pushed through the last hour of work.”*  
+* *“You just need to push through this phase.”*
+
+**Where it’s used:**  
+ Work pressure, exams, fitness, emotional situations.
+
+👉 Very **motivational and encouraging** phrase.
+
 [↑ Back to index](#index)
 
 # Put down
@@ -17005,12 +14257,6 @@ Meaning:
 * Example 1: "She put forward an interesting solution to the problem."  
 * Example 2: "The committee put forward a proposal to increase funding for education."
 
----
-
-[↑ Back to index](#index)
-
-# Put forward
-
 To present / propose
 
 I put forward my report.
@@ -17019,16 +14265,7 @@ I put forward my report.
 
 # Put off
 
-To delay or postpone.  
-We put off the trip due to bad weather.
-
-[↑ Back to index](#index)
-
-# Put off
-
 The phrasal verb **“put off”** is very common in spoken English, and it has two main meanings depending on the context.
-
----
 
 ### **Meanings of put off**
 
@@ -17044,8 +14281,6 @@ The phrasal verb **“put off”** is very common in spoken English, and it has 
 
    * *“His attitude really put her off.”*
 
----
-
 ### **Common spoken sentences to practice**
 
 1. “Can we put off the call until later today?”
@@ -17055,6 +14290,9 @@ The phrasal verb **“put off”** is very common in spoken English, and it has 
 3. “For example, the noise outside really put me off while I was studying.”
 
 4. “That being said, sometimes putting things off can give us more time to prepare.”
+
+To delay or postpone.  
+We put off the trip due to bad weather.
 
 [↑ Back to index](#index)
 
@@ -17091,8 +14329,6 @@ Think of it like checking someone’s pulse to see how they’re doing—here, y
 
 * In tech: *“Startups survive only if they put their finger on the pulse of the latest trends.”*
 
----
-
 ### **Phrases you can practice speaking**
 
 1. “We need to put our finger on the pulse of customer expectations.”
@@ -17112,8 +14348,6 @@ Think of it like checking someone’s pulse to see how they’re doing—here, y
 **Meaning:** To share private or personal matters publicly.  
  **Example:** *Don’t put my business in the street—it’s private\!*
 
----
-
 [↑ Back to index](#index)
 
 # Put one’s money where one’s mouth is
@@ -17122,8 +14356,6 @@ Think of it like checking someone’s pulse to see how they’re doing—here, y
 
 🗣 *“You keep saying you’ll help — put your money where your mouth is.”*  
  🗣 *“It’s time for the company to put its money where its mouth is.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -17154,8 +14386,6 @@ Kindly put out the fire
 \- It’s a casual phrase, so it’s more common in everyday speech than formal writing.
 
 If you hear "put out," think about the context to understand which meaning fits\!
-
----
 
 [↑ Back to index](#index)
 
@@ -17256,13 +14486,9 @@ For example:
 
 👉 In simple words: *to build or install something.*
 
----
-
 **2️⃣ Put up \= Stay Somewhere (Usually Temporary)**
 
 It means to stay at someone’s house for a short time.
-
-For example:
 
 * I’ll **put you up** for the night.
 
@@ -17270,13 +14496,9 @@ For example:
 
 👉 Meaning: *to give someone a place to stay.*
 
----
-
 **3️⃣ Put up \= Increase (Price, Rate, etc.)**
 
 It means to raise something like price or rent.
-
-For example:
 
 * They **put up** the rent this year.
 
@@ -17284,13 +14506,9 @@ For example:
 
 👉 Meaning: *to increase something.*
 
----
-
 **4️⃣ Put up \= Display or Show**
 
 It means to place something where people can see it.
-
-For example:
 
 * They **put up** a notice on the board.
 
@@ -17298,23 +14516,17 @@ For example:
 
 👉 Meaning: *to display publicly.*
 
----
-
 **5️⃣ Put up with \= Tolerate (Important Variation)**
 
 This is slightly different.
 
 “Put up with” means to tolerate something annoying.
 
-For example:
-
 * I can’t **put up with** this noise anymore.
 
 * She **puts up with** a lot of pressure at work.
 
 👉 Meaning: *to tolerate.*
-
----
 
 🔹 Spoken English Practice Sentences
 
@@ -17332,8 +14544,6 @@ Here are natural phrases you can use in meetings or casual talk:
 
 👉 Try speaking these aloud slowly and clearly. Focus on stress: **PUT up**, **PUT up with**.
 
----
-
 **🔹 Extra Context (Professional Usage – Your Field)**
 
 As an Architect or MLOps Engineer, you can use “put up” like this:
@@ -17346,10 +14556,6 @@ As an Architect or MLOps Engineer, you can use “put up” like this:
 
 * “The cloud provider put up new pricing rules.”
 
-[↑ Back to index](#index)
-
-# Put up
-
 To live  
 I put up in delhi.
 
@@ -17361,8 +14567,6 @@ I put up in delhi.
 
 🗣 *“They put up a fight but eventually lost.”*  
  🗣 *“He always puts up a fight when he believes he’s right.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -17382,16 +14586,12 @@ I can’t put up with your anger
 * *“I can’t put up with slackness at work.”*  
    🟢 “Put up with” \= tolerate something unpleasant.
 
----
-
 [↑ Back to index](#index)
 
 # Quay
 
 **Meaning:** A platform along the edge of a harbor for loading ships.  
  **Example:** *The ship docked at the quay.*
-
----
 
 [↑ Back to index](#index)
 
@@ -17405,8 +14605,6 @@ I can’t put up with your anger
 * *“Her quip lightened the mood.”*  
    🟢 It’s short, humorous, and usually spontaneous.
 
----
-
 [↑ Back to index](#index)
 
 # Quit it
@@ -17418,11 +14616,10 @@ I can’t put up with your anger
 
 💡 *(Playful, casual — not aggressive unless tone is angry.)*
 
----
-
 [↑ Back to index](#index)
 
 # R & R
+
 
 [↑ Back to index](#index)
 
@@ -17443,8 +14640,6 @@ revive the memory of an incident or period that is best forgotten.
  🗣 *“They tried to ram their policy through without discussion.”*  
  🗣 *“Don’t ram your opinions down people’s throats.”*
 
----
-
 [↑ Back to index](#index)
 
 # Ramp up
@@ -17452,8 +14647,6 @@ revive the memory of an incident or period that is best forgotten.
 **“Ramp up”** means **to increase something gradually or quickly**, such as effort, speed, production, work, or intensity.
 
 You’ll hear it a lot in **workplace, tech, startups, and planning discussions**.
-
----
 
 ### **Common meanings with examples**
 
@@ -17467,8 +14660,6 @@ You’ll hear it a lot in **workplace, tech, startups, and planning discussions*
 * *“I’m ramping up for the new project.”*  
 * (Meaning: getting ready and increasing involvement)
 
----
-
 ### **Very common spoken sentences (practice these aloud)**
 
 Use these in meetings or casual work talk 👇
@@ -17481,8 +14672,6 @@ Use these in meetings or casual work talk 👇
 
 👉 Notice the connectors: *once*, *that being said*, *over the next…*
 
----
-
 ### **Where you’ll commonly use “ramp up”**
 
 * **Tech / Engineering**: ramp up development, ramp up traffic handling  
@@ -17492,8 +14681,6 @@ Use these in meetings or casual work talk 👇
 * **Personal productivity**: ramp up preparation, ramp up practice  
 * **Business**: ramp up hiring, ramp up marketing
 
----
-
 ### **Grammar tip (gentle correction)**
 
 Your input **“ramp up”** is perfectly fine 👍  
@@ -17501,8 +14688,6 @@ Your input **“ramp up”** is perfectly fine 👍
 
 * **Verb**: *“We need to ramp up performance.”*  
 * **Continuous**: *“I’m ramping up slowly.”*
-
----
 
 ### **Quick contrast (helps fluency)**
 
@@ -17512,8 +14697,6 @@ Your input **“ramp up”** is perfectly fine 👍
 Example:
 
 *“We ramped up during the launch, and later ramped down operations.”*
-
----
 
 ### **Practice aloud (30-second drill 🎙️)**
 
@@ -17530,8 +14713,6 @@ Say this slowly and clearly:
 
 * *“He’s a cattle rancher from Texas.”*
 
----
-
 [↑ Back to index](#index)
 
 # Rapid Fire
@@ -17539,15 +14720,11 @@ Say this slowly and clearly:
 **Meaning:** Very fast sequence (often of questions).  
  **Example:** *He handled the rapid-fire questions smoothly.*
 
----
-
 [↑ Back to index](#index)
 
 # Raspiness
 
 **Raspiness** is a **noun** that describes a **rough, harsh, or scratchy quality in a sound**, most often referring to a **voice**. It comes from the word **raspy**, which suggests a grating or coarse sound (like rubbing sandpaper).
-
----
 
 ### **🔹 Examples in sentences**
 
@@ -17556,8 +14733,6 @@ Say this slowly and clearly:
 * *The raspiness in her singing gave it a unique charm.*
 
 * *Cold weather often brings raspiness to my throat.*
-
----
 
 👉 In **spoken English**, people usually use it when talking about voices:
 
@@ -17570,6 +14745,7 @@ Say this slowly and clearly:
 [↑ Back to index](#index)
 
 # Rat race
+
 
 [↑ Back to index](#index)
 
@@ -17601,19 +14777,11 @@ There’s also **"ratchet down"**, which means to decrease something gradually.
 
 💡 *(Common in professional and emotional contexts alike.)*
 
----
-
-[↑ Back to index](#index)
-
-# Reach out
-
 **Meaning:** To contact or offer help.  
  **Figurative meaning:** To connect emotionally or professionally.
 
 🗣 *“Feel free to reach out if you need anything.”*  
  🗣 *“He reached out to reconcile after years of silence.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -17623,8 +14791,6 @@ There’s also **"ratchet down"**, which means to decrease something gradually.
 
 🗣 *“Can you read out the instructions?”*  
  🗣 *“She read out the winners’ names.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -17644,8 +14810,6 @@ Well you are really coming along.
 🗣 *“That was a reckless decision.”*  
  🗣 *“He’s brave but sometimes reckless.”*
 
----
-
 [↑ Back to index](#index)
 
 # Recompense
@@ -17659,8 +14823,6 @@ Well you are really coming along.
   * “She received *recompense* for the damage.”
 
   * “A sincere apology can be a kind of *recompense*.”
-
----
 
 [↑ Back to index](#index)
 
@@ -17698,8 +14860,6 @@ Meaning of "Rectify / Rectification"
 
 Think of it as *"turning something wrong into right."*
 
----
-
 Different Contexts Where It’s Used
 
 1. **General / Everyday use**
@@ -17734,8 +14894,6 @@ Different Contexts Where It’s Used
 
    * Example: *“He did a rectification of my horoscope to find my accurate ascendant.”*
 
----
-
 Spoken Sentences You Can Use
 
 * “I’ll rectify the issue as soon as possible.”
@@ -17745,8 +14903,6 @@ Spoken Sentences You Can Use
 * “On the other hand, if the document isn’t clear, rectification might be needed.”
 
 * “That being said, once it’s rectified, we shouldn’t face the same problem again.”
-
----
 
 👉 A tip: *“Rectify” sounds a bit formal*, so in casual talk you’d more often hear *“fix,” “correct,” or “sort out.”* Use “rectify” in professional or technical contexts.
 
@@ -17764,8 +14920,6 @@ Spoken Sentences You Can Use
 * “After that long project, I need a few days to recuperate.”
 
 👉 *Common phrase:* “Recuperating at home” or “Recuperating from an injury.”
-
----
 
 [↑ Back to index](#index)
 
@@ -17795,15 +14949,11 @@ he talked very wisely, but I regarded him not
 🗣 *“He relished every bite of the meal.”*  
  🗣 *“She relished the challenge of solving that problem.”*
 
----
-
 [↑ Back to index](#index)
 
 # Remark
 
 The word **“remark”** can be used both as a **noun** and a **verb**.
-
----
 
 ### **🔹 As a noun → a comment or statement**
 
@@ -17813,8 +14963,6 @@ The word **“remark”** can be used both as a **noun** and a **verb**.
 
 * *The teacher’s remark encouraged the student.*
 
----
-
 ### **🔹 As a verb → to say or comment**
 
 * *He remarked that the weather was unusually hot.*
@@ -17822,8 +14970,6 @@ The word **“remark”** can be used both as a **noun** and a **verb**.
 * *“That’s interesting,” she remarked thoughtfully.*
 
 * *The judge remarked on the importance of honesty.*
-
----
 
 👉 In **spoken English**, “remark” is a bit **formal**, so in casual talk, people more often say **“comment,” “say,” “point out,”** or just speak directly.
 
@@ -17843,8 +14989,6 @@ The word **“remark”** can be used both as a **noun** and a **verb**.
 
 🗣 *“We reminisced about our school days.”*  
  🗣 *“Old songs make me reminisce about my childhood.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -17866,16 +15010,12 @@ A reminiscent smile is a smile that shows you are remembering something from the
 
   * “He felt the *remnants* of guilt even years later.”
 
----
-
 [↑ Back to index](#index)
 
 # Resonate With
 
 **Meaning:** To emotionally connect or make sense to someone.  
  **Example:** *Her story really resonated with me.*
-
----
 
 [↑ Back to index](#index)
 
@@ -17921,8 +15061,6 @@ Practice sentences you can use in real life:
 🗣 *“I’ve been feeling restless lately — like I need a change.”*  
  🗣 *“The audience grew restless during the delay.”*
 
----
-
 [↑ Back to index](#index)
 
 # Retorted
@@ -17937,8 +15075,6 @@ Practice sentences you can use in real life:
 
   * “He *retorted* before she could even finish.”
 
----
-
 [↑ Back to index](#index)
 
 # Revelling
@@ -17951,25 +15087,12 @@ Practice sentences you can use in real life:
 * *“She revelled in the attention.”*  
    🟢 It means to *fully enjoy* a moment.
 
----
-
 [↑ Back to index](#index)
 
 # Righteousness
 
 **Meaning:** Moral correctness or virtue.  
  **Example:** *He spoke with a sense of righteousness.*
-
----
-
-[↑ Back to index](#index)
-
-# Righteousness
-
-**Meaning:** Moral correctness or virtue.  
- **Example:** *He spoke with a sense of righteousness.*
-
----
 
 [↑ Back to index](#index)
 
@@ -17988,8 +15111,6 @@ For example:
 
 👉 Here, it means tearing something into pieces.
 
----
-
 2️⃣ Figurative meaning (very common in professional conversations)
 
 It means:
@@ -17998,15 +15119,11 @@ It means:
 * To destroy something emotionally  
 * To break something into parts for deep analysis
 
-For example:
-
 * The manager **ripped apart** the proposal in the meeting.  
 * The critics **ripped the movie apart**.  
 * Let’s **rip this design apart** and see what we can improve.
 
 👉 In tech discussions, it often means *reviewing very critically*.
-
----
 
 In your professional context (Architecture / MLOps)
 
@@ -18027,8 +15144,6 @@ You can say:
 “He gave very strong critical feedback.”  
  “He challenged the proposal quite aggressively.”
 
----
-
 3–5 Spoken Sentences You Can Practice
 
 Try saying these aloud:
@@ -18039,8 +15154,6 @@ Try saying these aloud:
 4. “At first, I felt bad, but later I realized the feedback was useful.”
 
 Practice speaking them slowly and confidently.
-
----
 
 Extra Usage Context
 
@@ -18055,8 +15168,6 @@ So depending on context, it can be:
 * Strong criticism  
 * Emotional pain
 
----
-
 Now let me challenge you 😊
 
 Explain in your own words:  
@@ -18068,8 +15179,6 @@ Explain in your own words:
 
 **Meaning:** Extreme anger or aggressive behavior by a driver.  
  **Example:** *He almost hit another car because of road rage.*
-
----
 
 [↑ Back to index](#index)
 
@@ -18113,8 +15222,6 @@ Exiting the assignment
 🗣 *“Time to roll up our sleeves and get started.”*  
  🗣 *“She rolled up her sleeves and fixed the issue herself.”*
 
----
-
 [↑ Back to index](#index)
 
 # Roller coaster
@@ -18126,8 +15233,6 @@ Exiting the assignment
  🗣 *“Life with kids is a roller coaster — fun but unpredictable.”*
 
 💡 *(Widely used metaphor for unpredictable life events.)*
-
----
 
 [↑ Back to index](#index)
 
@@ -18149,8 +15254,6 @@ Had I known I'd have to rough it I would have taken a shower before I left.
 * *“There was just something about her that rubbed me the wrong way.”*  
    🟢 It’s a *spoken, natural* way to express mild dislike.
 
----
-
 [↑ Back to index](#index)
 
 # Rule of Thumb
@@ -18159,8 +15262,6 @@ A **rule of thumb** is a **general principle, rough guideline, or practical way 
 
 It’s not exact, but it works well enough in everyday situations.
 
----
-
 ### **Usage in sentences**
 
 * *As a rule of thumb, you should drink about 2 liters of water a day.*
@@ -18168,8 +15269,6 @@ It’s not exact, but it works well enough in everyday situations.
 * *A good rule of thumb for cooking pasta is 1 liter of water for every 100 grams of pasta.*
 
 * *As a rule of thumb, investments with higher returns usually carry higher risks.*
-
----
 
 ### **In spoken English**
 
@@ -18181,8 +15280,6 @@ You’ll often hear it when someone gives **practical advice or a quick estimate
 * *“How much should I tip here?”*  
    → *“Rule of thumb is about 10–15%.”*
 
----
-
 ✅ **Key idea:** A *rule of thumb* is not precise but is **useful as a shortcut guideline**.
 
 [↑ Back to index](#index)
@@ -18193,8 +15290,6 @@ Meaning: To exclude or eliminate something as a possibility.
 
 * Example 1: After careful analysis, we can rule out that option as not feasible.  
 * Example 2: The doctors ruled out any serious medical condition after the tests.
-
----
 
 [↑ Back to index](#index)
 
@@ -18221,8 +15316,6 @@ I ran away from there, the moment I saw him.
 To feel weakness in body  
 I'm run down in health today.
 
----
-
 [↑ Back to index](#index)
 
 # Run into
@@ -18231,12 +15324,6 @@ Meaning: To encounter or meet someone unexpectedly.
 
 * Example 1: I ran into my former colleague at a business conference.  
 * Example 2: They ran into financial difficulties while setting up the business.
-
----
-
-[↑ Back to index](#index)
-
-# Run into
 
 [↑ Back to index](#index)
 
@@ -18277,8 +15364,6 @@ Metaphorical:
 **Meaning:** To quickly go somewhere to get something.  
  **Example:** *I’ll run out for some milk.*
 
----
-
 [↑ Back to index](#index)
 
 # Run out of
@@ -18287,8 +15372,6 @@ Meaning: To exhaust or deplete the supply of something.
 
 * Example 1: We ran out of stock due to unexpected high demand.  
 * Example 2: The car ran out of fuel in the middle of the journey.
-
----
 
 [↑ Back to index](#index)
 
@@ -18317,8 +15400,6 @@ The phrase **“run past”** is usually used in two ways:
     → Example: *“Let me run this past my manager before we finalize it.”*  
     (Here, it means “let me discuss or confirm this with someone.”)
 
----
-
 ### **Common Sentences You Can Use**
 
 * *“Let me run this past you and see if it makes sense.”*
@@ -18329,8 +15410,6 @@ The phrase **“run past”** is usually used in two ways:
 
 * *“I’ll run past the grocery store on my way home.”* (casual, physical meaning)
 
----
-
 ### **Context of Usage**
 
 * **Workplace**: When you want to confirm something with your manager, team, or client.
@@ -18338,8 +15417,6 @@ The phrase **“run past”** is usually used in two ways:
 * **Casual conversation**: When you want to quickly check something with a friend.
 
 * **Literal**: When talking about running/jogging and passing someone or something.
-
----
 
 👉 Try saying these aloud to get the flow. For example:  
  *“Before I make changes, I’ll run this past my manager.”*
@@ -18359,8 +15436,6 @@ For example:
 
 So in your case, *“run past some details someone”* probably means: *“share or explain some details to someone for their feedback/approval.”*
 
----
-
 ### **Common Spoken Phrases You Can Use**
 
 1. “Let me just run this past you to make sure we’re aligned.”
@@ -18370,8 +15445,6 @@ So in your case, *“run past some details someone”* probably means: *“share
 3. “Can I run a quick thought past you?”
 
 4. “Before we proceed, I’d like to run this past my lead.”
-
----
 
 ### **Usage Contexts**
 
@@ -18385,6 +15458,7 @@ So in your case, *“run past some details someone”* probably means: *“share
 
 # Run with something
 
+
 [↑ Back to index](#index)
 
 # RV
@@ -18396,8 +15470,6 @@ So in your case, *“run past some details someone”* probably means: *“share
  🗣 *“He quit his job, bought an RV, and just took off to live freely.”*
 
 💡 *(Used a lot in American casual speech — “RV life” \= minimal, travel-based living.)*
-
----
 
 [↑ Back to index](#index)
 
@@ -18427,8 +15499,6 @@ It’s almost always used in a **figurative sense** today, usually for governmen
 
 * *“His shoulders were sagging with exhaustion.”*
 
----
-
 [↑ Back to index](#index)
 
 # Salad Dressing
@@ -18436,11 +15506,10 @@ It’s almost always used in a **figurative sense** today, usually for governmen
 **Meaning:** A sauce added to salads.  
  **Example:** *Can you pass the salad dressing?*
 
----
-
 [↑ Back to index](#index)
 
 # Sandbox
+
 
 [↑ Back to index](#index)
 
@@ -18456,17 +15525,6 @@ It’s almost always used in a **figurative sense** today, usually for governmen
 **Meaning:** To enjoy something fully and slowly.  
  **Example:** *Savor every moment of your vacation.*
 
----
-
-[↑ Back to index](#index)
-
-# Savor
-
-**Meaning:** To enjoy something fully and slowly.  
- **Example:** *Savor every moment of your vacation.*
-
----
-
 [↑ Back to index](#index)
 
 # Scam
@@ -18476,16 +15534,12 @@ It’s almost always used in a **figurative sense** today, usually for governmen
 🗣 *“That investment offer was a total scam.”*  
  🗣 *“He fell for an online scam.”*
 
----
-
 [↑ Back to index](#index)
 
 # Scamper
 
 **Meaning:** To run quickly and lightly (often used for kids or animals).  
  **Example:** *The kids scampered across the playground.*
-
----
 
 [↑ Back to index](#index)
 
@@ -18499,8 +15553,6 @@ A **scapegoat** is a person who is unfairly **blamed for something** that was no
 
 👉 It comes from an old tradition where a goat was symbolically burdened with people’s sins and sent away. That’s why today it means blaming someone unfairly.
 
----
-
 ✅ **Spoken practice sentences:**
 
 * “He became the scapegoat for the company’s failures.”
@@ -18510,8 +15562,6 @@ A **scapegoat** is a person who is unfairly **blamed for something** that was no
 * “That being said, people often look for a scapegoat when things go wrong.”
 
 * “I don’t want to be the scapegoat for someone else’s mistake.”
-
----
 
 👉 **Context of usage:**
 
@@ -18532,8 +15582,6 @@ A **scapegoat** is a person who is unfairly **blamed for something** that was no
 
 * *“‘You? A singer?’ she scoffed.”*
 
----
-
 [↑ Back to index](#index)
 
 # Scooted
@@ -18548,8 +15596,6 @@ A **scapegoat** is a person who is unfairly **blamed for something** that was no
 
   * “She *scooted* out the door as soon as it ended.”
 
----
-
 [↑ Back to index](#index)
 
 # Scope
@@ -18558,8 +15604,6 @@ A **scapegoat** is a person who is unfairly **blamed for something** that was no
 
 🗣 *“The project’s scope is too broad.”*  
  🗣 *“There’s huge scope for innovation here.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -18570,8 +15614,6 @@ A **scapegoat** is a person who is unfairly **blamed for something** that was no
 🗣 *“You scoundrel\! You ate my dessert.”*  
  🗣 *“He played the charming scoundrel in the movie.”*
 
----
-
 [↑ Back to index](#index)
 
 # Scrape by
@@ -18580,8 +15622,6 @@ A **scapegoat** is a person who is unfairly **blamed for something** that was no
 
 🗣 *“During college, I barely scraped by on part-time jobs.”*  
  🗣 *“Some small shops are just scraping by these days.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -18597,8 +15637,6 @@ A **scapegoat** is a person who is unfairly **blamed for something** that was no
 
   * “I managed to *scrape up* enough money for the ticket.”
 
----
-
 [↑ Back to index](#index)
 
 # Scratch your own itch
@@ -18609,15 +15647,11 @@ To do something out of motivation to solve a personal problem
 
 It’s often used in business, startups, programming, and self-improvement. The idea is: if something bothers you, fix it — and that solution may help others too.
 
----
-
 ### **Meaning in simple terms**
 
 * If you have an itch, scratching it relieves you.
 
 * Similarly, if you face a problem, creating a solution helps you (and maybe others who have the same problem).
-
----
 
 ### **Usage examples**
 
@@ -18633,8 +15667,6 @@ It’s often used in business, startups, programming, and self-improvement. The 
 
    * *“Instead of waiting for someone to create the kind of workout planner I wanted, I made my own. Just scratching my own itch.”*
 
----
-
 ✅ So, whenever you hear *“scratch your own itch”*, think: **solve your own problem first — that’s often the best way to create something useful.**
 
 [↑ Back to index](#index)
@@ -18644,19 +15676,16 @@ It’s often used in business, startups, programming, and self-improvement. The 
 **Meaning:** To move quickly with small steps.  
 **Example:** *The mice scurried across the floor.*
 
----
-
 [↑ Back to index](#index)
 
 # Seductive
+
 
 [↑ Back to index](#index)
 
 # Self fulfilling prophecy
 
 A **self-fulfilling prophecy** is when a belief or expectation (about yourself, others, or a situation) actually **causes itself to become true**—because the belief influences actions and behavior in a way that makes it happen.
-
----
 
 ✅ **Examples:**
 
@@ -18665,8 +15694,6 @@ A **self-fulfilling prophecy** is when a belief or expectation (about yourself, 
 * *If you keep telling yourself, “I’ll fail this exam,” you might lose confidence, study less, and actually fail—proving your own negative belief true.*
 
 * *Believing you’ll succeed in a job interview can boost your confidence, which makes you perform better—again, a self-fulfilling prophecy.*
-
----
 
 👉 In **spoken English**, people often use it casually like:
 
@@ -18683,8 +15710,6 @@ A **self-fulfilling prophecy** is when a belief or expectation (about yourself, 
 🗣 *“I felt so self-conscious giving that speech.”*  
  🗣 *“He’s too self-conscious to dance in public.”*
 
----
-
 [↑ Back to index](#index)
 
 # Self-Inflicted Wound
@@ -18700,8 +15725,6 @@ A **self-fulfilling prophecy** is when a belief or expectation (about yourself, 
 
 👉 *Connectors:* “In other words,” “to put it simply,” “it was their own doing.”
 
----
-
 [↑ Back to index](#index)
 
 # Self-supplied
@@ -18711,8 +15734,6 @@ A **self-fulfilling prophecy** is when a belief or expectation (about yourself, 
 
 🗣 *“He’s entirely self-supplied — grows his own vegetables.”*  
  🗣 *“She’s self-supplied emotionally — doesn’t rely on others for validation.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -18732,17 +15753,9 @@ Meaning: To completely sell all available stock or tickets.
 * Example 1: The concert tickets sold out within hours of going on sale.  
 * Example 2: The store sold out of its holiday collection in just one day.
 
----
-
-[↑ Back to index](#index)
-
-# Sell out
-
 1️⃣ To sell all items. 2️⃣ To betray one’s values for money.  
  👉 *“The tickets sold out in minutes.” / “He sold out for fame.”*
 
----
-
 [↑ Back to index](#index)
 
 # Serenity Prayer
@@ -18750,34 +15763,12 @@ Meaning: To completely sell all available stock or tickets.
 **Meaning:** A prayer asking for peace, courage, and wisdom.  
  **Example:** *She recited the Serenity Prayer to calm herself.*
 
----
-
-[↑ Back to index](#index)
-
-# Serenity Prayer
-
-**Meaning:** A prayer asking for peace, courage, and wisdom.  
- **Example:** *She recited the Serenity Prayer to calm herself.*
-
----
-
 [↑ Back to index](#index)
 
 # Set Aside
 
 **Meaning:** To save or reserve something.  
  **Example:** *Set aside some time to rest.*
-
----
-
-[↑ Back to index](#index)
-
-# Set Aside
-
-**Meaning:** To save or reserve something.  
- **Example:** *Set aside some time to rest.*
-
----
 
 [↑ Back to index](#index)
 
@@ -18788,8 +15779,6 @@ Meaning: To completely sell all available stock or tickets.
 
 🗣 *“Investing in index funds is a set-it-and-forget-it plan.”*  
  🗣 *“I use reminders for bills — set it and forget it.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -18820,19 +15809,13 @@ she drew up a plan of what her organization should set out to achieve
 
 # Set up
 
-**Set up** – To arrange or prepare something.  
- They set up a meeting for Friday.
-
-[↑ Back to index](#index)
-
-# Set up
-
 Meaning: To establish or create something.
 
 * Example 1: They set up a new branch office in the city center.  
 * Example 2: The IT team will set up the new system by the end of the week.
 
----
+**Set up** – To arrange or prepare something.  
+ They set up a meeting for Friday.
 
 [↑ Back to index](#index)
 
@@ -18843,8 +15826,6 @@ Meaning: To accept something less than desired or expected.
 * Example 1: After negotiation, we decided to settle for a lower price.  
 * Example 2: Don’t settle for anything less than what you deserve.
 
----
-
 [↑ Back to index](#index)
 
 # Settle in
@@ -18853,8 +15834,6 @@ Meaning: To become familiar and comfortable in a new environment.
 
 * Example 1: It took some time to settle in the new office space.  
 * Example 2: He settled in quickly and made new friends in the neighborhood.
-
----
 
 [↑ Back to index](#index)
 
@@ -18872,8 +15851,6 @@ Here are some other examples of the phrase in use:
 **Meaning:** Observing someone closely to learn.  
  **Example:** *I’m shadowing my manager to learn the ropes.*
 
----
-
 [↑ Back to index](#index)
 
 # Shake up
@@ -18883,16 +15860,12 @@ Meaning: To make significant changes or reforms in an organization.
 * Example 1: The new CEO plans to shake up the company’s structure for better efficiency.  
 * Example 2: The government announced plans to shake up the healthcare system.
 
----
-
 [↑ Back to index](#index)
 
 # Shameless
 
 **Meaning:** Showing no embarrassment or guilt.  
  **Example:** *He made a shameless attempt to take all the credit.*
-
----
 
 [↑ Back to index](#index)
 
@@ -18922,17 +15895,6 @@ In movies, "shard of glass" can also refer to a horrible truth, a blind spot, or
 **Meaning:** To listen carefully.  
  **Example:** *Sharpen your ears—the announcement’s coming.*
 
----
-
-[↑ Back to index](#index)
-
-# Sharpen One’s Ears
-
-**Meaning:** To listen carefully.  
- **Example:** *Sharpen your ears—the announcement’s coming.*
-
----
-
 [↑ Back to index](#index)
 
 # Shelved
@@ -18948,25 +15910,12 @@ In movies, "shard of glass" can also refer to a horrible truth, a blind spot, or
 
 👉 *Common phrase:* “Put on the shelf” or “shelved indefinitely.”
 
----
-
 [↑ Back to index](#index)
 
 # Shimmering
 
 **Meaning:** Shining softly with a wavering light.  
  **Example:** *The lake looked beautiful, shimmering under the sun.*
-
----
-
-[↑ Back to index](#index)
-
-# Shimmering
-
-**Meaning:** Shining softly with a wavering light.  
- **Example:** *The lake looked beautiful, shimmering under the sun.*
-
----
 
 [↑ Back to index](#index)
 
@@ -18982,8 +15931,6 @@ In movies, "shard of glass" can also refer to a horrible truth, a blind spot, or
 
   * “He *shimmied* out of his jacket quickly.”
 
----
-
 [↑ Back to index](#index)
 
 # Shimmied out
@@ -18998,8 +15945,6 @@ In movies, "shard of glass" can also refer to a horrible truth, a blind spot, or
 
   * “He *shimmied out* of the meeting before questions started.”
 
----
-
 [↑ Back to index](#index)
 
 # Shit
@@ -19010,16 +15955,12 @@ In movies, "shard of glass" can also refer to a horrible truth, a blind spot, or
 🗣 *“Oh shit, I forgot my wallet\!”*  
  🗣 *“That movie scared the shit out of me.”*
 
----
-
 [↑ Back to index](#index)
 
 # Shoot
 
 **Meaning:** To fire a gun; also casually means to film or take a photo, or to say something quickly.  
  **Example:** *Let’s shoot a quick video.* / *Shoot\! I forgot my keys\!* (used as an exclamation)
-
----
 
 [↑ Back to index](#index)
 
@@ -19041,17 +15982,6 @@ The phrase "shoot me now" is a humorous or exaggerated way of expressing frustra
 **Meaning:** To brag or display something proudly.  
  **Example:** *He’s always showing off his new gadgets.*
 
----
-
-[↑ Back to index](#index)
-
-# Show Off
-
-**Meaning:** To brag or display something proudly.  
- **Example:** *He’s always showing off his new gadgets.*
-
----
-
 [↑ Back to index](#index)
 
 # Show up
@@ -19069,8 +15999,6 @@ He didn’t show up to the meeting.
 * *“She shrieked indignantly when accused of cheating.”*
 
 * Used in emotional or dramatic scenes to show strong feelings.
-
----
 
 [↑ Back to index](#index)
 
@@ -19096,8 +16024,6 @@ I don't shrink from my responsibilities
 🗣 *“The company shut down after ten years.”*  
  🗣 *“She just shuts down when the topic gets emotional.”*
 
----
-
 [↑ Back to index](#index)
 
 # Shut the hell up
@@ -19121,8 +16047,6 @@ I don't shrink from my responsibilities
 🗣 *“I’m feeling a bit sick today.”*  
  🗣 *“That new track is sick\!”*
 
----
-
 [↑ Back to index](#index)
 
 # Sign language
@@ -19133,8 +16057,6 @@ I don't shrink from my responsibilities
 🗣 *“She’s fluent in sign language.”*  
  🗣 *“Their eyes spoke a sign language of their own.”*
 
----
-
 [↑ Back to index](#index)
 
 # Sign up
@@ -19144,25 +16066,12 @@ I don't shrink from my responsibilities
 🗣 *“I signed up for the yoga class.”*  
  🗣 *“He just signed up for a new project.”*
 
----
-
 [↑ Back to index](#index)
 
 # Silly
 
 **Meaning:** Not serious; playful or foolish.  
  **Example:** *Don’t be silly—it’s just a joke.*
-
----
-
-[↑ Back to index](#index)
-
-# Silly
-
-**Meaning:** Not serious; playful or foolish.  
- **Example:** *Don’t be silly—it’s just a joke.*
-
----
 
 [↑ Back to index](#index)
 
@@ -19186,8 +16095,6 @@ A silver lining is a positive aspect that can be found in a negative situation. 
 
 * *“He simmered with anger but didn’t say a word.”*
 
----
-
 [↑ Back to index](#index)
 
 # Simple Technical Example
@@ -19202,8 +16109,6 @@ You could say:
 
 Meaning:  
  Those services are connected behind the gateway.
-
----
 
 [↑ Back to index](#index)
 
@@ -19237,8 +16142,6 @@ You sit tight, and I'll go get help.
 🗣 *“Friends is my favorite sitcom of all time.”*  
  🗣 *“That sitcom always lifts my mood.”*
 
----
-
 [↑ Back to index](#index)
 
 # Size out
@@ -19263,8 +16166,6 @@ The phrase **“size out”** can mean different things depending on context:
 
    * Example: *“Let’s size out the project before committing resources.”*
 
----
-
 ✅ **Sentences you can practice speaking**:
 
 * “I sized out of my old jeans, so I had to buy a new pair.”
@@ -19281,6 +16182,7 @@ The phrase **“size out”** can mean different things depending on context:
 
 # Sizzle out
 
+
 [↑ Back to index](#index)
 
 # Skirted past
@@ -19295,8 +16197,6 @@ The phrase **“size out”** can mean different things depending on context:
 
   * “He *skirted past* the question about his salary.”
 
----
-
 [↑ Back to index](#index)
 
 # Sleazy
@@ -19308,8 +16208,6 @@ The phrase **“size out”** can mean different things depending on context:
 
 * *“He’s such a sleazy politician.”*  
    🟠 Used for behavior or things that feel low-class or corrupt.
-
----
 
 [↑ Back to index](#index)
 
@@ -19333,8 +16231,6 @@ Slip in” is a **phrasal verb** that usually means to **enter, insert, or say s
    * *I slipped the letter into his bag.*  
       (I put it there quietly or discreetly.)
 
----
-
 ✅ **Spoken examples you could practice**
 
 * “Sorry I’m late, I just slipped in at the back.”
@@ -19345,8 +16241,6 @@ Slip in” is a **phrasal verb** that usually means to **enter, insert, or say s
 
 * “On the other hand, you could slip in an extra detail to make your point stronger.”
 
----
-
 💡 **Where you might use it:**
 
 * **Meetings**: “Can I just slip in a quick point here?”
@@ -19354,8 +16248,6 @@ Slip in” is a **phrasal verb** that usually means to **enter, insert, or say s
 * **Casual talk**: “I slipped in while the movie had already started.”
 
 * **Presentations**: “Let me slip in an example to clarify this.”
-
----
 
 👉 Try saying this aloud:  
  “Excuse me, may I slip in a quick question before we move on?”
@@ -19374,8 +16266,6 @@ Slip in” is a **phrasal verb** that usually means to **enter, insert, or say s
 
   * “He *slipped off* before the party ended — no one even noticed.”
 
----
-
 [↑ Back to index](#index)
 
 # Slumber
@@ -19385,8 +16275,6 @@ Slip in” is a **phrasal verb** that usually means to **enter, insert, or say s
 
 * *“She fell into a deep slumber.”*  
    🟢 Sounds a bit poetic or literary.
-
----
 
 [↑ Back to index](#index)
 
@@ -19399,25 +16287,12 @@ Slip in” is a **phrasal verb** that usually means to **enter, insert, or say s
 
 * *“She slumped down, exhausted.”*
 
----
-
 [↑ Back to index](#index)
 
 # Slumped Over
 
 **Meaning:** Bent or drooping posture from tiredness or sadness.  
  **Example:** *He sat slumped over his desk.*
-
----
-
-[↑ Back to index](#index)
-
-# Slumped Over
-
-**Meaning:** Bent or drooping posture from tiredness or sadness.  
- **Example:** *He sat slumped over his desk.*
-
----
 
 [↑ Back to index](#index)
 
@@ -19432,8 +16307,6 @@ More natural ways to ask:
 * “What does ‘hangs off’ mean?”  
 * “How is ‘hangs off’ used in conversation?”  
 * “What does ‘hangs off’ mean in architecture discussions?”
-
----
 
 Try speaking these aloud a few times:
 
@@ -19450,8 +16323,6 @@ Try speaking these aloud a few times:
 
 🗣 *“They threw a smashing party last night.”*  
  🗣 *“That was a smashing idea, really\!”*
-
----
 
 [↑ Back to index](#index)
 
@@ -19480,8 +16351,6 @@ Try speaking these aloud a few times:
 🗣 *“Don’t sneak up on me like that\!”*  
  🗣 *“Deadlines always seem to sneak up on me.”*
 
----
-
 [↑ Back to index](#index)
 
 # Sneaking around
@@ -19506,25 +16375,12 @@ Try speaking these aloud a few times:
 
   * “They *sniggered* when I mispronounced the word.”
 
----
-
 [↑ Back to index](#index)
 
 # Snowball Effect
 
 **Meaning:** When something small grows larger and larger over time.  
  **Example:** *The rumor spread with a snowball effect.*
-
----
-
-[↑ Back to index](#index)
-
-# Snowball Effect
-
-**Meaning:** When something small grows larger and larger over time.  
- **Example:** *The rumor spread with a snowball effect.*
-
----
 
 [↑ Back to index](#index)
 
@@ -19538,8 +16394,6 @@ Try speaking these aloud a few times:
 * *“She snuggled up to him during the movie.”*  
    🟢 Sounds sweet and comforting.
 
----
-
 [↑ Back to index](#index)
 
 # Snuggled closer
@@ -19551,8 +16405,6 @@ Try speaking these aloud a few times:
 
 * Common in cozy, intimate, or emotional settings.
 
----
-
 [↑ Back to index](#index)
 
 # So be it
@@ -19563,11 +16415,10 @@ Try speaking these aloud a few times:
 🗣 *“If that’s how it has to be, so be it.”*  
  🗣 *“We did our best. If it fails, so be it.”*
 
----
-
 [↑ Back to index](#index)
 
 # Soak up some sun
+
 
 [↑ Back to index](#index)
 
@@ -19578,8 +16429,6 @@ Try speaking these aloud a few times:
 
 🗣 *“Eagles soar above the mountains.”*  
  🗣 *“Her confidence soared after the promotion.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -19596,8 +16445,6 @@ Try speaking these aloud a few times:
 * *“We’ll discuss security, cost, and something or other in tomorrow’s meeting.”*
 
 It’s like saying “some unspecified thing” or “whatever it was.”
-
----
 
 ✅ Phrases you can practice saying in conversations:
 
@@ -19619,8 +16466,6 @@ Suppose you’re telling a colleague about a discussion you overheard:
 
 👉 Here, you use **“something or other”** because you don’t remember the exact third issue, but you want to keep the flow of conversation.
 
----
-
 ### **Scenario: Casual Conversation**
 
 You’re talking to a friend about a movie:
@@ -19629,8 +16474,6 @@ You’re talking to a friend about a movie:
 
 👉 Here, you’re being vague, but the listener still understands you mean *some Spider-Man movie*.
 
----
-
 ### **Scenario: Explaining to a Team**
 
 During a project update:
@@ -19638,8 +16481,6 @@ During a project update:
 👤 You: *“We need to fix the ETL pipeline, the data schema, and something or other with the reporting layer. I’ll confirm the details later.”*
 
 👉 Here, it shows you don’t recall the exact third item but still keep your explanation moving.
-
----
 
 ✅ Practice Sentences:
 
@@ -19658,8 +16499,6 @@ During a project update:
 
 * *“I couldn’t speak — it felt like something was clogging my throat.”*
 
----
-
 [↑ Back to index](#index)
 
 # Sore
@@ -19674,17 +16513,6 @@ During a project update:
 
 **Meaning:** Deep sadness.  
  **Example:** *Her eyes reflected sorrow.*
-
----
-
-[↑ Back to index](#index)
-
-# Sorrow
-
-**Meaning:** Deep sadness.  
- **Example:** *Her eyes reflected sorrow.*
-
----
 
 [↑ Back to index](#index)
 
@@ -19703,8 +16531,6 @@ Meaning: To resolve or organize a problem or situation.
 * Example 1: Let’s have a meeting to sort out the issues raised by the client.  
 * Example 2: We need to sort out the logistics before the event.
 
----
-
 [↑ Back to index](#index)
 
 # Sound like a broken record
@@ -19712,8 +16538,6 @@ Meaning: To resolve or organize a problem or situation.
 The phrase **“sound like a broken record”** means **to repeat the same thing over and over**, usually to the point of being annoying or boring.
 
 It comes from the days of vinyl records — when a record was scratched, the needle would get stuck and repeat the same line endlessly. 🎶
-
----
 
 ✅ **Examples in sentences:**
 
@@ -19745,10 +16569,6 @@ The phrase **“space out”** has two common meanings:
 
 👉 In everyday spoken English, people usually mean the **first one** (losing focus, daydreaming).
 
-[↑ Back to index](#index)
-
-# Space out
-
 **Literal meaning:** To lose focus or become mentally distant.  
  **Figurative meaning:** To daydream or momentarily “disconnect.”
 
@@ -19756,8 +16576,6 @@ The phrase **“space out”** has two common meanings:
  🗣 *“He just spaces out during long meetings.”*
 
 💡 *(Casual, friendly tone — used when someone loses attention briefly.)*
-
----
 
 [↑ Back to index](#index)
 
@@ -19767,8 +16585,6 @@ The phrase **“space out”** has two common meanings:
 
 🗣 *“There was a spark of hope in her eyes.”*  
  🗣 *“That movie sparked a spark of inspiration for my next project.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -19784,14 +16600,10 @@ The phrase **“space out”** has two common meanings:
 To say a lot without words.  
  👉 *“Her silence spoke volumes.”*
 
----
-
 ## Complacent
 
 Too comfortable and not trying to improve.  
  👉 *“Don’t get complacent after one success.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -19817,15 +16629,11 @@ Sarah was chosen to spearhead the company's sustainability initiative and develo
 
   * “He *sped down* the report just to finish it.”
 
----
-
 [↑ Back to index](#index)
 
 # Speed up
 
 **“Speed up”** simply means **to go faster** — it can be about movement, work, or progress.
-
----
 
 ### **Quick Examples**
 
@@ -19835,8 +16643,6 @@ Sarah was chosen to spearhead the company's sustainability initiative and develo
 
 * *“Can you speed up a bit? We’re running late.”*
 
----
-
 ### **Sentences You Can Use**
 
 1. “Let’s speed up the review cycle.”
@@ -19844,8 +16650,6 @@ Sarah was chosen to spearhead the company's sustainability initiative and develo
 2. “We’ll have to speed up if we want to finish today.”
 
 3. “The system sped up after optimization.”
-
----
 
 👉 Formal alternatives for meetings: **accelerate, expedite, move faster**.
 
@@ -19859,8 +16663,6 @@ Sarah was chosen to spearhead the company's sustainability initiative and develo
 🗣 *“Add some spice to your dish.”*  
  🗣 *“Her humor adds spice to every conversation.”*
 
----
-
 [↑ Back to index](#index)
 
 # Spillover
@@ -19872,8 +16674,6 @@ When something physically flows over the edge because there’s too much.
 * *“The tea caused a **spillover** on the table.”*
 
 * *“The dam couldn’t hold the water, so there was a spillover.”*
-
----
 
 ### **Figurative meaning (much more common in spoken/work settings)**
 
@@ -19891,14 +16691,10 @@ Examples in spoken English:
    *“The excitement from the festival had a positive **spillover** into the nearby towns.”*  
    *“Arguments at home can cause a **spillover** at school for kids.”*
 
----
-
 ✅ **In everyday speech**, “spillover” is often paired with **“effect”** → *“spillover effect.”*  
  It sounds a bit formal, but it’s common in discussions about work, economics, psychology, or social life.
 
 The phrase **“spill over”** means something that **extends beyond its normal limits** — like when water spills over the edge of a glass. In spoken English, we often use it metaphorically to describe when **one thing starts affecting another area**.
-
----
 
 ### **💡 Common meanings and examples:**
 
@@ -19920,8 +16716,6 @@ The phrase **“spill over”** means something that **extends beyond its normal
    * “The conflict in one region **spilled over** into neighboring countries.”  
       *(The effects spread to nearby areas.)*
 
----
-
 ### **🗣️ Useful spoken phrases**
 
 * “Sorry, our discussion kind of **spilled over** into the next meeting slot.”
@@ -19933,8 +16727,6 @@ The phrase **“spill over”** means something that **extends beyond its normal
 * “The excitement **spilled over** into the entire team.”
 
 * “We need to manage this before it **spills over** to other projects.”
-
----
 
 ### **🔗 Connecting phrases you can use with it:**
 
@@ -19954,11 +16746,10 @@ The phrase **“spill over”** means something that **extends beyond its normal
 🗣 *“After losing his job, his life started to spiral down.”*  
  🗣 *“The market is spiraling down due to uncertainty.”*
 
----
-
 [↑ Back to index](#index)
 
 # Spit in someone’s face
+
 
 [↑ Back to index](#index)
 
@@ -19986,15 +16777,11 @@ we splurged on T-bone steaks
 
   * “She was *spluttering* with rage at his comment.”
 
----
-
 [↑ Back to index](#index)
 
 # Sponge up
 
 The phrase **“sponge up”** means to **absorb something completely**, just like a sponge soaks up water. It’s often used for **knowledge, experiences, or even atmosphere/feelings**.
-
----
 
 ✅ **Examples:**
 
@@ -20003,8 +16790,6 @@ The phrase **“sponge up”** means to **absorb something completely**, just li
 * *She sponged up every detail during the training session.*
 
 * *When I traveled to Italy, I just sponged up the culture and the language.*
-
----
 
 👉 In **spoken English**, it’s a lively, casual way to say *“absorb/learn quickly.”*
 
@@ -20029,8 +16814,6 @@ The phrase **“sponge up”** means to **absorb something completely**, just li
   * “They were *spooning* under the blanket.”
 
   * “I love *spooning* on a lazy Sunday morning.”
-
----
 
 [↑ Back to index](#index)
 
@@ -20062,8 +16845,6 @@ The phrase **“sponge up”** means to **absorb something completely**, just li
 
    * *“He did a comedy spot at the event.”* (performance slot)
 
----
-
 1. **“On the spot”** → immediately
 
    * *“They hired me on the spot.”*
@@ -20077,8 +16858,6 @@ The phrase **“sponge up”** means to **absorb something completely**, just li
 3. **“Sweet spot”** → the perfect position or best point
 
    * *“We finally hit the sweet spot in our pricing.”*
-
----
 
 1. **“I spotted a mistake in the report.”**
 
@@ -20094,64 +16873,9 @@ The phrase **“sponge up”** means to **absorb something completely**, just li
 
 # Spot on
 
-### **Meaning of “spot on”**
-
 * **Spot on** means *exactly right*, *precisely correct*, or *perfectly accurate*.
 
 * It’s informal and mostly used in **spoken English** (especially in British English, but also common elsewhere).
-
----
-
-### **Usage in communication**
-
-1. **When someone is correct:**
-
-   * *“Your analysis of the problem was spot on.”*  
-      (→ means: you were exactly correct.)
-
-2. **When giving feedback:**
-
-   * *“That’s spot on, keep it up\!”*  
-      (→ encouragement, telling someone they did it perfectly.)
-
-3. **When agreeing strongly:**
-
-   * *“Yes, that’s spot on—I couldn’t have said it better myself.”*
-
-4. **When describing a solution or action:**
-
-   * *“Her suggestion was spot on for solving the client’s issue.”*
-
----
-
-### **Common spoken sentences you can practice:**
-
-* “That’s spot on, thanks for pointing it out.”
-
-* “Your explanation was spot on, really clear and precise.”
-
-* “I think your estimate is spot on—we should go with it.”
-
-* “You’re spot on about the risks we might face.”
-
----
-
-👉 **Context of usage**:  
- You’ll often hear “spot on” in **meetings, feedback discussions, casual conversations, or even presentations** when acknowledging correctness. It adds a natural, conversational tone.
-
-💡 Try practicing aloud:
-
-* Say: *“That’s spot on, exactly what I was thinking.”*
-
-[↑ Back to index](#index)
-
-# Spot On
-
-* **Spot on** means *exactly right*, *precisely correct*, or *perfectly accurate*.
-
-* It’s informal and mostly used in **spoken English** (especially in British English, but also common elsewhere).
-
----
 
 **Usage in communication**
 
@@ -20173,8 +16897,6 @@ The phrase **“sponge up”** means to **absorb something completely**, just li
 
    * *“Her suggestion was spot on for solving the client’s issue.”*
 
----
-
 **Common spoken sentences you can practice:**
 
 * “That’s spot on, thanks for pointing it out.”
@@ -20184,8 +16906,6 @@ The phrase **“sponge up”** means to **absorb something completely**, just li
 * “I think your estimate is spot on—we should go with it.”
 
 * “You’re spot on about the risks we might face.”
-
----
 
 👉 **Context of usage**:  
  You’ll often hear “spot on” in **meetings, feedback discussions, casual conversations, or even presentations** when acknowledging correctness. It adds a natural, conversational tone.
@@ -20202,10 +16922,6 @@ Meaning of “bang on”
 
 * In American English, you might not hear “bang on” as often; people usually say *“right on”* or *“exactly right”*.
 
----
-
-**Usage in communication**
-
 1. **Agreement / correctness**
 
    * *“You’re bang on about the market trend.”*  
@@ -20221,8 +16937,6 @@ Meaning of “bang on”
    * *“That guess was bang on\!”*  
       (→ the guess was exactly right.)
 
----
-
 Common spoken sentences to practice
 
 * “You’re bang on with that suggestion.”
@@ -20230,8 +16944,6 @@ Common spoken sentences to practice
 * “Her prediction was bang on, things happened exactly as she said.”
 
 * “Your assessment is bang on—we should follow it.”
-
----
 
 👉 **Spot on vs. Bang on**
 
@@ -20242,6 +16954,8 @@ Common spoken sentences to practice
 💡Practice aloud:
 
 * *“You’re bang on about the client’s concerns—we need to address them.”*
+
+### **Meaning of “spot on”**
 
 [↑ Back to index](#index)
 
@@ -20256,8 +16970,6 @@ Common spoken sentences to practice
 
 So in conversation, it means: **to include a little bit of something naturally, without overdoing it.**
 
----
-
 ✅ **Phrases you can practice saying aloud:**
 
 1. *“I try to sprinkle in some humor during meetings to keep the mood light.”*
@@ -20267,8 +16979,6 @@ So in conversation, it means: **to include a little bit of something naturally, 
 3. *“On the other hand, if you sprinkle in too many details, the audience might get lost.”*
 
 4. *“That being said, it’s always good to sprinkle in some appreciation for your team.”*
-
----
 
 💡 **Context of usage:**
 
@@ -20288,8 +16998,6 @@ So in conversation, it means: **to include a little bit of something naturally, 
 * *“She squatted to tie her shoelaces.”*  
    🟢 Neutral, but in stories it can describe posture or movement.
 
----
-
 [↑ Back to index](#index)
 
 # Squawk
@@ -20303,8 +17011,6 @@ So in conversation, it means: **to include a little bit of something naturally, 
   * “The parrot *squawked* when I approached.”
 
   * “He *squawked* about the extra workload.”
-
----
 
 [↑ Back to index](#index)
 
@@ -20320,8 +17026,6 @@ So in conversation, it means: **to include a little bit of something naturally, 
 
   * “She *squeaked* with excitement when she saw the gift.”
 
----
-
 [↑ Back to index](#index)
 
 # Squelchy
@@ -20331,8 +17035,6 @@ So in conversation, it means: **to include a little bit of something naturally, 
 
 🗣 *“My shoes went all squelchy in the mud.”*  
  🗣 *“That handshake felt squelchy — gross\!”*
-
----
 
 [↑ Back to index](#index)
 
@@ -20348,8 +17050,6 @@ So in conversation, it means: **to include a little bit of something naturally, 
 
   * “She *squinted* at him, not sure she believed his story.”
 
----
-
 [↑ Back to index](#index)
 
 # Squirmed
@@ -20363,12 +17063,6 @@ So in conversation, it means: **to include a little bit of something naturally, 
   * “The child *squirmed* in his chair.”
 
   * “He *squirmed* when she brought up his mistake.”
-
----
-
-[↑ Back to index](#index)
-
-# Stalk
 
 [↑ Back to index](#index)
 
@@ -20446,8 +17140,6 @@ If **you or someone is being stalked**, take it seriously: save evidence (messag
 
 The phrase **“stand out”** means to be **noticeable, different, or better** than others in some way. 🌟
 
----
-
 ### **🔹 Common Uses**
 
 1. **To be easily noticed (appearance or behavior):**
@@ -20461,8 +17153,6 @@ The phrase **“stand out”** means to be **noticeable, different, or better** 
 * *His presentation really stood out among all the others.*
 
 * *She stands out as one of the best players on the team.*
-
----
 
 👉 In **spoken English**, it’s often used as praise or to highlight uniqueness:
 
@@ -20479,8 +17169,6 @@ The phrase **“stand out”** means to be **noticeable, different, or better** 
 **"Start off"** means to **begin something**, especially when talking about the **initial phase** of an activity, journey, conversation, or process.
 
 It is a **phrasal verb** and is very common in **spoken English**.
-
----
 
 **🔹 Usage in Spoken English:**
 
@@ -20499,8 +17187,6 @@ Used casually and professionally to refer to how something **begins**.
 4. **"I want to start off by thanking everyone for coming."**  
     → *(Common in speeches or meetings.)*
 
----
-
 🔹 Similar verbs:
 
 * Start
@@ -20508,8 +17194,6 @@ Used casually and professionally to refer to how something **begins**.
 * Begin
 
 * Kick off (informal, often used for events)
-
----
 
 **🔹 Difference between "start" and "start off":**
 
@@ -20554,8 +17238,6 @@ It is very common in conversations, meetings, and presentations.
 
 Here, “start” and “start off” are similar, but **“start off” sounds more natural in casual speech**.
 
----
-
 ## **2️⃣ To describe how something begins (tone or situation)**
 
 You can use it to talk about the initial condition.
@@ -20574,8 +17256,6 @@ For example:
 
 * “It started off badly.”
 
----
-
 ## **Difference between “start” and “start off”**
 
 Both are correct.  
@@ -20586,8 +17266,6 @@ Both are correct.
 * **“Start off”** \= more conversational and natural
 
 In spoken English, especially in meetings, “start off” sounds more relaxed.
-
----
 
 ## **Sentences you can use in real life (Practice these aloud 🎤)**
 
@@ -20611,8 +17289,6 @@ Notice the connectors:
 
 * **That being said…**
 
----
-
 ## **Other contexts where you can use it**
 
 ### **🔹 In presentations**
@@ -20626,8 +17302,6 @@ Notice the connectors:
 ### **🔹 In casual talk**
 
 “The trip started off really well.”
-
----
 
 Now, I want you to practice:
 
@@ -20679,8 +17353,6 @@ For example, "His love of the outdoors stems from his father".
 🗣 *“The stench from the garbage was unbearable.”*  
  🗣 *“There’s a stench of dishonesty in that deal.”*
 
----
-
 [↑ Back to index](#index)
 
 # Step down
@@ -20689,8 +17361,6 @@ Meaning: To resign or leave a position or role.
 
 * Example 1: The CEO decided to step down after serving the company for 20 years.  
 * Example 2: She stepped down from her role to focus on personal projects.
-
----
 
 [↑ Back to index](#index)
 
@@ -20702,8 +17372,6 @@ Meaning: To resign or leave a position or role.
 * *“The teacher gave him a stern warning.”*
 
 * *“Her face was stern but kind.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -20719,8 +17387,6 @@ Meaning: To resign or leave a position or role.
 🗣 *“Stick to your plan — it’ll work.”*  
  🗣 *“That advice really stuck with me.”*
 
----
-
 [↑ Back to index](#index)
 
 # Sticking point
@@ -20735,8 +17401,6 @@ For example:
 
 👉 Think of it as the “roadblock” that stops things from moving forward smoothly.
 
----
-
 ### **Phrases you can practice:**
 
 1. *“The sticking point here seems to be the timeline.”*
@@ -20746,8 +17410,6 @@ For example:
 3. *“That being said, if we resolve this sticking point, we can move ahead quickly.”*
 
 4. *“On the other hand, the technical issues are less of a sticking point compared to the budget.”*
-
----
 
 ✨ Tip: You can use this phrase both in **formal settings** (business negotiations, project updates) and in **casual settings** (plans with friends, family discussions).
 
@@ -20763,8 +17425,6 @@ For example:
 * *“He stiffened with anger.”*  
    🟢 Used for physical or emotional reactions.
 
----
-
 [↑ Back to index](#index)
 
 # Stifle
@@ -20778,8 +17438,6 @@ For example:
   * “She *stifled* a laugh during the meeting.”
 
   * “Strict rules can *stifle* innovation.”
-
----
 
 [↑ Back to index](#index)
 
@@ -20795,8 +17453,6 @@ For example:
 
   * “The office culture felt *stifling* — no room for creativity.”
 
----
-
 [↑ Back to index](#index)
 
 # Sting
@@ -20811,8 +17467,6 @@ For example:
 
   * “His harsh words really *stung*.”
 
----
-
 [↑ Back to index](#index)
 
 # Stinky response
@@ -20823,8 +17477,6 @@ For example:
 * *“He gave me a stinky response when I asked for help.”*  
    🟢 Informal, slightly humorous or sarcastic.
 
----
-
 [↑ Back to index](#index)
 
 # Stockholder
@@ -20834,8 +17486,6 @@ For example:
 
 🗣 *“Stockholders voted to approve the merger.”*  
  🗣 *“As a stockholder, you’re entitled to annual reports.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -20867,8 +17517,6 @@ Dave stopped short of telling her the brutal truth, believing subtly would be a 
 🗣 *“He drank his soda through a straw.”*  
  🗣 *“That rude comment was the last straw — I’m done\!”*
 
----
-
 [↑ Back to index](#index)
 
 # Stress Out
@@ -20876,15 +17524,11 @@ Dave stopped short of telling her the brutal truth, believing subtly would be a 
 **Meaning:** To become very worried or tense.  
 **Example:** *Don’t stress out about the deadline.*
 
----
-
 [↑ Back to index](#index)
 
 # Strew across
 
 The phrase **“strew across”** (or **“strewn across”** in past form) means **to scatter or spread things untidily over an area**. It usually creates an image of something being messy or spread everywhere.
-
----
 
 ### **Usage in sentences**
 
@@ -20895,8 +17539,6 @@ The phrase **“strew across”** (or **“strewn across”** in past form) mean
 3. *“After the storm, branches were strewn across the road.”*
 
 It’s more common in written or descriptive English, but you’ll also hear it in spoken English, especially when describing a scene.
-
----
 
 ### **Phrases you can practice**
 
@@ -20922,11 +17564,10 @@ It’s more common in written or descriptive English, but you’ll also hear it 
 
   * “Her notes were *strewn* across the desk.”
 
----
-
 [↑ Back to index](#index)
 
 # Strike a chord
+
 
 [↑ Back to index](#index)
 
@@ -20938,12 +17579,6 @@ It’s more common in written or descriptive English, but you’ll also hear it 
 🗣 *“I struck up a conversation with the guy next to me on the flight.”*  
  🗣 *“She can strike up a conversation with anyone — so natural\!”*
 
----
-
-[↑ Back to index](#index)
-
-# Strip
-
 [↑ Back to index](#index)
 
 # Strip
@@ -20951,8 +17586,6 @@ It’s more common in written or descriptive English, but you’ll also hear it 
 **Meaning:** To remove clothing or layers.  
  **Figurative:** To remove something completely.  
  **Example:** *He stripped off his jacket.* / *The company stripped away unnecessary rules.*
-
----
 
 [↑ Back to index](#index)
 
@@ -20963,25 +17596,12 @@ It’s more common in written or descriptive English, but you’ll also hear it 
 🗣 *“We should always strive for excellence, not perfection.”*  
  🗣 *“He’s been striving to make his business profitable.”*
 
----
-
 [↑ Back to index](#index)
 
 # Struggle
 
 **Meaning:** To try hard despite difficulty.  
  **Example:** *She’s struggling to balance work and family.*
-
----
-
-[↑ Back to index](#index)
-
-# Struggle
-
-**Meaning:** To try hard despite difficulty.  
- **Example:** *She’s struggling to balance work and family.*
-
----
 
 [↑ Back to index](#index)
 
@@ -21014,15 +17634,11 @@ Example sentences:
 "She stumbled upon an old book in the attic that turned out to be a valuable first edition."  
 In these examples, "stumble upon" conveys the idea of a fortuitous or unplanned discovery. It is often used to describe finding something surprising or valuable by accident.
 
-[↑ Back to index](#index)
-
-# Stumble upon
-
 "Stumble upon" means to discover or find something or someone unexpectedly or by chance.   
 Here's a more detailed explanation:
 
 Meaning: The phrase "stumble upon" implies an accidental or unplanned encounter or discovery.  
-   
+
 Synonyms: You could also say "chance upon," "come across," or "find by accident". 
 
 Examples:  
@@ -21040,16 +17656,12 @@ Examples:
 🗣 *“There’s a subtle difference between sarcasm and humor.”*  
  🗣 *“Her perfume was subtle but lovely.”*
 
----
-
 [↑ Back to index](#index)
 
 # Sugar Rush
 
 **Meaning:** Burst of energy after eating sugar.  
  **Example:** *The kids got a sugar rush after the cake.*
-
----
 
 [↑ Back to index](#index)
 
@@ -21062,8 +17674,6 @@ Meaning:
 * Example 1: "To sum up, our profits have increased by 20% this quarter."  
 * Example 2: "She summed up the discussion in one sentence."
 
----
-
 [↑ Back to index](#index)
 
 # Superficial
@@ -21072,8 +17682,6 @@ Meaning:
 
 🗣 *“Don’t judge people based on superficial appearances.”*  
  🗣 *“Her analysis was too superficial — it missed the real issue.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -21106,8 +17714,6 @@ Meaning:
 
    * “Supply and demand” – the balance between how much is available and how much people want.
 
----
-
 ✅ **Spoken practice sentences:**
 
 * “We need to supply more details before the client meeting.”
@@ -21117,8 +17723,6 @@ Meaning:
 * “That being said, if demand decreases, supply won’t be an issue.”
 
 * “The hospital received a new supply of medicines yesterday.”
-
----
 
 👉 **Contexts of usage:**
 
@@ -21136,8 +17740,6 @@ Meaning:
 
 **Example:** *His approach to problem-solving is almost surgical.*
 
----
-
 [↑ Back to index](#index)
 
 # Suspend
@@ -21148,8 +17750,6 @@ Meaning:
 🗣 *“The service was suspended due to weather.”*  
  🗣 *“Let’s suspend disbelief and enjoy the story.”*
 
----
-
 [↑ Back to index](#index)
 
 # Swarm
@@ -21159,8 +17759,6 @@ Meaning:
 
 🗣 *“Bees swarmed around the hive.”*  
  🗣 *“Fans swarmed the stage after the concert.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -21173,8 +17771,6 @@ Meaning:
 
 * *“She swatted my hand playfully.”*
 
----
-
 [↑ Back to index](#index)
 
 # Swing
@@ -21184,8 +17780,6 @@ Meaning:
 
 🗣 *“Her mood swings a lot.”*  
  🗣 *“The market could swing either way.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -21197,25 +17791,12 @@ Meaning:
 🗣 *“There’s great synergy between our design and engineering teams.”*  
  🗣 *“When you find synergy in a partnership, things just flow.”*
 
----
-
 [↑ Back to index](#index)
 
 # Synonymous With
 
 **Meaning:** Closely associated or having the same meaning.  
  **Example:** *Her name is synonymous with kindness.*
-
----
-
-[↑ Back to index](#index)
-
-# Synonymous With
-
-**Meaning:** Closely associated or having the same meaning.  
- **Example:** *Her name is synonymous with kindness.*
-
----
 
 [↑ Back to index](#index)
 
@@ -21281,8 +17862,6 @@ The term "taint" has been used in comedic shows, including Saturday Night Live a
 🗣 *“Let’s take a step back and think this through.”*  
  🗣 *“Sometimes you need to take a step back to see the bigger picture.”*
 
----
-
 [↑ Back to index](#index)
 
 # Take away
@@ -21298,8 +17877,6 @@ The term "taint" has been used in comedic shows, including Saturday Night Live a
 2. **Food context (British English)** → “takeaway” (noun) means food you order and eat elsewhere.
 
    * *We had Chinese takeaway last night.*
-
----
 
 ### **Figurative / idiomatic meanings**
 
@@ -21322,8 +17899,6 @@ The term "taint" has been used in comedic shows, including Saturday Night Live a
 
    * *The defense had three takeaways in the game.*
 
----
-
 ### **Spoken examples**
 
 * *“What’s your takeaway from today’s class?”* → What did you learn?
@@ -21331,8 +17906,6 @@ The term "taint" has been used in comedic shows, including Saturday Night Live a
 * *“The only takeaway is that we must prepare better next time.”* → The main lesson.
 
 * *“She turned her pain into strength — no one can take that away from her.”*
-
----
 
 ✅ **Quick note:**
 
@@ -21369,8 +17942,6 @@ It means **to grab, control, or gain possession of something**, either physicall
 
    * *“Once the habit takes hold of you, it’s hard to break.”*
 
----
-
 ✅ **Spoken practice sentences:**
 
 * “She took hold of my arm to stop me.”
@@ -21381,8 +17952,6 @@ It means **to grab, control, or gain possession of something**, either physicall
 
 * “The new technology has really taken hold in the market.”
 
----
-
 👉 **Contexts of usage:**
 
 * **Daily talk:** *“He took hold of the steering wheel.”*
@@ -21390,8 +17959,6 @@ It means **to grab, control, or gain possession of something**, either physicall
 * **Work/professional:** *“This trend is beginning to take hold in the industry.”*
 
 * **Emotional/abstract:** *“Excitement took hold of the crowd.”*
-
----
 
 ✨ Small tip: In casual speech, people often replace it with simpler verbs like **“grab,” “catch,” “control,” or “spread”** depending on the context.
 
@@ -21402,11 +17969,10 @@ It means **to grab, control, or gain possession of something**, either physicall
 **Meaning:** Don’t rush; move at a relaxed pace.  
  **Example:** *Let’s take it slow and enjoy the weekend.*
 
----
-
 [↑ Back to index](#index)
 
 # Take note of something
+
 
 [↑ Back to index](#index)
 
@@ -21417,19 +17983,11 @@ Meaning: To become successful or popular quickly.
 * Example 1: The new smartphone model took off in the market due to its innovative features.  
 * Example 2: Her career took off after her debut performance.
 
----
-
-[↑ Back to index](#index)
-
-# Take off
-
 To take clothes off / aeroplane departure from airport  
 Take off the dirty clothes and put on the clean ones
 
 **Take off** – To remove clothing or leave the ground (for planes).  
  He took off his jacket.
-
----
 
 [↑ Back to index](#index)
 
@@ -21439,8 +17997,6 @@ Meaning: To accept or undertake a responsibility or challenge.
 
 * Example 1: The project manager decided to take on the new project despite its complexity.  
 * Example 2: She took on additional responsibilities to help the team meet the deadline.
-
----
 
 [↑ Back to index](#index)
 
@@ -21452,29 +18008,9 @@ Meaning: To accept or undertake a responsibility or challenge.
 🗣 *“I’ll take you out to dinner to celebrate.”*  
  🗣 *“He took his parents out to dinner for their anniversary.”*
 
----
-
 [↑ Back to index](#index)
 
 # Take over
-
-**Take over** – To assume control or responsibility.  
- She took over the project after John left.
-
-[↑ Back to index](#index)
-
-# Take over
-
-Meaning: To assume control or responsibility for something.
-
-* Example 1: The company plans to take over its competitor’s market share.  
-* Example 2: When the manager resigned, his assistant had to take over the responsibilities.
-
----
-
-[↑ Back to index](#index)
-
-# Take Over
 
 The phrase **"take over"** is commonly used to describe the act of gaining control, dominance, or responsibility over something or someone. It has various applications depending on the context. Here's a breakdown of how it's generally used:  
 ---
@@ -21486,16 +18022,12 @@ The phrase **"take over"** is commonly used to describe the act of gaining contr
 * Example: "She will take over as the new manager next month."  
   * Meaning: She will assume the responsibilities of the manager.
 
----
-
 ### **2\. Business or Ownership**
 
 In a business context, **"take over"** refers to acquiring control of a company or organization, often through purchase or merger.
 
 * Example: "The larger corporation took over the smaller one."  
   * Meaning: The larger company gained ownership and control of the smaller company.
-
----
 
 ### **3\. Power or Control**
 
@@ -21504,16 +18036,12 @@ It can mean gaining dominance over a situation, place, or group.
 * Example: "The rebels took over the city."  
   * Meaning: The rebels seized control of the city.
 
----
-
 ### **4\. Emotions or Thoughts**
 
 It can describe when emotions, feelings, or thoughts dominate someone's mind or actions.
 
 * Example: "Anger took over, and he couldn't think rationally."  
   * Meaning: Anger became so strong that it controlled his behavior.
-
----
 
 ### **5\. Technology or Automation**
 
@@ -21522,16 +18050,12 @@ Refers to machines, systems, or processes taking control or replacing human invo
 * Example: "Robots are taking over many manual jobs."  
   * Meaning: Robots are replacing humans in certain roles.
 
----
-
 ### **6\. Physical Spread**
 
 Can describe something spreading and dominating an area.
 
 * Example: "The weeds have taken over the garden."  
   * Meaning: Weeds have spread so much that they dominate the garden.
-
----
 
 ### **General Purpose**
 
@@ -21553,9 +18077,10 @@ Can describe something spreading and dominating an area.
 
 It’s often used to describe a powerful, consuming experience—positive or negative\!
 
-[↑ Back to index](#index)
+Meaning: To assume control or responsibility for something.
 
-# Take over
+* Example 1: The company plans to take over its competitor’s market share.  
+* Example 2: When the manager resigned, his assistant had to take over the responsibilities.
 
 **Meaning:** To assume control or responsibility.  
  **Figurative meaning:** To dominate or replace something.
@@ -21563,7 +18088,8 @@ It’s often used to describe a powerful, consuming experience—positive or neg
 🗣 *“AI is taking over routine tasks.”*  
  🗣 *“He took over as team leader last month.”*
 
----
+**Take over** – To assume control or responsibility.  
+ She took over the project after John left.
 
 [↑ Back to index](#index)
 
@@ -21575,8 +18101,6 @@ It’s often used to describe a powerful, consuming experience—positive or neg
 🗣 *“The fighter took his opponent down in seconds.”*  
  🗣 *“The journalist took down the corrupt minister with hard evidence.”*
 
----
-
 [↑ Back to index](#index)
 
 # Take someone’s word for it
@@ -21585,8 +18109,6 @@ It’s often used to describe a powerful, consuming experience—positive or neg
 
 It’s often used when you decide not to verify something yourself, but instead rely on what the other person is saying.
 
----
-
 ### **Examples:**
 
 * *“I didn’t check the numbers myself; I just took his word for it.”*
@@ -21594,8 +18116,6 @@ It’s often used when you decide not to verify something yourself, but instead 
 * *“You don’t have to show me the details, I’ll take your word for it.”*
 
 * *“She says the project is on track — I’ll take her word for it.”*
-
----
 
 ### **Spoken Sentences You Can Use:**
 
@@ -21607,15 +18127,11 @@ It’s often used when you decide not to verify something yourself, but instead 
 
 4. “I don’t know the exact process, but I’ll take your word for it.”
 
----
-
 💡 **Context of usage**:
 
 * In casual talk, it shows trust in someone (e.g., “The food is good? Okay, I’ll take your word for it.”).
 
 * In professional settings, it can sometimes sound a little **doubtful** or **neutral** — like you’re trusting them *for now* but might double-check later.
-
----
 
 👉 For formal meetings, you could also say:
 
@@ -21637,8 +18153,6 @@ It’s often used when you decide not to verify something yourself, but instead 
 4. **“I understand your point — can we validate it with data?”**  
     → Very professional, especially in meetings.
 
----
-
 ### **Spoken Sentences You Can Practice**
 
 * “I’ll take your word for it, but I’d like to confirm with the team.”
@@ -21648,10 +18162,6 @@ It’s often used when you decide not to verify something yourself, but instead 
 * “I trust your input, but I’ll verify it once myself.”
 
 * “That’s helpful — let’s back it up with some numbers to be safe.”
-
----
-
-💡 **Context of Usage**:
 
 * **Casual**: With friends/family you might just say, *“I’ll take your word for it, but I want to see it myself.”*
 
@@ -21664,15 +18174,6 @@ It’s often used when you decide not to verify something yourself, but instead 
 **Meaning:** To make a big or risky decision.  
  **Example:** *She took the leap and started her own company.*
 
----
-
-[↑ Back to index](#index)
-
-# Take up
-
-To start a new hobby or activity.  
- I’ve taken up yoga recently.
-
 [↑ Back to index](#index)
 
 # Take up
@@ -21682,7 +18183,8 @@ Meaning: To start or begin an activity or hobby.
 * Example 1: I decided to take up photography as a side business.  
 * Example 2: She took up yoga to improve her mental and physical health.
 
----
+To start a new hobby or activity.  
+ I’ve taken up yoga recently.
 
 [↑ Back to index](#index)
 
@@ -21711,8 +18213,6 @@ Meaning: To start or begin an activity or hobby.
 
 * Example: *“I need to talk to you about the project.”* (I’ll explain something to you).
 
----
-
 ### **✅ Talk with**
 
 * A bit more **equal and conversational** in tone.
@@ -21720,8 +18220,6 @@ Meaning: To start or begin an activity or hobby.
 * Suggests a two-way exchange, like a discussion.
 
 * Example: *“I wanted to talk with you about your ideas.”* (we’ll both share thoughts).
-
----
 
 ### **In your sentence**
 
@@ -21775,16 +18273,10 @@ Or:
 “I could tap into my impulsive energy and just start small.”  
 (You’re using a trait you already have in a new way.)
 
-[↑ Back to index](#index)
-
-# Tap into
-
 **Meaning:** To access or make use of something (like energy, skills, or emotions).
 
 🗣 *“We need to tap into our creative potential.”*  
  🗣 *“She tapped into her past experiences to write that book.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -21800,8 +18292,6 @@ Or:
 * “Rainfall will taper towards the weekend.”
 
 👉 *Common phrase:* “Taper off” \= to slowly end.
-
----
 
 [↑ Back to index](#index)
 
@@ -21827,8 +18317,6 @@ Examples of "tapped out" in a sentence:
 🗣 *“That presentation was mentally taxing.”*  
  🗣 *“It’s a taxing job, but rewarding.”*
 
----
-
 [↑ Back to index](#index)
 
 # Team up
@@ -21838,16 +18326,12 @@ Meaning: To collaborate or join forces with others.
 * Example 1: The two companies decided to team up to launch a new product line.  
 * Example 2: We need to team up to tackle this challenging project.
 
----
-
 [↑ Back to index](#index)
 
 # Tease
 
 **Meaning:** To playfully make fun of someone.  
 **Example:** *Don’t tease him about his accent.*
-
----
 
 [↑ Back to index](#index)
 
@@ -21857,8 +18341,6 @@ Meaning: To collaborate or join forces with others.
 
 🗣 *“He’s pretty tech-savvy — he fixed my phone in minutes.”*  
  🗣 *“We need more tech-savvy people in the team.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -21874,8 +18356,6 @@ Meaning: To collaborate or join forces with others.
 
   * “Her mind was a *tempest* of emotions.”
 
----
-
 [↑ Back to index](#index)
 
 # Terrain
@@ -21883,8 +18363,6 @@ Meaning: To collaborate or join forces with others.
 **Meaning:** Type of land or ground.  
  **Figurative:** Used for a situation or field of activity.  
  **Example:** *The terrain was rocky.* / *He’s exploring new business terrain.*
-
----
 
 [↑ Back to index](#index)
 
@@ -21894,8 +18372,6 @@ Meaning: To collaborate or join forces with others.
 
 🗣 *“Let’s test the waters with a small pilot project first.”*  
  🗣 *“He’s just testing the waters before asking her out.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -21920,8 +18396,6 @@ In this sense, it means someone is intentionally delaying or postponing somethin
 
 * *“The hours dragged on while we waited for news.”*
 
----
-
 [↑ Back to index](#index)
 
 # The limelight
@@ -21931,8 +18405,6 @@ In this sense, it means someone is intentionally delaying or postponing somethin
 🗣 *“He loves being in the limelight.”*  
  🗣 *“After years backstage, she finally stepped into the limelight.”*
 
----
-
 [↑ Back to index](#index)
 
 # The real deal
@@ -21941,8 +18413,6 @@ In this sense, it means someone is intentionally delaying or postponing somethin
 
 🗣 *“Forget the imitators — she’s the real deal.”*  
  🗣 *“That coach is the real deal; he’s transformed the whole team.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -21972,8 +18442,6 @@ insensitive to criticism or insults.
 🗣 *“It’s important to think for yourself, not just follow the crowd.”*  
  🗣 *“She’s always taught her kids to think for themselves.”*
 
----
-
 [↑ Back to index](#index)
 
 # Think of
@@ -21985,15 +18453,11 @@ Meaning:
 * Example 1: "I can't think of his name right now, but I remember his face."  
 * Example 2: "We need to think of innovative ways to solve this problem."
 
----
-
 [↑ Back to index](#index)
 
 # Think outside of box
 
 The phrase **“think outside the box”** means to think creatively, in an unconventional way, beyond traditional or obvious solutions. It’s very popular in business, tech, and team discussions.
-
----
 
 ### **Usage in context**
 
@@ -22007,8 +18471,6 @@ The phrase **“think outside the box”** means to think creatively, in an unco
 
    * *“If you want to stand out, try thinking outside the box.”*
 
----
-
 ### **Common spoken sentences to practice**
 
 1. “We need to think outside the box to stay ahead of our competitors.”
@@ -22018,8 +18480,6 @@ The phrase **“think outside the box”** means to think creatively, in an unco
 3. “For example, startups survive only when their founders think outside the box.”
 
 4. “That being said, thinking outside the box works best when combined with practical execution.”
-
----
 
 👉 When you practice, try saying it with energy and emphasis, because in real meetings people often stress this phrase to inspire creativity.
 
@@ -22043,6 +18503,7 @@ The phrase **"this is my call"** can have several meanings depending on the cont
 
 # This just in
 
+
 [↑ Back to index](#index)
 
 # Threat
@@ -22054,8 +18515,6 @@ The phrase **"this is my call"** can have several meanings depending on the cont
  🗣 *“She’s a real threat to her competitors.”*  
  🗣 *“They didn’t realize how serious the threat was.”*
 
----
-
 [↑ Back to index](#index)
 
 # Thrift shop
@@ -22066,16 +18525,12 @@ The phrase **"this is my call"** can have several meanings depending on the cont
 🗣 *“I found this jacket at a thrift shop — only five bucks\!”*  
  🗣 *“She loves the thrill of thrift-shop hunting.”*
 
----
-
 [↑ Back to index](#index)
 
 # Thrilled
 
 **Meaning:** Extremely happy or excited.  
 **Example:** *I’m thrilled to be part of this project\!*
-
----
 
 [↑ Back to index](#index)
 
@@ -22084,16 +18539,12 @@ The phrase **"this is my call"** can have several meanings depending on the cont
 **Meaning:** To add something extra.  
  **Example:** *He threw in a free coffee with my order.*
 
----
-
 [↑ Back to index](#index)
 
 # Throw someone off
 
 Confuse or distract someone.  
  👉 *“His question really threw me off.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -22104,13 +18555,9 @@ Confuse or distract someone.
 **"Thrust upon us"** means something was **forced on us suddenly**, **without our choice**, and often **unwelcome**.  
  It implies **lack of control** — the situation, responsibility, or burden was **imposed** rather than chosen.
 
----
-
 ### **🔹 In simple terms:**
 
 *“We didn’t ask for it — it was pushed on us, and we had to deal with it.”*
-
----
 
 ### **✅ Example sentences:**
 
@@ -22122,8 +18569,6 @@ Confuse or distract someone.
 
 * *After his father’s death, leadership was **thrust upon him** at a young age.*
 
----
-
 ### **✅ Common Collocations:**
 
 | Phrase | Example |
@@ -22132,25 +18577,12 @@ Confuse or distract someone.
 | **burden thrust upon someone** | *That kind of burden should never be thrust upon a child.* |
 | **role thrust upon** | *He had a leadership role thrust upon him.* |
 
----
-
 [↑ Back to index](#index)
 
 # Tickle One’s Curiosity
 
 **Meaning:** To make someone interested or curious.  
  **Example:** *That mystery movie really tickled my curiosity.*
-
----
-
-[↑ Back to index](#index)
-
-# Tickle One’s Curiosity
-
-**Meaning:** To make someone interested or curious.  
- **Example:** *That mystery movie really tickled my curiosity.*
-
----
 
 [↑ Back to index](#index)
 
@@ -22165,8 +18597,6 @@ For example:
 * “The error ties back to the missing configuration.” → The root cause is linked to that missing configuration.
 
 * “His success ties back to the hard work he put in.” → His success is related to his effort.
-
----
 
 ### **Phrases you can practice in real speech:**
 
@@ -22200,16 +18630,12 @@ It conveys the idea of progress, growth, or change.
 🗣 *“That song is absolutely timeless.”*  
  🗣 *“Her elegance is timeless.”*
 
----
-
 [↑ Back to index](#index)
 
 # Tip of the Iceberg
 
 **Meaning:** A small part of a much bigger issue.  
  **Example:** *These complaints are just the tip of the iceberg.*
-
----
 
 [↑ Back to index](#index)
 
@@ -22239,8 +18665,6 @@ Let me give you a couple of examples to anchor this idea.
 🗣 *“I don’t like pineapple on pizza, but to each their own.”*  
  🗣 *“She prefers working nights — to each their own.”*
 
----
-
 [↑ Back to index](#index)
 
 # To go out with someone
@@ -22252,8 +18676,6 @@ Let me give you a couple of examples to anchor this idea.
 
 💡 *(Neutral, friendly way to talk about dating — less intense than “be in a relationship.”)*
 
----
-
 [↑ Back to index](#index)
 
 # To make time for something (by adjusting other activities)
@@ -22262,8 +18684,6 @@ Let me give you a couple of examples to anchor this idea.
 
 🗣 *“I’ll make time for the gym this week — no excuses.”*  
  🗣 *“You have to make time for what really matters.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -22332,8 +18752,6 @@ to make something less forceful or offensive, usually a piece of writing or a sp
  🗣 *“Her performance was the topping on an already perfect evening.”*  
  🗣 *“He’s a topping student — always at the top of his class.”*
 
----
-
 [↑ Back to index](#index)
 
 # totes inappropes
@@ -22364,16 +18782,12 @@ they are travelling back to Star City, where they plan to touch base with relati
 🗣 *“Every customer touch point matters.”*  
  🗣 *“Let’s identify the main touch points in our process.”*
 
----
-
 [↑ Back to index](#index)
 
 # Touch upon
 
 To **mention briefly** or **deal with a subject lightly** without going into full detail.  
  It’s like giving a quick reference to something rather than an in-depth discussion.
-
----
 
 ### **Usage in sentences**
 
@@ -22383,8 +18797,6 @@ To **mention briefly** or **deal with a subject lightly** without going into ful
 
 * *We only touched upon that subject in the meeting; we’ll discuss it properly tomorrow.*
 
----
-
 ### **In spoken English**
 
 It’s often used in **formal or semi-formal** situations:
@@ -22392,8 +18804,6 @@ It’s often used in **formal or semi-formal** situations:
 * *“Let me just touch upon a few key points before we end the session.”*
 
 * *“He touched upon his childhood experiences in the interview.”*
-
----
 
 ✅ **Key idea:** *Touch upon* \= **mention briefly / lightly discuss**.  
  It’s softer than *discuss* or *talk about*.
@@ -22422,8 +18832,6 @@ a place that caters to tourists
 
 👉 It’s usually used for **hair** and suggests a **temporary or soft messiness** — not necessarily dirty or neglected.
 
----
-
 ### **🧩 2\. Unkempt (adjective)**
 
 * **Part of speech:** Adjective
@@ -22448,8 +18856,6 @@ a place that caters to tourists
 
   * “Her *tousled* look gave her a carefree charm.”
 
----
-
 [↑ Back to index](#index)
 
 # Trade-off
@@ -22459,15 +18865,11 @@ Meaning: To exchange or sacrifice one thing for another.
 * Example 1: We need to trade off short-term profits for long-term sustainability.  
 * Example 2: There’s always a trade-off between quality and cost.
 
----
-
 [↑ Back to index](#index)
 
 # Trailblazer
 
 The word **“trailblazer”** is a **noun** that means someone who is the **first to do something** or who **leads the way** in a new field, making it easier for others to follow. It comes from the literal idea of blazing a trail through a forest so others can walk behind you. 🌲✨
-
----
 
 ✅ **Examples:**
 
@@ -22476,8 +18878,6 @@ The word **“trailblazer”** is a **noun** that means someone who is the **fir
 * *As the first woman CEO of the company, she was a real trailblazer.*
 
 * *He’s considered a trailblazer in modern architecture.*
-
----
 
 👉 In **spoken English**, it’s often used to **praise someone’s courage or innovation**:
 
@@ -22511,8 +18911,6 @@ The word **“trailblazer”** is a **noun** that means someone who is the **fir
 
   * “She *traipsed out* of the meeting, clearly frustrated.”
 
----
-
 [↑ Back to index](#index)
 
 # Trample (on/over) somebody/something
@@ -22539,8 +18937,6 @@ to ignore someone's feelings or rights and treat them as if they are not importa
 
   * “I *trudged* through another long Monday meeting.”
 
----
-
 [↑ Back to index](#index)
 
 # Truth hurts
@@ -22550,11 +18946,10 @@ to ignore someone's feelings or rights and treat them as if they are not importa
 🗣 *“I know the truth hurts, but you needed to hear it.”*  
  🗣 *“The truth hurts — not everyone’s meant to like you.”*
 
----
-
 [↑ Back to index](#index)
 
 # tumble down
+
 
 [↑ Back to index](#index)
 
@@ -22567,8 +18962,6 @@ to ignore someone's feelings or rights and treat them as if they are not importa
 
 * *“The river was turgid after the rain.”*  
    🟢 Can describe both language and physical swelling.
-
----
 
 [↑ Back to index](#index)
 
@@ -22586,16 +18979,11 @@ He turned around the moment I called out his name.
 
   * *Turn the car around, we missed the exit.*
 
----
-
 ### **Figurative meanings in day-to-day English**
 
 1. **To improve or recover from a bad situation**
 
    * *The company was losing money, but a new CEO turned it around.*
-
-   * *After a poor start, the team managed to turn the game around.*  
-      → Here, it means **a positive change**.
 
 2. **To change opinion/attitude**
 
@@ -22608,8 +18996,6 @@ He turned around the moment I called out his name.
    * *The editor turned around the article in just two hours.*  
       → Here, *turnaround* (one word, noun) means **the time taken to finish a task**.
 
----
-
 ### **Common spoken uses**
 
 * *“Wow, that was a quick turnaround\!”* → something was done really fast.
@@ -22618,15 +19004,11 @@ He turned around the moment I called out his name.
 
 * *“She really turned her life around.”* → made big positive changes in her life.
 
----
-
 ✅ So in short:
 
 * **Turn around** (verb) → to change direction, situation, or attitude.
 
 * **Turnaround** (noun) → improvement or the time it takes to complete something.
-
----
 
 [↑ Back to index](#index)
 
@@ -22634,8 +19016,6 @@ He turned around the moment I called out his name.
 
 **Meaning:** To reject or refuse.  
  **Example:** *She turned down the job offer.*
-
----
 
 [↑ Back to index](#index)
 
@@ -22689,8 +19069,6 @@ Example:
 
 To avoid confusion, make sure you're using the correct preposition ("on" vs. "by") depending on which meaning you intend to convey.
 
----
-
 [↑ Back to index](#index)
 
 # Turn one’s back
@@ -22711,8 +19089,6 @@ To avoid confusion, make sure you're using the correct preposition ("on" vs. "by
 
    * *“The company turned its back on the community’s needs.”*
 
----
-
 ✅ **Spoken practice sentences:**
 
 * “He turned his back on me when I needed help.”
@@ -22723,8 +19099,6 @@ To avoid confusion, make sure you're using the correct preposition ("on" vs. "by
 
 * “The government shouldn’t turn its back on poor communities.”
 
----
-
 👉 **Contexts of usage:**
 
 * **Workplace:** *“We can’t turn our back on customer feedback.”*
@@ -22732,8 +19106,6 @@ To avoid confusion, make sure you're using the correct preposition ("on" vs. "by
 * **Personal life:** *“I don’t want to turn my back on my family.”*
 
 * **Casual talk (dramatic style):** *“He just turned his back and walked away.”*
-
----
 
 ✨ Softening tip: Instead of saying directly *“You turned your back on me”* (which is strong), you can say:
 
@@ -22749,8 +19121,6 @@ To avoid confusion, make sure you're using the correct preposition ("on" vs. "by
 
 2. **To come or attend** an event.
 
----
-
 ### **🗣️ Common Spoken Usage**
 
 #### **1\. Result**
@@ -22765,8 +19135,6 @@ To avoid confusion, make sure you're using the correct preposition ("on" vs. "by
 
 * **"A lot of people turned out for the concert."**  
    → Many people came.
-
----
 
 ### **🔁 Summary:**
 
@@ -22799,15 +19167,11 @@ Stop turning over the page
 
 👉 *Practice Tip:* You can use it metaphorically — “turn the tide of negativity,” “turn the tide of opinion.”
 
----
-
 [↑ Back to index](#index)
 
 # Turn Upside Down
 
 To turn something opposite
-
----
 
 [↑ Back to index](#index)
 
@@ -22837,8 +19201,6 @@ After all I did for him, he turned on me.
 
   * “He fell right on his *tush*\! It was hilarious.”
 
----
-
 [↑ Back to index](#index)
 
 # Twig
@@ -22849,29 +19211,17 @@ After all I did for him, he turned on me.
 🗣 *“He finally twigged that she was lying.”*  
  🗣 *“It took me a second to twig what he meant.”*
 
----
-
 [↑ Back to index](#index)
 
 # Twist
 
 **Meaning:** Unexpected change or turn in events.  
  **Example:** *The story had an amazing twist at the end.*
-
----
-
-[↑ Back to index](#index)
-
-# Twist
-
-**Meaning:** Unexpected change or turn in events.  
- **Example:** *The story had an amazing twist at the end.*
-
----
 
 [↑ Back to index](#index)
 
 # Two slides of the same coin
+
 
 [↑ Back to index](#index)
 
@@ -22879,8 +19229,6 @@ After all I did for him, he turned on me.
 
 **Meaning:** Everywhere; very common.  
  **Example:** *Smartphones are ubiquitous these days.*
-
----
 
 [↑ Back to index](#index)
 
@@ -22892,8 +19240,6 @@ After all I did for him, he turned on me.
 * *“I think he has an ulterior motive for helping you.”*  
    🟠 Implies deception or secret intentions.
 
----
-
 [↑ Back to index](#index)
 
 # Uncanny
@@ -22903,8 +19249,6 @@ After all I did for him, he turned on me.
 🗣 *“She has an uncanny ability to read people’s emotions.”*  
  🗣 *“It’s uncanny how much that actor looks like my brother.”*  
  🗣 *“There’s something uncanny about this silence.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -22924,14 +19268,13 @@ The phrase "under the hood" is an idiom that originates from car maintenance, wh
 
 # Undoubtedly
 
+
 [↑ Back to index](#index)
 
 # Undue pressure
 
 **Undue pressure** means **unreasonable, excessive, or unfair pressure** put on someone to make them act in a certain way.  
  It suggests that the force or influence applied is **more than what is normal, acceptable, or legal**.
-
----
 
 ### **Meaning in simple terms:**
 
@@ -22940,8 +19283,6 @@ The phrase "under the hood" is an idiom that originates from car maintenance, wh
 * “Undue” \= not fair, too much, inappropriate.
 
 * Together: **“Unfair or excessive influence that shouldn’t happen.”**
-
----
 
 ### **Spoken usage examples:**
 
@@ -22953,15 +19294,11 @@ The phrase "under the hood" is an idiom that originates from car maintenance, wh
 
 4. *Parents sometimes put undue pressure on kids to perform in school.*
 
----
-
 💡 **Spoken nuance:**
 
 * In **formal contexts** (law, business, HR), it often implies unethical or illegal pressure.
 
 * In **casual conversation**, it can simply mean “too much stress or expectation.”
-
----
 
 [↑ Back to index](#index)
 
@@ -22974,15 +19311,11 @@ The phrase "under the hood" is an idiom that originates from car maintenance, wh
 
 * Shows calmness or emotional stability.
 
----
-
 [↑ Back to index](#index)
 
 # Unfold
 
 The word **“unfold”** can be used both **literally** and **figuratively**.
-
----
 
 ### **🔹 Literal meaning → to open up something that was folded**
 
@@ -22997,8 +19330,6 @@ The word **“unfold”** can be used both **literally** and **figuratively**.
 * *The mystery slowly unfolded before the detective’s eyes.*
 
 * *His career is still unfolding—he has so much potential ahead.*
-
----
 
 👉 In **spoken English**, it’s often used for **situations, events, or stories** that reveal themselves over time:
 
@@ -23043,16 +19374,12 @@ you may choose to outsource this function to another company or do it yourself
 
   * “The garden looked *unkempt* after the storm.”
 
----
-
 [↑ Back to index](#index)
 
 # Unload
 
 **Meaning:** To remove goods from a vehicle; also means to express feelings.  
  **Example:** *They unloaded the boxes from the truck.* / *She finally unloaded her worries on a friend.*
-
----
 
 [↑ Back to index](#index)
 
@@ -23063,8 +19390,6 @@ you may choose to outsource this function to another company or do it yourself
 
 * *“The view from the balcony was unobstructed.”*  
    🟢 Often used for vision, sound, or movement.
-
----
 
 [↑ Back to index](#index)
 
@@ -23126,8 +19451,6 @@ Usage in spoken English:
 
 * Even in team meetings (light tone): *“After finishing this sprint, we all need some time to unwind.”*
 
----
-
 ### **Sentences you can practice saying aloud:**
 
 1. *“After a busy day, I like to unwind with some music.”*
@@ -23140,17 +19463,11 @@ Usage in spoken English:
 
 👉 Try speaking these out loud and notice how “unwind” gives a relaxed, easy-going feeling.
 
-[↑ Back to index](#index)
-
-# Unwind
-
 **Meaning:** To relax or release tension.  
  **Figurative meaning:** To mentally or emotionally reset.
 
 🗣 *“I like to unwind with a cup of tea after work.”*  
  🗣 *“The weekend is the perfect time to unwind.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -23204,17 +19521,6 @@ vacationers have been enjoying brilliant blue skies
 **Meaning:** Not clear or specific.  
  **Example:** *Her answer was too vague to understand.*
 
----
-
-[↑ Back to index](#index)
-
-# Vague
-
-**Meaning:** Not clear or specific.  
- **Example:** *Her answer was too vague to understand.*
-
----
-
 [↑ Back to index](#index)
 
 # Vastness
@@ -23224,8 +19530,6 @@ vacationers have been enjoying brilliant blue skies
 
 🗣 *“We were awed by the vastness of the desert.”*  
  🗣 *“The vastness of human knowledge is humbling.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -23238,8 +19542,6 @@ vacationers have been enjoying brilliant blue skies
  🗣 *“Those two kids are like Velcro — always stuck together.”*  
  🗣 *“He’s a bit too Velcro for me — I need space.”* (informal humor)
 
----
-
 [↑ Back to index](#index)
 
 # Venerable
@@ -23250,16 +19552,12 @@ vacationers have been enjoying brilliant blue skies
 🗣 *“He’s a venerable professor, respected by all.”*  
  🗣 *“The venerable oak tree stood for centuries.”*
 
----
-
 [↑ Back to index](#index)
 
 # Vengeance
 
 Strong desire for revenge.  
  👉 *“He acted out of vengeance.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -23271,8 +19569,6 @@ Strong desire for revenge.
 🗣 *“We had roasted venison at the lodge last winter.”*  
  🗣 *“He served venison to show off his hunting skills.”*
 
----
-
 [↑ Back to index](#index)
 
 # Venture
@@ -23283,25 +19579,12 @@ Strong desire for revenge.
 🗣 *“They’re venturing into the renewable energy market.”*  
  🗣 *“I wouldn’t venture to guess how much that costs.”*
 
----
-
 [↑ Back to index](#index)
 
 # Villain
 
 **Meaning:** The bad character in a story.  
  **Example:** *The movie’s villain was unforgettable.*
-
----
-
-[↑ Back to index](#index)
-
-# Villain
-
-**Meaning:** The bad character in a story.  
- **Example:** *The movie’s villain was unforgettable.*
-
----
 
 [↑ Back to index](#index)
 
@@ -23312,8 +19595,6 @@ Strong desire for revenge.
 
 🗣 *“Patience is a great virtue.”*  
  🗣 *“He turned his weakness into a virtue.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -23326,8 +19607,6 @@ Strong desire for revenge.
  🗣 *“Life itself is a voyage of discovery.”*
 
 💡 *(More poetic than “trip” or “journey.”)*
-
----
 
 [↑ Back to index](#index)
 
@@ -23342,8 +19621,6 @@ Figuratively, got involved in something difficult or messy.
 
 * *“She waded into the argument fearlessly.”*
 
----
-
 [↑ Back to index](#index)
 
 # Wait out
@@ -23352,8 +19629,6 @@ Figuratively, got involved in something difficult or messy.
 
 🗣 *“Let’s wait out the rain before leaving.”*  
  🗣 *“They waited out the storm in the car.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -23364,8 +19639,6 @@ Figuratively, got involved in something difficult or messy.
 🗣 *“Let’s do a walk and talk on the way to the office.”*  
  🗣 *“We brainstormed during our walk and talk.”*
 
----
-
 [↑ Back to index](#index)
 
 # Walk around
@@ -23375,6 +19648,7 @@ Figuratively, got involved in something difficult or messy.
 [↑ Back to index](#index)
 
 # Walk away
+
 
 [↑ Back to index](#index)
 
@@ -23407,8 +19681,6 @@ Let me know which context you’d like more details or examples for\!
 
 * *“She walked past me without saying a word.”*
 
----
-
 [↑ Back to index](#index)
 
 # was not the thing yet
@@ -23429,8 +19701,6 @@ It’s like saying:
 * “X hadn’t become popular yet.”
 
 * “X didn’t exist or wasn’t mainstream yet.”
-
----
 
 ### **🔹 Examples in Different Scenarios**
 
@@ -23454,8 +19724,6 @@ It’s like saying:
    * “Remote work *was not the thing yet* before COVID-19.”  
       👉 Meaning: People didn’t commonly work from home before the pandemic.
 
----
-
 ### **🔹 Common Spoken Alternatives**
 
 Here are some other phrases you can use with the same idea:
@@ -23467,8 +19735,6 @@ Here are some other phrases you can use with the same idea:
 * “That trend hadn’t started yet.”
 
 * “It wasn’t mainstream at the time.”
-
----
 
 ### **🔹 Practice Sentences (for speaking)**
 
@@ -23506,8 +19772,6 @@ wash up the teacups
 🗣 *“This coffee tastes watered down.”*  
  🗣 *“The speech felt watered down to avoid controversy.”*
 
----
-
 [↑ Back to index](#index)
 
 # way out
@@ -23541,23 +19805,17 @@ For many, education is a way out of poverty.
 
   * “They’re *weathering* the crisis together.”
 
----
-
 [↑ Back to index](#index)
 
 # Weigh In
 
 **"Weigh in"** is a phrasal verb that means **to give your opinion, advice, or input on a matter** — especially when a discussion or decision is happening.
 
----
-
 ### **Meaning in spoken English**
 
 * **Literal origin:** from boxing or sports, where athletes are weighed before competing.
 
 * **Figurative modern meaning:** *join the conversation and share your thoughts or judgment.*
-
----
 
 ### **Examples**
 
@@ -23566,8 +19824,6 @@ For many, education is a way out of poverty.
 2. *"I’d like to weigh in on the design before we finalize it."*
 
 3. *"Several experts weighed in on the debate."*
-
----
 
 💡 **Workplace use:**
 
@@ -23616,11 +19872,10 @@ The phrase "What are you so bouncy about?" is an informal way of asking why some
 
   * “Hmm, *what’re you up to*? You look suspicious\!”
 
----
-
 [↑ Back to index](#index)
 
 # Where rubber meets the road
+
 
 [↑ Back to index](#index)
 
@@ -23653,8 +19908,6 @@ I'm going whether you like it or not
 
 👉 *Connector idea:* “That being said,” “On the other hand,” “Maybe it’s just a pause, not the end.”
 
----
-
 [↑ Back to index](#index)
 
 # whip up
@@ -23671,14 +19924,10 @@ Dad had managed to whip himself up into a fantastic rage
 
 **"Who to turn to"** means **the person or people you can ask for help, advice, or support** in a situation — especially when you’re unsure or facing a problem.
 
----
-
 ### **Meaning in spoken English**
 
 It’s about **seeking guidance** or **finding the right person** to rely on.  
  Often used in the form *“I don’t know who to turn to”* or *“You can always turn to me.”*
-
----
 
 ### **Examples**
 
@@ -23687,8 +19936,6 @@ It’s about **seeking guidance** or **finding the right person** to rely on.
 2. *"If you have deployment problems, John is the one to turn to."*
 
 3. *"You can turn to the architecture team for any design-related questions."*
-
----
 
 💡 **Workplace tip:** In tech teams, *“who to turn to”* is often used when clarifying **points of contact**:
 
@@ -23705,8 +19952,6 @@ It’s about **seeking guidance** or **finding the right person** to rely on.
 🗣 *“I agree with you wholeheartedly.”*  
  🗣 *“She supported the idea wholeheartedly.”*
 
----
-
 [↑ Back to index](#index)
 
 # Wild west
@@ -23721,8 +19966,6 @@ Noun: the western US in its frontier period characterized by roughness and lawle
  **Figurative:** A confusing or unorganized place/situation.  
  **Example:** *They camped in the wilderness for a week.* / *After the breakup, he felt lost in an emotional wilderness.*
 
----
-
 [↑ Back to index](#index)
 
 # Willful
@@ -23732,8 +19975,6 @@ Noun: the western US in its frontier period characterized by roughness and lawle
 
 🗣 *“That was a willful act of disobedience.”*  
  🗣 *“She’s willful, but that’s what makes her a great leader.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -23748,8 +19989,6 @@ Noun: the western US in its frontier period characterized by roughness and lawle
 
 💡 *(Used to praise attitude rather than skill — “willingness” shows humility and motivation.)*
 
----
-
 [↑ Back to index](#index)
 
 # Wind up
@@ -23759,8 +19998,6 @@ Noun: the western US in its frontier period characterized by roughness and lawle
 🗣 *“We wound up staying longer than planned.”*  
  🗣 *“If you keep doing that, you’ll wind up in trouble.”*
 
----
-
 [↑ Back to index](#index)
 
 # With the end in mind
@@ -23768,56 +20005,40 @@ Noun: the western US in its frontier period characterized by roughness and lawle
 Start something while thinking about the goal.  
  👉 *“Plan your work with the end in mind.”*
 
----
-
 ## Shed light on
 
 To explain or clarify something.  
  👉 *“The report shed light on the real issue.”*
-
----
 
 ### **16\. Soft-spoken**
 
 Someone who speaks gently or quietly.  
  👉 *“He’s very soft-spoken, but confident.”*
 
----
-
 ### **17\. Foul-mouthed**
 
 Someone who uses rude or offensive language.  
  👉 *“He’s talented, but too foul-mouthed.”*
-
----
 
 ### **18\. Prosecution**
 
 Legal process of charging someone with a crime.  
  👉 *“The prosecution presented strong evidence.”*
 
----
-
 ### **19\. Rough it**
 
 Live without comfort, like camping.  
  👉 *“We had to rough it during the trek.”*
-
----
 
 ### **20\. Match**
 
 Something that goes well together or competes equally.  
  👉 *“They’re a perfect match.” / “This color doesn’t match.”*
 
----
-
 ### **21\. FOMO (Fear of Missing Out)**
 
 The feeling that you’re missing something exciting.  
  👉 *“I joined the party just because of FOMO.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -23830,8 +20051,6 @@ Meaning:
 * Example 1: "He decided to withdraw from the competition due to his injury."  
 * Example 2: "The country withdrew from the trade agreement after the dispute."
 
----
-
 [↑ Back to index](#index)
 
 # Without fail
@@ -23842,8 +20061,6 @@ Meaning:
 🗣 *“Call me every Sunday, without fail.”*  
  🗣 *“She goes for a walk every morning without fail.”*
 
----
-
 [↑ Back to index](#index)
 
 # Witness
@@ -23853,8 +20070,6 @@ Meaning:
 
 🗣 *“I witnessed the accident.”*  
  🗣 *“We’re witnessing history in the making.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -23870,8 +20085,6 @@ Meaning:
 
 So whenever you want to talk about tasks, skills, projects, or self-improvement → use **work on**.
 
----
-
 ### **❌ Why not “work upon”?**
 
 1. **Old-fashioned / Formal** – “Work upon” sounds like something from the 18th or 19th century. Modern English has shifted to “work on.”
@@ -23886,8 +20099,6 @@ So whenever you want to talk about tasks, skills, projects, or self-improvement 
 
 👉 In short: **use “work on” for everyday tasks/projects/skills.** Reserve “work upon” only if you’re writing old-style literature or want to sound poetic.
 
----
-
 ### **Spoken examples you can practice:**
 
 1. *“I’m working on a new dashboard design for the client.”*
@@ -23898,8 +20109,6 @@ So whenever you want to talk about tasks, skills, projects, or self-improvement 
 
 4. *“Let’s work on this problem together and find a solution.”*
 
----
-
 💡 **Tip for meetings:** Whenever you’re tempted to say *“work upon”*, just replace it with *“work on”*. That’s what sounds natural in modern English.
 
 [↑ Back to index](#index)
@@ -23908,15 +20117,6 @@ So whenever you want to talk about tasks, skills, projects, or self-improvement 
 
 **Meaning:** To work extremely hard; exhaust oneself.  
  **Example:** *She worked herself to the bone to finish the project.*
-
----
-
-[↑ Back to index](#index)
-
-# Work out
-
-**Work out** – To resolve or exercise.  
- We worked out our differences.
 
 [↑ Back to index](#index)
 
@@ -23927,7 +20127,8 @@ Meaning: To solve or resolve a problem or issue.
 * Example 1: We need to work out a solution to improve our customer service.  
 * Example 2: The team worked out the budget for the upcoming project.
 
----
+**Work out** – To resolve or exercise.  
+ We worked out our differences.
 
 [↑ Back to index](#index)
 
@@ -23938,8 +20139,6 @@ Meaning: To gradually develop or build up something.
 * Example 1: He worked up his skills and eventually became a successful entrepreneur.  
 * Example 2: She worked up the courage to speak at the meeting.
 
----
-
 [↑ Back to index](#index)
 
 # Wound
@@ -23948,20 +20147,10 @@ Meaning: To gradually develop or build up something.
  **Figurative:** Emotional hurt.  
  **Example:** *He had a deep wound on his arm.* / *Her words left an emotional wound.*
 
----
-
 [↑ Back to index](#index)
 
 # Wrangle
 
-[↑ Back to index](#index)
-
-# Wrap Up
-
-**Meaning:** To finish or conclude.  
- **Example:** *Let’s wrap up the meeting.*
-
----
 
 [↑ Back to index](#index)
 
@@ -23969,8 +20158,6 @@ Meaning: To gradually develop or build up something.
 
 **Meaning:** To finish or conclude.  
  **Example:** *Let’s wrap up the meeting.*
-
----
 
 [↑ Back to index](#index)
 
@@ -23980,8 +20167,6 @@ Meaning: To consider something as a loss or failure.
 
 * Example 1: The company had to write off a significant amount of bad debt.  
 * Example 2: They wrote off the damaged inventory as a loss.
-
----
 
 [↑ Back to index](#index)
 
@@ -24030,8 +20215,6 @@ The phrase **“yank out”** means to pull something out suddenly and forcefull
 
 So it carries the idea of **not gently removing**, but rather pulling quickly with strength.
 
----
-
 ### **Useful spoken phrases with “yank out”:**
 
 1. *“He just yanked out the plug without asking.”*
@@ -24041,8 +20224,6 @@ So it carries the idea of **not gently removing**, but rather pulling quickly wi
 3. *“She yanked out her phone to show me the picture.”*
 
 4. *“The machine stopped working when someone yanked out the cable.”*
-
----
 
 👉 You can practice saying these aloud.  
  By the way, in professional or polite conversation, instead of *“yank out,”* people often say **“pull out,” “unplug,” or “remove.”**
@@ -24061,8 +20242,6 @@ So it carries the idea of **not gently removing**, but rather pulling quickly wi
 
   * “She *yanked up* her mood and smiled anyway.”
 
----
-
 [↑ Back to index](#index)
 
 # Yard sale
@@ -24072,8 +20251,6 @@ So it carries the idea of **not gently removing**, but rather pulling quickly wi
 
 🗣 *“He crashed his bike and ended up in a total yard sale — gear everywhere\!”*  
  🗣 *“My code review was a yard sale of errors.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -24085,8 +20262,6 @@ So it carries the idea of **not gently removing**, but rather pulling quickly wi
 * *“She felt a yearning to return home.”*
 
 * *“His eyes showed a quiet yearning.”*
-
----
 
 [↑ Back to index](#index)
 
@@ -24129,8 +20304,6 @@ Breaking Rules or Protocols
 
 👉 *Tone:* Supportive and understanding.
 
----
-
 [↑ Back to index](#index)
 
 # You want a piece of me?
@@ -24142,16 +20315,12 @@ Breaking Rules or Protocols
 
 💡 *(Highly informal, aggressive tone.)*
 
----
-
 [↑ Back to index](#index)
 
 # Your Call
 
 **Meaning:** Your decision.  
 **Example:** *We can go out or stay in—it’s your call.*
-
----
 
 [↑ Back to index](#index)
 
@@ -24163,8 +20332,6 @@ Breaking Rules or Protocols
  🗣 *“AI is the zeitgeist of our generation.”*
 
 💡 *(Elegant and intellectual — literally means “time spirit” in German.)*
-
----
 
 [↑ Back to index](#index)
 
@@ -24188,6 +20355,7 @@ relating to or denoting a situation in which whatever is gained by one side is l
 
 # Zip
 
+
 [↑ Back to index](#index)
 
 # “overspill” and “spill over”
@@ -24195,8 +20363,6 @@ relating to or denoting a situation in which whatever is gained by one side is l
 Both **“overspill”** and **“spill over”** can be used with water, but they are used in *different ways* and are *not interchangeable*.
 
 Let me explain clearly and simply.
-
----
 
 ## **✅ Correct Usage**
 
@@ -24213,8 +20379,6 @@ Meaning:
 * “If you keep filling the bucket, the water will **spill over** the rim.”  
 * “The river **spilled over** into the nearby fields due to heavy rains.”
 
----
-
 ### **2\. Overspill (noun)**
 
 Meaning:  
@@ -24229,16 +20393,12 @@ Meaning:
 
 You **don’t say**: “The water overspilled.” (Incorrect as a verb)
 
----
-
 ## **⭐ Simple rule to remember**
 
 * **Action \= spill over** (verb)  
 * **Extra water \= overspill** (noun)
 
 So in conversation, you’ll most often use **spill over**.
-
----
 
 ## **🗣️ Useful spoken sentences you can practice**
 
@@ -24250,8 +20410,6 @@ Try saying these aloud:
 4. “On the other hand, if we manage the flow properly, we can avoid any **spill over**.”  
 5. “For example, open reservoirs often **spill over** after continuous rainfall.”
 
----
-
 ## **🎤 Practice Tip**
 
 Speak these sentences slowly first, then again with natural speed. Focus on connecting words like *“on the other hand,” “for example,”* etc. These make your speech smoother.
@@ -24261,8 +20419,6 @@ Speak these sentences slowly first, then again with natural speed. Focus on conn
 # “reflect on” and “reflect upon”
 
 Both **“reflect on”** and **“reflect upon”** are correct English, and in most situations they mean the **same thing**. The difference is more about **style and tone**, not meaning.
-
----
 
 ## **Reflect on**
 
@@ -24278,35 +20434,25 @@ Both **“reflect on”** and **“reflect upon”** are correct English, and in
 
 👉 This is the form you should **default to**.
 
----
-
 ## **Reflect upon**
 
 ✅ Slightly **more formal or literary**  
  ✅ Often used in **academic writing, essays, or philosophical contexts**  
  ❌ Less common in daily speech
 
-**Examples**
-
 * *He reflected upon the meaning of success.*  
 * *The author reflects upon human suffering.*
 
 👉 Sounds more **old-fashioned or thoughtful**, but not wrong.
 
----
-
 ## **Do native speakers distinguish them?**
 
 Not really. Native speakers **don’t consciously choose** one for meaning—only for **tone**.
-
----
 
 ## **Quick rule (easy to remember)**
 
 * **Speaking / meetings / emails** → **reflect on**  
 * **Essays / philosophy / literature** → **reflect upon**
-
----
 
 ### **💡 Since you’re actively improving your spoken English:**
 
@@ -24325,8 +20471,6 @@ For example:
 
 * *“TL;DR: The project deadline is extended by one week.”*
 
----
-
 ### **Phrases you can practice in real conversations:**
 
 1. *“The article was too long; TL;DR, the new policy starts next month.”*
@@ -24336,8 +20480,6 @@ For example:
 3. *“TL;DR, the meeting went well and we got approval.”*
 
 4. *“That was a lot of information; can you give me the TL;DR version?”*
-
----
 
 👉 Context of usage:
 
@@ -24363,8 +20505,6 @@ You’d use it when you want to politely cut something short or shift focus, for
 
 * Indicating you need to move on to another task
 
----
-
 ✅ Here are some natural sentences you can practice:
 
 1. *“Let’s wrap this up, we got other things to do.”*
@@ -24386,8 +20526,6 @@ You’d use it when you want to politely cut something short or shift focus, for
 * Technology: bugs, latency, data corruption  
 * Health: infection, fatigue  
 * Relationships: misunderstandings
-
----
 
 ## **💡 Small Pronunciation Tip**
 
@@ -24416,23 +20554,17 @@ Your sentence is correct, but more natural:
 
 * “Let me catch you up — we already deployed the first version, but we’re facing some issues in RAE.”
 
----
-
 ### **🗣 Practice Sentences**
 
 * “Let me catch you up on the current status.”  
 * “Before we move ahead, let me catch you up.”  
 * “Just to bring you up to speed, here’s what happened.”
 
----
-
 ## **2\. “I have a rudimentary question”**
 
 ### **⚠️ Correction**
 
 You wrote: *“rudamentary”* → correct spelling is **rudimentary**
-
-### **✅ Meaning**
 
 It means: *a very basic or fundamental question*
 
@@ -24444,19 +20576,11 @@ It means: *a very basic or fundamental question*
 * “This might be a simple question, but…”  
 * “Just a quick question…”
 
-### **💬 Example**
-
 * “I have a basic question — how is RAE triggered in this flow?”
-
----
-
-### **🗣 Practice Sentences**
 
 * “This might be a simple question, but can you clarify this part?”  
 * “I just have a quick question here.”  
 * “Sorry if this sounds basic, but I want to confirm something.”
-
----
 
 ## **3\. “In regards to RAE or in the first place?”**
 
@@ -24475,15 +20599,9 @@ You are trying to compare:
 * “Is this happening because of RAE, or was it always like this?”  
 * “Is this related to RAE, or is it a general behavior?”
 
----
-
-### **🗣 Practice Sentences**
-
 * “Is this issue tied to RAE, or does it exist independently?”  
 * “On the other hand, was this already the case earlier?”  
 * “For example, was this behavior present before RAE changes?”
-
----
 
 ## **4\. “Has this always been off?”**
 
@@ -24497,23 +20615,13 @@ You are trying to compare:
 * “Was this always turned off?”  
 * “Has this been off from the beginning?”
 
-### **💬 Example**
-
 * “Has this always been disabled, or was it changed recently?”
-
----
-
-### **🗣 Practice Sentences**
 
 * “Was this setting always off?”  
 * “As far as I remember, this was enabled earlier — did something change?”  
 * “That being said, has this been off all along?”
 
----
-
 ## **5\. “Let’s switch over to this topic”**
-
-### **✅ Meaning**
 
 Changing focus to another topic
 
@@ -24523,19 +20631,11 @@ Changing focus to another topic
 * “Let’s move on to this.”  
 * “Let’s shift focus to this.”
 
-### **💬 Example**
-
 * “Let’s switch to this topic — the RAE execution flow.”
-
----
-
-### **🗣 Practice Sentences**
 
 * “Now, let’s move on to the next point.”  
 * “Coming back to this topic…”  
 * “Alright, let’s shift focus here.”
-
----
 
 ## **🔥 Combined Natural Flow (Very Useful for Meetings)**
 
@@ -24545,8 +20645,6 @@ Try saying this aloud:
  Now, I have a basic question — is this behavior specific to RAE, or was it always like this?  
  That being said, has this been disabled from the beginning?  
  Anyway, let’s switch to the next topic.”
-
----
 
 ## **🎯 Speaking Tip**
 
@@ -24559,8 +20657,6 @@ You already think clearly — your challenge is **structuring thoughts smoothly*
 * “On the other hand,”  
 * “Just to clarify,”
 
----
-
 ## **✅ Small Correction in Your Original Sentence**
 
 Your sentence:
@@ -24571,27 +20667,19 @@ Better:
  👉 **“I have a rudimentary question.”**  
  👉 Even better (spoken): **“I have a quick/basic question.”**
 
----
-
 ## **💪 Practice Task (Important)**
 
 Say this out loud 2–3 times:
 
 “Let me catch you up first. Then I have a quick question — is this specific to RAE, or was it always like this?”
 
----
-
 If you want, next step we can do:  
  👉 I’ll simulate a **real meeting**, and you try speaking these naturally.
 
 ## **1\. “It never made it way to production.”**
 
-### **⚠️ Correction**
-
 👉 It should be:  
  **“It never made its way to production.”**
-
-### **✅ Meaning**
 
 Something was planned or developed, but **never got deployed/released**.
 
@@ -24599,19 +20687,11 @@ Something was planned or developed, but **never got deployed/released**.
 
 * “The fix was ready, but it never made its way to production.”
 
----
-
-### **🗣 Practice Sentences**
-
 * “This change never made it to production.”  
 * “For some reason, it didn’t go live.”  
 * “It was implemented, but it never got deployed.”
 
----
-
 ## **2\. “Where are you at?”**
-
-### **✅ Meaning**
 
 This means:
 
@@ -24626,15 +20706,9 @@ This means:
 * “What’s the current status?”  
 * “Can you share where things stand?”
 
----
-
-### **🗣 Practice Sentences**
-
 * “Where are you with the debugging so far?”  
 * “Can you give a quick status update?”  
 * “As of now, where do we stand on this issue?”
-
----
 
 ## **3\. “You are fragmented”**
 
@@ -24658,37 +20732,21 @@ The explanation is:
 
 👉 Softer and more professional tone.
 
----
-
-### **🗣 Practice Sentences**
-
 * “I feel we’re jumping between points a bit.”  
 * “Could you walk through it step by step?”  
 * “Sorry, I’m not fully following — can you clarify?”
 
----
-
 ## **4\. “Narrowed it down”**
-
-### **✅ Meaning**
 
 You reduced possibilities and **identified the likely cause**.
 
 👉 Very common in debugging discussions.
 
-### **💬 Example**
-
 * “We’ve narrowed it down to the RAE trigger logic.”
-
----
-
-### **🗣 Practice Sentences**
 
 * “We’ve narrowed it down to two possible issues.”  
 * “After checking the logs, we narrowed it down further.”  
 * “So far, it looks like the problem is in this module.”
-
----
 
 ## **🔥 Natural Meeting Flow (Combine All)**
 
@@ -24698,8 +20756,6 @@ Practice saying this:
  Where are you with the investigation so far?  
  I’m not fully following — could you walk me through it step by step?  
  That being said, have we narrowed it down to a specific issue?”
-
----
 
 ## **🎯 Key Speaking Tip (Important for You)**
 
@@ -24711,15 +20767,11 @@ To improve:
 * Add softeners: *“I think,” “maybe,” “could you…”*  
 * Add connectors: *“that being said,” “so far,” “for example”*
 
----
-
 ## **💪 Practice Task**
 
 Say this aloud:
 
 “We’ve narrowed it down, but I want to confirm one thing — did this ever make it to production?”
-
----
 
 [↑ Back to index](#index)
 
@@ -24734,7 +20786,5 @@ Here are some natural sentences you can practice aloud:
 5. “On the other hand, if we automate validation, these problems won’t creep in.”
 
 Practice saying these slowly and clearly. Focus on natural pauses.
-
----
 
 [↑ Back to index](#index)

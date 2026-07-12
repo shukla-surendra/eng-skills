@@ -21,8 +21,8 @@ JOBS = [
      "Technical & Architectural English", (1, 2), None, ()),
     # business file has inconsistent Google-Docs levels -> flatten to one
     # level so it becomes a clean, flat phrasebook jump-list
-    ("Business Idioms & Phrases.md", "business-phrases.md",
-     "Business Idioms & Phrases", (2,), 2, ()),
+    ("Business Idioms & Phrases.md", "business-communication.md",
+     "Business Communication", (2,), 2, ()),
     # mental-models articles: clean #/##/### hierarchy; strip embedded TOC
     # NB: only skip the pure auto "table of contents"; the "just the links"
     # section also holds a long essay, so it must be kept.

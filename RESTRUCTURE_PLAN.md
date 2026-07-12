@@ -145,10 +145,10 @@ Word-bank entries converge on:
 - [x] Repo-wide health pass (empty headings, control chars).
 
 ### Phase 1 — De-duplicate within each file
-- [ ] Build `scripts/dedupe.py`: find same-title entries, merge (keep richest body,
+- [x] Build `scripts/dedupe.py`: find same-title entries, merge (keep richest body,
       append unique extra notes), regenerate index.
-- [ ] Apply to vocab (147), phrasal-verbs (162), glossary-usage (23).
-- [ ] Verify + commit per file.
+- [x] Apply to vocab (147), phrasal-verbs (162), glossary-usage (23).
+- [x] Verify + commit per file.
 
 ### Phase 2 — Split the mixed-purpose files
 - [ ] `explanations.md` → `grammar-notes.md` + `speaking-toolkit.md`
@@ -156,7 +156,7 @@ Word-bank entries converge on:
 - [ ] Extract connecting phrases / meeting phrases / "alternatives to I think"
       from `technical-verbs.md` → `speaking-toolkit.md`; keep pure tech verbs in
       `technical-english.md`.
-- [ ] Rename `business-phrases.md` → `business-communication.md`,
+- [x] Rename `business-phrases.md` → `business-communication.md`,
       `usage-tables.md` → `reference-tables.md`.
 
 ### Phase 3 — Route glossary-usage + cross-file consolidation
@@ -218,6 +218,6 @@ Word-bank entries converge on:
 | split_vocab_usage.py | split by content type | done (generalise in Phase 3) |
 | build_docs.py | render HTML site + search index | done |
 | check_links.py | validate relative links | done |
-| dedupe.py | merge duplicate entries | **Phase 1** |
+| dedupe.py | merge duplicate entries | done |
 | route.py | classify + route blocks to canonical files | **Phase 3** |
 | export_cards.py | flash-card export | **Phase 5** |

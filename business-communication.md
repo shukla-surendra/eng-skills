@@ -1,4 +1,4 @@
-# Business Idioms & Phrases
+# Business Communication
 
 ## Contents
 
