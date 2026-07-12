@@ -6235,7 +6235,7 @@ Another common use is when a group discussion becomes focused: "The meeting star
 
 # Cuisine
 
-|| kwuh·zeen
+*Pronunciation:* kwuh·zeen
 
 [↑ Back to index](#index)
 
@@ -11495,8 +11495,6 @@ lost or surrendered as a penalty for wrongdoing.
 **To lose something because you did something wrong or broke a rule.**
 
 ---
-
-### 
 
 1. **"He was late, so he forfeited his seat in the game."**  
     → He lost his spot because he was late.
@@ -23962,13 +23960,9 @@ Simple examples
 
 * *He made a public retraction of his earlier statement.*
 
-### 
-
 * **Retract** (verb)
 
   * *She retracted her comments after realizing they were inaccurate.*
-
-### 
 
 Practice saying these aloud 👇
 
@@ -23984,8 +23978,6 @@ Practice saying these aloud 👇
 
 Notice how phrases like **“that being said,” “for the sake of clarity,”** and **“on the other hand”** make your speech sound more polished.
 
-### 
-
 * In **meetings**: correcting a wrong assumption
 
 * In **presentations**: fixing a data point
@@ -23994,8 +23986,6 @@ Notice how phrases like **“that being said,” “for the sake of clarity,”*
 
 * In **technical discussions**: acknowledging an earlier mistake
 
-### 
-
 If you said:
 
 ❌ *I want to take back what I said earlier.*
@@ -24003,8 +23993,6 @@ If you said:
 A more professional and natural version:
 
 ✅ **“I’d like to retract my earlier statement.”**
-
-### 
 
 “After reviewing the data again, I’d like to retract my earlier statement. That being said, here’s the updated information.”
 
@@ -30061,8 +30049,6 @@ whitewater rafting is not for the timid
 
 # Tipping Point
 
-### 
-
 A **tipping point** is the **critical moment or threshold** at which a **small change causes a major or irreversible effect**.
 
 It's when **things suddenly shift** from one state to another — like a scale that suddenly tips over when weight slightly increases.
@@ -31593,14 +31579,10 @@ I don't want my kids to live in a neighborhood next to someone who hasn't been v
 **Vicinity** means **the nearby area or surroundings of a place**.  
  In simple spoken English, it usually means **“around here”** or **“close by.”**
 
-### 
-
 When you say *vicinity*, you’re not talking about an exact distance.  
  You’re just referring to **the general area near something**.
 
 👉 Think of it as: *not far, somewhere around.*
-
-### 
 
 1. **“Is there a café in the vicinity?”**  
     → Is there a café nearby?

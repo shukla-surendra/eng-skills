@@ -1,0 +1,223 @@
+# Restructure Plan
+
+A roadmap for turning this collection from cleaned-but-overlapping dumps into a
+single, de-duplicated, well-categorised, revisable knowledge base. This is a
+multi-session effort — each phase is independently shippable and reversible.
+
+---
+
+## 1. Goals & principles
+
+1. **One fact, one home.** Every word / phrase / idiom lives in exactly one
+   canonical file, with no duplicates.
+2. **Type-based organisation.** Content is grouped by what it *is*
+   (word bank vs grammar vs speaking phrase vs story), not by which document it
+   arrived in.
+3. **Consistent, minimal schema** per entry so revision feels uniform and a
+   future flash-card export is trivial.
+4. **Nothing is ever lost.** Every automated move/merge is verified for content
+   conservation before the old copy is deleted, and committed per step so any
+   change can be rolled back.
+5. **Reproducible pipeline.** Adding a new source doc later follows the same
+   documented steps, not ad-hoc cleanup.
+6. **Serves the real goal** — revising to speak better: fluent technical
+   explanation, sentence framing, analogies, and confident meeting English.
+
+---
+
+## 2. Current state (baseline)
+
+| File | Headings | Size | Nature |
+|------|---------:|-----:|--------|
+| vocab.md | 1777 | 952K | word bank (A–Z) |
+| phrasal-verbs.md | 1546 | 660K | word bank (A–Z) |
+| idioms.md | 62 | 48K | idioms |
+| glossary-usage.md | 433 | 56K | mixed word/phrasal/idiom (overlaps others) |
+| business-phrases.md | 119 | 56K | business/meeting phrases |
+| technical-verbs.md | 64 | 56K | technical verbs + architect phrasal verbs + meeting phrases |
+| explanations.md | 57 | 100K | **grab-bag**: grammar + meeting phrases + tutorials |
+| mental-models.md | 55 | 84K | reading / thinking frameworks |
+| stories.md | 8 | 160K | vocabulary-in-context stories |
+| usage-tables.md | 3 | 4K | lookup tables |
+
+**Known problems**
+
+- Internal duplicates: vocab **147**, phrasal-verbs **162**, glossary-usage **23**.
+- Cross-file overlap: phrasal-verbs ∩ glossary-usage **356**, vocab ∩ phrasal-verbs **80**,
+  vocab ∩ glossary-usage **33**, phrasal-verbs ∩ business **11**, others smaller.
+- Mixed-purpose files: `explanations.md` (3 different content types), `glossary-usage.md`
+  (word + phrasal + idiom mixed together).
+- Inconsistent entry schemas (rich multi-section vs terse Meaning/Example/Context).
+
+---
+
+## 3. Target architecture
+
+Four buckets, ~11 canonical files. Each core word bank is A–Z, de-duplicated,
+one entry per term.
+
+```
+WORD BANKS (lookup / revision)
+  vocabulary.md            single words
+  phrasal-verbs.md         verb + particle
+  idioms-expressions.md    idioms & fixed expressions
+
+SPEAKING & COMMUNICATION
+  speaking-toolkit.md      how to explain, frame sentences, use analogies,
+                           connecting phrases, "alternatives to I think"
+  business-communication.md   meetings, suggestions, diplomatic phrasing
+  technical-english.md     technical/architectural verbs & phrases
+
+GRAMMAR
+  grammar-notes.md         articles, tenses, used-to, until/by, adverbs …
+
+READING & REFERENCE
+  stories.md               vocabulary-in-context stories (+ their tables)
+  mental-models.md         thinking frameworks (reading practice)
+  reference-tables.md      quick phrase → meaning lookup tables
+
+ROOT
+  README.md                landing page / index
+```
+
+**Mapping from today → target**
+
+| Today | Goes to |
+|-------|---------|
+| vocab.md | vocabulary.md |
+| phrasal-verbs.md | phrasal-verbs.md |
+| idioms.md + business idioms | idioms-expressions.md |
+| glossary-usage.md | split by type → vocabulary / phrasal-verbs / idioms-expressions |
+| business-phrases.md | business-communication.md |
+| technical-verbs.md | technical-english.md (+ connecting/meeting phrases → speaking-toolkit) |
+| explanations.md | **split** → grammar-notes.md + speaking-toolkit.md |
+| mental-models.md | mental-models.md (unchanged) |
+| stories.md | stories.md (unchanged) |
+| usage-tables.md | reference-tables.md |
+
+---
+
+## 4. Canonical entry schema
+
+Word-bank entries converge on:
+
+```markdown
+# Term
+**Meaning:** short definition (required)
+**Example:** one natural sentence (required)
+**Use it when:** context / register — spoken, formal, tech … (optional)
+**Related:** synonyms / opposites / easily-confused (optional)
+
+<any existing richer notes kept below>
+```
+
+- Existing rich entries are **kept**, just topped with Meaning/Example if missing.
+- Terse entries are **promoted** to this shape.
+- This schema is what a future Anki/CSV export reads (front = Term, back = Meaning + Example).
+
+---
+
+## 5. Standard pipeline (for every source doc)
+
+```
+1. INGEST   drop raw export in source/ (gitignored)
+2. CLEAN    strip base64 / broken TOC / escapes / {#anchors} / control chars;
+            de-bold + de-emoji headings            (scripts/clean_*.py)
+3. CLASSIFY tag each block: word | phrasal | idiom | phrase | grammar |
+            tutorial | table | story
+4. ROUTE    append each block to its canonical file
+5. DEDUP    merge same-title entries (keep richest; union extra notes)
+6. SORT     re-alphabetise word banks; regenerate A–Z index
+7. VERIFY   content-conservation + anchor + link + build gates (§7)
+8. BUILD    make docs (regenerates HTML + search index)
+```
+
+---
+
+## 6. Phased roadmap
+
+### Phase 0 — Foundations ✅ (done)
+- [x] Convert all Google-Docs exports to clean Markdown (base64/TOC/escape removal).
+- [x] Alphabetical indexes + back-links on word banks.
+- [x] HTML site with full-text search (`scripts/build_docs.py`, `search-index.json`).
+- [x] Link checker (`scripts/check_links.py`).
+- [x] Split `vocab-usage.md` by type (pilot for §3 routing).
+- [x] Repo-wide health pass (empty headings, control chars).
+
+### Phase 1 — De-duplicate within each file
+- [ ] Build `scripts/dedupe.py`: find same-title entries, merge (keep richest body,
+      append unique extra notes), regenerate index.
+- [ ] Apply to vocab (147), phrasal-verbs (162), glossary-usage (23).
+- [ ] Verify + commit per file.
+
+### Phase 2 — Split the mixed-purpose files
+- [ ] `explanations.md` → `grammar-notes.md` + `speaking-toolkit.md`
+      (tutorials + framing/analogy content).
+- [ ] Extract connecting phrases / meeting phrases / "alternatives to I think"
+      from `technical-verbs.md` → `speaking-toolkit.md`; keep pure tech verbs in
+      `technical-english.md`.
+- [ ] Rename `business-phrases.md` → `business-communication.md`,
+      `usage-tables.md` → `reference-tables.md`.
+
+### Phase 3 — Route glossary-usage + cross-file consolidation
+- [ ] Classify each `glossary-usage.md` entry (word/phrasal/idiom) and route to the
+      canonical word bank.
+- [ ] Resolve cross-file overlaps (phrasal∩glossary 356, vocab∩phrasal 80, …):
+      pick one canonical home per term, merge content, delete the rest.
+- [ ] Retire `glossary-usage.md` once empty.
+
+### Phase 4 — Normalise entry schema
+- [ ] Ensure every word-bank entry has Meaning + Example (flag gaps for manual fill).
+- [ ] Standardise heading levels and section labels.
+
+### Phase 5 — Revision features
+- [ ] Anki/CSV flash-card export per word bank (`scripts/export_cards.py`).
+- [ ] Optional tags: theme (tech / daily / business) and difficulty, to enable
+      filtered revision on the site.
+- [ ] "Random 20" / daily-revision view on the site.
+
+### Phase 6 — Maintenance
+- [ ] Document the §5 pipeline in README for future source docs.
+- [ ] Optional CI: run `make check` on push.
+
+---
+
+## 7. Safety & verification gates (run at every automated step)
+
+1. **Content conservation** — word count and table-row count of (new files) ==
+   (old files), within a tiny delta explained only by generated TOC/back-links.
+2. **No orphaned anchors** — every generated index / TOC link resolves to a real id.
+3. **Link check** — `scripts/check_links.py` passes.
+4. **Build** — `make docs` succeeds; `search-index.json` targets all resolve.
+5. **Commit boundary** — one commit per file/step, so any change is revertible.
+6. **Spot-check** — read a random sample of merged entries by eye.
+
+> Rule: never delete a source/old file until its content is proven to live in the
+> new location by gates 1–2.
+
+---
+
+## 8. Open decisions (need your call before the relevant phase)
+
+| # | Decision | Options | Default |
+|---|----------|---------|---------|
+| D1 | De-dup policy | keep-richest vs merge-all-notes | **merge-all unique notes** |
+| D2 | Rich vs terse entries | standardise to schema vs keep as-is | **keep rich, add missing Meaning/Example** |
+| D3 | `mental-models.md` | keep as reading vs fold into a "reading" folder | keep at root |
+| D4 | Tagging (Phase 5) | add theme/difficulty metadata or not | add lightweight tags |
+| D5 | Flash cards | Anki `.apkg` vs plain CSV/TSV | **CSV/TSV** (portable) |
+
+---
+
+## 9. Tooling (scripts/)
+
+| Script | Role | Status |
+|--------|------|--------|
+| restructure.py | Google-Docs → clean A–Z word bank | done |
+| clean_thematic_docs.py | clean thematic/mixed docs | done |
+| split_vocab_usage.py | split by content type | done (generalise in Phase 3) |
+| build_docs.py | render HTML site + search index | done |
+| check_links.py | validate relative links | done |
+| dedupe.py | merge duplicate entries | **Phase 1** |
+| route.py | classify + route blocks to canonical files | **Phase 3** |
+| export_cards.py | flash-card export | **Phase 5** |

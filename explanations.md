@@ -571,8 +571,6 @@ Example: *I used to drink a lot of coffee, but these days I prefer tea.*
 
 When used to used for accustomed to
 
-###### 
-
 Ah nice catch 😊 — you’ve spotted the **second meaning** of *“used to”*.  
  Let me explain clearly:
 
@@ -745,8 +743,8 @@ Here we use the verb *be* (am/is/are/was/were).
 | Spillover 1: the act or an instance of spilling over 2: a quantity that spills over 3: an extension of something especially when an excess exists benefiting from a spillover of prosperity from neighboring stat  |  |
 | connotation | an idea expressed by a word in addition to its main meaning A *connotation* is the *feeling, idea, or association* that a word carries beyond its basic dictionary meaning (*denotation*). |
 | deduce | *to reach a conclusion or decision by reasoning or by looking at available information*. It’s like saying: *“I figured this out based on the clues.”*  |
-| blast into | **Enter suddenly and energetically** Example: *He blasted into the meeting room without knocking.* (Meaning: He entered very forcefully and energetically.)  |
-| contrast thoughts, contrasting thoughts |  |
+| blast into | **Enter suddenly and energetically** Example: *He blasted into the meeting room without knocking.*  (Meaning: He entered very forcefully and energetically.)  |
+| contrast thoughts, contrasting thoughts  |  |
 | More or less | (almost, nearly, around, roughly, approximate, more or less) |
 | Try out |  |
 | Let's say | Let's say from 1 Jan 2020 to 15 Jan 2020 which is 15 days |
@@ -757,9 +755,9 @@ Here we use the verb *be* (am/is/are/was/were).
 | Apart from that: other than: besides, except for |  |
 | shed light on to provide information about something or to make something easier to understand:  | I'm glad I could shed light on its capabilities for you. Tracking technologies have shed light on the birds' social nature. |
 |  | this has been incredibly enlightening Thanks for diving into the deep aspects of AWS Batch with me.  |
-| Nuance (nyoo·aans)na subtle difference in or shade of meaning, expression, or sound. v. give nuances to. "the effect of the music is nuanced by the social situation of listeners"  | "he was familiar with the nuances of the local dialect" |
+| Nuance (nyoo·aans) n a subtle difference in or shade of meaning, expression, or sound. v. give nuances to. "the effect of the music is nuanced by the social situation of listeners"  | "he was familiar with the nuances of the local dialect" |
 | so much so that | Peter loved ice cream, so much so that he had a different flavour every night before bedtime. Jenny adored gardening, so much so that her balcony was transformed into a colourful array of flowers and herbs. Mark was passionate about photography, so much so that he carried his camera everywhere, capturing everyday moments with artistic flair. Emily enjoyed painting, so much so that her bedroom walls were adorned with her vibrant and imaginative creations. Tom had a fascination with astronomy, so much so that he spent many nights gazing at the stars through his telescope, awestruck by the vastness of the universe.  |
-| at/in the back of your mind**If something is at/in the back of your mind, you intend to do it, but are not actively thinking about it:** | It's been at the back of my mind to call José for several days now, but I haven't got round to it yet. |
+| at/in the back of your mind  **If something is at/in the back of your mind, you intend to do it, but are not actively thinking about it:** | It's been at the back of my mind to call José for several days now, but I haven't got round to it yet. |
 | On the flip side |  |
 | Go after/ went after MLOPS |  |
 | all in all |  |
@@ -773,10 +771,10 @@ Here we use the verb *be* (am/is/are/was/were).
 | In order to  \=To \=For the purpose of \=With the aim of \=So that \=To achieve | Original: I went to the store in order to buy some groceries. Revised: I went to the store to buy some groceries. Original: She visited the library in order to research her paper. Revised: She visited the library for the purpose of researching her paper. With the aim of Original: He worked late in order to meet the deadline. Revised: He worked late with the aim of meeting the deadline. Original: I set an alarm in order to wake up early. Revised: I set an alarm so that I could wake up early. Original: The team collaborated in order to achieve their common goal. Revised: The team collaborated to achieve their common goal.  |
 | Wherein \=in which \=where \=in that \=during which \=at which | Original: The report includes a section wherein the findings are summarized. Revised: The report includes a section in which the findings are summarized. Original: We have a system wherein users can customize their preferences. Revised: We have a system where users can customize their preferences. Original: The document outlines the process wherein errors may occur. Revised: The document outlines the process in that errors may occur. Original: We had a meeting wherein the project timeline was discussed. Revised: We had a meeting during which the project timeline was discussed. Original: The event, wherein attendees can network, is scheduled for next week. Revised: The event, at which attendees can network, is scheduled for next week.  |
 | Walk through |  |
-| meant to be |  |
+| meant to be   |  |
 |  |  |
 | Aim At | Traffic rules aim at reducing accident ratio  Everyone knows that he is a bad egg |
-| Crashing a wedding"Crashing a wedding" means attending a wedding without an invitation. This is considered rude and disrespectful.   | The crasher is dancing with your grandma The crasher's stories keep changing The crasher's personality is larger-than-life The crasher came in late or pushed through the receiving line The crasher is a great faker   |
+| Crashing a wedding  "Crashing a wedding" means attending a wedding without an invitation. This is considered rude and disrespectful.   | The crasher is dancing with your grandma The crasher's stories keep changing The crasher's personality is larger-than-life The crasher came in late or pushed through the receiving line The crasher is a great faker   |
 | In the interest of time |  |
 | outright reject | "Reject" and "outright reject" are phrases that convey a similar meaning, but there is a subtle difference in emphasis. "Reject" on its own simply means to dismiss or refuse something. It indicates a decision not to accept or approve a particular proposal, idea, application, or suggestion. For example, if a job application is rejected, it means the applicant is not being considered for the position. "On the other hand, "outright reject" adds emphasis to the decisiveness of the rejection. The term "outright" implies a clear and unambiguous refusal without any reservation or hesitation. It suggests a straightforward and categorical denial with no room for negotiation or reconsideration. In summary, while both terms convey the idea of refusing or dismissing something, "outright reject" adds an extra layer of emphasis on the decisiveness and finality of the rejection.  |
 | Cusp of change | The phrase "cusp of change" means the point at which something is about to change into something else. For example, "Our nation is on the cusp of a new era".   |
@@ -796,7 +794,7 @@ Here we use the verb *be* (am/is/are/was/were).
 | So to say | Both “so to speak” and “so to say” (meaning “as one might say”) can be found in English literature and English dictionaries. |
 | per se | The Latin phrase per se means "by itself", "in itself", or "of itself". It's used to describe something in its own right, taking it out of its context. For example, "It is not the money per se that makes them unhappy, but the single-minded pursuit of that money". |
 | left out phrasal verb of leave adjective: left out fail to include someone or something. "it seemed unkind to leave Daisy out, so she was invited too" adjective. excluded. Not knowing the language I felt really left out. Excluded or omitted: For example, you might proofread carefully to catch left out quotation marks or parentheses. You might also feel left out if you don't know the language and are excluded from something.  Remaining behind in a visible place: For example, raccoons might eat pet food that's been left out.  Unhappy because not included: For example, you might feel left out if your friends talk about sports and you're not included.  |  |
-| Ancillary (an·si·luh·ree) | 1\. : subordinate, subsidiary. the main factory and its ancillary plants. 2\. : auxiliary, supplementary. |
+| Ancillary (an·si·luh·ree) | 1\. : subordinate, subsidiary. the main factory and its ancillary plants.   2\. : auxiliary, supplementary. |
 | granular highly detailed; having many small and distinct parts: data analysis on a granular level. |  |
 | ballpark | being an approximation, based on an educated guess |
 | **Mono** | one, only, single |
@@ -808,7 +806,7 @@ Here we use the verb *be* (am/is/are/was/were).
 | **Heads-up** : a message that alerts or prepares : warning. gave him a heads-up that an investigation was pending.  |  |
 | **headless chicken** in an uncontrolled or disorganized way, and not calmly or logically. Instead of running around like a headless chicken you're using your efforts in a more productive way, more efficiently. |  |
 | **Think through**  calculated, considered, designed, planned, prepared, and thoughtful.  "Think through" is a phrasal verb that means to carefully consider all the parts or effects of something over a period of time, especially to understand or make a decision. For example, "I need some time to think it through \- I don't want to make any sudden decisions". | to think about all the different parts or effects of (something) for a period of time, especially in an effort to understand or make a decision about it. I need time to think this through. We have thought through the matter and have come to a decision. |
-| **Turn Out** phrasal verb of turn 1\. prove to be the case. "the job turned out to be beyond his rather limited abilities" 2\. extinguish a light. "he turned out the light and groped his way through the doorway to the bed"  | To result or conclude in a certain way: Meaning: To show a final result that might be different from what was expected. Example: The weather turned out to be better than predicted. To attend or participate in an event: Meaning: To appear or show up for an occasion. Example: Many people turned out for the concert. To produce or manufacture: Meaning: To make or generate something. Example: The factory turns out thousands of cars every month. To switch something off: Meaning: To stop a device or appliance from working. Example: Don’t forget to turn out the lights before you leave. To get rid of or clean out: Meaning: To empty or clear a space. Example: She turned out her closet and donated the clothes.  |
+| **Turn Out**   phrasal verb of turn 1\. prove to be the case. "the job turned out to be beyond his rather limited abilities" 2\. extinguish a light. "he turned out the light and groped his way through the doorway to the bed"  | To result or conclude in a certain way: Meaning: To show a final result that might be different from what was expected. Example: The weather turned out to be better than predicted. To attend or participate in an event: Meaning: To appear or show up for an occasion. Example: Many people turned out for the concert. To produce or manufacture: Meaning: To make or generate something. Example: The factory turns out thousands of cars every month. To switch something off: Meaning: To stop a device or appliance from working. Example: Don’t forget to turn out the lights before you leave. To get rid of or clean out: Meaning: To empty or clear a space. Example: She turned out her closet and donated the clothes.  |
 |  |  |
 |  |  |
 |  |  |
@@ -876,10 +874,10 @@ Here we use the verb *be* (am/is/are/was/were).
 | leverage | Leverage your skills: Use, utilize, harness, apply Leverage technology:	Make use of, take advantage of, capitalize on Leverage data: Exploit, draw on, employ Have leverage in a deal: Influence, advantage, power, control |
 | scrupulous | Scrupulous synonyms (briefly): Meticulous, Conscientious, Thorough, Honest, Precise, Upright (when used morally) ✅ Depends on context: Scrupulous work → meticulous, thorough Scrupulous person → honest, principled, conscientious |
 | Cliché | Overused phrase, Stereotype, Platitude, Common saying, Hackneyed expression  |
-|  | (Unimportant, lacking seriousness) Trivial, Superficial, Shallow, Idle, Silly, PointlessLow-impact, Non-essential, Cosmetic (e.g., UI changes with no real function) Unnecessary, Distraction, Noisy (e.g., “frivolous logs” \= too much noise, no value) |
+|  | (Unimportant, lacking seriousness) Trivial, Superficial, Shallow, Idle, Silly, Pointless  Low-impact, Non-essential, Cosmetic (e.g., UI changes with no real function) Unnecessary, Distraction, Noisy (e.g., “frivolous logs” \= too much noise, no value) |
 | taper off | **Activities or events** → "The rain tapered off by evening." **Processes** → "The production will taper off after the peak season." **Medications** → "You should taper off the dosage rather than stop abruptly." **Synonyms** (context-dependent): Gradually decrease, Dwindle, Subside, Die down, Ease off, Wind down, Let up **Taper off** → focuses on something *gradually reducing* in amount, intensity, or frequency. It’s broader and can be used for anything — weather, work, noise, activity, medicine dosage, etc.  |
 | Wean off | **Wean off** → specifically means *gradually reducing dependence on* something, often so you can stop using it completely. It’s common for **habits, substances, or dependencies** (e.g., caffeine, social media, medication).  |
-| dodgy | **"Dodgy"** is an informal (mostly British, Australian, and New Zealand) adjective meaning: **Suspicious / Untrustworthy** Something or someone that seems dishonest, risky, or unreliable. *"That guy looks a bit dodgy — I wouldn’t buy a car from him."* **Of poor quality / Not working properly** *"My phone’s been acting a bit dodgy lately."* **Risky / Dangerous** *"We took a dodgy shortcut through a dark alley."* **Synonyms** (depending on meaning): Suspicious → shady, sketchy, fishy Poor quality → faulty, unreliable, subpar Risky → unsafe, precarious, dicey  |
+| dodgy | **"Dodgy"** is an informal (mostly British, Australian, and New Zealand) adjective meaning: **Suspicious / Untrustworthy**  Something or someone that seems dishonest, risky, or unreliable.  *"That guy looks a bit dodgy — I wouldn’t buy a car from him."*  **Of poor quality / Not working properly**  *"My phone’s been acting a bit dodgy lately."*  **Risky / Dangerous**  *"We took a dodgy shortcut through a dark alley."*  **Synonyms** (depending on meaning): Suspicious → shady, sketchy, fishy  Poor quality → faulty, unreliable, subpar  Risky → unsafe, precarious, dicey  |
 |  |  |
 |  |  |
 

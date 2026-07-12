@@ -16,6 +16,7 @@ The output is a self-contained (no external requests) documentation site with:
 """
 
 import html
+import json
 import pathlib
 import re
 from itertools import groupby
@@ -59,11 +60,21 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
   <button class="menu-btn" id="menu-btn" type="button" aria-label="Toggle navigation">&#9776;</button>
   <a class="brand" href="{index_href}"><span class="brand-mark">&#9729;</span> {site}</a>
   <div class="topbar-actions">
+    <button id="search-open" class="search-open" type="button" aria-label="Search (press /)">
+      <span class="so-ico" aria-hidden="true">&#128269;</span><span class="so-txt">Search</span><kbd>/</kbd>
+    </button>
     <a class="topbar-link" href="{index_href}">Home</a>
     <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle theme">&#9789;</button>
   </div>
 </header>
 <div class="scrim" id="scrim"></div>
+<div class="search-modal" id="search-modal" role="dialog" aria-modal="true" aria-label="Search entries">
+  <div class="search-panel">
+    <input id="search-input" class="search-input" type="search" placeholder="Search all words, phrases &amp; sections&hellip;" autocomplete="off" spellcheck="false">
+    <div class="search-results" id="search-results"></div>
+    <div class="search-hint"><kbd>&uarr;</kbd><kbd>&darr;</kbd> navigate &middot; <kbd>&crarr;</kbd> open &middot; <kbd>esc</kbd> close</div>
+  </div>
+</div>
 <div class="shell">
   <aside class="sidebar" id="sidebar" aria-label="Site navigation">
     <input id="nav-filter" class="nav-filter" type="search" placeholder="Filter pages  ( / )" autocomplete="off">
@@ -97,10 +108,20 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
   <button class="menu-btn" id="menu-btn" type="button" aria-label="Toggle navigation">&#9776;</button>
   <a class="brand" href="index.html"><span class="brand-mark">&#9729;</span> {site}</a>
   <div class="topbar-actions">
+    <button id="search-open" class="search-open" type="button" aria-label="Search (press /)">
+      <span class="so-ico" aria-hidden="true">&#128269;</span><span class="so-txt">Search</span><kbd>/</kbd>
+    </button>
     <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle theme">&#9789;</button>
   </div>
 </header>
 <div class="scrim" id="scrim"></div>
+<div class="search-modal" id="search-modal" role="dialog" aria-modal="true" aria-label="Search entries">
+  <div class="search-panel">
+    <input id="search-input" class="search-input" type="search" placeholder="Search all words, phrases &amp; sections&hellip;" autocomplete="off" spellcheck="false">
+    <div class="search-results" id="search-results"></div>
+    <div class="search-hint"><kbd>&uarr;</kbd><kbd>&darr;</kbd> navigate &middot; <kbd>&crarr;</kbd> open &middot; <kbd>esc</kbd> close</div>
+  </div>
+</div>
 <div class="shell shell--home">
   <aside class="sidebar" id="sidebar" aria-label="Site navigation">
     <input id="nav-filter" class="nav-filter" type="search" placeholder="Filter pages  ( / )" autocomplete="off">
@@ -395,6 +416,38 @@ pre code { background: none; padding: 0; border: none; color: inherit; font-size
 
 .site-footer { text-align: center; color: var(--muted); font-size: .82rem; padding: 2rem 1rem 3rem; }
 ::selection { background: var(--accent-soft); }
+
+/* ---------- Search ---------- */
+.search-open { display: inline-flex; align-items: center; gap: .4rem; cursor: pointer;
+  border: 1px solid var(--border); background: var(--surface); color: var(--muted);
+  height: 38px; padding: 0 .6rem; border-radius: 10px; font-size: .9rem;
+  transition: background .15s ease, color .15s ease; }
+.search-open:hover { background: var(--surface-2); color: var(--text); }
+.search-open .so-ico { font-size: .95rem; }
+.search-open kbd, .search-hint kbd { font-family: inherit; font-size: .72rem; color: var(--muted);
+  border: 1px solid var(--border); border-bottom-width: 2px; border-radius: 5px;
+  padding: .02em .4em; background: var(--bg-soft); line-height: 1.4; }
+@media (max-width: 560px) { .search-open .so-txt, .search-open kbd { display: none; } }
+.search-modal { display: none; position: fixed; inset: 0; z-index: 120;
+  background: rgba(10, 15, 25, .55); backdrop-filter: blur(2px); padding: 10vh 1rem 1rem; }
+.search-modal.open { display: block; }
+.search-panel { max-width: 640px; margin: 0 auto; background: var(--surface);
+  border: 1px solid var(--border); border-radius: 14px; box-shadow: var(--shadow); overflow: hidden; }
+.search-input { width: 100%; border: none; border-bottom: 1px solid var(--border);
+  background: transparent; color: var(--text); font-size: 1.05rem; padding: 1rem 1.1rem; outline: none; }
+.search-results { max-height: 52vh; overflow-y: auto; }
+.search-result { display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+  padding: .6rem 1.1rem; text-decoration: none; color: var(--text); border-bottom: 1px solid var(--border); }
+.search-result:last-child { border-bottom: none; }
+.search-result.active, .search-result:hover { background: var(--accent-soft); }
+.search-result .sr-title { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.search-result .sr-title mark { background: transparent; color: var(--accent); font-weight: 700; }
+.search-result .sr-page { flex: none; font-size: .72rem; text-transform: uppercase; letter-spacing: .05em;
+  color: var(--muted); background: var(--surface-2); padding: .15rem .5rem; border-radius: 999px; }
+.search-empty { padding: 1.2rem 1.1rem; color: var(--muted); font-size: .9rem; }
+.search-hint { display: flex; gap: .4rem; align-items: center; flex-wrap: wrap;
+  padding: .55rem 1.1rem; border-top: 1px solid var(--border); color: var(--muted); font-size: .75rem; }
+body.search-on { overflow: hidden; }
 """
 
 JS = """
@@ -564,14 +617,86 @@ JS = """
   if (scrim) scrim.addEventListener('click', closeNav);
   document.querySelectorAll('.nav-link').forEach(function (a) { a.addEventListener('click', closeNav); });
 
-  // --- Keyboard: "/" focuses the filter ---
-  document.addEventListener('keydown', function (e) {
-    if (e.key !== '/') return;
-    var tag = document.activeElement && document.activeElement.tagName;
-    if (tag === 'INPUT' || tag === 'TEXTAREA') return;
-    var f = document.getElementById('nav-filter') || document.getElementById('doc-filter');
-    if (f) { e.preventDefault(); f.focus(); }
-  });
+  // --- Global full-text search (press "/") ---
+  (function () {
+    var modal = document.getElementById('search-modal');
+    if (!modal) return;
+    var input = document.getElementById('search-input');
+    var results = document.getElementById('search-results');
+    var brand = document.querySelector('.brand');
+    var prefix = (brand ? brand.getAttribute('href') : 'index.html').replace(/index\\.html$/, '');
+    var index = null, items = [], active = -1;
+
+    function load(cb) {
+      if (index) { cb(); return; }
+      fetch(prefix + 'search-index.json')
+        .then(function (r) { return r.json(); })
+        .then(function (d) { index = d; cb(); })
+        .catch(function () { index = []; cb(); });
+    }
+    function openSearch() {
+      modal.classList.add('open');
+      document.body.classList.add('search-on');
+      load(function () { input.focus(); input.select(); render(input.value); });
+    }
+    function closeSearch() {
+      modal.classList.remove('open');
+      document.body.classList.remove('search-on');
+    }
+    function setActive(n) {
+      if (!items.length) return;
+      if (active >= 0 && items[active]) items[active].classList.remove('active');
+      active = (n + items.length) % items.length;
+      items[active].classList.add('active');
+      items[active].scrollIntoView({ block: 'nearest' });
+    }
+    function mark(text, q) {
+      var i = text.toLowerCase().indexOf(q);
+      if (i < 0) return escapeHtml(text);
+      return escapeHtml(text.slice(0, i)) + '<mark>' + escapeHtml(text.slice(i, i + q.length)) +
+             '</mark>' + escapeHtml(text.slice(i + q.length));
+    }
+    function render(q) {
+      q = (q || '').trim().toLowerCase();
+      results.innerHTML = ''; items = []; active = -1;
+      if (!index) return;
+      if (!q) { results.innerHTML = '<div class="search-empty">Type to search ' + index.length + ' entries&hellip;</div>'; return; }
+      var m = [];
+      for (var i = 0; i < index.length; i++) {
+        var pos = index[i].t.toLowerCase().indexOf(q);
+        if (pos !== -1) m.push([pos, index[i]]);
+      }
+      m.sort(function (a, b) { return a[0] - b[0] || a[1].t.length - b[1].t.length; });
+      if (!m.length) { results.innerHTML = '<div class="search-empty">No matches for &ldquo;' + escapeHtml(q) + '&rdquo;</div>'; return; }
+      m.slice(0, 100).forEach(function (pair) {
+        var e = pair[1];
+        var a = document.createElement('a');
+        a.className = 'search-result';
+        a.href = prefix + e.u + (e.a ? ('#' + e.a) : '');
+        a.innerHTML = '<span class="sr-title">' + mark(e.t, q) + '</span><span class="sr-page">' + escapeHtml(e.p) + '</span>';
+        a.addEventListener('click', closeSearch);
+        results.appendChild(a); items.push(a);
+      });
+      setActive(0);
+    }
+
+    input.addEventListener('input', function () { render(input.value); });
+    input.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowDown') { e.preventDefault(); setActive(active + 1); }
+      else if (e.key === 'ArrowUp') { e.preventDefault(); setActive(active - 1); }
+      else if (e.key === 'Enter') { if (active >= 0 && items[active]) { e.preventDefault(); window.location.href = items[active].href; } }
+      else if (e.key === 'Escape') { closeSearch(); }
+    });
+    modal.addEventListener('click', function (e) { if (e.target === modal) closeSearch(); });
+    var openBtn = document.getElementById('search-open');
+    if (openBtn) openBtn.addEventListener('click', openSearch);
+    document.addEventListener('keydown', function (e) {
+      if (e.key !== '/') return;
+      var tag = document.activeElement && document.activeElement.tagName;
+      if (tag === 'INPUT' || tag === 'TEXTAREA') return;
+      e.preventDefault(); openSearch();
+    });
+  })();
 
   function escapeHtml(s) {
     return s.replace(/[&<>"']/g, function (c) {
@@ -765,6 +890,28 @@ def build():
         )
 
     write_index(pages, ordered)
+    write_search_index(rendered)
+
+
+SEARCH_HEADING_RE = re.compile(r'<h([1-2])[^>]*id="([^"]+)"[^>]*>(.*?)</h\1>', re.DOTALL)
+SEARCH_SKIP = {"index", "contents", "table of contents", "on this page"}
+
+
+def write_search_index(rendered):
+    """Emit search-index.json: every h1-h3 entry across all pages."""
+    entries = []
+    for out_rel, page_title, body in rendered:
+        for m in SEARCH_HEADING_RE.finditer(body):
+            level = int(m.group(1))
+            slug = m.group(2)
+            text = html.unescape(re.sub(r'<[^>]+>', '', m.group(3))).strip()
+            if not text or text.lower() in SEARCH_SKIP:
+                continue
+            entries.append({"t": text, "u": out_rel.as_posix(),
+                            "a": slug, "p": page_title, "l": level})
+    (OUTPUT_DIR / "search-index.json").write_text(
+        json.dumps(entries, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8")
 
 
 def write_index(pages, ordered):

@@ -29,6 +29,11 @@ JOBS = [
     ("001-Mental_Models.docx.md", "mental-models.md",
      "Mental Models & Thinking Frameworks", (1, 2), None,
      ("table of contents",)),
+    # vocab-usage: diverse mix of word entries, category groups, tables, and
+    # in-context stories -> flatten heading levels into a flat searchable list;
+    # tables and prose are left exactly as they are.
+    ("Vocab_Usage.md", "vocab-usage.md",
+     "Vocabulary in Use", (2,), 2, ()),
 ]
 
 RE_IMG_DEF = re.compile(r'^\[image\d+\]:\s*<data:image', re.I)
@@ -45,7 +50,8 @@ def convert_img_ref(m):
     return ''  # nothing usable -> drop the ref
 RE_HEADING = re.compile(r'^(#{1,6})\s+(.*)$')
 # backslash-escaped ASCII punctuation that Google Docs adds
-RE_UNESCAPE = re.compile(r'\\([.\+\~\!\[\]\(\)\-\*_#>=\|"\'@&/:;,`])')
+# (NB: '|' is intentionally excluded so escaped pipes inside tables survive)
+RE_UNESCAPE = re.compile(r'\\([.\+\~\!\[\]\(\)\-\*_#>="\'@&/:;,`])')
 # true emoji / pictograph ranges to strip from headings
 # (deliberately NOT touching dashes, arrows, or curly quotes)
 RE_EMOJI = re.compile(
