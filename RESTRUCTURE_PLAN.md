@@ -194,9 +194,42 @@ grain than the file's own headings:
       pick one canonical home per term, merge content, delete the rest.
 - [ ] Retire `glossary-usage.md` once empty.
 
-### Phase 4 — Normalise entry schema
-- [ ] Ensure every word-bank entry has Meaning + Example (flag gaps for manual fill).
-- [ ] Standardise heading levels and section labels.
+### Phase 4 — Fill missing explanations (definition / PoS / example / figurative vs literal)
+Multi-session grind, one file and one severity tier at a time. Never run a
+regex substitution that spans from one heading to "the next occurrence of the
+back-link" — several entries have an empty body (heading immediately followed
+by the back-link with no blank-line padding), which makes such a regex
+swallow one or more unrelated entries. `scripts/audit_gaps.py` (below) and any
+future batch-fill pass must locate each entry by **heading-line index only**
+(`# Title` → next `# ` heading), never by pattern-matching the back-link.
+
+- [x] Build `scripts/audit_gaps.py` (heuristic: word count of entry body,
+      whether it contains a quoted example sentence, whether it contains a
+      part-of-speech / "means" cue). Run per file, sort worst-first.
+- [x] `vocab.md` — fill the 60 entries that had ≤8 words and no example
+      (2026-07-13). Remaining: 66 entries <15 words, ~306 with no
+      example sentence at all — next batch should take the <15-word tier.
+- [x] `phrasal-verbs.md` — fill the 59 entries that had ≤8 words and no
+      example (2026-07-13). Remaining: 37 entries <15 words, ~390 with no
+      example sentence.
+- [ ] `phrasal-verbs.md` — next batch: the <15-word tier (37 entries).
+- [ ] `vocab.md` — next batch: the <15-word tier (66 entries).
+- [ ] `idioms.md` — mostly rich already; spot check the 6 flagged by the
+      audit script (false positives likely — verify before editing).
+- [ ] `glossary-usage.md` — uses `## Title` (not `# Title`) headings; audit
+      script needs a heading-level flag before it can scan this file.
+- [ ] After each file's tail is done, add figurative-vs-literal call-outs to
+      entries that have both senses but only show one today (chisel, bury,
+      sandbox, etc. are the pattern to follow).
+- [ ] Standardise heading levels and section labels once content gaps are closed.
+
+**Working method for future sessions:** run `python3 scripts/audit_gaps.py
+<file>`, take the next worst N entries (start with N≈50–60, matches one
+sitting), draft Meaning + PoS + example (+ figurative/literal split where the
+word has both) in a `%%TITLE%%/%%BODY%%/%%END%%` scratch file, apply with
+`scripts/apply_enrich.py <file> <scratch>`, then diff-check that
+`grep -c "^# "` is unchanged and no unrelated headings were dropped before
+committing.
 
 ### Phase 5 — Revision features
 - [ ] Anki/CSV flash-card export per word bank (`scripts/export_cards.py`).

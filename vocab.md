@@ -206,12 +206,12 @@ filled with a continuous humming sound.
 
 # Abysmal
 
-fathomless,
+adjective — extremely bad, or (literal/poetic) extremely deep, bottomless.
 
-अथाह, 
+अथाह (fathomless), bottomless, unfathomable
 
-Bottomless,  
-unfathomable,
+**Figurative (common use):** "The team's performance this quarter was abysmal."
+**Literal (rare, poetic):** "an abysmal chasm that seemed to have no bottom."
 
 [↑ Back to index](#index)
 
@@ -292,7 +292,12 @@ an acknowledgement of a person's responsibility for or achievement of something.
 
 # Accrue
 
-उपाजित होना, वृद्धि होना, 
+verb — to accumulate or build up gradually over time, especially money, benefits, or experience.
+
+उपाजित होना (to accrue), वृद्धि होना (to increase)
+
+"Interest accrues monthly on your savings account."
+"Years of hands-on experience accrue the longer you stay in a role."
 
 [↑ Back to index](#index)
 
@@ -355,9 +360,11 @@ Overall, "ad hoc" implies a temporary or improvised nature, often in response to
 
 # Adage
 
-कहावत
+noun — a traditional saying that expresses a general truth or piece of wisdom; a proverb.
 
-Saying, proverb
+कहावत (saying), proverb
+
+"As the old adage goes, 'better late than never.'"
 
 [↑ Back to index](#index)
 
@@ -1206,7 +1213,10 @@ Here are some examples of assiduously used in a sentence:
 
 # Assimilate
 
-Absorb
+verb — 1) to absorb and fully understand information or ideas. 2) to adapt and become part of a group, culture, or system.
+
+"It took her a few weeks to assimilate into the new team's workflow." (adapt)
+"The report has too much data to assimilate in one sitting." (absorb/understand)
 
 [↑ Back to index](#index)
 
@@ -1657,6 +1667,10 @@ Behest means an authoritative order or command. For example, "The meeting was ca
 
 # Behoove
 
+verb (formal, mainly US) — to be necessary, appropriate, or in someone's best interest to do something. Almost always used as "it behooves (someone) to..."
+
+"It behooves us to double-check the deployment before the release."
+"It would behoove you to read the contract before signing it."
 
 [↑ Back to index](#index)
 
@@ -2086,7 +2100,11 @@ to say something suddenly and without thinking
 
 # Boastful
 
- डींगे हाँकने वाला,  शेखीबाज़
+adjective — openly proud of one's own achievements or possessions, in a way that annoys others; bragging.
+
+"He was boastful about his promotion, mentioning it in every conversation."
+
+Related: **boast** (verb) — "She boasted about closing the biggest deal of the quarter."
 
 [↑ Back to index](#index)
 
@@ -2920,7 +2938,11 @@ The novel's intricate plot and well-developed characters captivated readers from
 
 # Carefree
 
-लापरवाह, मस्त, अल्हड़
+adjective — free from anxiety, worry, or responsibility; relaxed and untroubled.
+
+लापरवाह (carefree), मस्त (carefree/playful), अल्हड़ (carefree)
+
+"Before the deadline, the office had a carefree, relaxed atmosphere."
 
 [↑ Back to index](#index)
 
@@ -3298,7 +3320,12 @@ We are optimizing the pipeline for GPU chips because they handle parallel worklo
 
 # Chisel
 
-छेनी
+noun/verb — noun: a hand tool with a sharp edge, used to cut or shape wood, stone, or metal. verb (figurative): to shape or refine something carefully; also informal, to cheat someone out of money.
+
+छेनी (chisel — the tool)
+
+**Literal:** "The sculptor used a chisel to carve the statue from marble."
+**Figurative:** "He chiseled his pitch down to three clear points." / "Don't let that vendor chisel you out of a fair price."
 
 [↑ Back to index](#index)
 
@@ -3819,9 +3846,12 @@ In these examples, "cohesion" is used to describe the unity, connection, or logi
 
 # Cohesive
 
-(जोड़नेवाला, संसक्त(connected),चिपटनेवाला 
+adjective — sticking together well; forming a unified, consistent whole.
 
-Cohesive team
+(जोड़नेवाला, संसक्त — connected), चिपटनेवाला (sticking together)
+
+"A cohesive team communicates openly and shares the same goals."
+"The report needed a more cohesive structure — the sections didn't connect to each other."
 
 [↑ Back to index](#index)
 
@@ -3937,7 +3967,11 @@ A smug face is a facial expression that conveys a sense of superiority or self-s
 
 # Colluding
 
-मिली भगत
+verb (present participle of *collude*) — secretly cooperating with someone, usually for a deceitful, dishonest, or illegal purpose.
+
+मिली भगत (collusion)
+
+"The two vendors were colluding to fix prices and shut out competitors."
 
 [↑ Back to index](#index)
 
@@ -4077,9 +4111,11 @@ Really, really convincing
 
 # Complacent
 
-आत्मसंतुष्ट
+adjective — self-satisfied to the point of being unaware of danger or a problem; smug enough about past success that you stop trying.
 
-Self-satisfied
+आत्मसंतुष्ट (self-satisfied)
+
+"After winning the big client, the sales team grew complacent and stopped following up on new leads."
 
 [↑ Back to index](#index)
 
@@ -5171,13 +5207,22 @@ Repeat it a few times, changing *his* to *her* or *their*.
 
 # Cordoned
 
-घेराबंदी कर दी
+verb (past tense of *cordon off*) — to enclose or seal off an area with a barrier (police tape, ropes, guards) to control who can enter.
+
+घेराबंदी कर दी (cordoned off)
+
+"Police cordoned off the street after the accident."
 
 [↑ Back to index](#index)
 
 # Cornerstone
 
-आधारशिला
+noun — literal: a stone set at the base of a building, often laid ceremonially to mark its founding. Figurative: a fundamental part on which something essential depends.
+
+आधारशिला (cornerstone/foundation stone)
+
+**Literal:** "The mayor laid the cornerstone of the new library in 1920."
+**Figurative:** "Trust is the cornerstone of any good partnership."
 
 [↑ Back to index](#index)
 
@@ -5235,7 +5280,11 @@ In these examples, "counterintuitive" is used to highlight situations or concept
 
 # Courageous
 
- साहसिक (kuh·rayj·uhs)
+adjective — brave; showing courage in the face of danger, difficulty, or fear.
+
+साहसिक (courageous) — pronounced kuh-RAY-juhs
+
+"It was courageous of her to raise the concern directly with leadership."
 
 [↑ Back to index](#index)
 
@@ -5471,6 +5520,10 @@ You asked **“crouched”** — that’s perfectly fine.
 
 # Crud
 
+noun (informal) — 1) a dirty, sticky, or unpleasant substance; grime. 2) mild expletive expressing annoyance.
+
+"There's a layer of crud stuck to the bottom of the pan."
+"Aw, crud, I forgot to save the file before it crashed."
 
 [↑ Back to index](#index)
 
@@ -5634,7 +5687,11 @@ Another common use is when a group discussion becomes focused: "The meeting star
 
 # Cuisine
 
-*Pronunciation:* kwuh·zeen
+noun — a style or method of cooking, especially one characteristic of a particular region or culture.
+
+*Pronunciation:* kwuh-ZEEN
+
+"We tried authentic Thai cuisine at the new restaurant downtown."
 
 [↑ Back to index](#index)
 
@@ -5970,9 +6027,12 @@ she debunks all the usual rubbish about acting
 
 # Decapitated
 
-सिर काटना
+verb (past tense of *decapitate*) — literal: to cut off the head of. Figurative: to remove the top leadership or most important part of an organization.
 
-Decapitate
+सिर काटना (to decapitate)
+
+**Literal:** "The statue's head was decapitated during the earthquake."
+**Figurative:** "The scandal effectively decapitated the company's leadership team overnight."
 
 [↑ Back to index](#index)
 
@@ -6299,8 +6359,12 @@ Here are a few natural ways to use “derangement” in speech:
 
 # Dereliction
 
-noun  
-त्याग sacrifice, renunciation, 
+noun (formal) — 1) the state of being abandoned and falling into disrepair (a *derelict* building). 2) failure to fulfil an obligation or duty ("dereliction of duty").
+
+noun — त्याग (sacrifice/abandonment), renunciation
+
+"The old mill fell into dereliction after the factory closed." (abandonment)
+"Failing to escalate the outage was a clear dereliction of duty." (failure of duty)
 
 [↑ Back to index](#index)
 
@@ -6453,7 +6517,11 @@ You can use the term *“detractor”* when discussing someone who is overly cri
 
 # Detrimental
 
-(हानिकारक)
+adjective — causing harm or damage; damaging.
+
+(हानिकारक — harmful)
+
+"Skipping code reviews can be detrimental to the quality of the codebase."
 
 [↑ Back to index](#index)
 
@@ -6752,7 +6820,13 @@ dis·​cord ˈdi-ˌskȯrd. Synonyms of discord. 1\. a. : lack of agreement or h
 
 # Discrepant
 
-प्रतिकूल, असंगत, विभिन्न, सामंजस्यरहित
+adjective (formal) — failing to agree or match; inconsistent with something else.
+
+प्रतिकूल, असंगत, विभिन्न (discrepant/inconsistent)
+
+"The two witnesses gave discrepant accounts of the accident."
+
+Related noun: **discrepancy** — "There's a discrepancy between the invoice and the contract amount."
 
 [↑ Back to index](#index)
 
@@ -6903,7 +6977,11 @@ Say this sentence **3 times aloud**:
 
 # Disinclination
 
-अनिच्छा, इच्छा का अभाव
+noun — a reluctance or unwillingness to do something.
+
+अनिच्छा, इच्छा का अभाव (unwillingness)
+
+"He showed a clear disinclination to accept feedback from his peers."
 
 [↑ Back to index](#index)
 
@@ -7379,7 +7457,11 @@ a dormant volcano
 
 # Dormitory
 
-छात्रावास
+noun — a large room or building providing shared sleeping quarters, typically in a school, college, or institution.
+
+छात्रावास (dormitory/hostel)
+
+"All first-year students live together in the college dormitory."
 
 [↑ Back to index](#index)
 
@@ -7516,7 +7598,11 @@ regarded with awe; greatly revered.
 
 # Dreaded
 
-खूंखार
+adjective — regarded with great fear or dislike; feared in advance.
+
+खूंखार (fierce/dreaded)
+
+"Monday's dreaded status meeting always runs an hour over."
 
 [↑ Back to index](#index)
 
@@ -8265,7 +8351,11 @@ produce (a legal document, especially a deed or statute) in its final form.
 
 # Engrossing
 
-मनोरंजक, दिलचस्प
+adjective — absorbing all of one's attention or interest; captivating.
+
+मनोरंजक, दिलचस्प (engaging/interesting)
+
+"The mystery novel was so engrossing that I finished it in one sitting."
 
 [↑ Back to index](#index)
 
@@ -9161,7 +9251,11 @@ The spread of diseases
 
 # Extol
 
-प्रशंसा करना, बड़ाई करना
+verb (formal) — to praise someone or something enthusiastically.
+
+प्रशंसा करना, बड़ाई करना (to praise highly)
+
+"The manager extolled the team's efforts in the all-hands meeting."
 
 [↑ Back to index](#index)
 
@@ -9384,7 +9478,12 @@ Go out on a limb
 
 # Fallouts
 
-नतीजा
+noun (plural of *fallout*) — 1) literal: radioactive particles that fall after a nuclear explosion. 2) figurative: the unpleasant aftermath or consequences of an event, or a falling-out (disagreement) between people.
+
+नतीजा (outcome/result)
+
+**Figurative:** "There were several fallouts between the co-founders after the funding round."
+**Literal:** "Nuclear fallout contaminated the region for decades."
 
 [↑ Back to index](#index)
 
@@ -11023,7 +11122,12 @@ An unpleasantly sticky substance
 
 # Goosebump
 
-(रोंगटे)
+noun (usually plural: *goosebumps*) — small bumps that appear on the skin due to cold, fear, or strong emotion, caused by tiny muscles pulling hair follicles upright.
+
+(रोंगटे — goosebumps)
+
+"The horror movie's ending gave me goosebumps."
+"Her speech was so moving it gave the whole room goosebumps."
 
 [↑ Back to index](#index)
 
@@ -11642,7 +11746,11 @@ Try saying aloud:
 
 # Havoc
 
-प्रलय, विनाश, सर्वनाश
+noun — widespread destruction, damage, or disorder; chaos.
+
+प्रलय, विनाश, सर्वनाश (havoc/destruction)
+
+"The server outage wreaked havoc on the release schedule."
 
 [↑ Back to index](#index)
 
@@ -12046,6 +12154,11 @@ a break between two vowels coming together but not in the same syllable, as in t
 
 # Hide-Hid-Hidden
 
+irregular verb — the three forms of *hide*: present **hide**, past **hid**, past participle **hidden**. To put or keep something out of sight.
+
+"She hides her notes before every exam." (present)
+"He hid the gift in the closet." (past)
+"The treasure had been hidden for centuries before it was found." (past participle)
 
 [↑ Back to index](#index)
 
@@ -13956,7 +14069,11 @@ a deliberative or administrative council in Spain or Portugal.
 
 # Kooky
 
-( पागल व्यक्ति)
+adjective (informal) — eccentric, odd, or slightly crazy, usually in a harmless or endearing way.
+
+(पागल व्यक्ति — an eccentric/crazy person)
+
+"My uncle has some kooky theories about investing, but they somehow keep working out."
 
 [↑ Back to index](#index)
 
@@ -14153,7 +14270,12 @@ denoting the second or second mentioned of two people or things.
 
 # Lavish
 
-खर्चीला, अतिव्ययी, प्रचुर
+adjective/verb — adjective: sumptuously rich, elaborate, or generous, often to excess. verb: to give something in great, generous amounts.
+
+खर्चीला, अतिव्ययी, प्रचुर (lavish/extravagant)
+
+"They threw a lavish wedding with a live orchestra." (adjective)
+"She lavished praise on the new interns after their first demo." (verb)
 
 [↑ Back to index](#index)
 
@@ -14436,7 +14558,12 @@ Damaging someone reputation by writing lie about them
 
 # Likewise
 
-वैसे ही
+adverb — 1) in the same way; similarly. 2) used to say "the same applies to me" or "you too."
+
+वैसे ही (likewise/similarly)
+
+"He apologized for the delay; his manager did likewise."
+"'Nice to meet you.' 'Likewise!'"
 
 [↑ Back to index](#index)
 
@@ -14459,9 +14586,11 @@ Examples
 
 # Lineage
 
-(li·nee·uhj)
+noun — 1) a line of descent or ancestry. 2) figurative: the history or line of development behind something (an idea, a product, a company).
 
- कुल,  वंशावली,  वंश
+(li-nee-uhj) — कुल, वंशावली, वंश (lineage/ancestry)
+
+"The company traces its lineage back to a small workshop founded in 1950."
 
 [↑ Back to index](#index)
 
@@ -15007,15 +15136,19 @@ Keep practicing — the flow is already improving\!
 
 # matter-of-fact
 
-adjective
+adjective — stating facts plainly, without emotion, embellishment, or drama.
 
-serious, factual
+"She delivered the bad news in a matter-of-fact tone, without any drama."
 
 [↑ Back to index](#index)
 
 # Mausoleum
 
- मक़बरा,  कब्र,  समाधि
+noun — a large, stately tomb, or a building housing one.
+
+मक़बरा, कब्र, समाधि (tomb/mausoleum)
+
+"Tourists visit the mausoleum to see the ancient tomb inside."
 
 [↑ Back to index](#index)
 
@@ -15104,7 +15237,11 @@ It's important to note that while meekness is often seen as a positive quality, 
 
 # Megalomaniac
 
-अहंकारोन्मादी
+noun/adjective — a person obsessed with their own power, wealth, or importance; someone with delusions of grandeur.
+
+अहंकारोन्मादी (megalomaniac)
+
+"The new CEO acted like a megalomaniac, insisting on approving every single decision himself."
 
 [↑ Back to index](#index)
 
@@ -15642,7 +15779,11 @@ a quiet and indistinct utterance.
 
 # mumbo-jumbo
 
-(confusing words) 
+noun (informal) — language, ritual, or explanation that is needlessly complicated, confusing, or meaningless; gibberish.
+
+(confusing words)
+
+"Cut the technical mumbo-jumbo and just tell me whether the site is down."
 
 [↑ Back to index](#index)
 
@@ -16460,6 +16601,13 @@ obedient or attentive to an excessive or servile degree.
 
 # Observe/Absorb
 
+two related but distinct verbs, often confused:
+
+**Observe** — to watch carefully, or to notice/perceive something.
+"She observed how the senior engineer handled the incident before trying it herself."
+
+**Absorb** — to take in fully, whether information, liquid, or impact.
+"It takes time to absorb all the feedback from a design review."
 
 [↑ Back to index](#index)
 
@@ -18418,8 +18566,9 @@ adjective
 
 # Piglet
 
-noun  
-a young pig.
+noun — a young pig.
+
+"The farm had a litter of piglets born last week."
 
 [↑ Back to index](#index)
 
@@ -18480,8 +18629,12 @@ set on or as if on a pinnacle.
 
 # Pioneer
 
-noun  
-मार्ग-निर्माता
+noun/verb — noun: a person who is among the first to explore, research, or develop a new area or idea. verb: to be the first to develop or use something.
+
+मार्ग-निर्माता (pathfinder/pioneer)
+
+"She was a pioneer in the field of machine learning."
+"The team pioneered a caching approach that competitors later copied."
 
 [↑ Back to index](#index)
 
@@ -18743,7 +18896,11 @@ an act of jumping or diving into water.
 
 # Poignant
 
- मार्मिक,  हृदय विदारक
+adjective — evoking a keen sense of sadness, regret, or emotion; deeply moving.
+
+मार्मिक, हृदय विदारक (poignant/heart-rending)
+
+"His farewell speech was poignant, reminding everyone how far the team had come together."
 
 [↑ Back to index](#index)
 
@@ -18764,7 +18921,11 @@ BJP is poised to win the 2024 election.
 
 # Polyglot
 
-अनेक भाषाएँ जाननेवाला
+noun/adjective — a person who knows and can use several languages.
+
+अनेक भाषाएँ जाननेवाला (one who knows many languages)
+
+"She's a polyglot who speaks five languages fluently."
 
 [↑ Back to index](#index)
 
@@ -19825,7 +19986,11 @@ Examples of protrusion in a sentence:
 
 # Providential
 
-दैवी, भाग्यशाली
+adjective — occurring at a particularly favorable or fortunate time, as if by divine intervention; timely and lucky.
+
+दैवी, भाग्यशाली (providential/fortunate)
+
+"It was providential that the backup finished running just minutes before the server crashed."
 
 [↑ Back to index](#index)
 
@@ -20215,7 +20380,13 @@ means to force someone into a very dangerous or precarious situation, essentiall
 
 # Put out
 
-बुझाना, बाहर निकालना
+phrasal verb — 1) to extinguish (a fire, cigarette). 2) to inconvenience or annoy someone (usually passive: "be put out"). 3) to publish or release (a statement, an album).
+
+बुझाना, बाहर निकालना (to extinguish/put out)
+
+**Literal:** "Firefighters put out the blaze within an hour."
+**Figurative (annoyed):** "She was put out that no one told her about the schedule change."
+**Figurative (release):** "The company put out a statement addressing the outage."
 
 [↑ Back to index](#index)
 
@@ -20554,7 +20725,12 @@ a lively party involving dancing and drinking.
 
 # Raven
 
-काला कौआ(ray·vn)
+noun/adjective — noun: a large, glossy black bird known for intelligence, often associated with omens in folklore. adjective ("raven-black"): deep, glossy black.
+
+काला कौआ (black crow/raven) — pronounced RAY-vn
+
+"A raven perched on the fence, watching us in silence." (literal)
+"Her raven hair shone under the studio lights." (figurative — describing color)
 
 [↑ Back to index](#index)
 
@@ -20685,7 +20861,10 @@ reckless driving
 
 # Reckon
 
-to think or suppose
+verb (informal, especially British) — to think, suppose, believe, or estimate.
+
+"I reckon we'll finish the migration by Friday."
+"They reckoned the total cost at around ten thousand dollars."
 
 [↑ Back to index](#index)
 
@@ -20830,7 +21009,11 @@ Command, Control, Head, Helm, Saddle, Seat of authority, Throne, Wheel.
 
 # Rejuvenation
 
-(ruh·joo·vuh·nay·shn)
+noun — the act or process of making someone or something feel or look young, fresh, and energized again.
+
+(pronounced: ruh-joo-vuh-NAY-shn)
+
+"After a week off, the team's rejuvenation showed in how energized they were at the next sprint planning."
 
 [↑ Back to index](#index)
 
@@ -20948,9 +21131,12 @@ Repentance, sorrow
 
 # Renaissance
 
-पुनर्जागरण काल,  
-नवजागरण,  
-नवजागृति
+noun — 1) (capitalized, historical) the European cultural rebirth of art, literature, and learning from the 14th to 17th century. 2) (lowercase, figurative) a revival of interest, activity, or energy in something.
+
+पुनर्जागरण काल, नवजागृति (renaissance/rebirth)
+
+**Literal (historical):** "The Renaissance brought a flourishing of art and science across Europe."
+**Figurative:** "The city is experiencing a renaissance in its startup scene."
 
 [↑ Back to index](#index)
 
@@ -22623,7 +22809,12 @@ Try saying this aloud:
 
 # Scarce
 
-अपर्याप्त, कम
+adjective — insufficient to meet demand; rare or hard to find.
+
+अपर्याप्त (insufficient), कम (less)
+
+"Skilled engineers are scarce in this niche market."
+"Water grew scarce during the drought."
 
 [↑ Back to index](#index)
 
@@ -24076,7 +24267,12 @@ a sudden severe or prolonged fall in the price, value, or amount of something.
 
 # Slur
 
-कलंक, धब्बा, बदनामी, 
+noun/verb — noun: 1) an insulting or contemptuous remark, especially about someone's race, ethnicity, or group. 2) blurred, indistinct speech. verb: to speak indistinctly, or to disparage someone unfairly.
+
+कलंक, धब्बा, बदनामी (slur/stain on reputation)
+
+"He was fired for using a racial slur." (noun — insult)
+"He was slurring his words after the long overnight flight." (verb — indistinct speech)
 
 [↑ Back to index](#index)
 
@@ -24405,6 +24601,9 @@ settle or move into a warm, comfortable position.
 
 # Social cues
 
+noun phrase — verbal or non-verbal signals that indicate what behavior or response is expected in a social situation (tone of voice, facial expression, body language, pauses).
+
+"He struggled to pick up on social cues, like when it was time to stop talking in a meeting."
 
 [↑ Back to index](#index)
 
@@ -25275,9 +25474,13 @@ Startled means suddenly disturbed or agitated, as by surprise or alarm. For exam
 
 # Stationary
 
-(स्थिर)
+adjective — not moving; staying in one place; fixed.
 
-unchanging
+(स्थिर — fixed/unchanging)
+
+"The car remained stationary at the red light for almost a minute."
+
+**Careful:** don't confuse with *stationery* (paper, pens, and other writing materials) — same sound, different meaning.
 
 [↑ Back to index](#index)
 
@@ -25462,7 +25665,11 @@ contemptible; corrupt.
 
 # Stint
 
-(कार्यकाल)
+noun — a fixed or allotted period of time spent doing a particular job or activity.
+
+(कार्यकाल — tenure/stint)
+
+"She did a two-year stint at a startup before joining the bank."
 
 [↑ Back to index](#index)
 
@@ -25528,9 +25735,13 @@ dull and uninspired; lacking originality or excitement.
 
 # Stoicism
 
-आत्मसंयम, वैराग्य
+noun — 1) (capitalized) an ancient Greek philosophy that teaches enduring hardship without complaint, through reason and self-control. 2) (lowercase) the practice of enduring pain or hardship without showing feelings.
 
-Stoic
+आत्मसंयम, वैराग्य (self-restraint/stoicism)
+
+"He faced the layoff with quiet stoicism, never once complaining."
+
+Related adjective: **stoic** — "She remained stoic throughout the surgery."
 
 [↑ Back to index](#index)
 
@@ -25744,7 +25955,11 @@ struggle or fight vigorously.
 
 # Stubborn
 
-( ज़िद्दी,  अभिमानी, अड़ियल)
+adjective — refusing to change one's mind or course of action, despite pressure, argument, or good reason.
+
+(ज़िद्दी, अभिमानी, अड़ियल — stubborn/obstinate)
+
+"He was too stubborn to admit the design had a flaw."
 
 [↑ Back to index](#index)
 
@@ -26761,8 +26976,12 @@ Explanation
 
 # Tepid
 
-गुनगुना  
-Adjective
+adjective — 1) literal: (of a liquid) only slightly warm; lukewarm. 2) figurative: showing little enthusiasm or interest.
+
+गुनगुना (lukewarm)
+
+**Literal:** "The soup arrived tepid, not hot."
+**Figurative:** "The pitch got a tepid response from the investors."
 
 [↑ Back to index](#index)
 
@@ -27715,8 +27934,12 @@ present, appearing, or found everywhere.
 
 # Uncanny
 
-अलौकिक, विलक्षण  
-supernatural
+adjective — strange or mysterious in a way that is slightly unsettling; also used for a remarkably close resemblance or skill.
+
+अलौकिक, विलक्षण (supernatural/uncanny)
+
+"There's an uncanny resemblance between the twins."
+"The office was uncannily quiet after the layoffs."
 
 [↑ Back to index](#index)
 
@@ -28100,7 +28323,11 @@ cheerful; optimistic.
 
 # Uproarious
 
-( कोलाहलपूर्ण)
+adjective — 1) very loud and noisy, especially with laughter. 2) extremely funny.
+
+(कोलाहलपूर्ण — noisy/uproarious)
+
+"The joke landed and the whole room broke into uproarious laughter."
 
 [↑ Back to index](#index)
 
@@ -28403,7 +28630,11 @@ confer or bestow (power, authority, property, etc.) on someone.
 
 # vested interest
 
-निहित स्वार्थ
+noun phrase — a personal stake in something, especially because you stand to benefit from a particular outcome, which may bias your judgment.
+
+निहित स्वार्थ (vested interest)
+
+"He has a vested interest in the merger going through, since he owns company stock."
 
 [↑ Back to index](#index)
 
@@ -29160,7 +29391,12 @@ In each case, "withdrawn" implies a sense of removal, reticence, or retraction, 
 
 # Withered
 
-मुरझाया हुआ
+adjective/verb — (of a plant) shriveled or dried up from loss of moisture. Figuratively: lost vitality, strength, or support; declined.
+
+मुरझाया हुआ (withered)
+
+**Literal:** "The flowers withered after a week without water."
+**Figurative:** "Support for the initiative withered once the budget was cut."
 
 [↑ Back to index](#index)
 

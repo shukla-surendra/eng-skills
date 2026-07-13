@@ -360,6 +360,9 @@ Example:
 
 # A household staple
 
+noun phrase — an item that is commonly kept and regularly used in most homes; something considered a basic, everyday essential.
+
+"Rice is a household staple in many Asian countries."
 
 [↑ Back to index](#index)
 
@@ -473,6 +476,10 @@ specific task to be completed, especially following a meeting
 
 # Afoot
 
+adjective/adverb (used after "be," e.g. "something is afoot") — happening, in progress, or being secretly planned.
+
+"There were rumors that a merger was afoot."
+"Something's afoot in the leadership team's roadmap discussions."
 
 [↑ Back to index](#index)
 
@@ -596,6 +603,9 @@ we aim to give you the best possible service
 
 # Ain’t gonna fly
 
+idiom (informal) — will not be accepted, approved, or believed; won't work.
+
+"That excuse ain't gonna fly with the client."
 
 [↑ Back to index](#index)
 
@@ -1037,6 +1047,9 @@ Useful phrases you can practice:
 
 # Aspiring
 
+adjective — hoping to become (a particular thing), especially in a career, but not yet having achieved it.
+
+"She's an aspiring product manager, currently interning on the growth team."
 
 [↑ Back to index](#index)
 
@@ -1236,6 +1249,9 @@ Meaning: To create a copy of data or provide support.
 
 # Badge of honor
 
+idiom — something normally seen as a hardship, flaw, or negative, but instead worn with pride as a sign of toughness or achievement.
+
+"Getting paged at 3 a.m. during your first on-call rotation is practically a badge of honor here."
 
 [↑ Back to index](#index)
 
@@ -1354,6 +1370,9 @@ Comes from hunting: dogs sometimes bark at the base of a tree where they think t
 
 # Baseball cap
 
+noun — a soft cap with a curved brim, worn casually or for sports. Literal, everyday object — no figurative use.
+
+"He wore his baseball cap backwards while debugging on a Saturday."
 
 [↑ Back to index](#index)
 
@@ -1431,6 +1450,10 @@ To be unforgettable.
 
 # Be into something
 
+phrasal verb (informal) — to be very interested in or enthusiastic about something.
+
+"She's really into rock climbing these days."
+"I'm not that into sci-fi movies."
 
 [↑ Back to index](#index)
 
@@ -2024,6 +2047,9 @@ If you want to sound more fluent:
 
 # Blatantly clear
 
+adjective phrase — extremely obvious; impossible to miss, deny, or misunderstand.
+
+"It was blatantly clear from the metrics that the feature wasn't being used."
 
 [↑ Back to index](#index)
 
@@ -2718,6 +2744,10 @@ I bumped into her on the way back from the hospital.
 
 # Bury
 
+verb — literal: to put something in the ground and cover it with earth. Figurative: to suppress or hide something (*bury the lede*); or to be overwhelmed with work (*buried in work*).
+
+**Literal:** "They buried the time capsule under the old oak tree."
+**Figurative:** "He's buried in tickets this sprint." / "The company tried to bury the bad news in a Friday-afternoon release."
 
 [↑ Back to index](#index)
 
@@ -3104,6 +3134,9 @@ Meaning: To perform or complete a task or action.
 
 # Carve in stone
 
+idiom (often negative: "not carved in stone") — fixed and unchangeable, based on the image of ancient stone inscriptions that can't be edited.
+
+"The roadmap isn't carved in stone — we can still adjust priorities next quarter."
 
 [↑ Back to index](#index)
 
@@ -3221,6 +3254,9 @@ Meaning: To update or complete something that was missed or delayed.
 
 # Cater to someone
 
+phrasal verb — to provide what someone needs or wants; to satisfy their particular requirements or tastes.
+
+"The app was redesigned to cater to first-time users."
 
 [↑ Back to index](#index)
 
@@ -3273,6 +3309,9 @@ he was being catfished by a cruel prankster
 
 # Chair lift
 
+noun — a series of chairs mounted on a moving cable, used to carry people up a mountain, typically at ski resorts. Literal object, no figurative use.
+
+"We took the chair lift to the top of the slope."
 
 [↑ Back to index](#index)
 
@@ -4132,6 +4171,9 @@ many a ship has come to grief along this shore
 
 # Come to mind
 
+idiom — to occur to someone as a thought or memory; to be recalled spontaneously.
+
+"When you say 'reliable,' one engineer immediately comes to mind."
 
 [↑ Back to index](#index)
 
@@ -4600,11 +4642,18 @@ Something enters slowly and gradually — without you realizing it at first.
 
 # Crummy
 
+adjective (informal) — of poor quality; unpleasant, shabby, or disappointing.
+
+"The hotel room was pretty crummy for the price we paid."
 
 [↑ Back to index](#index)
 
 # Crutch
 
+noun — literal: a support used under the arm to help an injured person walk. Figurative: something relied on excessively, often in an unhealthy way that prevents real growth or improvement.
+
+**Literal:** "He was on crutches for six weeks after the surgery."
+**Figurative:** "Copy-pasting answers became a crutch instead of actually learning the language."
 
 [↑ Back to index](#index)
 
@@ -5802,6 +5851,10 @@ fail to meet a commitment to make a regular payment.
 
 # fall for
 
+phrasal verb — 1) to be deceived or tricked by something. 2) to fall in love with someone.
+
+"Don't fall for that phishing email — it looks legit but it isn't."
+"He fell for her the moment they met."
 
 [↑ Back to index](#index)
 
@@ -5829,6 +5882,9 @@ fail to meet a commitment to make a regular payment.
 
 # Fancy a cuppa
 
+idiom (British, informal) — "Would you like a cup of tea?" Here, *fancy* means "would like," and *cuppa* is short for "cup of tea."
+
+"Fancy a cuppa before we start the meeting?"
 
 [↑ Back to index](#index)
 
@@ -6045,11 +6101,18 @@ Meaning: To reach maximum capacity or occupancy.
 
 # Fine-tune
 
+verb — to make small, precise adjustments to something in order to improve or optimize it.
+
+"We spent the last sprint fine-tuning the recommendation algorithm."
 
 [↑ Back to index](#index)
 
 # Fire up
 
+phrasal verb — 1) to start up (a machine, engine, or piece of software). 2) to make someone enthusiastic or energized.
+
+"Let me fire up the server before the demo." (start)
+"Her speech fired up the whole team." (energize)
 
 [↑ Back to index](#index)
 
@@ -6084,6 +6147,9 @@ his reputation is now firmly established
 
 # Flashback
 
+noun — a sudden, vivid memory of a past event; also a storytelling technique that cuts back to an earlier scene.
+
+"That old codebase gave me a flashback to my first job."
 
 [↑ Back to index](#index)
 
@@ -6719,6 +6785,9 @@ he's not very good at getting his ideas across
 
 # Get along
 
+phrasal verb — to have a friendly, harmonious relationship with someone.
+
+"The new hire gets along well with the rest of the team."
 
 [↑ Back to index](#index)
 
@@ -6936,6 +7005,9 @@ He was getting off the car.
 
 # Get off on something
 
+phrasal verb (informal) — to derive pleasure or excitement from something, often used with mild criticism.
+
+"He seems to get off on micromanaging every detail."
 
 [↑ Back to index](#index)
 
@@ -7098,6 +7170,9 @@ What did you get up to last weekend?
 
 # Get word
 
+idiom — to receive information or news about something, often informally or unofficially.
+
+"We got word that the client approved the proposal this morning."
 
 [↑ Back to index](#index)
 
@@ -7617,6 +7692,9 @@ spread quickly over the internet
 
 # Goggles
 
+noun — protective eyewear that fits closely around the eyes, worn for swimming, skiing, lab work, or construction. Literal object, no figurative use.
+
+"Wear your safety goggles before using the drill."
 
 [↑ Back to index](#index)
 
@@ -7713,6 +7791,9 @@ It’s often used in casual speech instead of saying *“I made a mistake”* or
 
 # Goofy
 
+adjective (informal) — silly, foolish, or awkward in a good-natured, endearing way.
+
+"He has a goofy sense of humor that lightens up tense meetings."
 
 [↑ Back to index](#index)
 
@@ -7867,6 +7948,10 @@ If you want, next time **you explain one of these phrases yourself**, and I’ll
 
 # Grow out of
 
+phrasal verb — 1) to become too big for something, especially clothes. 2) to stop doing or liking something as you mature.
+
+"She grew out of her old sneakers within a year." (literal)
+"He grew out of his habit of interrupting people in meetings." (figurative)
 
 [↑ Back to index](#index)
 
@@ -8254,6 +8339,9 @@ To be very busy or stressed with many tasks.
 
 # Have been through a lot
 
+idiom — to have experienced many difficult, stressful, or challenging events.
+
+"Cut her some slack — she's been through a lot this year."
 
 [↑ Back to index](#index)
 
@@ -9241,6 +9329,9 @@ In what way : why does one think that? "This room looks different." "How so?
 
 # Hypocritical
 
+adjective — behaving in a way that contradicts one's own stated beliefs or values; saying one thing and doing another.
+
+"It's hypocritical to preach work-life balance and then email the team at midnight."
 
 [↑ Back to index](#index)
 
@@ -9287,6 +9378,11 @@ It shows **zero interest or concern** about something.
 
 # I don’t know shit
 
+idiom (vulgar, very informal — use with caution in professional settings) — to have no knowledge or understanding about something at all.
+
+"I don't know shit about frontend frameworks, so I'll defer to you on this."
+
+A more neutral, professional equivalent: "I have zero background in..." / "I'm completely new to..."
 
 [↑ Back to index](#index)
 
@@ -9749,6 +9845,9 @@ The word **“inconceivable”** means *something that is impossible to imagine,
 
 # Infamous
 
+adjective — well known for a bad or negative reason; having an unfavorable reputation. (Not the same as "famous," which is neutral/positive.)
+
+"The service is infamous for its confusing checkout flow."
 
 [↑ Back to index](#index)
 
@@ -10081,6 +10180,9 @@ a commercial enterprise undertaken jointly by two or more parties which otherwis
 
 # journaling
 
+noun (gerund of "journal") — the practice of regularly writing down one's thoughts, experiences, or reflections.
+
+"She started journaling every morning to organize her thoughts before work."
 
 [↑ Back to index](#index)
 
@@ -10273,6 +10375,10 @@ After hours of studying, the fatigue finally kicked in and I had to take a nap.
 
 # Kneel
 
+verb — literal: to go down on one's knee or knees, e.g. in prayer, respect, or to reach something low. Figurative: to submit or show deference to pressure.
+
+**Literal:** "He knelt down to tie his shoelace."
+**Figurative:** "The company had to kneel to regulatory pressure and change its policy."
 
 [↑ Back to index](#index)
 
@@ -11339,6 +11445,9 @@ It can be **literal** (a person physically hiding) or **figurative** (a problem,
 
 # Luxurious
 
+adjective — extremely comfortable, elegant, or expensive; indulgent.
+
+"They stayed in a luxurious hotel overlooking the beach."
 
 [↑ Back to index](#index)
 
@@ -11585,6 +11694,9 @@ A **milestone** is an **important stage, event, or achievement** in a process, p
 
 # Mindset
 
+noun — a person's established set of attitudes, beliefs, or habitual way of thinking.
+
+"A growth mindset helps you treat failure as feedback rather than a verdict."
 
 [↑ Back to index](#index)
 
@@ -12288,6 +12400,9 @@ It’s often used for **emphasis** when something is very far from the truth, a 
 
 # Nuanced
 
+adjective — showing subtle shades of meaning, attitude, or expression; not simplistic or black-and-white.
+
+"Her explanation of the tradeoffs was nuanced, acknowledging both the risks and the benefits."
 
 [↑ Back to index](#index)
 
@@ -12849,6 +12964,9 @@ Example: "It was out of the way for him to act so kindly."
 
 # Outcome
 
+noun — the way a thing turns out; a result or consequence.
+
+"The outcome of the A/B test surprised everyone on the team."
 
 [↑ Back to index](#index)
 
@@ -13166,6 +13284,9 @@ Meaning: To decline or reject an offer or opportunity.
 
 # Pay homage
 
+idiom — to publicly show respect, honor, or tribute to someone or something.
+
+"The new logo pays homage to the product's original 2005 design."
 
 [↑ Back to index](#index)
 
@@ -13291,6 +13412,9 @@ Think of it like a **pressure cooker** — the more it’s held in, the stronger
 
 # perception
 
+noun — 1) the way something is understood, interpreted, or regarded by others. 2) the ability to notice or become aware of something through the senses.
+
+"Public perception of the brand improved after the refund policy changed."
 
 [↑ Back to index](#index)
 
@@ -13397,6 +13521,10 @@ Meaning: To gradually discontinue or replace something.
 
 # Phenomenon
 
+noun — a fact, occurrence, or situation that is observed, especially one that is remarkable or notable; also, a remarkably talented person or thing.
+
+"Viral marketing is a fascinating phenomenon to study."
+"He's a phenomenon on the basketball court."
 
 [↑ Back to index](#index)
 
@@ -14642,6 +14770,9 @@ I can’t put up with your anger
 
 # R & R
 
+abbreviation for "rest and relaxation" (or "rest and recreation") — time off to relax and recover from work or stress.
+
+"After the product launch, the team took a well-deserved week of R & R."
 
 [↑ Back to index](#index)
 
@@ -14768,6 +14899,9 @@ Say this slowly and clearly:
 
 # Rat race
 
+idiom (usually negative) — an exhausting, competitive, repetitive struggle for success, especially in one's career, that can feel pointless.
+
+"He quit his corporate job to escape the rat race and start a small farm."
 
 [↑ Back to index](#index)
 
@@ -15480,6 +15614,9 @@ So in your case, *“run past some details someone”* probably means: *“share
 
 # Run with something
 
+phrasal verb — to take an idea or task and continue developing it independently, often with enthusiasm.
+
+"I like your suggestion — go ahead and run with it."
 
 [↑ Back to index](#index)
 
@@ -15532,6 +15669,10 @@ It’s almost always used in a **figurative sense** today, usually for governmen
 
 # Sandbox
 
+noun/verb — literal: a box filled with sand for children to play in. Figurative (common in tech): an isolated testing environment where changes can be made safely without affecting production.
+
+**Literal:** "The kids were playing in the sandbox."
+**Figurative:** "Test the new integration in the sandbox environment before deploying to production."
 
 [↑ Back to index](#index)
 
@@ -15702,6 +15843,9 @@ It’s often used in business, startups, programming, and self-improvement. The 
 
 # Seductive
 
+adjective — literal: sexually attractive or tempting. Figurative: very appealing or tempting in a way that might lead you astray, e.g. a "seductive but risky" idea.
+
+"The idea of a quick fix was seductive, but we knew it would pile up tech debt."
 
 [↑ Back to index](#index)
 
@@ -16204,6 +16348,9 @@ The phrase **“size out”** can mean different things depending on context:
 
 # Sizzle out
 
+phrasal verb — to gradually lose energy, momentum, or interest and fade away, based on the image of a sizzling sound dying down.
+
+"The initial excitement about the new tool sizzled out after a few weeks."
 
 [↑ Back to index](#index)
 
@@ -16441,6 +16588,9 @@ Try speaking these aloud a few times:
 
 # Soak up some sun
 
+idiom — to relax outdoors and enjoy sunshine, typically while on vacation.
+
+"We spent the weekend at the beach just soaking up some sun."
 
 [↑ Back to index](#index)
 
@@ -16772,6 +16922,9 @@ The phrase **“spill over”** means something that **extends beyond its normal
 
 # Spit in someone’s face
 
+idiom (figurative, strong register) — to show blatant contempt or disrespect toward someone, treating their effort, trust, or generosity with disdain.
+
+"Ignoring their feedback after they spent hours reviewing the doc felt like spitting in their face."
 
 [↑ Back to index](#index)
 
@@ -17590,6 +17743,9 @@ It’s more common in written or descriptive English, but you’ll also hear it 
 
 # Strike a chord
 
+idiom — to evoke a strong emotional response, or a sense of shared recognition/understanding, in someone.
+
+"Her story about burnout really struck a chord with the audience."
 
 [↑ Back to index](#index)
 
@@ -17995,6 +18151,9 @@ It means **to grab, control, or gain possession of something**, either physicall
 
 # Take note of something
 
+idiom — to pay close attention to and remember something, usually because it matters.
+
+"Take note of the new deployment process — it changes next week."
 
 [↑ Back to index](#index)
 
@@ -18525,6 +18684,9 @@ The phrase **"this is my call"** can have several meanings depending on the cont
 
 # This just in
 
+idiom (from news broadcasting) — used to introduce breaking or very recent news; also used humorously/sarcastically to announce something obvious.
+
+"This just in: the meeting that could've been an email ran over by 30 minutes."
 
 [↑ Back to index](#index)
 
@@ -18663,9 +18825,9 @@ It conveys the idea of progress, growth, or change.
 
 # to a certain extent
 
-idiomatic
+idiomatic phrase — used to say that something is true or applies, but only partly, not completely.
 
-Partially
+"To a certain extent, I agree with the proposal, but I'd want more data before committing."
 
 [↑ Back to index](#index)
 
@@ -18972,6 +19134,10 @@ to ignore someone's feelings or rights and treat them as if they are not importa
 
 # tumble down
 
+phrasal verb — literal: to fall down suddenly and in an uncontrolled way. Figurative: to collapse or decline rapidly (e.g. numbers, prices, a structure).
+
+**Literal:** "The old wall began to tumble down after the storm."
+**Figurative:** "Revenue tumbled down after the biggest client left."
 
 [↑ Back to index](#index)
 
@@ -19193,7 +19359,10 @@ Stop turning over the page
 
 # Turn Upside Down
 
-To turn something opposite
+idiom — literal: to invert something completely. Figurative: to completely disrupt or dramatically change a situation.
+
+**Literal:** "He turned the box upside down looking for his keys."
+**Figurative:** "The acquisition turned the whole org structure upside down."
 
 [↑ Back to index](#index)
 
@@ -19244,6 +19413,9 @@ After all I did for him, he turned on me.
 
 # Two slides of the same coin
 
+idiom (commonly written "two **sides** of the same coin") — two things that appear different on the surface but are closely related, or are two aspects of the same underlying issue.
+
+"Ambition and impatience are often two sides of the same coin."
 
 [↑ Back to index](#index)
 
@@ -19290,6 +19462,9 @@ The phrase "under the hood" is an idiom that originates from car maintenance, wh
 
 # Undoubtedly
 
+adverb — without doubt; certainly.
+
+"This is undoubtedly the strongest proposal we've received this quarter."
 
 [↑ Back to index](#index)
 
@@ -19671,6 +19846,10 @@ Figuratively, got involved in something difficult or messy.
 
 # Walk away
 
+phrasal verb — 1) to leave a situation, often to avoid conflict or because it's not worth continuing. 2) to survive something largely unharmed ("walk away unharmed/unscathed").
+
+"Sometimes it's better to walk away from a deal than accept bad terms." (leave)
+"He walked away from the crash without a scratch." (survive)
 
 [↑ Back to index](#index)
 
@@ -19898,6 +20077,9 @@ The phrase "What are you so bouncy about?" is an informal way of asking why some
 
 # Where rubber meets the road
 
+idiom (also "where the rubber meets the road") — the point where a theory, plan, or idea is finally put into practice and truly tested.
+
+"The design looks great on paper, but production traffic is where the rubber meets the road."
 
 [↑ Back to index](#index)
 
@@ -20173,6 +20355,10 @@ Meaning: To gradually develop or build up something.
 
 # Wrangle
 
+verb — literal: to herd or manage livestock (as in "cattle wrangler"). Figurative: to argue persistently, especially over a decision or issue; or to manage something with effort/difficulty.
+
+**Literal:** "The cowboys wrangled the cattle back into the pen."
+**Figurative:** "The two teams wrangled over ownership of the shared library for weeks."
 
 [↑ Back to index](#index)
 
@@ -20377,6 +20563,11 @@ relating to or denoting a situation in which whatever is gained by one side is l
 
 # Zip
 
+noun/verb — noun: a fastener (zipper); informally, "nothing/zero" ("we got zip"). verb: to move very fast, or to close something with a zipper.
+
+"He zipped up his jacket." (verb, literal)
+"We got zip for a response from the vendor." (noun, informal — nothing)
+"She zipped through the code review in ten minutes." (verb, figurative — fast)
 
 [↑ Back to index](#index)
 
