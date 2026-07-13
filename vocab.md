@@ -977,7 +977,9 @@ causing shock or dismay; horrific.
 adjective  
 1\.  
 clearly visible or understood; obvious.  
-"for no apparent reason she laughed"
+"for no apparent reason she laughed"  
+Similar:  
+(evident, plain, obvious, clear, Manifest, Visible, discernible)
 
 2\.  
 seeming real or true, but not necessarily so.  
@@ -28651,6 +28653,13 @@ It's his vulgarity that I can't take.
 1.2 The film is tasteless, vulgar and even badly shot.
 
 \=========================
+
+I hate the vulgarity of this room. \[+ of\]   
+\==========================  
+\[disapproval\]  
+The women laughed coarsely at some vulgar jokes. 
+
+\==========================
 
 [↑ Back to index](#index)
 

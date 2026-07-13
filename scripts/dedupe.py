@@ -100,8 +100,29 @@ def merge_bodies(entries: list[Entry]) -> list[str]:
             norm = normalize_block(block)
             if not norm or norm == "---":
                 continue
-            if any(norm == prior or norm in prior or prior in norm for prior in seen):
+
+            exact_or_subset = False
+            superset_index = None
+            for index, prior in enumerate(seen):
+                if norm == prior or norm in prior:
+                    # Already fully covered by a block we kept - safe to drop.
+                    exact_or_subset = True
+                    break
+                if prior in norm:
+                    # This block is a strict superset of one we kept (e.g. the
+                    # same definition plus an extra synonym list, or a real
+                    # paragraph that happens to contain a divider we already
+                    # saw). Upgrade in place instead of dropping it, or we'd
+                    # silently lose the extra content.
+                    superset_index = index
+
+            if exact_or_subset:
                 continue
+            if superset_index is not None:
+                seen[superset_index] = norm
+                merged_blocks[superset_index] = block
+                continue
+
             seen.append(norm)
             merged_blocks.append(block)
 
