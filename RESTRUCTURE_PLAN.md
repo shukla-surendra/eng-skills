@@ -151,13 +151,41 @@ Word-bank entries converge on:
 - [x] Verify + commit per file.
 
 ### Phase 2 — Split the mixed-purpose files
-- [ ] `explanations.md` → `grammar-notes.md` + `speaking-toolkit.md`
-      (tutorials + framing/analogy content).
-- [ ] Extract connecting phrases / meeting phrases / "alternatives to I think"
+- [x] `explanations.md` → `grammar-notes.md` + `speaking-toolkit.md`
+      (tutorials + framing/analogy content). Content that was neither grammar
+      nor a speaking framework (embedded vocab/idiom tables, loose example
+      sentences, meeting-specific phrases) was routed to its actual canonical
+      home instead — see note below.
+- [x] Extract connecting phrases / meeting phrases / "alternatives to I think"
       from `technical-verbs.md` → `speaking-toolkit.md`; keep pure tech verbs in
       `technical-english.md`.
 - [x] Rename `business-phrases.md` → `business-communication.md`,
       `usage-tables.md` → `reference-tables.md`.
+
+**Note on Phase 2 execution (2026-07-13):** `explanations.md` turned out to be
+messier than the original baseline table suggested — several unrelated topics
+had been merged under single headings during the original conversion (e.g. one
+"Article" heading actually contained Articles, Until/By, Frequency Adverbs, and
+three "Used to" lessons, interleaved with two large raw vocabulary tables and a
+loose sentence dump with no heading at all). Content was classified at a finer
+grain than the file's own headings:
+- Grammar micro-lessons → `grammar-notes.md` (9 entries).
+- Tutorials, the debugging/clarifying-questions framework (consolidated from
+  three near-duplicate copies into one), and meeting/connecting phrases →
+  `speaking-toolkit.md` (10 entries).
+- Embedded raw vocab/idiom/phrase tables, "Interesting Sentences", and an
+  essay-feedback phrase bank → `glossary-usage.md` (its designated mixed
+  catch-all, consistent with the baseline table).
+- `Kickoff`/`Kick in` → `phrasal-verbs.md` (merged with an existing `Kick in`
+  entry via `dedupe.py`). `Get under the skin`, `Voilà` → `idioms.md`.
+  `Concluding Meeting`, `While someone joins` → `business-communication.md`.
+  `Synonym of important` → `reference-tables.md`.
+- One section (a mislabeled heading whose body was near-fully duplicated by
+  the four Tutorial entries) was merged rather than carried forward twice —
+  disclosed here rather than silently dropped, per goal 4.
+- All merges/appends were run through `scripts/dedupe.py --write`, which also
+  caught 2 pre-existing duplicate entries in `business-communication.md` that
+  predated this pass (it had never been deduped before, unlike vocab/phrasal-verbs/glossary-usage in Phase 1).
 
 ### Phase 3 — Route glossary-usage + cross-file consolidation
 - [ ] Classify each `glossary-usage.md` entry (word/phrasal/idiom) and route to the

@@ -1,6 +1,6 @@
 # Phrasal Verbs
 
-> 1303 entries · restructured 2026-07-12 · sorted A–Z
+> 1304 entries · restructured 2026-07-13 · sorted A–Z
 
 ## Index
 
@@ -50,7 +50,7 @@
 
 **K**
 
-[Keep an eye out for](#keep-an-eye-out-for) · [Keep One’s Eye Peeled](#keep-ones-eye-peeled) · [Keep out](#keep-out) · [Keep someone honest](#keep-someone-honest) · [keep someone posted](#keep-someone-posted) · [Keep up](#keep-up) · [Keep up with](#keep-up-with) · [Kernel](#kernel) · [key takeaway](#key-takeaway) · [Kick in](#kick-in) · [Kill one’s darlings](#kill-ones-darlings) · [Kill two birds with one stone](#kill-two-birds-with-one-stone) · [Kneel](#kneel) · [Kooky](#kooky)
+[Keep an eye out for](#keep-an-eye-out-for) · [Keep One’s Eye Peeled](#keep-ones-eye-peeled) · [Keep out](#keep-out) · [Keep someone honest](#keep-someone-honest) · [keep someone posted](#keep-someone-posted) · [Keep up](#keep-up) · [Keep up with](#keep-up-with) · [Kernel](#kernel) · [key takeaway](#key-takeaway) · [Kick in](#kick-in) · [Kickoff](#kickoff) · [Kill one’s darlings](#kill-ones-darlings) · [Kill two birds with one stone](#kill-two-birds-with-one-stone) · [Kneel](#kneel) · [Kooky](#kooky)
 
 **L**
 
@@ -10222,10 +10222,32 @@ After attending the seminar, I had several key takeaways, including the importan
 
 # Kick in
 
-To start or take effect, often referring to the beginning of a process or feeling
+To start or take effect, often referring to the beginning of a process or feeling.
+
+As soon as the music kicked in, the whole crowd started jumping.
+After hours of studying, the fatigue finally kicked in and I had to take a nap.
+
+In MLOps/Databricks contexts, *kick in* refers to features or behaviors that activate during the execution of a job or workflow — not the job starting itself (that's *kickoff*), but something triggering partway through:
+
+* Auto-scaling that **kicks in** once cluster CPU usage exceeds 80% during training.
+* Error handling that **kicks in** if data validation fails.
+* Checkpointing that **kicks in** every 15 minutes to save model progress during long training runs.
 
 As soon as he music kicked in , the whole crowd started jumping  
 After hours of studying, the fatigue finally kicked in and I had to take a nap.
+
+[↑ Back to index](#index)
+
+# Kickoff
+
+**Meaning:** to start or initiate a process or workflow. Can be used as a noun or a verb. In MLOps/Databricks contexts, *kickoff* refers to the moment a job or pipeline begins running.
+
+* As a verb: *"We kick off the MLOps pipeline at 9 AM."*
+* As a noun: *"The kickoff of the training job was delayed due to system maintenance."*
+* *"We kick off the MLOps deployment pipeline manually from the Databricks Jobs UI."*
+* *"The scheduled kickoff for our MLOps pipeline is every Monday at 8 AM."*
+
+*Kickoff* is one word when referring to starting something — distinct from *kick in* (two words), which describes something starting to take effect. You generally don't say "kickin" as a standalone word in formal contexts.
 
 [↑ Back to index](#index)
 

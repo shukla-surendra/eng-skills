@@ -3,6 +3,7 @@
 ## Contents
 
 - [Off the top of one's head](#off-the-top-of-ones-head)
+- [Synonyms of "Important"](#synonyms-of-important)
 
 ---
 
@@ -46,3 +47,19 @@ Said without deep thought or checking — immediate response.
 | **Run out (of)** | Have none left of something. |
 | **Shop around** | Compare prices or options before buying. |
 | **Hold on** | Wait a moment or keep going during difficulty. |
+
+## Synonyms of "Important"
+
+| Category | Synonyms |
+| ----- | ----- |
+| General | Critical, Crucial, Essential, Vital, Significant, Pivotal, Key, Fundamental, Imperative, Indispensable |
+| Technical importance | Core, Central, Primary, Foundational, Integral |
+| Urgency or priority | Urgent, High-priority, Time-sensitive, Mission-critical, Pressing |
+| Strategic importance | Strategic, Decisive, Game-changing, Transformative, Impactful |
+| Value or relevance | Valuable, Relevant, Noteworthy, Meaningful, Substantial |
+| Dependencies or requirements | Required, Necessary, Mandatory, Prerequisite, Conditional |
+
+**Examples in context:**
+* Instead of "This is an *important* feature for the pipeline" → "This is a *critical* feature for the pipeline."
+* Instead of "It's *important* to monitor model performance" → "It's *essential* to monitor model performance."
+* Instead of "This is an *important* decision for the team" → "This is a *pivotal* decision for the team."

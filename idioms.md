@@ -1,6 +1,6 @@
 # Idioms
 
-> 50 entries · restructured 2026-07-12 · sorted A–Z
+> 52 entries · restructured 2026-07-13 · sorted A–Z
 
 ## Index
 
@@ -26,7 +26,7 @@
 
 **G**
 
-[get the ball rolling](#get-the-ball-rolling)
+[get the ball rolling](#get-the-ball-rolling) · [Get under the skin](#get-under-the-skin)
 
 **H**
 
@@ -60,6 +60,10 @@
 
 [take something forward](#take-something-forward) · [Tear someone limb from limb](#tear-someone-limb-from-limb) · [The other way around](#the-other-way-around)
 
+**V**
+
+[Voilà](#voilà)
+
 **W**
 
 [Water under the bridge](#water-under-the-bridge) · [Wean Away](#wean-away) · [where the rubber meets the road](#where-the-rubber-meets-the-road) · [Without further ado](#without-further-ado)
@@ -74,13 +78,9 @@
 
 **"At your disposal"** means **available for you to use or command as you wish**.
 
----
-
 ### **✅ Meaning:**
 
 When something or someone is **"at your disposal"**, it means you have full access to it/them for your benefit, whenever you want.
-
----
 
 ### **✅ Usage Examples:**
 
@@ -107,8 +107,6 @@ When something or someone is **"at your disposal"**, it means you have full acce
    * *“Should you require further assistance, I am at your disposal.”*
 
    * *(= I’m available to help you more if needed.)*
-
----
 
 ### **⚠️ Tone:**
 
@@ -140,8 +138,6 @@ To **be objective** means to:
 So, if someone says: *“You are being objective,”* they mean:  
  👉 *You are being fair, logical, and not letting emotions cloud your judgment.*
 
----
-
 ### **Spoken usage examples:**
 
 1. *I’m trying to be objective, but I think her idea really is the best.*
@@ -151,8 +147,6 @@ So, if someone says: *“You are being objective,”* they mean:
 3. *Let’s be objective: the project failed because we didn’t plan well.*
 
 4. *He wasn’t objective at all; his personal feelings influenced the decision.*
-
----
 
 💡 **Spoken nuance:**
 
@@ -172,15 +166,11 @@ So, if someone says: *“You are being objective,”* they mean:
 
 **Blessing in disguise** means **something that seems bad or unlucky at first, but later turns out to be good or beneficial**.
 
----
-
 ### **Meaning in simple terms:**
 
 * At first: it looks like a problem or misfortune.
 
 * Later: you realize it actually helped you.
-
----
 
 ### **Spoken usage examples:**
 
@@ -189,8 +179,6 @@ So, if someone says: *“You are being objective,”* they mean:
 2. *Her injury turned out to be a blessing in disguise, giving her time to focus on her studies.*
 
 3. *Missing the flight was a blessing in disguise; the plane had engine trouble.*
-
----
 
 💡 **Spoken nuance:**
 
@@ -206,8 +194,6 @@ To **connect two things** that are different, separate, or not aligned — such 
 
 It means **reducing the difference**, **resolving a disconnect**, or **creating understanding** between two sides.
 
----
-
 ### **🗣️ Common Spoken Usage**
 
 1. **"This program helps bridge the gap between theory and practice."**  
@@ -222,13 +208,9 @@ It means **reducing the difference**, **resolving a disconnect**, or **creating 
 4. **"He’s good at bridging the gap between tech and business teams."**  
     → Making both sides understand each other.
 
----
-
 ### **🧠 Think of it as:**
 
 You’re putting a **bridge** over a **distance** — making two ends meet.
-
----
 
 ### **🔁 Summary:**
 
@@ -309,8 +291,6 @@ The phrase "deserve an asterisk" means something is less impressive or important
 **Meaning**  
  *Down the street* means **a short distance away along the same street** — it can refer to an exact direction (literally down the road) or just something nearby in the neighborhood.
 
----
-
 **Usage in spoken English**
 
 * **Literal location:**  
@@ -321,8 +301,6 @@ The phrase "deserve an asterisk" means something is less impressive or important
 
 * **In giving directions:**  
    *"Walk down the street until you see the park on your right."*
-
----
 
 **Tone note:**  
  It’s a very casual and common phrase — works in both city and small-town conversations.  
@@ -339,20 +317,14 @@ Examples:
 * My uncle lives **down the street**.  
 * Walk **down the street** and turn left.
 
----
-
 ### **Down the Line**
 
 **Meaning:** At some point in the future; later on. It can also mean further along in a process or sequence.
-
-Examples:
 
 * We might expand the business **down the line**. *(in the future)*  
 * You could face problems **down the line** if you ignore this issue.  
 * **Down the line**, I'd like to become an architect.  
 * Learning Terraform deeply will help you **down the line** in your career.
-
----
 
 ### **Quick Comparison**
 
@@ -427,8 +399,6 @@ The phrase **"flourish like anything"** is an informal or poetic way of saying t
 
 **Fly under the radar** means to **avoid attracting attention**, often deliberately, so people don’t notice you or what you’re doing.
 
----
-
 ### **Meaning in simple terms:**
 
 * Imagine a military radar detecting planes.
@@ -436,8 +406,6 @@ The phrase **"flourish like anything"** is an informal or poetic way of saying t
 * If you “fly under” it, you avoid being detected.
 
 * In everyday speech, it’s about **staying unnoticed**, whether for safety, privacy, or strategy.
-
----
 
 ### **Spoken usage examples:**
 
@@ -448,8 +416,6 @@ The phrase **"flourish like anything"** is an informal or poetic way of saying t
 3. *I’m trying to fly under the radar until this whole drama blows over.*
 
 4. *She flew under the radar in school, never getting into trouble.*
-
----
 
 💡 **Spoken nuance:**
 
@@ -465,6 +431,22 @@ phrase of ball
 
 set an activity in motion; make a start.  
 "to get the ball rolling, the government was asked to contribute a million dollars to the fund"
+
+[↑ Back to index](#index)
+
+# Get under the skin
+
+Has two common meanings depending on context.
+
+**1. To irritate or annoy someone deeply** — something bothers you and keeps affecting your mind, even if you try to ignore it.
+* *His constant criticism really gets under my skin.*
+* *The way he talks sometimes gets under my skin.*
+
+**2. To understand someone or something deeply** — grasp the core or inner details, not just the surface.
+* *The author really gets under the skin of the characters.*
+* *To design a good system, you must get under the skin of the problem.*
+
+Speaking tip: *"One thing that really gets under my skin is when people ignore architectural constraints."*
 
 [↑ Back to index](#index)
 
@@ -502,8 +484,6 @@ you have a significant amount of time or opportunity for growth and development
 
 Great observation, Surendra\! The word **“runway”** has **multiple meanings** depending on the context. Let's go over them one by one so you understand them clearly, especially how they’re used in **spoken English**.
 
----
-
 ### **✅ 1\. Airport Runway (most common literal meaning)**
 
 A **long strip of ground** at an airport where planes **take off and land**.
@@ -514,31 +494,21 @@ A **long strip of ground** at an airport where planes **take off and land**.
 
 * “The plane is taxiing to the runway now.”
 
----
-
 ### **✅ 2\. Fashion Runway**
 
 A **narrow stage or platform** where **models walk** during a fashion show.
-
-🗣️ Spoken example:
 
 * “She looked amazing on the runway in that designer dress.”
 
 * “That outfit is straight off the runway\!”
 
----
-
 ### **✅ 3\. Financial/Business "Runway" (figurative use)**
 
 The **amount of time or resources (especially money)** a company (or person) has before it **runs out of funds** or has to stop operating.
 
-🗣️ Spoken example:
-
 * “Our startup has six months of runway left before we need more funding.”
 
 * “You need to manage your expenses better or your financial runway will disappear.”
-
----
 
 ### **✅ 4\. Figurative/General Use: Time or Margin Before a Deadline or Risk**
 
@@ -546,13 +516,9 @@ Used more metaphorically to mean:
 
 “We have **some runway** left to decide” \= We still have **some time/space** before we need to act.
 
-🗣️ Spoken example:
-
 * “Let’s not panic. We still have some runway before launch.”
 
 * “The team needs more runway to finish the project properly.”
-
----
 
 ### **🔁 Summary:**
 
@@ -582,8 +548,6 @@ When someone says **“I’m always on the edge,”** they mean they feel **cons
 
 👉 It often describes a **mental or emotional state**, not a physical edge.
 
----
-
 #### **Common real-life usage**
 
 * At work when deadlines are tight  
@@ -591,23 +555,17 @@ When someone says **“I’m always on the edge,”** they mean they feel **cons
 * In stressful family situations  
 * When someone is overthinking or under constant pressure
 
----
-
 #### **Examples in spoken English**
 
 * *“Lately, I’ve been **on the edge** because of work pressure.”*  
 * *“He’s **on edge** these days; even small things annoy him.”*  
 * *“I was **on the edge** before the presentation, but it went fine.”*
 
----
-
 #### **Natural variations you’ll hear**
 
 * **“I feel on edge.”** (very common)  
 * **“I’ve been on edge all day.”**  
 * **“Everyone is on edge because of the deadline.”**
-
----
 
 ### **Useful spoken sentences you can practice**
 
@@ -618,16 +576,12 @@ Try saying these aloud 👇
 3. *“On the one hand, I’m excited; **on the other hand**, I’m constantly **on edge**.”*  
 4. *“For example, even small delays make me feel **on edge**.”*
 
----
-
 ### **When NOT to use it**
 
 ❌ Don’t use it for **physical danger** (like standing near a cliff).  
  In that case, say:
 
 * *“I’m standing at the edge.”*
-
----
 
 ### **Gentle correction (your sentence)**
 
@@ -636,8 +590,6 @@ You wrote:
 
 More natural:  
  ✅ **“What does ‘I’m always on the edge’ mean, and how is it used?”**
-
----
 
 ### **Extra tip for fluency**
 
@@ -669,8 +621,6 @@ The phrase **"like anything"** is an informal intensifier used in English. It’
 **\[Verb\] \+ like anything**  
  \= **\[Verb\] very strongly / extremely / a lot**
 
----
-
 ### **✅ Examples & Meanings:**
 
 1. **"He was running like anything."**  
@@ -684,8 +634,6 @@ The phrase **"like anything"** is an informal intensifier used in English. It’
 
 4. **"They were laughing like anything."**  
     → They were laughing **a lot** / **very hard**.
-
----
 
 ### **Important Notes:**
 
@@ -701,8 +649,6 @@ The phrase **"like anything"** is an informal intensifier used in English. It’
 
   * *intensely*
 
----
-
 ### **Rewrites in standard English:**
 
 * “She was explaining like anything.”  
@@ -716,7 +662,7 @@ The phrase **"like anything"** is an informal intensifier used in English. It’
 # Look down upon
 
 "Look down upon" is an idiom that means to treat someone or something with contempt or to regard them as inferior. It can also mean to feel that someone is less important than you or does not deserve respect.  
-   
+
 **Examples**
 
 The new neighbour looks down on us because our house is very modest.   
@@ -745,8 +691,6 @@ have a great deal of respect for someone.
 
 Imagine trying to find a tiny needle lost in a huge pile of hay—**it’s tedious, time-consuming, and very unlikely**.
 
----
-
 ### **✅ Usage Examples:**
 
 1. **Searching for something difficult**:
@@ -760,8 +704,6 @@ Imagine trying to find a tiny needle lost in a huge pile of hay—**it’s tedio
 3. **Investigation context**:
 
    * *“With no witnesses and no leads, solving the crime was like searching for a needle in a haystack.”*
-
----
 
 ### **🔁 Synonyms / Related Phrases:**
 
@@ -777,8 +719,6 @@ Imagine trying to find a tiny needle lost in a huge pile of hay—**it’s tedio
 
 It simply means **to refuse to change your opinion, position, or decision at all**.
 
----
-
 ### **🔹 Examples in spoken English:**
 
 * *“I tried convincing him to lower the price, but he wouldn’t **budge an inch**.”*
@@ -787,8 +727,6 @@ It simply means **to refuse to change your opinion, position, or decision at all
 
 * *“No matter what we said, the teacher didn’t **budge an inch** on the rules.”*
 
----
-
 ### **🔹 Tone/Usage:**
 
 * Very common in casual and formal English.
@@ -796,8 +734,6 @@ It simply means **to refuse to change your opinion, position, or decision at all
 * Usually used when describing someone **stubborn** or **firm**.
 
 * Can sound a little emphatic — stronger than just saying *“wouldn’t budge.”*
-
----
 
 👉 You can think of it like:  
  **“Not budge” \= not move/change at all.**  
@@ -809,15 +745,11 @@ It simply means **to refuse to change your opinion, position, or decision at all
 
 The phrase **"nowhere to be seen"** means that **someone or something is completely absent or cannot be found**, even though it is expected to be present.
 
----
-
 **✅ Meaning:**
 
 * **Missing**, **absent**, or **invisible** from a place or situation.
 
 * Often implies surprise or concern at the absence.
-
----
 
 ✅ Usage Examples:
 
@@ -832,8 +764,6 @@ The phrase **"nowhere to be seen"** means that **someone or something is complet
 
 4. **I looked for my phone, but it was nowhere to be seen.**  
     → (I couldn’t find it anywhere.)
-
----
 
 🔁 Similar Expressions:
 
@@ -853,8 +783,6 @@ The phrase **"nowhere to be seen"** means that **someone or something is complet
 
 The **basic elements** or **fundamental parts** of something, especially when it comes to how something works or is put together. It is often used to describe **the practical details** of a process or system.
 
----
-
 ### **✅ Usage in Spoken English:**
 
 #### **1\. When talking about practical details:**
@@ -871,8 +799,6 @@ The **basic elements** or **fundamental parts** of something, especially when it
 
 * *“The mechanic showed me the nuts and bolts that were broken in my car.”*
 
----
-
 ### **✅ Common Spoken Phrases:**
 
 * *“Can you explain the nuts and bolts of how this works?”*
@@ -880,8 +806,6 @@ The **basic elements** or **fundamental parts** of something, especially when it
 * *“I’m more interested in the nuts and bolts than the theory behind it.”*
 
 * *“Let’s focus on the nuts and bolts before we discuss the big picture.”*
-
----
 
 ### **🔹 Spoken Tip:**
 
@@ -897,8 +821,6 @@ To **argue against a popular opinion or position**, not because you disagree, bu
 
 You're intentionally taking the opposite side to challenge ideas, reveal weaknesses, or encourage deeper thinking.
 
----
-
 ### **✅ Usage in Spoken English:**
 
 * *“Let me play devil’s advocate for a second — what if this plan actually backfires?”*
@@ -907,13 +829,9 @@ You're intentionally taking the opposite side to challenge ideas, reveal weaknes
 
 * *“He’s just playing devil’s advocate — don’t take it personally.”*
 
----
-
 ### **🔹 Common Contexts:**
 
 * Debates, meetings, brainstorming sessions, or discussions with friends where you're exploring different perspectives.
-
----
 
 ### **⚠️ Spoken Tip:**
 
@@ -928,15 +846,11 @@ People sometimes use it before saying something controversial or unpopular, to s
 
 the phrase **"put me on edge"** means to make someone feel **nervous, anxious, tense, or uncomfortable**.
 
----
-
 ### **✅ Meaning:**
 
 * To **cause emotional tension** or unease.
 
 * Often used when something or someone triggers **stress or irritation**.
-
----
 
 ### **✅ Usage Examples:**
 
@@ -951,8 +865,6 @@ the phrase **"put me on edge"** means to make someone feel **nervous, anxious, t
 
 4. **Waiting for the exam results put me on edge.**  
     → (The anticipation caused nervousness.)
-
----
 
 ### **🔁 Similar Phrases:**
 
@@ -973,8 +885,6 @@ the phrase **"put me on edge"** means to make someone feel **nervous, anxious, t
 
 It doesn’t mean canceling — just postponing until later.
 
----
-
 ## **🗣️ Spoken Usage Examples**
 
 Here are natural, real-life sentences you can use:
@@ -988,8 +898,6 @@ Here are natural, real-life sentences you can use:
 4. **“That being said, we can always revive the idea later. It’s just on ice, not cancelled.”**
 
 Try speaking them aloud — they sound very natural in meetings.
-
----
 
 ## **📌 Where you can use it (context)**
 
@@ -1009,8 +917,6 @@ Example for your domain (MLOps/AWS):
 
 It means someone (or something) is **not completely polished, refined, or perfect**, but still has good qualities.
 
----
-
 ### **🔹 Usage in spoken English**
 
 1. **Describing people** (a bit unpolished in manners, speech, or appearance, but not in a bad way):
@@ -1025,15 +931,11 @@ It means someone (or something) is **not completely polished, refined, or perfec
 
 * *“The project is still **rough around the edges**, but it’s coming along.”*
 
----
-
 ### **🔹 Tone**
 
 * Often slightly **critical but affectionate**.
 
 * Suggests imperfection, but with potential or underlying value.
-
----
 
 👉 So if you say someone is “rough around the edges,” you’re not insulting them — you’re saying they’re not super polished but still likable or worthwhile.
 
@@ -1081,13 +983,9 @@ Definitions of and so forth. adverb. continuing in the same way. synonyms: and s
 
 The phrase **"so to say"** (or **"so to speak"**, which is more common) is used to show that you're using an expression in a *figurative* or *unusual* way. It's like saying "in a manner of speaking" or "if I can put it that way."
 
----
-
 ### **✅ Meaning:**
 
 You're not speaking literally; you're using a metaphor or describing something loosely or symbolically.
-
----
 
 ### **🗣️ How to Use in Spoken English:**
 
@@ -1109,8 +1007,6 @@ You're not speaking literally; you're using a metaphor or describing something l
 
 ✅ You’re calling him a “king” sarcastically.
 
----
-
 ### **💬 More Examples:**
 
 * "She’s the boss, *so to say*, even though it’s a family business."
@@ -1125,8 +1021,6 @@ You're not speaking literally; you're using a metaphor or describing something l
 
 **“Stay ahead of the curve”** means **to be more advanced, prepared, or up-to-date than others**, especially in a competitive or fast-changing field.
 
----
-
 ## **1\. Meaning in everyday spoken English**
 
 It’s often used when talking about:
@@ -1137,8 +1031,6 @@ It’s often used when talking about:
 * **Being proactive** rather than reactive  
    *"We need to update our skills to stay ahead of the curve in our careers."*
 
----
-
 ## **2\. Usage in spoken conversation**
 
 In casual speech, it often sounds motivational or strategic:
@@ -1146,8 +1038,6 @@ In casual speech, it often sounds motivational or strategic:
 * *"If you want to stay ahead of the curve, start learning AI tools now."*
 
 * *"He’s always reading industry news to stay ahead of the curve."*
-
----
 
 ## **3\. Usage in a presentation about AI**
 
@@ -1164,8 +1054,6 @@ This phrase works well when explaining **why action now is important**:
 * *maintain a competitive edge*
 
 * *stay at the forefront*
-
----
 
 [↑ Back to index](#index)
 
@@ -1230,7 +1118,7 @@ If someone threatens to tear you limb from limb, they mean that they are extreme
 # The other way around
 
 The other way around" is an idiom that means the opposite way or in the opposite order. For example, "I should be telling you what to do, not the other way around".  
-   
+
 Examples of using "the other way around" in a sentence:  
 "We think of ourselves as controlling our experiences, but often it's the other way around".   
 "You put the fork on the right and the knife on the left. They should be the other way around".   
@@ -1241,6 +1129,12 @@ When to use "the other way around":
 To say that the opposite situation is true   
 To say that you believed the opposite of what was actually true  
 To say that the opposite position, direction, or order is true
+
+[↑ Back to index](#index)
+
+# Voilà
+
+A fun little expression to mark the moment when something is finished or revealed — like saying "There you go!" or "Here it is!" *"Ta-da!"* is the more playful English cousin of *voilà* — both draw attention to a reveal or final result.
 
 [↑ Back to index](#index)
 
@@ -1265,8 +1159,6 @@ Think of it like how a baby is *weaned* off milk to start eating solid food. Sim
 * *“She’s weaning herself away from social media.”*
 
 * *“They want to wean the company away from old technologies.”*
-
----
 
 ### **Spoken-style sentences you can practice:**
 
@@ -1298,14 +1190,10 @@ the point at which a theory or idea is put to a practical test.
 
 It’s used when you want to **move quickly to the main topic**—especially in presentations, meetings, or announcements.
 
----
-
 ## **✔️ Meaning (Simple Explanation)**
 
 * **Ado** means fuss, delay, or unnecessary activity.  
 * So, **“without further ado”** \= *“without any more delay or unnecessary talk.”*
-
----
 
 ## **✔️ Where You Use It**
 
@@ -1315,8 +1203,6 @@ You use it when:
 * Introducing someone  
 * Moving quickly to the main content  
 * Wrapping up small talk and getting to the real agenda
-
----
 
 ## **✔️ Natural Spoken Examples**
 
@@ -1329,8 +1215,6 @@ Here are some phrases you can **practice aloud**:
 
 Try reading them out loud — they sound very natural in meetings.
 
----
-
 ## **✔️ Alternative Phrases (to sound more fluent)**
 
 Use these to avoid repeating the same phrase:
@@ -1340,8 +1224,6 @@ Use these to avoid repeating the same phrase:
 * **“Getting to the point…”**  
 * **“Let’s jump right in.”**  
 * **“So, moving ahead…”**
-
----
 
 ## **✔️ Small Tip for Your Spoken English**
 
@@ -1358,15 +1240,11 @@ You sometimes use direct or abrupt transitions.
 In simple words:  
  👉 *You did something wrong, so this result was expected.*
 
----
-
 ### **🔎 Example Situations**
 
 * If someone keeps teasing others and finally gets teased back.  
 * If a company ignores security best practices and then faces a data breach.  
 * If a child keeps breaking rules and eventually gets punished.
-
----
 
 ### **💬 Simple Explanation**
 
@@ -1379,8 +1257,6 @@ For example:
 
 That being said, this phrase can sometimes sound a little harsh or unsympathetic, so you should use it carefully.
 
----
-
 ### **🗣 Common Spoken Sentences (Practice These Aloud)**
 
 1. “Honestly, he had it coming after the way he treated everyone.”  
@@ -1390,8 +1266,6 @@ That being said, this phrase can sometimes sound a little harsh or unsympathetic
 
 Try saying these sentences slowly and clearly. Focus on the rhythm:  
  **You HAD it COM-ing.** (Stress on *had* and *com*)
-
----
 
 ### **⚠ Tone & Context**
 
@@ -1410,8 +1284,6 @@ You might say:
  “As a result of those decisions, this was somewhat expected.”
 
 See the difference? Same meaning — more diplomatic tone.
-
----
 
 ### **🧠 Quick Communication Tip**
 
