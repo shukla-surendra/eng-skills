@@ -30,7 +30,7 @@ OUTPUT_DIR = ROOT / "docs_html"
 # render those into the site; the cleaned root .md files are the real content.
 EXCLUDE_DIRS = {".venv", ".git", "docs_html", "__pycache__", "source"}
 
-SITE_NAME = "English &mdash; Word Collection"
+SITE_NAME = "English Learning &amp; Communication Toolkit"
 
 # Nice labels for path tokens used in nav groups + breadcrumbs.
 TOKEN_LABELS = {

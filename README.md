@@ -1,4 +1,4 @@
-# English — Personal Word Collection
+# English Learning & Communication Toolkit
 
 My vocabulary, phrasal verbs, idioms, and explanations collected over time, cleaned up for revision and accessible from anywhere.
 

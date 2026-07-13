@@ -10,7 +10,7 @@ Three beliefs drive everything in this repo:
 
 1. **Structure beats vocabulary.** A mediocre vocabulary delivered in a clean structure (claim → evidence → implication) reads as senior. A rich vocabulary delivered with no structure reads as junior, no matter how technically correct it is.
 2. **Explanation is a rehearsed skill, not a talent.** Nobody is born saying "the short answer is X, the reason is Y, here's the trade-off." It's a small number of patterns, drilled until they're automatic — the same way you internalized `for` loops before you could design algorithms.
-3. **You already have the content. You're missing the container.** Eleven years of production incidents, architecture decisions, and trade-off calls is a deep well of material. The gap is almost never "I don't understand this system" — it's "I don't have a fast, reliable container to pour that understanding into when someone asks."
+3. **You already have the content. You're missing the container.** Years of production incidents, architecture decisions, and trade-off calls are a deep well of material. The gap is almost never "I don't understand this system" — it's "I don't have a fast, reliable container to pour that understanding into when someone asks."
 
 ## How This Repo Is Organized
 
