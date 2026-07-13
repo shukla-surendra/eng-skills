@@ -231,6 +231,55 @@ word has both) in a `%%TITLE%%/%%BODY%%/%%END%%` scratch file, apply with
 `grep -c "^# "` is unchanged and no unrelated headings were dropped before
 committing.
 
+### Phase 4b — Add pronunciation guides
+Same multi-session, batch-at-a-time approach as Phase 4, and the same
+insertion safety rule applies: `scripts/insert_pronunciation.py` locates each
+entry by its exact `# Title` heading-line index and only *inserts* a new
+`*Pronunciation:* ...` line right after the heading — it never replaces or
+deletes existing lines, so it carries none of the over-matching risk Phase 4's
+first (buggy) attempt had.
+
+**Format decided:** hyphen-separated syllables with the stressed syllable in
+CAPS, e.g. `*Pronunciation:* uh-STOOT` (astute). Chosen over the handful of
+pre-existing dot-separated guides (`(kuh·rayj·uhs)`, no stress marked)
+because marking stress is the higher-value signal for a non-native speaker —
+wrong stress placement is a more common source of being misunderstood than
+the vowel sounds themselves. Existing dot-style guides are left as-is for now
+(not worth a mechanical reformat pass until content gaps are closed); if
+they're ever normalized, do it as its own reversible, single-purpose commit.
+
+**Scope note:** pronunciation guides add the most value on `vocab.md`
+(single, often Latinate/advanced words — the ones actually mispronounced).
+Most `phrasal-verbs.md` and `idioms.md` entries are common everyday words
+already spoken correctly (*fire up*, *walk away*, *goofy*) — for those files,
+only add a guide where a specific word inside the phrase is genuinely
+non-obvious (e.g. a loanword), not mechanically to every entry.
+
+- [x] Build `scripts/insert_pronunciation.py`.
+- [x] `vocab.md` batch 1 — 59 entries, A–C range, picked for genuinely
+      non-obvious stress/spelling (Aberration, Aegis, Amenity, Aplomb,
+      Assiduously, Brusque, Capitulate, Caveat, Chastise, …) (2026-07-13).
+- [x] `vocab.md` batch 2 — 65 entries, Circumspect → Divulge (mid-C through
+      mid-D), same curation method (2026-07-13).
+- [ ] `vocab.md` batch 3 — continue from **Dogma/Dogmatic** (next unguided
+      entry after Divulge) through the rest of D, E, F. ~1230 vocab entries
+      remain unguided; picking up mid-list per the curation rule (skip
+      simple/common words; prioritize Latinate, low-frequency, or
+      silent-letter words).
+- [ ] `vocab.md` batches 4+ — continue alphabetically until the file is done.
+- [ ] `phrasal-verbs.md` / `idioms.md` — light pass only, per the scope note
+      above; most entries don't need one.
+- [ ] `glossary-usage.md` — blocked on the same `## ` heading-level issue as
+      Phase 4.
+
+**Working method for future sessions:** pick the next ~50–60 word-bank
+entries lacking a pronunciation guide (`python3 scripts/audit_gaps.py` can be
+adapted, or just scan headings manually for the next alphabetical slice),
+skip words whose pronunciation is already obvious to an English speaker,
+draft `%%TITLE%%/%%PRON%%/%%END%%` entries, apply with
+`scripts/insert_pronunciation.py <file> <scratch>`, then confirm
+`grep -c "^# "` is unchanged before committing.
+
 ### Phase 5 — Revision features
 - [ ] Anki/CSV flash-card export per word bank (`scripts/export_cards.py`).
 - [ ] Optional tags: theme (tech / daily / business) and difficulty, to enable

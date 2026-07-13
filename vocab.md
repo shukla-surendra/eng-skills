@@ -128,6 +128,8 @@ complete lack of inhibition or restraint.
 
 # Aberration
 
+*Pronunciation:* ab-uh-RAY-shuhn
+
 Noun पतन, हटना  
 a departure from what is normal, usual, or expected, typically an unwelcome one.  
 "they described the outbreak of violence in the area as an aberration"
@@ -164,6 +166,8 @@ an occasionally abrupt narrative
 [↑ Back to index](#index)
 
 # Absolution
+
+*Pronunciation:* ab-suh-LOO-shuhn
 
 Noun मुक्ति, उद्धार  
 formal release from guilt, obligation, or punishment.  
@@ -225,6 +229,8 @@ A very deep hole that seems to have no bottom
 
 # Accentuate
 
+*Pronunciation:* ak-SEN-choo-ayt
+
 Verb  
 gerund or present participle: accentuating
 
@@ -250,6 +256,8 @@ adjective
 [↑ Back to index](#index)
 
 # Accolade
+
+*Pronunciation:* AK-uh-layd
 
 noun  
 1\.  
@@ -279,6 +287,8 @@ well educated and having good social skills.
 [↑ Back to index](#index)
 
 # Accreditation
+
+*Pronunciation:* uh-kred-ih-TAY-shuhn
 
 noun  
 1\.  
@@ -416,6 +426,8 @@ warn (someone) of something to be avoided.
 
 # Adulation
 
+*Pronunciation:* aj-uh-LAY-shuhn
+
 चापलूसी, मनुहार
 
 noun  
@@ -442,6 +454,8 @@ The word Advent comes from the Latin root Adventus, which means "arrival". Adven
 
 # Aegis
 
+*Pronunciation:* EE-jis
+
 noun  
 1\.  
 the protection, backing, or support of a particular person or organization.  
@@ -454,12 +468,16 @@ the protection, backing, or support of a particular person or organization.
 
 # Aesthetic
 
+*Pronunciation:* es-THET-ik
+
 a particular theory or conception of beauty or art : a particular taste for or approach to what is pleasing to the senses and especially sight. modernist aesthetics.  
 He is a very aesthetic person.
 
 [↑ Back to index](#index)
 
 # Affectation
+
+*Pronunciation:* af-ek-TAY-shuhn
 
 दिखावा, ढोंग, स्वांग  
 noun  
@@ -485,6 +503,8 @@ expressing fondness.
 [↑ Back to index](#index)
 
 # Affinity
+
+*Pronunciation:* uh-FIN-ih-tee
 
 The word **“affinity”** has a few related meanings, depending on context, but the core idea is **a natural connection, attraction, or similarity**.
 
@@ -544,6 +564,8 @@ It’s often used in formal or serious contexts rather than casual speech.
 
 # Aggravate
 
+*Pronunciation:* AG-ruh-vayt
+
 verb  
 1\.  
 make (a problem, injury, or offence) worse or more serious.  
@@ -580,6 +602,8 @@ Sorrow तीव्र पीड़ा acute pain, agony
 [↑ Back to index](#index)
 
 # Akin
+
+*Pronunciation:* uh-KIN
 
 adjective  
 1\.  
@@ -627,6 +651,8 @@ Opposite: aggravate
 
 # Allude
 
+*Pronunciation:* uh-LOOD
+
 (संकेत करना, हवाला देना, प्रसंगवश उल्लेख करना, सूचना करना, ज़िक्र करना, इंगित करना)
 
 verb  
@@ -643,6 +669,8 @@ verb
 
 # Aloof
 
+*Pronunciation:* uh-LOOF
+
  अलग/दूर,  अलग थलग
 
  He keeps himself aloof from politics.
@@ -650,6 +678,8 @@ verb
 [↑ Back to index](#index)
 
 # Altercation
+
+*Pronunciation:* awl-tur-KAY-shuhn
 
 झगड़ा, विवाद, तकरार  
 The heated altercation between the neighbors ended with both parties filing complaints against each other.  
@@ -698,11 +728,15 @@ having or showing a strong desire and determination to succeed.
 
 # Amenity
 
+*Pronunciation:* uh-MEN-ih-tee (also uh-MEE-nih-tee)
+
 सुख सुविधा, सुविधा, सुख-साधन, सुहावनापन
 
 [↑ Back to index](#index)
 
 # Amiable
+
+*Pronunciation:* AY-mee-uh-buhl
 
  स्नेही,  मिलनसार
 
@@ -711,6 +745,8 @@ Nehru chacha was always so called amiable with children.
 [↑ Back to index](#index)
 
 # Amicably
+
+*Pronunciation:* AM-ih-kuh-blee
 
 adverb  
 in a friendly and peaceable manner.  
@@ -725,6 +761,8 @@ The government and the union managed to reach an amicable settlement of the disp
 [↑ Back to index](#index)
 
 # Amnesia
+
+*Pronunciation:* am-NEE-zhuh
 
 स्मृतिलोप, स्मृति-शक्ति का लोप, शब्दस्मृतिभ्रंश
 
@@ -748,6 +786,8 @@ she stood with her hands on her ample hips
 
 # Amputate
 
+*Pronunciation:* AM-pyoo-tayt
+
 Amputate means to remove something by cutting, especially a part of the body. For example, "They had to amputate his foot to free him from the wreckage".
 
 Amputate can also mean to prune, lop off, or remove. For example, "Because of space limitations, the editor amputated the last two paragraphs of the news report".
@@ -765,6 +805,8 @@ pleasantly occupied; "We are not amused" \-Queen Victoria
 [↑ Back to index](#index)
 
 # Analogy
+
+*Pronunciation:* uh-NAL-uh-jee
 
 noun  
 a comparison between one thing and another, typically for the purpose of explanation or clarification.
@@ -860,6 +902,8 @@ That sounds very natural in meetings.
 
 # Angst
 
+*Pronunciation:* AHNGST (rhymes with "wronged")
+
 Pr. angst
 
 Angst is a feeling of anxiety, apprehension, or insecurity. It can also refer to a feeling of dread or anguish
@@ -889,6 +933,8 @@ Suffering, Wounded, Tortured, Distressed, Tormented, Sorrowful.
 
 # Annex
 
+*Pronunciation:* verb: uh-NEKS — noun: AN-eks
+
 to attach, append, or add, especially to something larger or more important. to incorporate (territory) into the domain of a city, country, or state: Germany annexed part of Czechoslovakia.  
 To attach or append something, especially to something larger or more important  
 To add a territory to one's own territory to form a larger country  
@@ -900,6 +946,8 @@ Synonyms of annex include annexe, extension, and wing.
 
 # Annexation
 
+*Pronunciation:* an-ek-SAY-shuhn
+
 Annexation is the act of taking control of a country or region, usually by force or without permission. It's different from an occupation, as in an annexation, sovereignty over a piece of land is formally transferred to a new nation.   
 Annexation can also refer to the process of bringing property into the city limits. Cities annex territory to provide urbanizing areas with municipal services and to exercise regulatory authority necessary to protect public health and safety.   
 Annexation is unilateral, meaning the occupying power declares territorial control and the other party gets no say.   
@@ -908,6 +956,8 @@ Some synonyms for annexation include: Adjoin, Take over, Seizure, Takeover, Occu
 [↑ Back to index](#index)
 
 # Anoint
+
+*Pronunciation:* uh-NOYNT
 
 verb  
 smear or rub with oil, typically as part of a religious ceremony.  
@@ -941,6 +991,8 @@ you don't get men like him anymore
 [↑ Back to index](#index)
 
 # Aplomb
+
+*Pronunciation:* uh-PLOM (the "b" is silent)
 
 noun  
 self-confidence or assurance, especially when in a demanding situation.  
@@ -1016,6 +1068,8 @@ an appealing young woman
 
 # Apprehension
 
+*Pronunciation:* ap-rih-HEN-shuhn
+
 noun  
 शंका  
 doubt, surmise, suspicion, apprehension, demur, fear  
@@ -1049,6 +1103,8 @@ understanding; grasp.
 [↑ Back to index](#index)
 
 # Apprised
+
+*Pronunciation:* uh-PRYZD
 
 **Apprised** means **to inform someone or keep them updated about something important**.  
  In simple terms, when you *apprise* someone, you make sure they know the latest status or facts.
@@ -1113,6 +1169,8 @@ Repeat it slowly, then say it naturally—as if you’re in a meeting.
 
 # Archaic
 
+*Pronunciation:* ar-KAY-ik
+
 adjective  
 very old or old-fashioned.  
 "prisons are run on archaic methods"
@@ -1147,6 +1205,8 @@ conceited or arrogant.
 
 # Arson
 
+*Pronunciation:* AR-suhn
+
 आगज़नी, आग लगाना, 
 
 Setting fire to a building, cars or property on purpose.  
@@ -1156,6 +1216,8 @@ the criminal act of deliberately setting fire to property.
 [↑ Back to index](#index)
 
 # Ascend
+
+*Pronunciation:* uh-SEND
 
 verb  
 1.go up or climb.  
@@ -1167,6 +1229,8 @@ verb
 [↑ Back to index](#index)
 
 # Aspersion
+
+*Pronunciation:* uh-SPUR-zhuhn
 
 noun  
 an attack on the reputation or integrity of someone or something.  
@@ -1193,6 +1257,8 @@ Attacking someone physically
 [↑ Back to index](#index)
 
 # Assiduously
+
+*Pronunciation:* uh-SIJ-oo-uhs-lee
 
 परिश्रम से
 
@@ -1265,6 +1331,8 @@ It’s commonly used to describe a collection of items that have a variety of ch
 
 # Assuage
 
+*Pronunciation:* uh-SWAYJ (rhymes with "engage")
+
 Verb शांत करना, मृदु करना, कम करना soothe, calm,   
 PR. uh·swayj
 
@@ -1328,6 +1396,8 @@ surprisingly impressive or notable.
 
 # Astute
 
+*Pronunciation:* uh-STOOT
+
 (चतुर)
 
 Rajnath Singh said, BJP's 'historic victory' is due to Modi's 'astute' leadership.  
@@ -1362,6 +1432,8 @@ To reach or succeed in getting something
 
 # Atypical
 
+*Pronunciation:* ay-TIP-ih-kuhl
+
 ( असामान्य)  
 ( विचित्र)  
 ( अविशिष्ट )
@@ -1393,6 +1465,8 @@ Imbibe
 
 # Averse
 
+*Pronunciation:* uh-VURS
+
 : having an active feeling of repugnance, dislike, or distaste. usually used with to. She was not averse to taking chances. He seems to be averse to strenuous exercise.  
 Description:  
 "Averse" is an adjective used to describe a strong feeling of dislike, opposition, or reluctance towards something. When someone is averse to a particular idea, activity, or situation, they have a strong aversion or unwillingness to engage with it.
@@ -1412,6 +1486,8 @@ John was averse to taking unnecessary risks, preferring a more cautious approach
 [↑ Back to index](#index)
 
 # Avert
+
+*Pronunciation:* uh-VURT
 
 verb  
 1\.  
@@ -1435,6 +1511,8 @@ having an eager desire for.
 [↑ Back to index](#index)
 
 # axiom
+
+*Pronunciation:* AK-see-uhm
 
 An **axiom** is a statement or principle that is accepted as true without proof. It serves as a starting point or foundation for reasoning, arguments, or systems of logic and mathematics.
 
@@ -1655,6 +1733,8 @@ reluctantly or resentfully.
 
 # Behest
 
+*Pronunciation:* bih-HEST
+
 nounLITERARY  
 a person's orders or command.  
 "they had assembled at his behest"
@@ -1697,6 +1777,8 @@ it is appropriate or suitable; it befits.
 [↑ Back to index](#index)
 
 # Belligerence
+
+*Pronunciation:* buh-LIJ-ur-uhns
 
 भावनाओं,  झगड़ालूपन,  कलहप्रियता
 
@@ -1743,6 +1825,8 @@ impose something unwelcome on.
 
 # Benignant
 
+*Pronunciation:* bih-NIG-nuhnt
+
 सज्जन, दयालु, कृपालु  
 adjective  
 1\.  
@@ -1755,6 +1839,8 @@ a less common term for benign.
 [↑ Back to index](#index)
 
 # Bereavement
+
+*Pronunciation:* bih-REEV-muhnt
 
 वियोग, मृत्यु के कारण क्षति
 
@@ -1784,6 +1870,8 @@ conceited or arrogant.
 [↑ Back to index](#index)
 
 # Bigamy
+
+*Pronunciation:* BIG-uh-mee
 
 Marrying someone when you already married to another person
 
@@ -2130,6 +2218,8 @@ a continuous attack on a place with guns or bombs: aerial bombardment. The bomba
 
 # Bonhomie
 
+*Pronunciation:* bon-uh-MEE
+
 noun  
 cheerful friendliness; geniality.  
 "he exuded good humour and bonhomie"
@@ -2180,6 +2270,8 @@ A **boomerang** is traditionally a curved wooden tool that, when thrown correctl
 [↑ Back to index](#index)
 
 # Boorish
+
+*Pronunciation:* BOOR-ish
 
 ( असभ्य, अशिष्ट)  
 Stubborn  
@@ -2264,6 +2356,8 @@ The term conveys a sense of personal investment and creative origin, suggesting 
 [↑ Back to index](#index)
 
 # Brazen
+
+*Pronunciation:* BRAY-zuhn
 
  निर्लज/बेशर्म, 
 
@@ -2459,6 +2553,8 @@ The movie's cinematography portrayed the character's brooding internal struggle 
 [↑ Back to index](#index)
 
 # Brusque
+
+*Pronunciation:* BRUSK (the "que" sounds like "k")
 
 adjective  
 abrupt or offhand in speech or manner.  
@@ -2661,6 +2757,8 @@ a noise made by air released from the stomach through the mouth; a belch.
 
 # Cadence
 
+*Pronunciation:* KAY-duhns
+
 The word **“cadence”** has a few meanings depending on the context, but in general, it refers to the **rhythmic flow or pattern** of something — usually **sound, speech, or movement**.
 
 Let’s look at a few common uses 👇
@@ -2718,6 +2816,8 @@ It will help you practice both rhythm and clarity while speaking.
 
 # Cajole
 
+*Pronunciation:* kuh-JOHL
+
 verb  
 persuade (someone) to do something by sustained coaxing or flattery.  
 "he hoped to cajole her into selling the house"
@@ -2725,6 +2825,8 @@ persuade (someone) to do something by sustained coaxing or flattery.
 [↑ Back to index](#index)
 
 # Callous
+
+*Pronunciation:* KAL-uhs
 
 Adjective कठोर, निर्दयी, निर्दयी  
 showing or having an insensitive and cruel disregard for others.  
@@ -2737,6 +2839,8 @@ showing or having an insensitive and cruel disregard for others.
 [↑ Back to index](#index)
 
 # Camouflage
+
+*Pronunciation:* KAM-uh-flahzh
 
 (छुप जाना, छद्मावरण से छिपाना)
 
@@ -2763,6 +2867,8 @@ hide or disguise the presence of (a person, animal, or object) by means of camou
 
 # Candor
 
+*Pronunciation:* KAN-dur
+
  स्पष्टवादिता, 
 
 the quality of being honest and straightforward in attitude and speech,
@@ -2778,6 +2884,8 @@ the systematic use of spies to get military or political secrets
 [↑ Back to index](#index)
 
 # Canonical
+
+*Pronunciation:* kuh-NON-ih-kuhl
 
 **Canonical** means **accepted as the official, standard, or authoritative version of something**.
 
@@ -2817,6 +2925,8 @@ Both might point to the same page, but one is chosen as the **canonical URL**.
 [↑ Back to index](#index)
 
 # Capitulate
+
+*Pronunciation:* kuh-PICH-oo-layt
 
 **Capitulate** means to **stop resisting** an opponent or demand and **surrender**, usually after realizing further resistance is useless.  
  It can be used **literally** (in war or competition) or **figuratively** (in arguments, negotiations, or personal situations).
@@ -2907,6 +3017,8 @@ Practice saying them aloud to build fluency.
 [↑ Back to index](#index)
 
 # Captivate
+
+*Pronunciation:* KAP-tih-vayt
 
 Captivated means to hold someone's attention by being interesting, exciting, pleasant, or attractive. For example, "Her beauty and charm captivated film audiences everywhere".
 
@@ -3110,6 +3222,8 @@ There is also a rural Centre at Mandi village which caters to children of nearby
 
 # Caveat
 
+*Pronunciation:* KAV-ee-at (also KAY-vee-at)
+
 A **caveat** means a warning, condition, or limitation attached to something. It’s like saying, *“Yes, but with a catch.”*
 
 For example:
@@ -3133,6 +3247,8 @@ So, a caveat is usually a note of caution or a special condition you should keep
 [↑ Back to index](#index)
 
 # Cessation
+
+*Pronunciation:* se-SAY-shuhn
 
 noun  
 the fact or process of ending or being brought to an end.  
@@ -3182,6 +3298,8 @@ accompany and look after or supervise.
 [↑ Back to index](#index)
 
 # Chastise
+
+*Pronunciation:* chas-TYZ
 
 **verb**  
 rebuke or reprimand severely.  
@@ -3386,6 +3504,8 @@ the church was built circa 1860"
 
 # Circumspect
 
+*Pronunciation:* SUR-kuhm-spekt
+
 adjective  
 wary and unwilling to take risks.  
 "the officials were very circumspect in their statements"
@@ -3471,6 +3591,8 @@ In these examples, "clench" describes the action of forcefully closing or tighte
 [↑ Back to index](#index)
 
 # Cliché
+
+*Pronunciation:* klee-SHAY
 
 A **cliché** is a phrase, idea, or expression that has been used so often that it has lost its originality, impact, or meaning. It often feels lazy or unoriginal because people hear it all the time.
 
@@ -3729,6 +3851,8 @@ People use "clunky" because it’s a concise and relatable way to express the id
 
 # Coalesce
 
+*Pronunciation:* koh-uh-LES
+
 Pr. kow·uh·les
 
 **verb**  
@@ -3750,6 +3874,8 @@ Here are some sentence examples:
 [↑ Back to index](#index)
 
 # Coercion
+
+*Pronunciation:* koh-UR-zhuhn
 
 जोर जबरदस्ती,दबाव
 
@@ -3776,6 +3902,8 @@ without the knowledge of (someone).
 
 # Cognizance
 
+*Pronunciation:* KOG-nih-zuhns
+
 विचाराधिकार, ध्यान में रखते
 
 knowledge or understanding  
@@ -3790,6 +3918,8 @@ The word cognizance comes from the Latin word cognoscere, which means "get to kn
 [↑ Back to index](#index)
 
 # Coherent/incoherent
+
+*Pronunciation:* koh-HEER-uhnt / in-koh-HEER-uhnt
 
 The term "incoherent" is an adjective used to describe something that lacks clarity, order, or logical connection. It can refer to ideas, speech, writing, or systems that are not well-organized, difficult to understand, or do not follow a logical sequence.
 
@@ -3824,6 +3954,8 @@ It can apply to language, ideas, or even behavior when they don’t make logical
 [↑ Back to index](#index)
 
 # Cohesion
+
+*Pronunciation:* koh-HEE-zhuhn
 
 Noun  एकजुटता, संयोग, जुटना  
 the action or fact of forming a united whole.  
@@ -4030,6 +4162,8 @@ establish the number of.
 
 # Compassionate
 
+*Pronunciation:* kuhm-PASH-uh-nit
+
 करुणामय
 
 Compassionate means someone feels or shows pity, sympathy, and understanding for people who are suffering. For example, you might describe someone as "deeply compassionate".
@@ -4041,6 +4175,8 @@ If you describe someone or something as compassionate, you mean that they feel o
 [↑ Back to index](#index)
 
 # Compelling
+
+*Pronunciation:* kuhm-PEL-ing
 
 adjective
 
@@ -4172,6 +4308,8 @@ So, while they are similar, the choice between "apprehend" and "comprehend" can 
 
 # comprise
 
+*Pronunciation:* kuhm-PRYZ
+
 verb  
 consist of; be made up of.  
 "the country comprises twenty states"
@@ -4209,6 +4347,8 @@ Conceal, obfuscate, conceal, involucre, mantle, muffle, cover-glass
 
 # conceptualize
 
+*Pronunciation:* kuhn-SEP-choo-uh-lyz
+
 The term "conceptualize" is a verb that refers to the process of forming or developing a concept, idea, or mental representation of something. It involves the act of creating a clear and organized understanding or visualization of abstract or complex notions.
 
 For example:
@@ -4223,6 +4363,8 @@ In both instances, "conceptualize" is used to describe the act of shaping or cre
 
 # Concierge
 
+*Pronunciation:* KON-see-airzh
+
 noun  
 noun: concierge; plural noun: concierges  
 1\.  
@@ -4234,6 +4376,8 @@ a hotel employee whose job is to assist guests by booking tours, making theatre 
 [↑ Back to index](#index)
 
 # Concoct
+
+*Pronunciation:* kuhn-KOKT
 
 verb  
 gerund or present participle: concocting  
@@ -4247,6 +4391,8 @@ to make up or invent something (an excuse, a story, etc.)
 [↑ Back to index](#index)
 
 # concur
+
+*Pronunciation:* kuhn-KUR
 
 verb  
 1\.  
@@ -4277,6 +4423,8 @@ synonyms: criminal, deplorable, reprehensible, vicious wrong. contrary to consci
 [↑ Back to index](#index)
 
 # Condescending
+
+*Pronunciation:* kon-dih-SEND-ing
 
 Adjective (कृपालु)
 
@@ -4329,6 +4477,8 @@ approve or sanction (something), especially with reluctance.
 
 # Conducive
 
+*Pronunciation:* kuhn-DOO-siv
+
 **"Conducive"** is an adjective that means **helpful or favorable for something to happen**. It describes something that **makes a certain outcome more likely or possible**.
 
 ### **✅ Definition:**
@@ -4362,6 +4512,8 @@ approve or sanction (something), especially with reluctance.
 
 # conduit
 
+*Pronunciation:* KON-doo-it (also KON-dwit)
+
 noun  
 1\.  
 a channel for conveying water or other fluid.  
@@ -4373,6 +4525,8 @@ a tube or trough for protecting electric wiring.
 [↑ Back to index](#index)
 
 # Confidante
+
+*Pronunciation:* KON-fih-dahnt
 
 \[हमराज़, दिली दोस्त, विश्वास पात्र.\]
 
@@ -4450,6 +4604,8 @@ combine (two or more sets of information, texts, ideas, etc.) into one.
 
 # Conglomerate
 
+*Pronunciation:* kuhn-GLOM-uh-rit
+
 noun  
 1\.  
 a thing consisting of a number of different and distinct parts or items that are grouped together.  
@@ -4471,6 +4627,8 @@ gather together into a compact mass.
 
 # Congruent
 
+*Pronunciation:* KONG-groo-uhnt
+
 adjective
 
 1. in agreement or harmony.
@@ -4483,6 +4641,8 @@ adjective
 [↑ Back to index](#index)
 
 # Conjecture
+
+*Pronunciation:* kuhn-JEK-chur
 
 noun  
 plural noun: conjectures  
@@ -4505,6 +4665,8 @@ form an opinion or supposition about (something) on the basis of incomplete info
 [↑ Back to index](#index)
 
 # Connotation
+
+*Pronunciation:* kon-uh-TAY-shuhn
 
 noun  
 an idea or feeling which a word invokes for a person in addition to its literal or primary meaning.  
@@ -4557,6 +4719,8 @@ conscience is sometimes confused with conscious
 
 # Consecration
 
+*Pronunciation:* kon-sih-KRAY-shuhn
+
 noun  
 the action of making or declaring something, typically a church, sacred.  
 "the consecration of this cathedral was a magical event"  
@@ -4574,6 +4738,8 @@ To critisize someone or something severely
 [↑ Back to index](#index)
 
 # Consensus
+
+*Pronunciation:* kuhn-SEN-suhs (not "concensus")
 
 आम राय  
 consensus  
@@ -4609,6 +4775,8 @@ comfort (someone) at a time of grief or disappointment.
 
 # Conspicuous
 
+*Pronunciation:* kuhn-SPIK-yoo-uhs
+
 adjective  
 clearly visible.  
 "he was very thin, with a conspicuous Adam's apple"  
@@ -4618,6 +4786,8 @@ attracting notice or attention.
 [↑ Back to index](#index)
 
 # Constituent
+
+*Pronunciation:* kuhn-STICH-oo-uhnt
 
 adjective  
 1\.  
@@ -4639,6 +4809,8 @@ a component part of something.
 [↑ Back to index](#index)
 
 # Construe
+
+*Pronunciation:* kuhn-STROO
 
 (Intreprate)
 
@@ -4752,6 +4924,8 @@ If you want, next we can:
 [↑ Back to index](#index)
 
 # Contemporary
+
+*Pronunciation:* kuhn-TEM-puh-rer-ee
 
 समकालीन, समसामयिक, सामयिक  
 noun  
@@ -4894,6 +5068,8 @@ Your **contention** is that pineapple belongs on pizza, but your brother disagre
 
 # Contentious
 
+*Pronunciation:* kuhn-TEN-shuhs
+
 adjective  
 causing or likely to cause an argument; controversial.  
 "a contentious issue"
@@ -4997,6 +5173,8 @@ Here are some examples of contrast in a sentence:
 
 # Conundrum
 
+*Pronunciation:* kuh-NUN-druhm
+
 noun  
 a confusing and difficult problem or question.  
 "one of the most difficult conundrums for the experts"
@@ -5011,6 +5189,8 @@ I pinged the ticket **which** we were talking about.
 [↑ Back to index](#index)
 
 # Convergence
+
+*Pronunciation:* kuhn-VUR-juhns
 
 अभिसरण, संमिलन, अभिबिन्दुता, रेखाओं की प्रगति (बिन्दु तक)
 
@@ -5142,6 +5322,8 @@ verb
 
 # Copious
 
+*Pronunciation:* KOH-pee-uhs
+
 adjective  
 abundant in supply or quantity.  
 "she took copious notes"
@@ -5266,6 +5448,8 @@ false, coot, counterfeit
 
 # Counterintuitive
 
+*Pronunciation:* kown-tur-in-TOO-ih-tiv
+
 The term "counterintuitive" is an adjective used to describe something that goes against what one would expect based on intuition or common sense. It suggests that the outcome or nature of a situation is not in line with what might be considered natural or obvious.   
 Here are some examples of how "counterintuitive" can be used:
 
@@ -5289,6 +5473,8 @@ adjective — brave; showing courage in the face of danger, difficulty, or fear.
 [↑ Back to index](#index)
 
 # Courteous
+
+*Pronunciation:* KUR-tee-uhs
 
 adjective  
 विनम्र  
@@ -5371,6 +5557,8 @@ uncomfortably small or restricted.
 [↑ Back to index](#index)
 
 # Credulity
+
+*Pronunciation:* krih-DOO-lih-tee
 
 भोलापन | विश्वासशीलता
 
@@ -5637,6 +5825,8 @@ This phone camera quality is crummy.
 
 # Crystallize
 
+*Pronunciation:* KRIS-tuh-lyz
+
 "Crystallize" (or "crystallise" in British English)  means for ideas, thoughts, or plans to become clear, definite, and precise \- just like how liquid sugar transforms into clear, solid crystals. It's the moment when vague or fuzzy thoughts suddenly become sharp and well-defined in your mind.
 
 Here are some memorable everyday examples:
@@ -5706,6 +5896,8 @@ The meeting culminated in a tearful embrace
 [↑ Back to index](#index)
 
 # Cumbersome
+
+*Pronunciation:* KUM-bur-suhm
 
 adjective  
 large or heavy and therefore difficult to carry or use; unwieldy.  
@@ -5834,6 +6026,8 @@ means to negotiate and reach a fresh agreement or arrangement with someone, esse
 [↑ Back to index](#index)
 
 # Cynical
+
+*Pronunciation:* SIN-ih-kuhl
 
 1\. : having or showing the attitude or temper of a cynic: such as. a. : contemptuously distrustful of human nature and motives.
 
@@ -5987,12 +6181,16 @@ brightness that blinds someone temporarily.
 
 # de facto
 
+*Pronunciation:* dee-FAK-toh (also day-FAK-toh)
+
 वस्तुतः, तथ्यतः, वास्तविक  
 Elon musk acting as de facto US president.
 
 [↑ Back to index](#index)
 
 # Dearth
+
+*Pronunciation:* DURTH (rhymes with "earth")
 
 अकाल, कमी  
 absence, assuagement, Dearth, deceleratation, defectiveness, Detraction  
@@ -6006,6 +6204,8 @@ a situation where food is in short supply.
 [↑ Back to index](#index)
 
 # Debacle
+
+*Pronunciation:* dih-BAH-kuhl (also dih-BAK-uhl)
 
 noun  
 a sudden and ignominious failure; a fiasco.  
@@ -6045,6 +6245,8 @@ Deceased means no longer living, especially recently dead. For example, "Both of
 
 # Decimate
 
+*Pronunciation:* DES-ih-mayt
+
 verb  
 past tense: decimated; past participle: decimated  
 1\.  
@@ -6070,6 +6272,8 @@ order (something) by decree.
 [↑ Back to index](#index)
 
 # Deduce
+
+*Pronunciation:* dih-DOOS
 
 The word **“deduce”** means *to reach a conclusion or decision by reasoning or by looking at available information*.
 
@@ -6159,6 +6363,8 @@ sad and depressed; dispirited.
 
 # Deliberation
 
+*Pronunciation:* dih-lib-uh-RAY-shuhn
+
 noun  
 1\.  
 long and careful consideration or discussion.  
@@ -6192,6 +6398,8 @@ a delicate fabric or garment.
 
 # Delinquent
 
+*Pronunciation:* dih-LING-kwuhnt
+
 adjective  
 अपराधी, दोषी  
 criminal,,guilty, convicted, blameworthy
@@ -6199,6 +6407,8 @@ criminal,,guilty, convicted, blameworthy
 [↑ Back to index](#index)
 
 # Deluge
+
+*Pronunciation:* DEL-yooj
 
 जल-प्रलय, बाढ़
 
@@ -6256,11 +6466,15 @@ to give up a job or position by telling your employer that you are leaving: Wher
 
 # Denounce
 
+*Pronunciation:* dih-NOWNS
+
 आरोप लगा देना, दोषारोपण करना
 
 [↑ Back to index](#index)
 
 # Deplete
+
+*Pronunciation:* dih-PLEET
 
 verb  
 use up the supply or resources of.  
@@ -6313,6 +6527,8 @@ the giving of sworn evidence.
 
 # Derangement
 
+*Pronunciation:* dih-RAYNJ-muhnt
+
 The word **derangement** means **disturbance, disorder, or malfunction** in the normal functioning of something — whether in the body, mind, or a mechanical system.
 
 So, in medicine, **“derangement syndrome”** generally refers to a **syndrome where something in the body is out of order or not functioning properly.**
@@ -6359,6 +6575,8 @@ Here are a few natural ways to use “derangement” in speech:
 
 # Dereliction
 
+*Pronunciation:* der-uh-LIK-shuhn
+
 noun (formal) — 1) the state of being abandoned and falling into disrepair (a *derelict* building). 2) failure to fulfil an obligation or duty ("dereliction of duty").
 
 noun — त्याग (sacrifice/abandonment), renunciation
@@ -6369,6 +6587,8 @@ noun — त्याग (sacrifice/abandonment), renunciation
 [↑ Back to index](#index)
 
 # Derogatory
+
+*Pronunciation:* dih-ROG-uh-tor-ee
 
 adjective  
 showing a critical or disrespectful attitude.
@@ -6386,6 +6606,8 @@ stop doing something; cease or abstain.
 [↑ Back to index](#index)
 
 # Desolate
+
+*Pronunciation:* DES-uh-lit
 
 The term "desolate" is an adjective that describes a place that is empty, barren, and often feels bleak, dismal, or deserted. It conveys a sense of loneliness, abandonment, and a lack of life or activity.
 
@@ -6428,6 +6650,8 @@ feel contempt or a deep repugnance for.
 
 # Despondent
 
+*Pronunciation:* dih-SPON-duhnt
+
 adjective  
 हताश  
 despondent, disappointed  
@@ -6450,6 +6674,8 @@ in low spirits from loss of hope or courage.
 [↑ Back to index](#index)
 
 # Detestable
+
+*Pronunciation:* dih-TES-tuh-buhl
 
 adjective  
 deserving intense dislike.
@@ -6490,6 +6716,8 @@ cause someone or something to be distracted or diverted from.
 [↑ Back to index](#index)
 
 # Detractor
+
+*Pronunciation:* dih-TRAK-tur
 
 A **"detractor"** is a person who **criticizes** or **lowers the reputation** of someone or something. They often express **negative opinions** or highlight flaws to undermine value or success.
 
@@ -6541,6 +6769,8 @@ extremely impressive or effective.
 [↑ Back to index](#index)
 
 # Devious
+
+*Pronunciation:* DEE-vee-uhs
 
 adjective  
 1\.  
@@ -6636,6 +6866,8 @@ to swallow or eat up hungrily, voraciously, or ravenously. To consume destructiv
 
 # Diabolical
 
+*Pronunciation:* dy-uh-BOL-ih-kuhl
+
 adjective  
 1\.  
 characteristic of the Devil, or so evil as to be suggestive of the Devil.  
@@ -6693,6 +6925,8 @@ This makes you sound natural and expressive.
 [↑ Back to index](#index)
 
 # Digress
+
+*Pronunciation:* dy-GRES (also dih-GRES)
 
 **verb**
 
@@ -6832,6 +7066,8 @@ Related noun: **discrepancy** — "There's a discrepancy between the invoice and
 
 # Discretion
 
+*Pronunciation:* dih-SKRESH-uhn
+
 Noun विवेक, बुद्धिमानी, अक़्लमंदी  
 1\.  
 the quality of behaving or speaking in such a way as to avoid causing offence or revealing confidential information.  
@@ -6843,6 +7079,8 @@ the freedom to decide what should be done in a particular situation.
 [↑ Back to index](#index)
 
 # Disdain
+
+*Pronunciation:* dis-DAYN
 
 Noun अवहेलना  
 the feeling that someone or something is unworthy of one's consideration or respect.  
@@ -6872,6 +7110,8 @@ Non-compliance with safety regulations can disentitle employees from accessing c
 [↑ Back to index](#index)
 
 # Disgruntled
+
+*Pronunciation:* dis-GRUN-tuhld
 
 adjective  
 angry or dissatisfied.
@@ -6924,6 +7164,8 @@ Synonyms
 [↑ Back to index](#index)
 
 # Disheveled
+
+*Pronunciation:* dih-SHEV-uhld
 
 4
 
@@ -7141,6 +7383,8 @@ For example, "Two of the justices dissented from the majority decision".
 
 # Dissipate
 
+*Pronunciation:* DIS-ih-payt
+
 (नष्ट करना, ग़ायब हो जाना)
 
 verb  
@@ -7154,6 +7398,8 @@ waste or fritter away (money, energy, or resources).
 [↑ Back to index](#index)
 
 # Dissuade
+
+*Pronunciation:* dih-SWAYD
 
 verb  
 persuade (someone) not to take a particular course of action.  
@@ -7259,6 +7505,8 @@ give (furniture or clothing) simulated marks of age and wear.
 [↑ Back to index](#index)
 
 # Divulge
+
+*Pronunciation:* dy-VULJ (also dih-VULJ)
 
 verb  
 make known (private or sensitive information).  
