@@ -1,12 +1,16 @@
 # Grammar Notes
 
-> 9 entries · restructured 2026-07-13 · sorted A–Z
+> 10 entries · restructured 2026-07-15 · sorted A–Z
 
 ## Index
 
 **A**
 
 [Article](#article)
+
+**C**
+
+[Conditional Sentences](#conditional-sentences)
 
 **F**
 
@@ -188,6 +192,117 @@ When you *do* use an article, the stress can change the meaning slightly:
 5. “I don’t usually drink **coffee** in the evening.”
 
 👉 Try saying these aloud, and notice the small difference in meaning when you add *the*.
+
+[↑ Back to index](#index)
+
+# Conditional Sentences
+
+Conditional sentences have two parts: the **if-clause** (the condition) and the **main clause** (the result). English has four core types, each tied to a different sense of how *real* or *likely* the situation is. Getting the type right matters more in professional English than it seems — it's how you signal certainty vs. speculation vs. regret.
+
+### **1\. Zero Conditional — general truths / facts**
+
+* **Form**: If \+ present simple, ... present simple.
+
+* **Usage**: Something that is *always* true — facts, habits, rules, science, processes.
+
+✅ Examples:
+
+* "If you heat water to 100°C, it boils."
+
+* "If the build fails, the pipeline sends an alert automatically."
+
+* "If I skip breakfast, I get a headache by noon."
+
+💡 Both clauses are present tense — there's no "future" here, because it's not a one-off prediction, it's a rule.
+
+### **2\. First Conditional — real / likely future**
+
+* **Form**: If \+ present simple, ... will \+ base verb.
+
+* **Usage**: A realistic condition about the future — something that could genuinely happen.
+
+✅ Examples:
+
+* "If the tests pass, we'll deploy tonight."
+
+* "If you send the doc by Friday, I'll review it over the weekend."
+
+* "If traffic is bad, I'll be a few minutes late."
+
+⚠️ **Common mistake**: don't use "will" in the if-clause. Not *"If it will rain, I will take an umbrella"* — say *"If it rains, I will take an umbrella."* The if-clause stays in present tense even though it's about the future.
+
+### **3\. Second Conditional — hypothetical present/future, unlikely or untrue now**
+
+* **Form**: If \+ past simple, ... would \+ base verb.
+
+* **Usage**: An imagined situation that's unlikely, purely hypothetical, or contrary to current fact. Also used to soften opinions/suggestions in meetings.
+
+✅ Examples:
+
+* "If I had more bandwidth this sprint, I'd take on that refactor." (I don't — this is hypothetical.)
+
+* "If she were the tech lead, she'd probably restructure the whole service." (She isn't.)
+
+* "If we redesigned the schema now, we'd save time later." (A speculative suggestion, not a plan yet.)
+
+💡 Note "were" instead of "was" after *I/he/she/it* in careful/formal English ("If I were you...") — very common in spoken feedback and advice.
+
+### **4\. Third Conditional — hypothetical past, regret or a different outcome**
+
+* **Form**: If \+ past perfect, ... would have \+ past participle.
+
+* **Usage**: Talking about a past situation that didn't happen, and its imagined (different) result. Common in retrospectives / incident postmortems.
+
+✅ Examples:
+
+* "If we had caught this in code review, we wouldn't have shipped the bug."
+
+* "If I had known about the outage earlier, I would have paged the on-call engineer sooner."
+
+* "The launch would have gone smoother if we had tested on staging first."
+
+💡 This is the conditional you reach for in a blameless postmortem: describing what *would* have prevented an incident, without necessarily assigning blame.
+
+### **5\. Mixed Conditionals (brief)**
+
+Sometimes a past condition has a *present* result, or a present condition has a *past* result — these mix the second and third conditional forms.
+
+* "If I hadn't taken that job, I wouldn't be living here now." (past condition → present result)
+
+* "If she were more detail-oriented, she would have caught that typo in the report." (present condition → past result)
+
+You don't need to actively produce these often, but recognizing them when you hear them helps.
+
+### **6\. Quick comparison table**
+
+| Type | If-clause | Main clause | Meaning |
+|---|---|---|---|
+| Zero | present simple | present simple | always true |
+| First | present simple | will \+ base | realistic future |
+| Second | past simple | would \+ base | unlikely/hypothetical now |
+| Third | past perfect | would have \+ past participle | unreal past, different outcome |
+
+### **7\. Ready-to-use spoken sentences (workplace situations)**
+
+* "If the migration goes well, we'll roll it out to the rest of the fleet next week." (1st)
+
+* "If I were leading this project, I'd push the deadline by a week." (2nd — softened opinion)
+
+* "If we had load-tested this earlier, we would have caught the bottleneck before launch." (3rd — postmortem)
+
+* "If a request times out, the client retries automatically." (0 — how the system behaves)
+
+* "If you're free later, I'd like to walk you through the design." (1st — everyday scheduling)
+
+✅ Practice aloud (say each type out loud with your own real example):
+
+* Zero: "If \_\_\_\_\_, \_\_\_\_\_." (a fact about your codebase, team, or daily routine)
+
+* First: "If \_\_\_\_\_, I'll \_\_\_\_\_." (something realistic you'll do this week)
+
+* Second: "If I \_\_\_\_\_, I would \_\_\_\_\_." (something hypothetical, not currently true)
+
+* Third: "If we had \_\_\_\_\_, we would have \_\_\_\_\_." (a past decision and its imagined different outcome)
 
 [↑ Back to index](#index)
 

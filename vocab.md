@@ -30607,15 +30607,29 @@ a strong financial demand or pressure, typically a restriction on borrowing, spe
 
 # Squinted
 
-* **Literal:** Narrowed the eyes to see better.
+verb — past tense / past participle of **squint** (*Pronunciation:* SKWINT)
 
-* **Figurative:** Looked closely or suspiciously.
+**Forms:** base — squint · past — squinted · present participle — squinting · 3rd person singular — squints
 
-* **Examples:**
+* **Literal:** To partly close your eyes and look at something with narrowed eyelids — usually because of bright light, or to bring something small or far away into focus.
 
-  * “He *squinted* at the tiny text.”
+* **Figurative:** To look at someone or something closely, carefully, or with suspicion and doubt.
 
-  * “She *squinted* at him, not sure she believed his story.”
+* **Examples (across forms, so you can drill the whole conjugation):**
+
+  * Base: *"I always squint when I step out into bright sunlight."*
+
+  * Past: *"He squinted at the tiny text on the medicine bottle."*
+
+  * Present participle: *"She was squinting at the whiteboard from the back row."*
+
+  * 3rd person singular: *"He squints whenever he reads without his glasses."*
+
+  * Figurative: *"She squinted at him, not sure she believed his story."*
+
+  * Figurative: *"The manager squinted at the numbers, suspicious that something was off."*
+
+**Try it:** describe something you actually squinted at today — sunlight, a small font, a confusing chart — out loud, in one sentence, using a different form each time (squint / squinted / squinting).
 
 [↑ Back to index](#index)
 

@@ -117,4 +117,4 @@ Full system design and behavioral interview frameworks with complete worked answ
 - "I can give you a cost range with confidence, and a point estimate with less confidence — which is more useful right now?"
 - "This is a sunk-cost question, not a going-forward question — the money's already spent; the question is whether continuing is still the right call."
 
-**Next:** [`../06_Project_Presentation/01_status_updates_walkthroughs_summaries.md`](../06_Project_Presentation/01_status_updates_walkthroughs_summaries.md) — applying this phrase library to full presentation formats.
+**Next:** [`06_grilling_challenge_questions.md`](06_grilling_challenge_questions.md) — the question patterns people use to pressure-test your decisions, and how to answer them.
