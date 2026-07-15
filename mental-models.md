@@ -35,7 +35,7 @@ The gap between average and expert output is mostly a gap in which default cogni
 
 **Hurry Bias — rushing to end uncertainty, not to finish well.**
 *Default:* an unresolved problem reads as a threat, so the brain rushes to *any* answer to relieve the discomfort of not knowing, mistaking speed-to-closure for productivity.
-*Override:* before calling something done, force one explicit checkpoint: "what would surface if I gave this twice the time?" Acting on the answer is optional — the pause alone catches most rushed mistakes. Pair with the Pre-mortem (§4) on anything with real stakes.
+*Override:* before calling something done, force one explicit checkpoint: "what would surface if I gave this twice the time?" Acting on the answer is optional — the pause alone catches most rushed mistakes. Pair with the Pre-mortem (§3) on anything with real stakes.
 
 **Face-Saving Default — hiding what isn't known.**
 *Default:* avoiding the "obvious" question, hiding unfinished work, staying quiet at the edge of the Circle of Competence (§3) — all to skip the momentary discomfort of looking incompetent.
@@ -217,6 +217,42 @@ Name the actual SLO and error budget (§5) — without one, "reliability" isn't 
 
 **"Work keeps feeling rushed, avoided, or stuck at 'good enough.'"**
 This is Section 2, not a scheduling problem. Identify which specific default is firing — Hurry Bias, Face-Saving, Boredom Avoidance, Comfort Homeostasis — and run the one-week catch-tracking protocol on it before changing anything about the actual work.
+
+**"A postmortem keeps turning into 'whose fault was this.'"**
+Run System Cause Before Individual Cause and the Hindsight Bias Tax (§11) explicitly, and state them as ground rules before the meeting starts — not something applied silently after the fact.
+
+**"A decision got made by one person and the team feels blindsided."**
+Check whether Decision Rights (§11) were ever made explicit for this call — usually they weren't. Fix that going forward instead of re-litigating this one decision; the process gap, not this specific person, is the actual finding.
+
+---
+
+## 11. Blame, Mistakes, and Decision Legitimacy
+
+*Three failure modes that look like separate problems — pointing at a person after something breaks, repeating avoidable mistakes, and decisions that land as unilateral — but share one root: skipping the system-level question in favor of the fast, person-level one.*
+
+### Avoiding finger-pointing
+
+**System Cause Before Individual Cause (Just Culture).** When something breaks, the reflexive question is "who did this" — resist it. Ask "what about the system made this error possible, likely, or undetected" first. A single person's mistake is rarely a sufficient explanation on its own; it's evidence of a missing guardrail, a bad default, or absent review — all system properties. Reserve individual attribution for genuine recklessness or repeated, willful disregard; nearly everything else is a system finding wearing a person's name.
+
+**Contributing Factors, Not a Single Cause.** Real failures almost always have several contributing factors that each look "sufficient" only in isolation and in hindsight. Naming one person, one commit, or one decision as "the cause" hides the other factors that also had to line up — and guarantees the same failure mode recurs wearing a different name next time. In a postmortem, list contributing factors as a set, not a chain that terminates in one culprit.
+
+**Hindsight Bias Tax.** Once an outcome is known, the decision that led to it looks far more avoidable than it actually was at the time — this is a well-documented cognitive bias, not a moral failing in the person reviewing it. Before judging a past decision, reconstruct what was actually knowable at that moment, not what's obvious now with the outcome already in hand. This single check is the most effective lever against reflexive blame in any retro.
+
+### Making fewer mistakes
+
+**Swiss Cheese Model — layered defenses, not one gate.** No single check should be the only thing standing between a mistake and production — code review, tests, staging, canary, monitoring, and rollback are independent layers, each with its own holes. The incidents that matter are the rare cases where every hole lined up at once. Judge a mistake by which layer was missing or thin, not by whether one person "should have caught it" — a real fix adds or strengthens a layer, it doesn't just ask people to be more careful.
+
+**Checklists Beat Memory Under Load.** Under time pressure or fatigue, working memory degrades before judgment or skill does. A short, written checklist for repeatable high-stakes actions — a production deploy, a schema migration, an on-call handoff — catches exactly the failures that "being careful" doesn't, because it doesn't depend on remembering to be careful in the moment.
+
+**Near-Misses Are Free Signal.** Treat a caught-in-time error — a bad deploy stopped by canary, a bug caught in review — as data, not a non-event. The ratio of near-misses to actual incidents for a given failure mode is usually large, and a near-miss is cheaper information about the same underlying gap than waiting for the full incident. Log and review these on purpose, not just the ones that escaped.
+
+### Avoiding unilateral decisions
+
+**Decision Rights Before the Decision, Not After.** Before a contested call gets made, name explicitly who has the authority to decide, who must be consulted, and who is merely informed — a lightweight RACI, stated out loud. Most "that was a unilateral decision" complaints aren't really about the decision being wrong; they're about decision rights never having been made explicit, so any single-person call feels like overreach regardless of its merit.
+
+**Fast and Single-Owner Is Correct for Type 2; a Warning Sign for Type 1.** Combine directly with Type 1 vs Type 2 (§4): for reversible decisions, one owner deciding quickly after a light consult is the *correct* behavior, not a unilateral one — waiting for full consensus on a cheap-to-undo call is the actual failure mode. For hard-to-reverse decisions, that same single-owner speed is exactly where explicit sign-off from whoever's named in Decision Rights (above) is required before proceeding, not after.
+
+**Ask Who Would Object, Not Just Whether Anyone Did.** For any decision that's hard to reverse, the cost of a short delay to solicit real dissent is nearly always smaller than the cost of the decision being wrong and undiscovered until much later. Before finalizing, explicitly ask "who would push back on this if they saw it, and have I actually asked them" — not just "did anyone happen to raise a concern unprompted."
 
 ---
 

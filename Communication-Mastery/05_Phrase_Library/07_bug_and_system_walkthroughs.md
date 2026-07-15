@@ -98,4 +98,4 @@
 
 Pick a real bug you've fixed recently. Explain it out loud in under two minutes using this shape: symptom (§2) → investigation (§3) → root cause (§4) → fix (§5). Then do the same for a piece of architecture you know well, but framed as a journey (§12) instead of a static description. Notice which one is harder — most people default to describing structure and have to consciously practice narrating sequence.
 
-**Next:** [`../06_Project_Presentation/01_status_updates_walkthroughs_summaries.md`](../06_Project_Presentation/01_status_updates_walkthroughs_summaries.md) — applying this phrase library to full presentation formats.
+**Next:** [`08_assertive_communication_conflict.md`](08_assertive_communication_conflict.md) — assertive communication and conflict scenarios specific to engineering, MLOps, and cloud-architecture work.
