@@ -2,7 +2,7 @@
 
 ## Contents
 
-- ["Left over"** is a phrase that means something remains after the rest has been used or gone. For example, you might say "So much income is devoted to monthly mortgage payments that nothing is left over". Here are some other examples:  "A large bucket of cut flowers left over from the wedding"  "Leftover food served at a later meal" : something that remains unused or unconsumed. especially : leftover food served at a later meal. usually used in plural.](#left-over-is-a-phrase-that-means-something-remains-after-the-rest-has-been-used-or-gone-for-example-you-might-say-so-much-income-is-devoted-to-monthly-mortgage-payments-that-nothing-is-left-over-here-are-some-other-examples--a-large-bucket-of-cut-flowers-left-over-from-the-wedding--leftover-food-served-at-a-later-meal--something-that-remains-unused-or-unconsumed-especially--leftover-food-served-at-a-later-meal-usually-used-in-plural)
+- ["Left over"](#left-over)
 - [A new lease of life](#a-new-lease-of-life)
 - [Abide by](#abide-by)
 - [Abrupt](#abrupt)
@@ -20,13 +20,13 @@
 - [allude](#allude)
 - [Ample](#ample)
 - [Ancillary (an·si·luh·ree)](#ancillary-ansiluhree)
-- [Apart from that: other than: besides, except for](#apart-from-that-other-than-besides-except-for)
+- [Apart from that](#apart-from-that)
 - [Apparently](#apparently)
 - [Appealing](#appealing)
 - [As far as sb is concerned](#as-far-as-sb-is-concerned)
 - [As of yet](#as-of-yet)
 - [Assess](#assess)
-- [at/in the back of your mind  **If something is at/in the back of your mind, you intend to do it, but are not actively thinking about it:](#atin-the-back-of-your-mind--if-something-is-atin-the-back-of-your-mind-you-intend-to-do-it-but-are-not-actively-thinking-about-it)
+- [at/in the back of your mind](#atin-the-back-of-your-mind)
 - [Attention](#attention)
 - [Back out of](#back-out-of)
 - [Back to square one](#back-to-square-one)
@@ -43,7 +43,7 @@
 - [Below the belt](#below-the-belt)
 - [Bend over backward](#bend-over-backward)
 - [Bend the knee](#bend-the-knee)
-- [Best strategy on governance Call out  Suffice List out  Compile Upcert  While this is updating, I will show you another flow One shop/stop solution Offshore model Voice over Spun off Just in time Intricacies](#best-strategy-on-governance-call-out--suffice-list-out--compile-upcert--while-this-is-updating-i-will-show-you-another-flow-one-shopstop-solution-offshore-model-voice-over-spun-off-just-in-time-intricacies)
+- [Best strategy on governance](#best-strategy-on-governance)
 - [Biased Toward / Biased Against](#biased-toward--biased-against)
 - [Bird Eye approach](#bird-eye-approach)
 - [Bit off more than I can chew](#bit-off-more-than-i-can-chew)
@@ -115,7 +115,7 @@
 - [Control](#control)
 - [Course correct](#course-correct)
 - [Crack up](#crack-up)
-- [Crashing a wedding  "Crashing a wedding" means attending a wedding without an invitation. This is considered rude and disrespectful.](#crashing-a-wedding--crashing-a-wedding-means-attending-a-wedding-without-an-invitation-this-is-considered-rude-and-disrespectful)
+- [Crashing a wedding](#crashing-a-wedding)
 - [Cry Loudly (Weeping) vs. Cry Out](#cry-loudly-weeping-vs-cry-out)
 - [Cry out / Cry loud](#cry-out--cry-loud)
 - [Cusp of change](#cusp-of-change)
@@ -190,7 +190,6 @@
 - [Get across](#get-across)
 - [Get along / Get along with](#get-along--get-along-with)
 - [Get around](#get-around)
-- [Get around phrasal verb of get 1\. coax or persuade someone to do or allow something that they initially do not want to. "you're not getting round me that easily" 2\. deal successfully with a problem.](#get-around-phrasal-verb-of-get-1-coax-or-persuade-someone-to-do-or-allow-something-that-they-initially-do-not-want-to-youre-not-getting-round-me-that-easily-2-deal-successfully-with-a-problem)
 - [Get at](#get-at)
 - [Get away](#get-away)
 - [Get away with](#get-away-with)
@@ -235,13 +234,13 @@
 - [Go up](#go-up)
 - [Go viral](#go-viral)
 - [Going forward](#going-forward)
-- [granular highly detailed; having many small and distinct parts: data analysis on a granular level.](#granular-highly-detailed-having-many-small-and-distinct-parts-data-analysis-on-a-granular-level)
+- [granular](#granular)
 - [Hand out](#hand-out)
 - [Have elbow room](#have-elbow-room)
 - [Have had](#have-had)
 - [Haven’t given a thought over it.](#havent-given-a-thought-over-it)
-- [headless chicken** in an uncontrolled or disorganized way, and not calmly or logically. Instead of running around like a headless chicken you're using your efforts in a more productive way, more efficiently.](#headless-chicken-in-an-uncontrolled-or-disorganized-way-and-not-calmly-or-logically-instead-of-running-around-like-a-headless-chicken-youre-using-your-efforts-in-a-more-productive-way-more-efficiently)
-- [Heads-up** : a message that alerts or prepares : warning. gave him a heads-up that an investigation was pending.](#heads-up--a-message-that-alerts-or-prepares--warning-gave-him-a-heads-up-that-an-investigation-was-pending)
+- [headless chicken](#headless-chicken)
+- [Heads-up](#heads-up)
 - [Heartfelt](#heartfelt)
 - [Hit the nail on the head](#hit-the-nail-on-the-head)
 - [Hit up](#hit-up)
@@ -252,13 +251,13 @@
 - [Hotspot](#hotspot)
 - [How so](#how-so)
 - [I haven't thought it through](#i-havent-thought-it-through)
-- [I stand by this My way or highway Reap out of it](#i-stand-by-this-my-way-or-highway-reap-out-of-it)
+- [I stand by this](#i-stand-by-this)
 - [I want off this case](#i-want-off-this-case)
 - [If time permits/allows](#if-time-permitsallows)
 - [immerse](#immerse)
 - [Important](#important)
 - [Impulsive](#impulsive)
-- [In order to  \=To \=For the purpose of \=With the aim of \=So that \=To achieve](#in-order-to--to-for-the-purpose-of-with-the-aim-of-so-that-to-achieve)
+- [In order to](#in-order-to)
 - [In terms of](#in-terms-of)
 - [In the interest of time](#in-the-interest-of-time)
 - [In vain](#in-vain)
@@ -287,7 +286,7 @@
 - [Lay out / Laid out](#lay-out--laid-out)
 - [Leaped up](#leaped-up)
 - [Leave work to go home](#leave-work-to-go-home)
-- [left out phrasal verb of leave adjective: left out fail to include someone or something. "it seemed unkind to leave Daisy out, so she was invited too" adjective. excluded. Not knowing the language I felt really left out. Excluded or omitted: For example, you might proofread carefully to catch left out quotation marks or parentheses. You might also feel left out if you don't know the language and are excluded from something.  Remaining behind in a visible place: For example, raccoons might eat pet food that's been left out.  Unhappy because not included: For example, you might feel left out if your friends talk about sports and you're not included.](#left-out-phrasal-verb-of-leave-adjective-left-out-fail-to-include-someone-or-something-it-seemed-unkind-to-leave-daisy-out-so-she-was-invited-too-adjective-excluded-not-knowing-the-language-i-felt-really-left-out-excluded-or-omitted-for-example-you-might-proofread-carefully-to-catch-left-out-quotation-marks-or-parentheses-you-might-also-feel-left-out-if-you-dont-know-the-language-and-are-excluded-from-something--remaining-behind-in-a-visible-place-for-example-raccoons-might-eat-pet-food-thats-been-left-out--unhappy-because-not-included-for-example-you-might-feel-left-out-if-your-friends-talk-about-sports-and-youre-not-included)
+- [left out](#left-out)
 - [Lend](#lend)
 - [Let out](#let-out)
 - [Let X comeback](#let-x-comeback)
@@ -297,7 +296,7 @@
 - [Lift a finger](#lift-a-finger)
 - [Lift and shift](#lift-and-shift)
 - [Lighten](#lighten)
-- [line up phrasal verb of line 1.arrange a number of people or things in a straight row. "an officer lined them up and gave them a short speech" 2.have someone or something ready or prepared. "Have you got any work lined up?"](#line-up-phrasal-verb-of-line-1arrange-a-number-of-people-or-things-in-a-straight-row-an-officer-lined-them-up-and-gave-them-a-short-speech-2have-someone-or-something-ready-or-prepared-have-you-got-any-work-lined-up)
+- [line up](#line-up)
 - [Listen up](#listen-up)
 - [Liven](#liven)
 - [Long before](#long-before)
@@ -336,7 +335,7 @@
 - [Note down](#note-down)
 - [Nothing short of](#nothing-short-of)
 - [Nothing short of extraordinary](#nothing-short-of-extraordinary)
-- [Nuance (nyoo·aans) n a subtle difference in or shade of meaning, expression, or sound. v. give nuances to. "the effect of the music is nuanced by the social situation of listeners"](#nuance-nyooaans-n-a-subtle-difference-in-or-shade-of-meaning-expression-or-sound-v-give-nuances-to-the-effect-of-the-music-is-nuanced-by-the-social-situation-of-listeners)
+- [Nuance](#nuance)
 - [nuances](#nuances)
 - [obscure](#obscure)
 - [Off the hook](#off-the-hook)
@@ -425,7 +424,7 @@
 - [Shackles are off](#shackles-are-off)
 - [Shake up](#shake-up)
 - [Shard of glass](#shard-of-glass)
-- [shed light on to provide information about something or to make something easier to understand:](#shed-light-on-to-provide-information-about-something-or-to-make-something-easier-to-understand)
+- [shed light on](#shed-light-on)
 - [Shoot me now](#shoot-me-now)
 - [show](#show)
 - [Show up](#show-up)
@@ -437,22 +436,22 @@
 - [Siphoning of funds](#siphoning-of-funds)
 - [Sit tight](#sit-tight)
 - [skim through](#skim-through)
-- [SKIMMED** (**THROUGH**): thumbed (through), scanned, inspected, perused, looked (into), surfed, dug (into), studied, cruised, browsed.](#skimmed-through-thumbed-through-scanned-inspected-perused-looked-into-surfed-dug-into-studied-cruised-browsed)
+- [SKIMMED (THROUGH)](#skimmed-through)
 - [slender](#slender)
 - [Sluggish](#sluggish)
 - [Sneak Peek](#sneak-peek)
 - [Sneaking around](#sneaking-around)
 - [so much so that](#so-much-so-that)
-- [So that is how it is ? We are just overjoyed to be here How aptly he described it.](#so-that-is-how-it-is--we-are-just-overjoyed-to-be-here-how-aptly-he-described-it)
+- [So that is how it is?](#so-that-is-how-it-is)
 - [So to say](#so-to-say)
 - [Something or other](#something-or-other)
 - [Sort of](#sort-of)
 - [Sort out](#sort-out)
 - [Spearhead](#spearhead)
 - [Specific](#specific)
-- [Spillover 1: the act or an instance of spilling over 2: a quantity that spills over 3: an extension of something especially when an excess exists benefiting from a spillover of prosperity from neighboring stat](#spillover-1-the-act-or-an-instance-of-spilling-over-2-a-quantity-that-spills-over-3-an-extension-of-something-especially-when-an-excess-exists-benefiting-from-a-spillover-of-prosperity-from-neighboring-stat)
+- [Spillover](#spillover)
 - [Splurge](#splurge)
-- [state of the art If you describe something as state-of-the-art, you mean that it is the best available because it has been made using the most modern techniques and technology](#state-of-the-art-if-you-describe-something-as-state-of-the-art-you-mean-that-it-is-the-best-available-because-it-has-been-made-using-the-most-modern-techniques-and-technology)
+- [state of the art](#state-of-the-art)
 - [Stay](#stay)
 - [Stay ahead of the curve](#stay-ahead-of-the-curve)
 - [Staycation](#staycation)
@@ -489,7 +488,7 @@
 - [There is no finish line](#there-is-no-finish-line)
 - [Thick-skinned](#thick-skinned)
 - [Think of](#think-of)
-- [Think through**  calculated, considered, designed, planned, prepared, and thoughtful.  "Think through" is a phrasal verb that means to carefully consider all the parts or effects of something over a period of time, especially to understand or make a decision. For example, "I need some time to think it through \- I don't want to make any sudden decisions".](#think-through--calculated-considered-designed-planned-prepared-and-thoughtful--think-through-is-a-phrasal-verb-that-means-to-carefully-consider-all-the-parts-or-effects-of-something-over-a-period-of-time-especially-to-understand-or-make-a-decision-for-example-i-need-some-time-to-think-it-through---i-dont-want-to-make-any-sudden-decisions)
+- [Think through](#think-through)
 - [This is my call](#this-is-my-call)
 - [Thrust upon us](#thrust-upon-us)
 - [Time to turn the page](#time-to-turn-the-page)
@@ -509,7 +508,6 @@
 - [Try out](#try-out)
 - [Turn on](#turn-on)
 - [Turn out](#turn-out)
-- [Turn Out**   phrasal verb of turn 1\. prove to be the case. "the job turned out to be beyond his rather limited abilities" 2\. extinguish a light. "he turned out the light and groped his way through the doorway to the bed"](#turn-out---phrasal-verb-of-turn-1-prove-to-be-the-case-the-job-turned-out-to-be-beyond-his-rather-limited-abilities-2-extinguish-a-light-he-turned-out-the-light-and-groped-his-way-through-the-doorway-to-the-bed)
 - [Turned on me](#turned-on-me)
 - [Under advisement](#under-advisement)
 - [Under the hood](#under-the-hood)
@@ -535,7 +533,7 @@
 - [Well](#well)
 - [Wet work](#wet-work)
 - [What are you so bouncy about?](#what-are-you-so-bouncy-about)
-- [Wherein \=in which \=where \=in that \=during which \=at which](#wherein-in-which-where-in-that-during-which-at-which)
+- [Wherein](#wherein)
 - [Whether](#whether)
 - [Whip up](#whip-up)
 - [Wild west](#wild-west)
@@ -552,9 +550,15 @@
 
 ---
 
-## "Left over"** is a phrase that means something remains after the rest has been used or gone. For example, you might say "So much income is devoted to monthly mortgage payments that nothing is left over". Here are some other examples:  "A large bucket of cut flowers left over from the wedding"  "Leftover food served at a later meal" : something that remains unused or unconsumed. especially : leftover food served at a later meal. usually used in plural.
+## "Left over"
 
-*(no definition captured in original notes — flagged for manual fill)*
+A phrase that means something remains after the rest has been used or gone.
+
+"So much income is devoted to monthly mortgage payments that nothing is left over."
+"A large bucket of cut flowers left over from the wedding."
+"Leftover food served at a later meal."
+
+Also used as an adjective/noun (**leftover**, usually plural: *leftovers*): something that remains unused or unconsumed — especially leftover food served at a later meal.
 
 ## A new lease of life
 
@@ -633,9 +637,9 @@ Suggest, hint at, imply, mention
 
 1\. : subordinate, subsidiary. the main factory and its ancillary plants.   2\. : auxiliary, supplementary.
 
-## Apart from that: other than: besides, except for
+## Apart from that
 
-*(no definition captured in original notes — flagged for manual fill)*
+Synonyms/equivalents: other than, besides, except for.
 
 ## Apparently
 
@@ -663,9 +667,11 @@ Until now; so far (usually with something pending).
  **Example:** The teacher will assess your performance.  
  **Context:** Evaluation.
 
-## at/in the back of your mind  **If something is at/in the back of your mind, you intend to do it, but are not actively thinking about it:
+## at/in the back of your mind
 
-It's been at the back of my mind to call José for several days now, but I haven't got round to it yet.
+If something is at/in the back of your mind, you intend to do it, but are not actively thinking about it.
+
+"It's been at the back of my mind to call José for several days now, but I haven't got round to it yet."
 
 ## Attention
 
@@ -735,9 +741,11 @@ To make a great effort to help or accommodate someone.
 
 To submit or show deference, especially to authority.
 
-## Best strategy on governance Call out  Suffice List out  Compile Upcert  While this is updating, I will show you another flow One shop/stop solution Offshore model Voice over Spun off Just in time Intricacies
+## Best strategy on governance
 
 *(no definition captured in original notes — flagged for manual fill)*
+
+Related terms noted alongside this one (no definitions captured): Call out, Suffice, List out, Compile, Upcert, "While this is updating, I will show you another flow," One shop/stop solution, Offshore model, Voice over, Spun off, Just in time, Intricacies.
 
 ## Biased Toward / Biased Against
 
@@ -1061,9 +1069,11 @@ To adjust your strategy or direction to get back on track.
 **Example:** The comedian cracked us up.  
 **Context:** Humor, mental health.
 
-## Crashing a wedding  "Crashing a wedding" means attending a wedding without an invitation. This is considered rude and disrespectful.
+## Crashing a wedding
 
-The crasher is dancing with your grandma The crasher's stories keep changing The crasher's personality is larger-than-life The crasher came in late or pushed through the receiving line The crasher is a great faker
+"Crashing a wedding" means attending a wedding without an invitation. This is considered rude and disrespectful.
+
+Signs someone might be a wedding crasher: the crasher is dancing with your grandma; the crasher's stories keep changing; the crasher's personality is larger-than-life; the crasher came in late or pushed through the receiving line; the crasher is a great faker.
 
 ## Cry Loudly (Weeping) vs. Cry Out
 
@@ -1417,9 +1427,10 @@ Used for broad, versatile uses (general utility), not a phrasal verb.
 **Example:** It’s easy to get around the city by bike.  
 **Context:** Transportation.
 
-## Get around phrasal verb of get 1\. coax or persuade someone to do or allow something that they initially do not want to. "you're not getting round me that easily" 2\. deal successfully with a problem.
+Also a phrasal verb of *get*, with two further senses:
 
-*(no definition captured in original notes — flagged for manual fill)*
+1. To coax or persuade someone to do or allow something that they initially do not want to. "You're not getting round me that easily."
+2. To deal successfully with a problem.
 
 ## Get at
 
@@ -1641,9 +1652,11 @@ To spread rapidly across the internet.
 
 From now on; in the future.
 
-## granular highly detailed; having many small and distinct parts: data analysis on a granular level.
+## granular
 
-*(no definition captured in original notes — flagged for manual fill)*
+Highly detailed; having many small and distinct parts.
+
+"data analysis on a granular level"
 
 ## Hand out
 
@@ -1661,13 +1674,17 @@ Used for present perfect (I’ve had enough = I can't tolerate more); implies ex
 
 *(no definition captured in original notes — flagged for manual fill)*
 
-## headless chicken** in an uncontrolled or disorganized way, and not calmly or logically. Instead of running around like a headless chicken you're using your efforts in a more productive way, more efficiently.
+## headless chicken
 
-*(no definition captured in original notes — flagged for manual fill)*
+In an uncontrolled or disorganized way, and not calmly or logically.
 
-## Heads-up** : a message that alerts or prepares : warning. gave him a heads-up that an investigation was pending.
+"Instead of running around like a headless chicken you're using your efforts in a more productive way, more efficiently."
 
-*(no definition captured in original notes — flagged for manual fill)*
+## Heads-up
+
+A message that alerts or prepares; a warning.
+
+"...gave him a heads-up that an investigation was pending."
 
 ## Heartfelt
 
@@ -1711,9 +1728,11 @@ A way to ask someone to explain or clarify.
 
 I didn’t plan or consider it carefully.
 
-## I stand by this My way or highway Reap out of it
+## I stand by this
 
 *(no definition captured in original notes — flagged for manual fill)*
+
+Related phrases noted alongside this one (no definitions captured): "My way or highway," "Reap out of it."
 
 ## I want off this case
 
@@ -1737,9 +1756,15 @@ Critical, Crucial, Essential, Vital, Significant, Pivotal, Key Core, Central, Pr
  **Example:** She made an impulsive decision to quit her job.  
  **Context:** Behavior.
 
-## In order to  \=To \=For the purpose of \=With the aim of \=So that \=To achieve
+## In order to
 
-Original: I went to the store in order to buy some groceries. Revised: I went to the store to buy some groceries. Original: She visited the library in order to research her paper. Revised: She visited the library for the purpose of researching her paper. With the aim of Original: He worked late in order to meet the deadline. Revised: He worked late with the aim of meeting the deadline. Original: I set an alarm in order to wake up early. Revised: I set an alarm so that I could wake up early. Original: The team collaborated in order to achieve their common goal. Revised: The team collaborated to achieve their common goal.
+Equivalents/synonyms: to, for the purpose of, with the aim of, so that, to achieve.
+
+Original: I went to the store in order to buy some groceries. Revised: I went to the store to buy some groceries.
+Original: She visited the library in order to research her paper. Revised: She visited the library for the purpose of researching her paper.
+Original: He worked late in order to meet the deadline. Revised: He worked late with the aim of meeting the deadline.
+Original: I set an alarm in order to wake up early. Revised: I set an alarm so that I could wake up early.
+Original: The team collaborated in order to achieve their common goal. Revised: The team collaborated to achieve their common goal.
 
 ## In terms of
 
@@ -1949,9 +1974,16 @@ Jumped quickly; also used for sudden rise (prices, emotions).
 
 To clock out or end the workday.
 
-## left out phrasal verb of leave adjective: left out fail to include someone or something. "it seemed unkind to leave Daisy out, so she was invited too" adjective. excluded. Not knowing the language I felt really left out. Excluded or omitted: For example, you might proofread carefully to catch left out quotation marks or parentheses. You might also feel left out if you don't know the language and are excluded from something.  Remaining behind in a visible place: For example, raccoons might eat pet food that's been left out.  Unhappy because not included: For example, you might feel left out if your friends talk about sports and you're not included.
+## left out
 
-*(no definition captured in original notes — flagged for manual fill)*
+phrasal verb of *leave*
+
+adjective: **left out** — fail to include someone or something. "It seemed unkind to leave Daisy out, so she was invited too." Also used as an adjective meaning excluded: "Not knowing the language I felt really left out."
+
+Senses:
+- Excluded or omitted: for example, you might proofread carefully to catch left-out quotation marks or parentheses. You might also feel left out if you don't know the language and are excluded from something.
+- Remaining behind in a visible place: for example, raccoons might eat pet food that's been left out.
+- Unhappy because not included: for example, you might feel left out if your friends talk about sports and you're not included.
 
 ## Lend
 
@@ -1995,9 +2027,12 @@ Lift and shift is a strategy for migrating applications from on-premises servers
 **Example:** Laughter can lighten the mood.  
 **Context:** Mood, weight.
 
-## line up phrasal verb of line 1.arrange a number of people or things in a straight row. "an officer lined them up and gave them a short speech" 2.have someone or something ready or prepared. "Have you got any work lined up?"
+## line up
 
-*(no definition captured in original notes — flagged for manual fill)*
+phrasal verb of *line*
+
+1. Arrange a number of people or things in a straight row. "An officer lined them up and gave them a short speech."
+2. Have someone or something ready or prepared. "Have you got any work lined up?"
 
 ## Listen up
 
@@ -2184,9 +2219,14 @@ Absolutely; to emphasize how extreme or complete something is.
 
 Truly impressive or amazing without exaggeration.
 
-## Nuance (nyoo·aans) n a subtle difference in or shade of meaning, expression, or sound. v. give nuances to. "the effect of the music is nuanced by the social situation of listeners"
+## Nuance
 
-"he was familiar with the nuances of the local dialect"
+*Pronunciation:* nyoo-AHNS
+
+noun — a subtle difference in or shade of meaning, expression, or sound.
+verb — to give nuances to. "The effect of the music is nuanced by the social situation of listeners."
+
+"He was familiar with the nuances of the local dialect."
 
 ## nuances
 
@@ -2609,9 +2649,12 @@ To reorganize drastically; to shock.
 
 A sharp, broken piece of glass.
 
-## shed light on to provide information about something or to make something easier to understand:
+## shed light on
 
-I'm glad I could shed light on its capabilities for you. Tracking technologies have shed light on the birds' social nature.
+To provide information about something or to make something easier to understand.
+
+"I'm glad I could shed light on its capabilities for you."
+"Tracking technologies have shed light on the birds' social nature."
 
 ## Shoot me now
 
@@ -2665,9 +2708,11 @@ Illegally diverting money for personal use.
 
 to read or consider something quickly in order to understand the main points, without studying it in detail: I've only skimmed (through/over) his letter; I haven't read it carefully yet.
 
-## SKIMMED** (**THROUGH**): thumbed (through), scanned, inspected, perused, looked (into), surfed, dug (into), studied, cruised, browsed.
+## SKIMMED (THROUGH)
 
-to read or consider something quickly in order to understand the main points, without studying it in detail: I've only skimmed (through/over) his letter; I haven't read it carefully yet.
+Synonyms: thumbed (through), scanned, inspected, perused, looked (into), surfed, dug (into), studied, cruised, browsed.
+
+To read or consider something quickly in order to understand the main points, without studying it in detail. "I've only skimmed (through/over) his letter; I haven't read it carefully yet."
 
 ## slender
 
@@ -2689,9 +2734,11 @@ To act secretly, often implying deceit (e.g., cheating, hiding something).
 
 Peter loved ice cream, so much so that he had a different flavour every night before bedtime. Jenny adored gardening, so much so that her balcony was transformed into a colourful array of flowers and herbs. Mark was passionate about photography, so much so that he carried his camera everywhere, capturing everyday moments with artistic flair. Emily enjoyed painting, so much so that her bedroom walls were adorned with her vibrant and imaginative creations. Tom had a fascination with astronomy, so much so that he spent many nights gazing at the stars through his telescope, awestruck by the vastness of the universe.
 
-## So that is how it is ? We are just overjoyed to be here How aptly he described it.
+## So that is how it is?
 
 *(no definition captured in original notes — flagged for manual fill)*
+
+Related sentences noted alongside this one: "We are just overjoyed to be here." "How aptly he described it."
 
 ## So to say
 
@@ -2717,9 +2764,13 @@ To lead a project or movement.
 
 Particular, precise, single, discrete
 
-## Spillover 1: the act or an instance of spilling over 2: a quantity that spills over 3: an extension of something especially when an excess exists benefiting from a spillover of prosperity from neighboring stat
+## Spillover
 
-*(no definition captured in original notes — flagged for manual fill)*
+1: the act or an instance of spilling over
+2: a quantity that spills over
+3: an extension of something, especially when an excess exists
+
+"...benefiting from a spillover of prosperity from neighboring stat" *(sentence appears cut off in the original source notes)*
 
 ## Splurge
 
@@ -2727,9 +2778,12 @@ Particular, precise, single, discrete
  **Example:** She splurged on a new dress.  
  **Context:** Spending.
 
-## state of the art If you describe something as state-of-the-art, you mean that it is the best available because it has been made using the most modern techniques and technology
+## state of the art
 
-noun the most recent stage in the development of a product, incorporating the newest technology, ideas, and features. "the state of the art in 3D printing" adjective belonging or relating to the most recent stage of technological development; having or using the latest techniques or equipment. "our scientists work in state-of-the-art facilities"
+If you describe something as state-of-the-art, you mean that it is the best available because it has been made using the most modern techniques and technology.
+
+noun — the most recent stage in the development of a product, incorporating the newest technology, ideas, and features. "the state of the art in 3D printing"
+adjective — belonging or relating to the most recent stage of technological development; having or using the latest techniques or equipment. "our scientists work in state-of-the-art facilities"
 
 ## Stay
 
@@ -2887,9 +2941,13 @@ Not easily offended or affected by criticism.
 
 To imagine or consider.
 
-## Think through**  calculated, considered, designed, planned, prepared, and thoughtful.  "Think through" is a phrasal verb that means to carefully consider all the parts or effects of something over a period of time, especially to understand or make a decision. For example, "I need some time to think it through \- I don't want to make any sudden decisions".
+## Think through
 
-to think about all the different parts or effects of (something) for a period of time, especially in an effort to understand or make a decision about it. I need time to think this through. We have thought through the matter and have come to a decision.
+"Think through" is a phrasal verb that means to carefully consider all the parts or effects of something over a period of time, especially to understand or make a decision. For example, "I need some time to think it through - I don't want to make any sudden decisions."
+
+Related adjectives: calculated, considered, designed, planned, prepared, thoughtful.
+
+To think about all the different parts or effects of (something) for a period of time, especially in an effort to understand or make a decision about it. "I need time to think this through." "We have thought through the matter and have come to a decision."
 
 ## This is my call
 
@@ -2970,9 +3028,15 @@ To activate; to betray (hostile context); or to arouse (sexual context).
 
 To end up or result in a particular way; also means people attending an event.
 
-## Turn Out**   phrasal verb of turn 1\. prove to be the case. "the job turned out to be beyond his rather limited abilities" 2\. extinguish a light. "he turned out the light and groped his way through the doorway to the bed"
+Also a phrasal verb of *turn*, with these senses:
 
-To result or conclude in a certain way: Meaning: To show a final result that might be different from what was expected. Example: The weather turned out to be better than predicted. To attend or participate in an event: Meaning: To appear or show up for an occasion. Example: Many people turned out for the concert. To produce or manufacture: Meaning: To make or generate something. Example: The factory turns out thousands of cars every month. To switch something off: Meaning: To stop a device or appliance from working. Example: Don’t forget to turn out the lights before you leave. To get rid of or clean out: Meaning: To empty or clear a space. Example: She turned out her closet and donated the clothes.
+1. Prove to be the case. "The job turned out to be beyond his rather limited abilities."
+2. Extinguish a light. "He turned out the light and groped his way through the doorway to the bed."
+3. To result or conclude in a certain way — show a final result that might be different from what was expected. "The weather turned out to be better than predicted."
+4. To attend or participate in an event — appear or show up for an occasion. "Many people turned out for the concert."
+5. To produce or manufacture — make or generate something. "The factory turns out thousands of cars every month."
+6. To switch something off — stop a device or appliance from working. "Don't forget to turn out the lights before you leave."
+7. To get rid of or clean out — empty or clear a space. "She turned out her closet and donated the clothes."
 
 ## Turned on me
 
@@ -3083,9 +3147,15 @@ Slang for covert assassinations or dirty jobs (esp. in espionage).
 
 Why are you so energetic or cheerful?
 
-## Wherein \=in which \=where \=in that \=during which \=at which
+## Wherein
 
-Original: The report includes a section wherein the findings are summarized. Revised: The report includes a section in which the findings are summarized. Original: We have a system wherein users can customize their preferences. Revised: We have a system where users can customize their preferences. Original: The document outlines the process wherein errors may occur. Revised: The document outlines the process in that errors may occur. Original: We had a meeting wherein the project timeline was discussed. Revised: We had a meeting during which the project timeline was discussed. Original: The event, wherein attendees can network, is scheduled for next week. Revised: The event, at which attendees can network, is scheduled for next week.
+Equivalents/synonyms: in which, where, in that, during which, at which.
+
+Original: The report includes a section wherein the findings are summarized. Revised: The report includes a section in which the findings are summarized.
+Original: We have a system wherein users can customize their preferences. Revised: We have a system where users can customize their preferences.
+Original: The document outlines the process wherein errors may occur. Revised: The document outlines the process in that errors may occur.
+Original: We had a meeting wherein the project timeline was discussed. Revised: We had a meeting during which the project timeline was discussed.
+Original: The event, wherein attendees can network, is scheduled for next week. Revised: The event, at which attendees can network, is scheduled for next week.
 
 ## Whether
 

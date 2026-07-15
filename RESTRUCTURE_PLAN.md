@@ -43,8 +43,10 @@ multi-session effort — each phase is independently shippable and reversible.
 **Known problems**
 
 - Internal duplicates: vocab **147**, phrasal-verbs **162**, glossary-usage **23**.
-- Cross-file overlap: phrasal-verbs ∩ glossary-usage **356**, vocab ∩ phrasal-verbs **80**,
-  vocab ∩ glossary-usage **33**, phrasal-verbs ∩ business **11**, others smaller.
+- Cross-file overlap: phrasal-verbs ∩ glossary-usage **356**,
+  vocab ∩ phrasal-verbs **80** (78 resolved by Phase 3b's routing/merge pass,
+  2026-07-15 — see below), vocab ∩ glossary-usage **33**,
+  phrasal-verbs ∩ business **11**, others smaller.
 - Mixed-purpose files: `explanations.md` (3 different content types), `glossary-usage.md`
   (word + phrasal + idiom mixed together).
 - Inconsistent entry schemas (rich multi-section vs terse Meaning/Example/Context).
@@ -194,6 +196,48 @@ grain than the file's own headings:
       pick one canonical home per term, merge content, delete the rest.
 - [ ] Retire `glossary-usage.md` once empty.
 
+### Phase 3b — Separate `vocab.md` (single words) from `phrasal-verbs.md` (two/three-word verbs) ✅ (done 2026-07-15)
+Both files were meant to be type-pure per the README (`vocab.md` = single
+words, `phrasal-verbs.md` = verb + particle), but the original conversion
+left them badly cross-contaminated: 22 genuine phrasal verbs (e.g. "Chalk
+out", "Weigh in") were sitting in `vocab.md`, and — far more — **500 plain
+single words** (e.g. "Gibberish", "Mundane", "Sandbox") were sitting in
+`phrasal-verbs.md`. This also surfaced 78 title collisions (the same word
+existed correctly in one file and incorrectly in the other, e.g. "Caveat"),
+which is most of the "vocab ∩ phrasal-verbs 80" overlap noted in Known
+problems above.
+
+- [x] Built `scripts/route_vocab_phrasal.py`, which reuses `dedupe.py`'s
+      existing `parse_entries` / `merge_bodies` / `dedupe_entries` /
+      `render_index_doc` rather than reinventing merge logic — moved entries
+      that collide with an existing title in the destination file get their
+      bodies merged (keep-richest, append unique blocks), not duplicated.
+- [x] Classification heuristic: an entry is a phrasal verb if it's 2–3 words
+      and the last word is a common particle (up/out/off/in/on/down/back/
+      over/away/through/into/around/...); otherwise, if it has no space or
+      slash, it's a single word. Reviewed the smaller list (23 vocab.md
+      candidates) by eye before moving — excluded **"Inside out"**, which
+      matches the shape but is an adverbial idiom, not a verb form, so it
+      stayed in `vocab.md`.
+- [x] Dry-run first (`--write` omitted) to confirm the arithmetic before
+      touching any file: 2762 total entries − 78 merges = 2684 final total,
+      matching exactly.
+- [x] Applied: `vocab.md` 1458→1862 entries (net; moved out 22, moved in
+      500, merged 74 collisions), `phrasal-verbs.md` 1304→822 entries (moved
+      out 500, moved in 22, merged 4 collisions).
+- [x] Verified: header/back-link counts self-consistent, all ~5300 combined
+      index/TOC anchor links resolve (checked against the same slugify logic
+      `build_docs.py` uses), spot-checked a merged entry (`Caveat`) and a
+      cleanly-moved one (`Chalk out`), confirmed pronunciation guides from
+      Phase 4b survived the full re-render (335 present after vs 327 before
+      — the +8 came from moved-in words that already had their own guide).
+      Re-ran the misclassification scan after writing: 0 single words left
+      in `phrasal-verbs.md`, only the deliberately-kept `Inside out` left in
+      `vocab.md`.
+- [ ] The remaining ~2 points of `vocab ∩ phrasal-verbs` overlap noted above
+      (80 total, 78 resolved here) — negligible, re-check next time
+      `dedupe.py` runs across both files.
+
 ### Phase 4 — Fill missing explanations (definition / PoS / example / figurative vs literal)
 Multi-session grind, one file and one severity tier at a time. Never run a
 regex substitution that spans from one heading to "the next occurrence of the
@@ -261,12 +305,19 @@ non-obvious (e.g. a loanword), not mechanically to every entry.
       Assiduously, Brusque, Capitulate, Caveat, Chastise, …) (2026-07-13).
 - [x] `vocab.md` batch 2 — 65 entries, Circumspect → Divulge (mid-C through
       mid-D), same curation method (2026-07-13).
-- [ ] `vocab.md` batch 3 — continue from **Dogma/Dogmatic** (next unguided
-      entry after Divulge) through the rest of D, E, F. ~1230 vocab entries
-      remain unguided; picking up mid-list per the curation rule (skip
-      simple/common words; prioritize Latinate, low-frequency, or
-      silent-letter words).
-- [ ] `vocab.md` batches 4+ — continue alphabetically until the file is done.
+- [x] `vocab.md` batch 3 — 75 entries, Dogma → Fugitive (rest of D through
+      end of F), same curation method (2026-07-14).
+- [x] `vocab.md` batch 4 — 77 entries, Galvanize → Junta (G through J),
+      same curation method (2026-07-14).
+- [x] `vocab.md` batch 5 — 51 entries, Kooky → Nuisance (K through N),
+      same curation method (2026-07-14).
+- [ ] `vocab.md` batch 6 — continue from **Obfuscate** (next unguided entry
+      after Nuisance, start of O — a handful of simple N words like Nasty/
+      Nestle/Nudge were deliberately skipped per the curation rule) through
+      O, P, and into Q. ~1030 vocab entries remain unguided; picking up
+      mid-list per the curation rule (skip simple/common words; prioritize
+      Latinate, low-frequency, or silent-letter words).
+- [ ] `vocab.md` batches 7+ — continue alphabetically until the file is done.
 - [ ] `phrasal-verbs.md` / `idioms.md` — light pass only, per the scope note
       above; most entries don't need one.
 - [ ] `glossary-usage.md` — blocked on the same `## ` heading-level issue as

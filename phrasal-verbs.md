@@ -1,6 +1,6 @@
 # Phrasal Verbs
 
-> 1304 entries · restructured 2026-07-13 · sorted A–Z
+> 823 entries · restructured 2026-07-15 · sorted A–Z
 
 ## Index
 
@@ -10,103 +10,99 @@
 
 **A**
 
-[A bit off](#a-bit-off) · [A Blast from the Past](#a-blast-from-the-past) · [A household staple](#a-household-staple) · [a new lease of life](#a-new-lease-of-life) · [Abide by](#abide-by) · [Abreast](#abreast) · [Accord](#accord) · [account](#account) · [Accountability](#accountability) · [Acquire](#acquire) · [Act upon](#act-upon) · [action point](#action-point) · [Admonished](#admonished) · [Afoot](#afoot) · [After Ego (Alter Ego)](#after-ego-alter-ego) · [Afterlife](#afterlife) · [Against the law](#against-the-law) · [Agreed upon](#agreed-upon) · [Aha moment](#aha-moment) · [aim](#aim) · [Ain’t gonna fly](#aint-gonna-fly) · [Albeit](#albeit) · [Align](#align) · [All of a sudden](#all-of-a-sudden) · [All Over](#all-over) · [all spheres of life](#all-spheres-of-life) · [All The way](#all-the-way) · [all the way up](#all-the-way-up) · [Almost Through/ Almost there](#almost-through-almost-there) · [Amp up](#amp-up) · [Amusement park](#amusement-park) · [Anchorage](#anchorage) · [Antique](#antique) · [Anxious](#anxious) · [any doubt whatsoever](#any-doubt-whatsoever) · [Armband](#armband) · [Arse](#arse) · [as far as sb is concerned](#as-far-as-sb-is-concerned) · [As Far as Someone or Something Is Concerned](#as-far-as-someone-or-something-is-concerned) · [As long as](#as-long-as) · [as of yet](#as-of-yet) · [Ascendancy](#ascendancy) · [Aspiration](#aspiration) · [Aspirational](#aspirational) · [Aspiring](#aspiring) · [assess](#assess) · [At the back on one’s head](#at-the-back-on-ones-head) · [Attain one’s dream](#attain-ones-dream) · [Auspicious](#auspicious) · [Authority](#authority) · [Avid](#avid)
+[A bit off](#a-bit-off) · [A Blast from the Past](#a-blast-from-the-past) · [A household staple](#a-household-staple) · [a new lease of life](#a-new-lease-of-life) · [Abide by](#abide-by) · [Act upon](#act-upon) · [action point](#action-point) · [After Ego (Alter Ego)](#after-ego-alter-ego) · [Against the law](#against-the-law) · [Agreed upon](#agreed-upon) · [Aha moment](#aha-moment) · [Ain’t gonna fly](#aint-gonna-fly) · [All of a sudden](#all-of-a-sudden) · [All Over](#all-over) · [all spheres of life](#all-spheres-of-life) · [All The way](#all-the-way) · [all the way up](#all-the-way-up) · [Almost Through/ Almost there](#almost-through-almost-there) · [Amp up](#amp-up) · [Amusement park](#amusement-park) · [any doubt whatsoever](#any-doubt-whatsoever) · [as far as sb is concerned](#as-far-as-sb-is-concerned) · [As Far as Someone or Something Is Concerned](#as-far-as-someone-or-something-is-concerned) · [As long as](#as-long-as) · [as of yet](#as-of-yet) · [At the back on one’s head](#at-the-back-on-ones-head) · [Attain one’s dream](#attain-ones-dream)
 
 **B**
 
-[Babble](#babble) · [Back in the day](#back-in-the-day) · [Back out of](#back-out-of) · [Back Over](#back-over) · [Back to Square One](#back-to-square-one) · [Back up](#back-up) · [Backdoor Bragging](#backdoor-bragging) · [Backstory](#backstory) · [Backup](#backup) · [Badge of honor](#badge-of-honor) · [bang on](#bang-on) · [Bare metal](#bare-metal) · [Bark up the wrong tree](#bark-up-the-wrong-tree) · [Baseball cap](#baseball-cap) · [Bat Your Eye at Someone](#bat-your-eye-at-someone) · [Batter Down](#batter-down) · [Be concerned with](#be-concerned-with) · [Be engraved in one’s mind](#be-engraved-in-ones-mind) · [Be full of it](#be-full-of-it) · [Be hard on someone](#be-hard-on-someone) · [Be ingrained in someone](#be-ingrained-in-someone) · [Be into someone](#be-into-someone) · [Be into something](#be-into-something) · [Be itching to](#be-itching-to) · [be just the thing](#be-just-the-thing) · [Be noticeable](#be-noticeable) · [Be off](#be-off) · [Be on the go](#be-on-the-go) · [Be on the lookout for](#be-on-the-lookout-for) · [Be One’s Thing](#be-ones-thing) · [Be Prone To](#be-prone-to) · [Be shook](#be-shook) · [Be someone’s type](#be-someones-type) · [Be stuck in a rut](#be-stuck-in-a-rut) · [Be up to somebody](#be-up-to-somebody) · [Bead of Dew](#bead-of-dew) · [Beaned](#beaned) · [Bear in mind](#bear-in-mind) · [Beat the shit outta you](#beat-the-shit-outta-you) · [Beating the Drum](#beating-the-drum) · [Begin to do something](#begin-to-do-something) · [Below the belt](#below-the-belt) · [bend over backward](#bend-over-backward) · [Bend the knee](#bend-the-knee) · [better off](#better-off) · [Binding](#binding) · [Binge](#binge) · [Bit off more than I can chew](#bit-off-more-than-i-can-chew) · [blast into](#blast-into) · [Blast Radius](#blast-radius) · [Blatantly clear](#blatantly-clear) · [Blend them together](#blend-them-together) · [Blink of an eye](#blink-of-an-eye) · [Blob](#blob) · [blow away](#blow-away) · [Blow out](#blow-out) · [Bob’s your uncle](#bobs-your-uncle) · [Bold](#bold) · [Bolt-on](#bolt-on) · [Booby-trapped](#booby-trapped) · [Bossy](#bossy) · [Bottom Line](#bottom-line) · [bounce around](#bounce-around) · [bowl over](#bowl-over) · [Branch Off](#branch-off) · [Branch out](#branch-out) · [Brat](#brat) · [bread and butter](#bread-and-butter) · [Break down](#break-down) · [Break into](#break-into) · [Break into(in) vs break through](#break-intoin-vs-break-through) · [Break off](#break-off) · [Break out](#break-out) · [Break up](#break-up) · [Break with](#break-with) · [Breakdown](#breakdown) · [Breathless](#breathless) · [Brick](#brick) · [Bring about](#bring-about) · [Bring in](#bring-in) · [Bring Over](#bring-over) · [Bring up](#bring-up) · [Budge](#budge) · [Bug out](#bug-out) · [Bug you](#bug-you) · [Build On](#build-on) · [Bump into](#bump-into) · [Bury](#bury) · [Busk](#busk) · [Buzzing](#buzzing) · [By leaps and bounds](#by-leaps-and-bounds) · [Byproduct](#byproduct)
+[Back in the day](#back-in-the-day) · [Back out of](#back-out-of) · [Back Over](#back-over) · [Back to Square One](#back-to-square-one) · [Back up](#back-up) · [Backdoor Bragging](#backdoor-bragging) · [Badge of honor](#badge-of-honor) · [bang on](#bang-on) · [Bare metal](#bare-metal) · [Bark up the wrong tree](#bark-up-the-wrong-tree) · [Baseball cap](#baseball-cap) · [Bat Your Eye at Someone](#bat-your-eye-at-someone) · [Batter Down](#batter-down) · [Be concerned with](#be-concerned-with) · [Be engraved in one’s mind](#be-engraved-in-ones-mind) · [Be full of it](#be-full-of-it) · [Be hard on someone](#be-hard-on-someone) · [Be ingrained in someone](#be-ingrained-in-someone) · [Be into someone](#be-into-someone) · [Be into something](#be-into-something) · [Be itching to](#be-itching-to) · [be just the thing](#be-just-the-thing) · [Be noticeable](#be-noticeable) · [Be off](#be-off) · [Be on the go](#be-on-the-go) · [Be on the lookout for](#be-on-the-lookout-for) · [Be One’s Thing](#be-ones-thing) · [Be Prone To](#be-prone-to) · [Be shook](#be-shook) · [Be someone’s type](#be-someones-type) · [Be stuck in a rut](#be-stuck-in-a-rut) · [Be up to somebody](#be-up-to-somebody) · [Bead of Dew](#bead-of-dew) · [Bear in mind](#bear-in-mind) · [Beat the shit outta you](#beat-the-shit-outta-you) · [Beating the Drum](#beating-the-drum) · [Begin to do something](#begin-to-do-something) · [Below the belt](#below-the-belt) · [bend over backward](#bend-over-backward) · [Bend the knee](#bend-the-knee) · [better off](#better-off) · [Bit off more than I can chew](#bit-off-more-than-i-can-chew) · [blast into](#blast-into) · [Blast Radius](#blast-radius) · [Blatantly clear](#blatantly-clear) · [Blend them together](#blend-them-together) · [Blink of an eye](#blink-of-an-eye) · [blow away](#blow-away) · [Blow out](#blow-out) · [Blurt out](#blurt-out) · [Bob’s your uncle](#bobs-your-uncle) · [Bottom Line](#bottom-line) · [bounce around](#bounce-around) · [bowl over](#bowl-over) · [Branch Off](#branch-off) · [Branch out](#branch-out) · [bread and butter](#bread-and-butter) · [Break down](#break-down) · [Break into](#break-into) · [Break into(in) vs break through](#break-intoin-vs-break-through) · [Break off](#break-off) · [Break out](#break-out) · [Break up](#break-up) · [Break with](#break-with) · [Bring about](#bring-about) · [Bring in](#bring-in) · [Bring Over](#bring-over) · [Bring up](#bring-up) · [Bug out](#bug-out) · [Bug you](#bug-you) · [Build On](#build-on) · [Bump into](#bump-into) · [By leaps and bounds](#by-leaps-and-bounds)
 
 **C**
 
-[Cad](#cad) · [Call off](#call-off) · [Call on](#call-on) · [Call out](#call-out) · [Call out/in](#call-outin) · [call upon](#call-upon) · [Calm down](#calm-down) · [Can of worms](#can-of-worms) · [Canoe](#canoe) · [Canopy](#canopy) · [Capacity](#capacity) · [carrot and stick](#carrot-and-stick) · [Carry on](#carry-on) · [Carry out](#carry-out) · [Carry over](#carry-over) · [Carve in stone](#carve-in-stone) · [Carve out](#carve-out) · [Case in point](#case-in-point) · [Cash in](#cash-in) · [Cast](#cast) · [Cast off](#cast-off) · [Catch](#catch) · [Catch up (with)](#catch-up-with) · [Catch up on](#catch-up-on) · [Catchy](#catchy) · [Cater to someone](#cater-to-someone) · [catfish](#catfish) · [Cave in](#cave-in) · [Caveat](#caveat) · [Chair lift](#chair-lift) · [Chameleon](#chameleon) · [Change one’s mind](#change-ones-mind) · [Channel](#channel) · [charity begins at home](#charity-begins-at-home) · [Chat amicably](#chat-amicably) · [Check in](#check-in) · [Check out](#check-out) · [Cheer up](#cheer-up) · [Cherry-pick](#cherry-pick) · [Chicken out](#chicken-out) · [chime in](#chime-in) · [Chip In](#chip-in) · [Chipping away | Chip away](#chipping-away--chip-away) · [Choke](#choke) · [choke back](#choke-back) · [Choppy](#choppy) · [Chore](#chore) · [Chummy](#chummy) · [circle back](#circle-back) · [Clad](#clad) · [Clamping](#clamping) · [Clap back](#clap-back) · [Clasp](#clasp) · [clean up](#clean-up) · [Clean up one’s act](#clean-up-ones-act) · [Cleft](#cleft) · [Clenched](#clenched) · [clickbait](#clickbait) · [Climb aboard](#climb-aboard) · [cling (on) to](#cling-on-to) · [Close down](#close-down) · [Clouding judgment](#clouding-judgment) · [Clue](#clue) · [Clumsiness](#clumsiness) · [Clumsy](#clumsy) · [Coarse](#coarse) · [come across](#come-across) · [Come along](#come-along) · [Come Around](#come-around) · [Come by](#come-by) · [Come down](#come-down) · [come from](#come-from) · [Come in](#come-in) · [Come into the world](#come-into-the-world) · [come on](#come-on) · [Come on over](#come-on-over) · [Come through/Came through](#come-throughcame-through) · [Come to](#come-to) · [come to grief](#come-to-grief) · [Come to mind](#come-to-mind) · [Come up](#come-up) · [Come up with](#come-up-with) · [Commit to](#commit-to) · [Common Spoken Sentences](#common-spoken-sentences) · [Commotion](#commotion) · [Commute](#commute) · [Compassion](#compassion) · [Compelling](#compelling) · [Complex](#complex) · [Comply](#comply) · [Concentrated or Disperse](#concentrated-or-disperse) · [Conform](#conform) · [Confuse](#confuse) · [Conman](#conman) · [Connecting Phrases You Can Use](#connecting-phrases-you-can-use) · [Conscience](#conscience) · [Conscientious](#conscientious) · [Controversial](#controversial) · [Convince](#convince) · [Convoluted](#convoluted) · [Cope With](#cope-with) · [Corduroy](#corduroy) · [Cornerstone](#cornerstone) · [Count on](#count-on) · [Counterpart](#counterpart) · [Course Correct](#course-correct) · [Coward](#coward) · [cozying up](#cozying-up) · [crack up](#crack-up) · [Crackerjack](#crackerjack) · [Cram](#cram) · [Craving](#craving) · [Creep in](#creep-in) · [Crew](#crew) · [Crony capitalism](#crony-capitalism) · [Crucial](#crucial) · [Crummy](#crummy) · [Crutch](#crutch) · [Cry out / cry loud](#cry-out--cry-loud) · [Cut back](#cut-back) · [Cut down](#cut-down) · [Cut down on](#cut-down-on) · [Cut loose](#cut-loose) · [Cut off](#cut-off) · [Cut short](#cut-short) · [cut to the chase](#cut-to-the-chase)
+[Call off](#call-off) · [Call on](#call-on) · [Call out](#call-out) · [Call out/in](#call-outin) · [call upon](#call-upon) · [Calm down](#calm-down) · [Can of worms](#can-of-worms) · [carrot and stick](#carrot-and-stick) · [Carry on](#carry-on) · [Carry out](#carry-out) · [Carry over](#carry-over) · [Carve in stone](#carve-in-stone) · [Carve out](#carve-out) · [Case in point](#case-in-point) · [Cash in](#cash-in) · [Cast off](#cast-off) · [Catch up (with)](#catch-up-with) · [Catch up on](#catch-up-on) · [Cater to someone](#cater-to-someone) · [Cave in](#cave-in) · [Chair lift](#chair-lift) · [Chalk out](#chalk-out) · [Change one’s mind](#change-ones-mind) · [charity begins at home](#charity-begins-at-home) · [Chat amicably](#chat-amicably) · [Check in](#check-in) · [Check out](#check-out) · [Cheer up](#cheer-up) · [Chicken out](#chicken-out) · [chime in](#chime-in) · [Chip In](#chip-in) · [Chipping away | Chip away](#chipping-away--chip-away) · [choke back](#choke-back) · [Churn Out](#churn-out) · [circle back](#circle-back) · [Clap back](#clap-back) · [clean up](#clean-up) · [Clean up one’s act](#clean-up-ones-act) · [Climb aboard](#climb-aboard) · [cling (on) to](#cling-on-to) · [Close down](#close-down) · [Clouding judgment](#clouding-judgment) · [come across](#come-across) · [Come along](#come-along) · [Come Around](#come-around) · [Come by](#come-by) · [Come down](#come-down) · [come from](#come-from) · [Come in](#come-in) · [Come into the world](#come-into-the-world) · [come on](#come-on) · [Come on over](#come-on-over) · [Come through/Came through](#come-throughcame-through) · [Come to](#come-to) · [come to grief](#come-to-grief) · [Come to mind](#come-to-mind) · [Come up](#come-up) · [Come up with](#come-up-with) · [Commit to](#commit-to) · [Common Spoken Sentences](#common-spoken-sentences) · [Concentrated or Disperse](#concentrated-or-disperse) · [Connecting Phrases You Can Use](#connecting-phrases-you-can-use) · [Cope With](#cope-with) · [Count on](#count-on) · [Course Correct](#course-correct) · [cozying up](#cozying-up) · [crack up](#crack-up) · [Creep in](#creep-in) · [Creep out](#creep-out) · [Crony capitalism](#crony-capitalism) · [Cry out / cry loud](#cry-out--cry-loud) · [Cut back](#cut-back) · [Cut down](#cut-down) · [Cut down on](#cut-down-on) · [Cut loose](#cut-loose) · [Cut off](#cut-off) · [Cut short](#cut-short) · [cut to the chase](#cut-to-the-chase)
 
 **D**
 
-[Dawn](#dawn) · [day in and day out](#day-in-and-day-out) · [day tripper](#day-tripper) · [Dazzle me](#dazzle-me) · [Debut](#debut) · [Deck](#deck) · [Dedicate oneself to](#dedicate-oneself-to) · [Deflected](#deflected) · [Delicate](#delicate) · [Delusion](#delusion) · [Descendant](#descendant) · [despite](#despite) · [Devious glances](#devious-glances) · [Devoted](#devoted) · [Did not see that coming](#did-not-see-that-coming) · [Die Down](#die-down) · [Diminish](#diminish) · [Dire](#dire) · [Disguise](#disguise) · [Disheveled | dishevel](#disheveled--dishevel) · [Distorted](#distorted) · [Distress](#distress) · [Ditch](#ditch) · [Dive into](#dive-into) · [DM](#dm) · [Dolled up](#dolled-up) · [douchebag](#douchebag) · [Downside](#downside) · [Downtime](#downtime) · [draw attention to](#draw-attention-to) · [Draw your attention](#draw-your-attention) · [Drawl](#drawl) · [Dreaded](#dreaded) · [Drift away](#drift-away) · [Drifted apart](#drifted-apart) · [Drifted off](#drifted-off) · [Drifted off to sleep](#drifted-off-to-sleep) · [Drill down into](#drill-down-into) · [Drive](#drive) · [Drop By](#drop-by) · [Drop out (of)](#drop-out-of) · [Ducked](#ducked) · [due diligence](#due-diligence) · [Dump](#dump)
+[day in and day out](#day-in-and-day-out) · [day tripper](#day-tripper) · [Dazzle me](#dazzle-me) · [Dedicate oneself to](#dedicate-oneself-to) · [Devious glances](#devious-glances) · [Did not see that coming](#did-not-see-that-coming) · [Die Down](#die-down) · [Disheveled | dishevel](#disheveled--dishevel) · [Dive into](#dive-into) · [Dolled up](#dolled-up) · [draw attention to](#draw-attention-to) · [Draw your attention](#draw-your-attention) · [Drift away](#drift-away) · [Drifted apart](#drifted-apart) · [Drifted off](#drifted-off) · [Drifted off to sleep](#drifted-off-to-sleep) · [Drill down into](#drill-down-into) · [Drop By](#drop-by) · [Drop out (of)](#drop-out-of) · [due diligence](#due-diligence)
 
 **E**
 
-[Eager](#eager) · [Easier said than done](#easier-said-than-done) · [Eating Up](#eating-up) · [ecotourism](#ecotourism) · [Effect Change](#effect-change) · [elbow room](#elbow-room) · [Elderly](#elderly) · [Elusive](#elusive) · [Embody It](#embody-it) · [Embrace](#embrace) · [Employment Rate](#employment-rate) · [Emulate](#emulate) · [End up](#end-up) · [Enemy within](#enemy-within) · [Enlighten the senses](#enlighten-the-senses) · [Enraged](#enraged) · [Enunciate](#enunciate) · [Envisage](#envisage) · [Epic level](#epic-level) · [Epiphany](#epiphany) · [Epitomized](#epitomized) · [Escape blame/punishment](#escape-blamepunishment) · [Establish oneself](#establish-oneself) · [Estranged](#estranged) · [Ever since](#ever-since) · [Everything but the kitchen sink](#everything-but-the-kitchen-sink) · [Exasperated](#exasperated) · [expectations](#expectations) · [Expedite](#expedite) · [Exposure](#exposure)
+[Easier said than done](#easier-said-than-done) · [Eating Up](#eating-up) · [Effect Change](#effect-change) · [elbow room](#elbow-room) · [Embody It](#embody-it) · [Employment Rate](#employment-rate) · [End up](#end-up) · [Enemy within](#enemy-within) · [Enlighten the senses](#enlighten-the-senses) · [Epic level](#epic-level) · [Escape blame/punishment](#escape-blamepunishment) · [Establish oneself](#establish-oneself) · [Ever since](#ever-since) · [Everything but the kitchen sink](#everything-but-the-kitchen-sink)
 
 **F**
 
-[Fable](#fable) · [Facade](#facade) · [Face value](#face-value) · [Fail miserably](#fail-miserably) · [Fall / Fell Apart](#fall--fell-apart) · [Fall behind](#fall-behind) · [fall for](#fall-for) · [Falsify](#falsify) · [Familiarize](#familiarize) · [Fancy a cuppa](#fancy-a-cuppa) · [Far from over](#far-from-over) · [Fend off](#fend-off) · [Fervent](#fervent) · [Fiddle Around](#fiddle-around) · [Fidelity](#fidelity) · [Field](#field) · [Figure out](#figure-out) · [Fill in](#fill-in) · [Fill in for](#fill-in-for) · [Fill out](#fill-out) · [Fill up](#fill-up) · [Filthy](#filthy) · [Find One’s Bearing](#find-ones-bearing) · [Find out](#find-out) · [Fine-tune](#fine-tune) · [Fire up](#fire-up) · [firmly](#firmly) · [Fixate On](#fixate-on) · [Flashback](#flashback) · [Flashcard](#flashcard) · [Flawless](#flawless) · [fleabag](#fleabag) · [Flee](#flee) · [Flip a switch](#flip-a-switch) · [Float](#float) · [Flour](#flour) · [Flow](#flow) · [Fluff](#fluff) · [fly-drive](#fly-drive) · [Follow through](#follow-through) · [Fool around](#fool-around) · [For a Living](#for-a-living) · [For all intent and purposes](#for-all-intent-and-purposes) · [Forging and Brewing](#forging-and-brewing) · [Former](#former) · [Fowl](#fowl) · [Frat](#frat) · [Freckle](#freckle) · [Fresh out of](#fresh-out-of) · [Fringe](#fringe) · [From scratch](#from-scratch) · [From this point on](#from-this-point-on) · [Frowned](#frowned) · [Fudge](#fudge) · [Fulfill](#fulfill) · [Fulfilling](#fulfilling) · [Fulfillment](#fulfillment) · [Full potential](#full-potential) · [furthermore](#furthermore)
+[Face value](#face-value) · [Fail miserably](#fail-miserably) · [Fall / Fell Apart](#fall--fell-apart) · [Fall behind](#fall-behind) · [fall for](#fall-for) · [Falling out](#falling-out) · [Fancy a cuppa](#fancy-a-cuppa) · [Far from over](#far-from-over) · [Fend off](#fend-off) · [Fiddle Around](#fiddle-around) · [Figure out](#figure-out) · [Fill in](#fill-in) · [Fill in for](#fill-in-for) · [Fill out](#fill-out) · [Fill up](#fill-up) · [Find One’s Bearing](#find-ones-bearing) · [Find out](#find-out) · [Fire up](#fire-up) · [Fixate On](#fixate-on) · [Flip a switch](#flip-a-switch) · [Fly through](#fly-through) · [Follow through](#follow-through) · [Fool around](#fool-around) · [For a Living](#for-a-living) · [For all intent and purposes](#for-all-intent-and-purposes) · [Forging and Brewing](#forging-and-brewing) · [Fresh out of](#fresh-out-of) · [From scratch](#from-scratch) · [From this point on](#from-this-point-on) · [Full potential](#full-potential)
 
 **G**
 
-[Game Changer](#game-changer) · [Game of Cat and Mouse](#game-of-cat-and-mouse) · [Garrison](#garrison) · [Gasped](#gasped) · [Gauge](#gauge) · [Gear up](#gear-up) · [Get](#get) · [get across](#get-across) · [Get along](#get-along) · [get along / get along with](#get-along--get-along-with) · [get around](#get-around) · [get at](#get-at) · [get away](#get-away) · [Get away with](#get-away-with) · [get cracking](#get-cracking) · [Get Going](#get-going) · [Get in / Get on](#get-in--get-on) · [Get into](#get-into) · [Get off / Get Down](#get-off--get-down) · [Get off on something](#get-off-on-something) · [Get Off Work](#get-off-work) · [Get on](#get-on) · [Get on to](#get-on-to) · [get one's feet wet](#get-ones-feet-wet) · [Get one’s hands dirty](#get-ones-hands-dirty) · [Get one’s point across](#get-ones-point-across) · [get out](#get-out) · [Get out of](#get-out-of) · [get over](#get-over) · [Get over it](#get-over-it) · [get rid of](#get-rid-of) · [Get someone down](#get-someone-down) · [Get the hang of](#get-the-hang-of) · [Get Through](#get-through) · [get through to](#get-through-to) · [get up to](#get-up-to) · [Get word](#get-word) · [Get your shit together](#get-your-shit-together) · [getaway](#getaway) · [Gibberish](#gibberish) · [Giggled](#giggled) · [Give a Cue](#give-a-cue) · [Give a shit](#give-a-shit) · [Give someone the benefit of the doubt](#give-someone-the-benefit-of-the-doubt) · [give something a miss](#give-something-a-miss) · [Give something a try](#give-something-a-try) · [Give up](#give-up) · [Giveaway](#giveaway) · [Given](#given) · [given that](#given-that) · [glamping](#glamping) · [glory in](#glory-in) · [Gloss Over](#gloss-over) · [gnaw](#gnaw) · [Go against](#go-against) · [Go ahead](#go-ahead) · [Go around](#go-around) · [Go away](#go-away) · [Go back](#go-back) · [Go bankrupt](#go-bankrupt) · [go cold turkey](#go-cold-turkey) · [go dark](#go-dark) · [Go down](#go-down) · [Go full circle](#go-full-circle) · [Go off / Went off](#go-off--went-off) · [Go on](#go-on) · [Go out](#go-out) · [Go Over](#go-over) · [Go the extra Mile](#go-the-extra-mile) · [Go Through](#go-through) · [Go through the motions](#go-through-the-motions) · [Go Up](#go-up) · [go viral](#go-viral) · [Go With the Flow](#go-with-the-flow) · [God-awful](#god-awful) · [Goggles](#goggles) · [Going forward](#going-forward) · [Goof around](#goof-around) · [Goof up](#goof-up) · [Goofy](#goofy) · [Goosebumps](#goosebumps) · [Gorgeous](#gorgeous) · [Got off](#got-off) · [Gourmet](#gourmet) · [Grab a bite](#grab-a-bite) · [Grand finale](#grand-finale) · [Gratification](#gratification) · [Graveyard](#graveyard) · [Grinded against](#grinded-against) · [Groom](#groom) · [Groped](#groped) · [Groundbreaking](#groundbreaking) · [Grow out of](#grow-out-of) · [Gruesome](#gruesome) · [Grumbled](#grumbled)
+[Game Changer](#game-changer) · [Game of Cat and Mouse](#game-of-cat-and-mouse) · [Gear up](#gear-up) · [get across](#get-across) · [Get along](#get-along) · [get along / get along with](#get-along--get-along-with) · [get around](#get-around) · [get at](#get-at) · [get away](#get-away) · [Get away with](#get-away-with) · [get cracking](#get-cracking) · [Get Going](#get-going) · [Get in / Get on](#get-in--get-on) · [Get into](#get-into) · [Get off / Get Down](#get-off--get-down) · [Get off on something](#get-off-on-something) · [Get Off Work](#get-off-work) · [Get on](#get-on) · [Get on to](#get-on-to) · [get one's feet wet](#get-ones-feet-wet) · [Get one’s hands dirty](#get-ones-hands-dirty) · [Get one’s point across](#get-ones-point-across) · [get out](#get-out) · [Get out of](#get-out-of) · [get over](#get-over) · [Get over it](#get-over-it) · [get rid of](#get-rid-of) · [Get someone down](#get-someone-down) · [Get the hang of](#get-the-hang-of) · [Get Through](#get-through) · [get through to](#get-through-to) · [get up to](#get-up-to) · [Get word](#get-word) · [Get your shit together](#get-your-shit-together) · [Give a Cue](#give-a-cue) · [Give a shit](#give-a-shit) · [Give someone the benefit of the doubt](#give-someone-the-benefit-of-the-doubt) · [give something a miss](#give-something-a-miss) · [Give something a try](#give-something-a-try) · [Give up](#give-up) · [given that](#given-that) · [glory in](#glory-in) · [Gloss Over](#gloss-over) · [Go against](#go-against) · [Go ahead](#go-ahead) · [Go around](#go-around) · [Go away](#go-away) · [Go back](#go-back) · [Go bankrupt](#go-bankrupt) · [go cold turkey](#go-cold-turkey) · [go dark](#go-dark) · [Go down](#go-down) · [Go full circle](#go-full-circle) · [Go off / Went off](#go-off--went-off) · [Go on](#go-on) · [Go out](#go-out) · [Go Over](#go-over) · [Go the extra Mile](#go-the-extra-mile) · [Go Through](#go-through) · [Go through the motions](#go-through-the-motions) · [Go Up](#go-up) · [go viral](#go-viral) · [Go With the Flow](#go-with-the-flow) · [Going forward](#going-forward) · [Goof around](#goof-around) · [Goof up](#goof-up) · [Got off](#got-off) · [Grab a bite](#grab-a-bite) · [Grand finale](#grand-finale) · [Grinded against](#grinded-against) · [Grow out of](#grow-out-of)
 
 **H**
 
-[Habit stacking](#habit-stacking) · [Hack](#hack) · [Halfway Through](#halfway-through) · [Halo](#halo) · [Hand in](#hand-in) · [Hand out](#hand-out) · [Handoff](#handoff) · [Hands-off request](#hands-off-request) · [Hang on](#hang-on) · [Hang out](#hang-out) · [Hang Out With](#hang-out-with) · [Hangs off](#hangs-off) · [Harsh](#harsh) · [Harvest](#harvest) · [Haunted](#haunted) · [Have a crush on someone](#have-a-crush-on-someone) · [Have a leg up](#have-a-leg-up) · [Have a lot on one’s plate](#have-a-lot-on-ones-plate) · [Have a thing for someone](#have-a-thing-for-someone) · [Have been through a lot](#have-been-through-a-lot) · [Have Cash on You](#have-cash-on-you) · [have elbow room](#have-elbow-room) · [have had](#have-had) · [have it [done]](#have-it-done) · [Have it out](#have-it-out) · [Have someone’s back](#have-someones-back) · [Have something in mind](#have-something-in-mind) · [Have what it takes](#have-what-it-takes) · [Hazy](#hazy) · [Head down/Heads down](#head-downheads-down) · [Head on](#head-on) · [head over](#head-over) · [Heads up](#heads-up) · [Hear me out](#hear-me-out) · [Heckling](#heckling) · [Hell-bent](#hell-bent) · [Helpless](#helpless) · [Herculean task](#herculean-task) · [Hesitant](#hesitant) · [Hieroglyph](#hieroglyph) · [Highlight reel](#highlight-reel) · [Hinge](#hinge) · [Hit rock bottom](#hit-rock-bottom) · [Hit the ground running](#hit-the-ground-running) · [hit the nail on the head](#hit-the-nail-on-the-head) · [hit up](#hit-up) · [Hitched](#hitched) · [Hive](#hive) · [Hold back](#hold-back) · [Hold on](#hold-on) · [Hold up](#hold-up) · [holistic approach](#holistic-approach) · [Hook on](#hook-on) · [Hook Up](#hook-up) · [Hop On Board](#hop-on-board) · [hotspot](#hotspot) · [Hover](#hover) · [How dare you](#how-dare-you) · [How so](#how-so) · [Howl](#howl) · [Huddled](#huddled) · [Huffed](#huffed) · [Huffed adorably](#huffed-adorably) · [Hum](#hum) · [Humble](#humble) · [Humility](#humility) · [Hump](#hump) · [Hurl](#hurl) · [Hustle and Bustle](#hustle-and-bustle) · [Hypocritical](#hypocritical)
+[Habit stacking](#habit-stacking) · [Halfway Through](#halfway-through) · [Hand in](#hand-in) · [Hand out](#hand-out) · [Hands-off request](#hands-off-request) · [Hang on](#hang-on) · [Hang out](#hang-out) · [Hang Out With](#hang-out-with) · [Hangs off](#hangs-off) · [Have a crush on someone](#have-a-crush-on-someone) · [Have a leg up](#have-a-leg-up) · [Have a lot on one’s plate](#have-a-lot-on-ones-plate) · [Have a thing for someone](#have-a-thing-for-someone) · [Have been through a lot](#have-been-through-a-lot) · [Have Cash on You](#have-cash-on-you) · [have elbow room](#have-elbow-room) · [have had](#have-had) · [have it [done]](#have-it-done) · [Have it out](#have-it-out) · [Have someone’s back](#have-someones-back) · [Have something in mind](#have-something-in-mind) · [Have what it takes](#have-what-it-takes) · [Head down/Heads down](#head-downheads-down) · [Head on](#head-on) · [head over](#head-over) · [Heads up](#heads-up) · [Hear me out](#hear-me-out) · [Herculean task](#herculean-task) · [Highlight reel](#highlight-reel) · [Hit rock bottom](#hit-rock-bottom) · [Hit the ground running](#hit-the-ground-running) · [hit the nail on the head](#hit-the-nail-on-the-head) · [hit up](#hit-up) · [Hold back](#hold-back) · [Hold on](#hold-on) · [Hold up](#hold-up) · [Hold/Held Up](#holdheld-up) · [holistic approach](#holistic-approach) · [Hook on](#hook-on) · [Hook Up](#hook-up) · [Hop On Board](#hop-on-board) · [Hop out](#hop-out) · [How dare you](#how-dare-you) · [How so](#how-so) · [Huffed adorably](#huffed-adorably) · [Hustle and Bustle](#hustle-and-bustle)
 
 **I**
 
-[I couldn’t care less](#i-couldnt-care-less) · [I don’t know shit](#i-dont-know-shit) · [I haven't thought it through](#i-havent-thought-it-through) · [I want off this case](#i-want-off-this-case) · [I woke up gasping for air](#i-woke-up-gasping-for-air) · [I'm cross with you](#im-cross-with-you) · [I'm over him](#im-over-him) · [I'm so turned on](#im-so-turned-on) · [If you got it, flaunt it](#if-you-got-it-flaunt-it) · [Ignorance](#ignorance) · [Immersion](#immersion) · [Imminent](#imminent) · [Imperceptibly || imperceptible](#imperceptibly--imperceptible) · [Impersonate](#impersonate) · [Implement](#implement) · [Imply](#imply) · [Impulse](#impulse) · [Impulsive](#impulsive) · [In Hindsight](#in-hindsight) · [In stock](#in-stock) · [in terms of](#in-terms-of) · [in the distance](#in-the-distance) · [In tune with](#in-tune-with) · [In vain](#in-vain) · [Incisive](#incisive) · [incommunicado](#incommunicado) · [Incompatible](#incompatible) · [Inconceivable](#inconceivable) · [Inconsistency](#inconsistency) · [Indescribable](#indescribable) · [Indigenous](#indigenous) · [Indignation](#indignation) · [Indispensable](#indispensable) · [Indulgently](#indulgently) · [Inert](#inert) · [Infamous](#infamous) · [Inflection](#inflection) · [Innuendo](#innuendo) · [Insecurity](#insecurity) · [Insidious](#insidious) · [Insinuated](#insinuated) · [Internalize](#internalize) · [Interrogate](#interrogate) · [Intertwined with mine](#intertwined-with-mine) · [Intricate](#intricate) · [Investigate](#investigate) · [Irately biting his ear off](#irately-biting-his-ear-off) · [Iron out](#iron-out) · [Irony](#irony) · [island-hopping](#island-hopping) · [It is imperative](#it-is-imperative) · [It pays to](#it-pays-to) · [It's a half measure](#its-a-half-measure) · [It’s a thing](#its-a-thing) · [It’s no use (doing something)](#its-no-use-doing-something) · [I’m over it](#im-over-it)
+[I couldn’t care less](#i-couldnt-care-less) · [I don’t know shit](#i-dont-know-shit) · [I haven't thought it through](#i-havent-thought-it-through) · [I want off this case](#i-want-off-this-case) · [I woke up gasping for air](#i-woke-up-gasping-for-air) · [I'm cross with you](#im-cross-with-you) · [I'm over him](#im-over-him) · [I'm so turned on](#im-so-turned-on) · [If you got it, flaunt it](#if-you-got-it-flaunt-it) · [Imperceptibly || imperceptible](#imperceptibly--imperceptible) · [In Hindsight](#in-hindsight) · [In stock](#in-stock) · [in terms of](#in-terms-of) · [in the distance](#in-the-distance) · [In tune with](#in-tune-with) · [In vain](#in-vain) · [Intertwined with mine](#intertwined-with-mine) · [Irately biting his ear off](#irately-biting-his-ear-off) · [Iron out](#iron-out) · [It is imperative](#it-is-imperative) · [It pays to](#it-pays-to) · [It's a half measure](#its-a-half-measure) · [It’s a thing](#its-a-thing) · [It’s no use (doing something)](#its-no-use-doing-something) · [I’m over it](#im-over-it)
 
 **J**
 
-[Jam-packed](#jam-packed) · [jaunt](#jaunt) · [Jaw-dropping](#jaw-dropping) · [Jerk around](#jerk-around) · [Jigsaw puzzle](#jigsaw-puzzle) · [Joint venture](#joint-venture) · [journaling](#journaling) · [Joyride](#joyride) · [Jump at an opportunity](#jump-at-an-opportunity) · [Jump on the bandwagon](#jump-on-the-bandwagon) · [jump the gun](#jump-the-gun)
+[Jerk around](#jerk-around) · [Jigsaw puzzle](#jigsaw-puzzle) · [Joint venture](#joint-venture) · [Jump at an opportunity](#jump-at-an-opportunity) · [Jump on the bandwagon](#jump-on-the-bandwagon) · [jump the gun](#jump-the-gun)
 
 **K**
 
-[Keep an eye out for](#keep-an-eye-out-for) · [Keep One’s Eye Peeled](#keep-ones-eye-peeled) · [Keep out](#keep-out) · [Keep someone honest](#keep-someone-honest) · [keep someone posted](#keep-someone-posted) · [Keep up](#keep-up) · [Keep up with](#keep-up-with) · [Kernel](#kernel) · [key takeaway](#key-takeaway) · [Kick in](#kick-in) · [Kickoff](#kickoff) · [Kill one’s darlings](#kill-ones-darlings) · [Kill two birds with one stone](#kill-two-birds-with-one-stone) · [Kneel](#kneel) · [Kooky](#kooky)
+[Keep an eye out for](#keep-an-eye-out-for) · [Keep One’s Eye Peeled](#keep-ones-eye-peeled) · [Keep out](#keep-out) · [Keep someone honest](#keep-someone-honest) · [keep someone posted](#keep-someone-posted) · [Keep up](#keep-up) · [Keep up with](#keep-up-with) · [key takeaway](#key-takeaway) · [Kick in](#kick-in) · [Kill one’s darlings](#kill-ones-darlings) · [Kill two birds with one stone](#kill-two-birds-with-one-stone)
 
 **L**
 
-[Lagging behind](#lagging-behind) · [lash out](#lash-out) · [Lay behind](#lay-behind) · [Lay bricks](#lay-bricks) · [Lay Down](#lay-down) · [Lay eyes on](#lay-eyes-on) · [Lay off](#lay-off) · [Lay Out / Laid Out](#lay-out--laid-out) · [Lean](#lean) · [Lean into](#lean-into) · [Leaped up](#leaped-up) · [Leave it off](#leave-it-off) · [Leave work to go home](#leave-work-to-go-home) · [Lecherously](#lecherously) · [Leered](#leered) · [Left and right](#left-and-right) · [Left off](#left-off) · [Left out](#left-out) · [Let Alone](#let-alone) · [let out](#let-out) · [Let Someone In](#let-someone-in) · [Let the cat out of the bag](#let-the-cat-out-of-the-bag) · [level with](#level-with) · [Leverage](#leverage) · [Life Won’t Spare You](#life-wont-spare-you) · [lift a finger](#lift-a-finger) · [lighten](#lighten) · [Lisp](#lisp) · [listen up](#listen-up) · [Little by Little](#little-by-little) · [liven](#liven) · [Lock in](#lock-in) · [Look after](#look-after) · [Look after/out](#look-afterout) · [Look down upon](#look-down-upon) · [Look for](#look-for) · [Look forward to](#look-forward-to) · [Look into](#look-into) · [Look on](#look-on) · [Look This Over and Sign This](#look-this-over-and-sign-this) · [Look Through](#look-through) · [Look up](#look-up) · [Look up to](#look-up-to) · [Loop back](#loop-back) · [loop in](#loop-in) · [loosen up](#loosen-up) · [Lose Touch With](#lose-touch-with) · [Lousy](#lousy) · [lurking behind](#lurking-behind) · [Luscious](#luscious) · [Luxurious](#luxurious)
+[Lagging behind](#lagging-behind) · [lash out](#lash-out) · [Lay behind](#lay-behind) · [Lay bricks](#lay-bricks) · [Lay Down](#lay-down) · [Lay eyes on](#lay-eyes-on) · [Lay off](#lay-off) · [Lay Out / Laid Out](#lay-out--laid-out) · [Lean into](#lean-into) · [Leaped up](#leaped-up) · [Leave it off](#leave-it-off) · [Leave work to go home](#leave-work-to-go-home) · [Left and right](#left-and-right) · [Left off](#left-off) · [Left out](#left-out) · [Let Alone](#let-alone) · [let out](#let-out) · [Let Someone In](#let-someone-in) · [Let the cat out of the bag](#let-the-cat-out-of-the-bag) · [level with](#level-with) · [Life Won’t Spare You](#life-wont-spare-you) · [lift a finger](#lift-a-finger) · [listen up](#listen-up) · [Little by Little](#little-by-little) · [Lock in](#lock-in) · [Look after](#look-after) · [Look after/out](#look-afterout) · [Look down upon](#look-down-upon) · [Look for](#look-for) · [Look forward to](#look-forward-to) · [Look into](#look-into) · [Look on](#look-on) · [Look This Over and Sign This](#look-this-over-and-sign-this) · [Look Through](#look-through) · [Look up](#look-up) · [Look up to](#look-up-to) · [Loop back](#loop-back) · [loop in](#loop-in) · [Looped in](#looped-in) · [loosen up](#loosen-up) · [Lose Touch With](#lose-touch-with) · [lurking behind](#lurking-behind)
 
 **M**
 
-[Make a 180 Degree Turn](#make-a-180-degree-turn) · [Make an impression on](#make-an-impression-on) · [Make berth](#make-berth) · [Make It](#make-it) · [Make Oneself Useful](#make-oneself-useful) · [Make out](#make-out) · [make the most of](#make-the-most-of) · [Make up](#make-up) · [Mandate](#mandate) · [Manipulator](#manipulator) · [Mark of Somebody](#mark-of-somebody) · [Mash up](#mash-up) · [Mass](#mass) · [Mate](#mate) · [Melodramatic](#melodramatic) · [meme](#meme) · [Messed up](#messed-up) · [metrics](#metrics) · [Milestone](#milestone) · [Mimic](#mimic) · [Mindset](#mindset) · [Mingle](#mingle) · [Mischievous](#mischievous) · [Misconception](#misconception) · [Mix up](#mix-up) · [Mockery](#mockery) · [Modable (Moldable)](#modable-moldable) · [Model after](#model-after) · [Molasses](#molasses) · [Moldable](#moldable) · [Moment of Truth](#moment-of-truth) · [Monk](#monk) · [Mood Swings](#mood-swings) · [Mortar](#mortar) · [Mortifying](#mortifying) · [Mote of dust](#mote-of-dust) · [Move Around](#move-around) · [Move past it](#move-past-it) · [moving forward](#moving-forward) · [Muffled](#muffled) · [Mumble](#mumble) · [Mundane](#mundane) · [Mutton chops](#mutton-chops)
+[Make a 180 Degree Turn](#make-a-180-degree-turn) · [Make an impression on](#make-an-impression-on) · [Make berth](#make-berth) · [Make It](#make-it) · [Make Oneself Useful](#make-oneself-useful) · [Make out](#make-out) · [make the most of](#make-the-most-of) · [Make up](#make-up) · [Mark of Somebody](#mark-of-somebody) · [Mash up](#mash-up) · [Mellow out](#mellow-out) · [Messed up](#messed-up) · [Mix up](#mix-up) · [Modable (Moldable)](#modable-moldable) · [Model after](#model-after) · [Moment of Truth](#moment-of-truth) · [Mood Swings](#mood-swings) · [Mote of dust](#mote-of-dust) · [Move Around](#move-around) · [Move Over](#move-over) · [Move past it](#move-past-it) · [moving forward](#moving-forward) · [Mutton chops](#mutton-chops)
 
 **N**
 
-[Narrator](#narrator) · [Nasty Scar](#nasty-scar) · [Naysayer](#naysayer) · [Neat trick](#neat-trick) · [Necking](#necking) · [Needle back](#needle-back) · [Night and day](#night-and-day) · [Nimble](#nimble) · [Nip](#nip) · [Nip it in the bud](#nip-it-in-the-bud) · [Nitty Gritty](#nitty-gritty) · [Nitty-gritty](#nitty-gritty-1) · [no doubt](#no-doubt) · [No Hard Feelings](#no-hard-feelings) · [No problem](#no-problem) · [no strings attached](#no-strings-attached) · [Non-Negotiable](#non-negotiable) · [Nonsense](#nonsense) · [Note down](#note-down) · [Nothing short of](#nothing-short-of) · [Nothing short of extraordinary](#nothing-short-of-extraordinary) · [Notorious](#notorious) · [Novice](#novice) · [Nowhere](#nowhere) · [Nuanced](#nuanced)
+[Nasty Scar](#nasty-scar) · [Neat trick](#neat-trick) · [Needle back](#needle-back) · [Night and day](#night-and-day) · [Nip it in the bud](#nip-it-in-the-bud) · [Nitty Gritty](#nitty-gritty) · [no doubt](#no-doubt) · [No Hard Feelings](#no-hard-feelings) · [No problem](#no-problem) · [no strings attached](#no-strings-attached) · [Note down](#note-down) · [Nothing short of](#nothing-short-of) · [Nothing short of extraordinary](#nothing-short-of-extraordinary)
 
 **O**
 
-[Obnoxious](#obnoxious) · [Obscene](#obscene) · [Obstacle](#obstacle) · [Occur to someone](#occur-to-someone) · [Odds](#odds) · [Off guard](#off-guard) · [off the hook](#off-the-hook) · [off the radar](#off-the-radar) · [off the top of one's head](#off-the-top-of-ones-head) · [Off-putting](#off-putting) · [Offering](#offering) · [On and on](#on-and-on) · [On Him](#on-him) · [on paper](#on-paper) · [on par with](#on-par-with) · [On purpose](#on-purpose) · [on the flip side](#on-the-flip-side) · [on the mend](#on-the-mend) · [on the one hand](#on-the-one-hand) · [on the up](#on-the-up) · [One-Size-Fits-All](#one-size-fits-all) · [One’s lot in life](#ones-lot-in-life) · [One’s Place](#ones-place) · [Opportune moment](#opportune-moment) · [Orientation](#orientation) · [Orphanage](#orphanage) · [Out of nowhere](#out-of-nowhere) · [Out of the gate](#out-of-the-gate) · [Out of the way](#out-of-the-way) · [Outcome](#outcome) · [Outrageous](#outrageous) · [Over the top](#over-the-top) · [Overcome](#overcome) · [Overly rich](#overly-rich) · [Overpacker](#overpacker) · [Overrated](#overrated) · [Oversee](#oversee) · [Oxymoron](#oxymoron)
+[Occur to someone](#occur-to-someone) · [Off guard](#off-guard) · [off the hook](#off-the-hook) · [off the radar](#off-the-radar) · [off the top of one's head](#off-the-top-of-ones-head) · [On and on](#on-and-on) · [On Him](#on-him) · [on paper](#on-paper) · [on par with](#on-par-with) · [On purpose](#on-purpose) · [on the flip side](#on-the-flip-side) · [on the mend](#on-the-mend) · [on the one hand](#on-the-one-hand) · [on the up](#on-the-up) · [One’s lot in life](#ones-lot-in-life) · [One’s Place](#ones-place) · [Opportune moment](#opportune-moment) · [Out of nowhere](#out-of-nowhere) · [Out of the gate](#out-of-the-gate) · [Out of the way](#out-of-the-way) · [Over the top](#over-the-top) · [Overly rich](#overly-rich)
 
 **P**
 
-[Pace](#pace) · [Paddle](#paddle) · [Pail](#pail) · [paint the picture](#paint-the-picture) · [Paint the town red](#paint-the-town-red) · [Palate](#palate) · [Palpable](#palpable) · [Pan out](#pan-out) · [Panhandle](#panhandle) · [Paradigm](#paradigm) · [Paradigm shift](#paradigm-shift) · [Paradoxically](#paradoxically) · [Pass on](#pass-on) · [Pattern](#pattern) · [Pave the Way](#pave-the-way) · [Pay homage](#pay-homage) · [Pay off](#pay-off) · [Peeked](#peeked) · [Peer](#peer) · [Pensive](#pensive) · [Pent up](#pent-up) · [Pent-up](#pent-up-1) · [perception](#perception) · [Perceptive](#perceptive) · [Perform](#perform) · [perk](#perk) · [Perked up](#perked-up) · [Perpetuate](#perpetuate) · [Persevere](#persevere) · [Personal best](#personal-best) · [perspective](#perspective) · [Phase in](#phase-in) · [Phase out](#phase-out) · [Phenomenon](#phenomenon) · [Phony](#phony) · [Pick up](#pick-up) · [Pick-Me-Up](#pick-me-up) · [Picturesque](#picturesque) · [pipe dream](#pipe-dream) · [Pique Curiosity](#pique-curiosity) · [Pivot away](#pivot-away) · [Play around](#play-around) · [Play it By Ear](#play-it-by-ear) · [point of view](#point-of-view) · [Point out](#point-out) · [pontificate](#pontificate) · [Pontification](#pontification) · [Pop into one’s head](#pop-into-ones-head) · [Pop up](#pop-up) · [Posturing](#posturing) · [Potty mouth](#potty-mouth) · [Pound into](#pound-into) · [Practice makes perfect](#practice-makes-perfect) · [Prima Donna](#prima-donna) · [Proactive](#proactive) · [Process](#process) · [Profanities](#profanities) · [Prosperous](#prosperous) · [Protagonist](#protagonist) · [protégé](#protégé) · [Prove](#prove) · [Puckered](#puckered) · [Pull (something) off](#pull-something-off) · [Pull a 180](#pull-a-180) · [Pull over](#pull-over) · [Pull Up](#pull-up) · [Pulled up](#pulled-up) · [Pulling things out of thin air](#pulling-things-out-of-thin-air) · [Pulls up](#pulls-up) · [Pumped up](#pumped-up) · [Punch a hole](#punch-a-hole) · [Pungent](#pungent) · [Purred](#purred) · [Pursuit](#pursuit) · [Push back](#push-back) · [Push through](#push-through) · [Put down](#put-down) · [Put forward](#put-forward) · [Put off](#put-off) · [Put on](#put-on) · [Put one's finger on the pulse of](#put-ones-finger-on-the-pulse-of) · [Put One’s Business in the Street](#put-ones-business-in-the-street) · [Put one’s money where one’s mouth is](#put-ones-money-where-ones-mouth-is) · [Put out/off](#put-outoff) · [Put through](#put-through) · [Put two and two together](#put-two-and-two-together) · [Put Up](#put-up) · [Put up a fight](#put-up-a-fight) · [Put up with](#put-up-with) · [Put up with slackness](#put-up-with-slackness)
+[paint the picture](#paint-the-picture) · [Paint the town red](#paint-the-town-red) · [Pan out](#pan-out) · [Paradigm shift](#paradigm-shift) · [Pass on](#pass-on) · [Pave the Way](#pave-the-way) · [Pay homage](#pay-homage) · [Pay off](#pay-off) · [Pent up](#pent-up) · [Perked up](#perked-up) · [Personal best](#personal-best) · [Phase in](#phase-in) · [Phase out](#phase-out) · [Pick up](#pick-up) · [pipe dream](#pipe-dream) · [Pique Curiosity](#pique-curiosity) · [Pivot away](#pivot-away) · [Play around](#play-around) · [Play it By Ear](#play-it-by-ear) · [Plowed ahead](#plowed-ahead) · [point of view](#point-of-view) · [Point out](#point-out) · [Pop into one’s head](#pop-into-ones-head) · [Pop up](#pop-up) · [Potty mouth](#potty-mouth) · [Pound into](#pound-into) · [Practice makes perfect](#practice-makes-perfect) · [Prima Donna](#prima-donna) · [Pull (something) off](#pull-something-off) · [Pull a 180](#pull-a-180) · [Pull over](#pull-over) · [Pull Up](#pull-up) · [Pulled up](#pulled-up) · [Pulling things out of thin air](#pulling-things-out-of-thin-air) · [Pulls up](#pulls-up) · [Pumped up](#pumped-up) · [Punch a hole](#punch-a-hole) · [Push back](#push-back) · [Push through](#push-through) · [Put down](#put-down) · [Put forward](#put-forward) · [Put off](#put-off) · [Put on](#put-on) · [Put one's finger on the pulse of](#put-ones-finger-on-the-pulse-of) · [Put One’s Business in the Street](#put-ones-business-in-the-street) · [Put one’s money where one’s mouth is](#put-ones-money-where-ones-mouth-is) · [Put out](#put-out) · [Put out/off](#put-outoff) · [Put through](#put-through) · [Put two and two together](#put-two-and-two-together) · [Put Up](#put-up) · [Put up a fight](#put-up-a-fight) · [Put up with](#put-up-with) · [Put up with slackness](#put-up-with-slackness)
 
 **Q**
 
-[Quay](#quay) · [Quip](#quip) · [Quit it](#quit-it)
+[Quit it](#quit-it)
 
 **R**
 
-[R & R](#r--r) · [Rake up](#rake-up) · [Ram](#ram) · [Ramp up](#ramp-up) · [Rancher](#rancher) · [Rapid Fire](#rapid-fire) · [Raspiness](#raspiness) · [Rat race](#rat-race) · [Ratchet up](#ratchet-up) · [Reach out](#reach-out) · [Read out](#read-out) · [Really coming along](#really-coming-along) · [Reckless](#reckless) · [Recompense](#recompense) · [Reconcile](#reconcile) · [Rectify](#rectify) · [Recuperating](#recuperating) · [regard](#regard) · [Relish](#relish) · [Remark](#remark) · [Reminisce](#reminisce) · [Reminiscent smile](#reminiscent-smile) · [Remnants](#remnants) · [Resonate With](#resonate-with) · [Rest assured](#rest-assured) · [Restless](#restless) · [Retorted](#retorted) · [Revelling](#revelling) · [Righteousness](#righteousness) · [Rip apart](#rip-apart) · [Road Rage](#road-rage) · [Roll off](#roll-off) · [Roll up one’s sleeves](#roll-up-ones-sleeves) · [Roller coaster](#roller-coaster) · [rough it](#rough-it) · [Rubbed me the wrong way](#rubbed-me-the-wrong-way) · [Rule of Thumb](#rule-of-thumb) · [Rule out](#rule-out) · [Run After](#run-after) · [Run Away/off](#run-awayoff) · [Run Down](#run-down) · [Run into](#run-into) · [Run into Rough weather](#run-into-rough-weather) · [Run out (of time)](#run-out-of-time) · [Run out (of)](#run-out-of) · [Run Out For](#run-out-for) · [Run out of](#run-out-of-1) · [Run Over](#run-over) · [Run past](#run-past) · [Run past someone](#run-past-someone) · [Run with something](#run-with-something) · [RV](#rv)
+[R & R](#r--r) · [Rake up](#rake-up) · [Ramp up](#ramp-up) · [Rapid Fire](#rapid-fire) · [Rat race](#rat-race) · [Ratchet up](#ratchet-up) · [Ratting on](#ratting-on) · [Reach out](#reach-out) · [Read out](#read-out) · [Really coming along](#really-coming-along) · [Reminiscent smile](#reminiscent-smile) · [Resonate With](#resonate-with) · [Rest assured](#rest-assured) · [Rip apart](#rip-apart) · [Road Rage](#road-rage) · [Roll off](#roll-off) · [Roll up one’s sleeves](#roll-up-ones-sleeves) · [Roller coaster](#roller-coaster) · [Rolling up](#rolling-up) · [rough it](#rough-it) · [Rubbed me the wrong way](#rubbed-me-the-wrong-way) · [Rule of Thumb](#rule-of-thumb) · [Rule out](#rule-out) · [Run After](#run-after) · [Run Away/off](#run-awayoff) · [Run Down](#run-down) · [Run into](#run-into) · [Run into Rough weather](#run-into-rough-weather) · [Run out (of time)](#run-out-of-time) · [Run out (of)](#run-out-of) · [Run Out For](#run-out-for) · [Run out of](#run-out-of-1) · [Run Over](#run-over) · [Run past](#run-past) · [Run past someone](#run-past-someone) · [Run with something](#run-with-something)
 
 **S**
 
-[Saber-rattling](#saber-rattling) · [Sagging](#sagging) · [Salad Dressing](#salad-dressing) · [Sandbox](#sandbox) · [Save up (for)](#save-up-for) · [Savor](#savor) · [Scam](#scam) · [Scamper](#scamper) · [Scapegoat](#scapegoat) · [Scoffed](#scoffed) · [Scooted](#scooted) · [Scope](#scope) · [Scoundrel](#scoundrel) · [Scrape by](#scrape-by) · [Scrape up](#scrape-up) · [Scratch your own itch](#scratch-your-own-itch) · [Scurry](#scurry) · [Seductive](#seductive) · [Self fulfilling prophecy](#self-fulfilling-prophecy) · [Self-conscious](#self-conscious) · [Self-Inflicted Wound](#self-inflicted-wound) · [Self-supplied](#self-supplied) · [Sell me out](#sell-me-out) · [Sell out](#sell-out) · [Serenity Prayer](#serenity-prayer) · [Set Aside](#set-aside) · [Set it and forget it](#set-it-and-forget-it) · [Set off](#set-off) · [Set out](#set-out) · [Set up](#set-up) · [Settle for](#settle-for) · [Settle in](#settle-in) · [Shackles are off](#shackles-are-off) · [Shadowing](#shadowing) · [Shake up](#shake-up) · [Shameless](#shameless) · [Shard of Glass](#shard-of-glass) · [Sharpen One’s Ears](#sharpen-ones-ears) · [Shelved](#shelved) · [Shimmering](#shimmering) · [Shimmied](#shimmied) · [Shimmied out](#shimmied-out) · [Shit](#shit) · [Shoot](#shoot) · [Shoot me now](#shoot-me-now) · [Shop around](#shop-around) · [Show Off](#show-off) · [Show up](#show-up) · [Shrieked indignantly](#shrieked-indignantly) · [shrink](#shrink) · [Shut down](#shut-down) · [Shut the hell up](#shut-the-hell-up) · [Shut up](#shut-up) · [Sick](#sick) · [Sign language](#sign-language) · [Sign up](#sign-up) · [Silly](#silly) · [silver lining](#silver-lining) · [Simmered](#simmered) · [Simple Technical Example](#simple-technical-example) · [Siphoning of funds](#siphoning-of-funds) · [Sit in](#sit-in) · [Sit Tight](#sit-tight) · [Sitcom](#sitcom) · [Size out](#size-out) · [Sizzle out](#sizzle-out) · [Skirted past](#skirted-past) · [Sleazy](#sleazy) · [Slip in](#slip-in) · [Slipped off](#slipped-off) · [Slumber](#slumber) · [Slumped down](#slumped-down) · [Slumped Over](#slumped-over) · [Small English Improvement](#small-english-improvement) · [Smashing](#smashing) · [Sneak out](#sneak-out) · [Sneak up on](#sneak-up-on) · [Sneaking around](#sneaking-around) · [Sniggering](#sniggering) · [Snowball Effect](#snowball-effect) · [Snuggle up](#snuggle-up) · [Snuggled closer](#snuggled-closer) · [So be it](#so-be-it) · [Soak up some sun](#soak-up-some-sun) · [Soar](#soar) · [Something or other](#something-or-other) · [Something was clogging my throat](#something-was-clogging-my-throat) · [Sore](#sore) · [Sorrow](#sorrow) · [Sort of](#sort-of) · [Sort out](#sort-out) · [Sound like a broken record](#sound-like-a-broken-record) · [Space out](#space-out) · [Spark of](#spark-of) · [Speak up](#speak-up) · [Speak volumes](#speak-volumes) · [spearhead](#spearhead) · [Sped down](#sped-down) · [Speed up](#speed-up) · [Spice](#spice) · [Spillover](#spillover) · [Spiral down](#spiral-down) · [Spit in someone’s face](#spit-in-someones-face) · [splurge](#splurge) · [Spluttering](#spluttering) · [Sponge up](#sponge-up) · [Spooning](#spooning) · [Spot](#spot) · [Spot on](#spot-on) · [Sprinkle them in](#sprinkle-them-in) · [Squatted](#squatted) · [Squawk](#squawk) · [Squeaking](#squeaking) · [Squelchy](#squelchy) · [Squinted](#squinted) · [Squirmed](#squirmed) · [Stalk](#stalk) · [Stand out](#stand-out) · [Start off (start (something) off)](#start-off-start-something-off) · [stay ahead of the curve](#stay-ahead-of-the-curve) · [staycation](#staycation) · [steeper/steep learning curve](#steepersteep-learning-curve) · [stems from](#stems-from) · [Stench](#stench) · [Step down](#step-down) · [Stern](#stern) · [Stick](#stick) · [Sticking point](#sticking-point) · [Stiffened](#stiffened) · [Stifle](#stifle) · [Stifling](#stifling) · [Sting](#sting) · [Stinky response](#stinky-response) · [Stockholder](#stockholder) · [stop short of](#stop-short-of) · [stop short of doing](#stop-short-of-doing) · [Straw](#straw) · [Stress Out](#stress-out) · [Strew across](#strew-across) · [Strewn || strew || strewed || strewn / strewed](#strewn--strew--strewed--strewn--strewed) · [Strike a chord](#strike-a-chord) · [Strike up a conversation](#strike-up-a-conversation) · [Strip](#strip) · [Strive](#strive) · [Struggle](#struggle) · [Stumble across](#stumble-across) · [Stumble into](#stumble-into) · [Stumble upon](#stumble-upon) · [Subtle](#subtle) · [Sugar Rush](#sugar-rush) · [Sum up](#sum-up) · [Superficial](#superficial) · [Supplier](#supplier) · [Supply](#supply) · [Surgical](#surgical) · [Suspend](#suspend) · [Swarm](#swarm) · [Swatted](#swatted) · [Swing](#swing) · [Synergy](#synergy) · [Synonymous With](#synonymous-with)
+[Salad Dressing](#salad-dressing) · [Save up (for)](#save-up-for) · [Scrape by](#scrape-by) · [Scrape up](#scrape-up) · [Scratch your own itch](#scratch-your-own-itch) · [Self fulfilling prophecy](#self-fulfilling-prophecy) · [Self-Inflicted Wound](#self-inflicted-wound) · [Sell me out](#sell-me-out) · [Sell out](#sell-out) · [Serenity Prayer](#serenity-prayer) · [Set Aside](#set-aside) · [Set it and forget it](#set-it-and-forget-it) · [Set off](#set-off) · [Set out](#set-out) · [Set up](#set-up) · [Settle for](#settle-for) · [Settle in](#settle-in) · [Shackles are off](#shackles-are-off) · [Shake up](#shake-up) · [Shard of Glass](#shard-of-glass) · [Sharpen One’s Ears](#sharpen-ones-ears) · [Shimmied out](#shimmied-out) · [Shoot me now](#shoot-me-now) · [Shop around](#shop-around) · [Shove up](#shove-up) · [Show Off](#show-off) · [Show up](#show-up) · [Shrieked indignantly](#shrieked-indignantly) · [Shut down](#shut-down) · [Shut the hell up](#shut-the-hell-up) · [Shut up](#shut-up) · [Sign language](#sign-language) · [Sign up](#sign-up) · [silver lining](#silver-lining) · [Simple Technical Example](#simple-technical-example) · [Siphoning of funds](#siphoning-of-funds) · [Sit in](#sit-in) · [Sit Tight](#sit-tight) · [Size out](#size-out) · [Sizzle out](#sizzle-out) · [Skirted past](#skirted-past) · [Slip in](#slip-in) · [Slipped off](#slipped-off) · [Slumped down](#slumped-down) · [Slumped Over](#slumped-over) · [Small English Improvement](#small-english-improvement) · [Sneak out](#sneak-out) · [Sneak up on](#sneak-up-on) · [Sneaking around](#sneaking-around) · [Snowball Effect](#snowball-effect) · [Snuggle up](#snuggle-up) · [Snuggled closer](#snuggled-closer) · [So be it](#so-be-it) · [Soak up some sun](#soak-up-some-sun) · [Something or other](#something-or-other) · [Something was clogging my throat](#something-was-clogging-my-throat) · [Sort of](#sort-of) · [Sort out](#sort-out) · [Sound like a broken record](#sound-like-a-broken-record) · [Space out](#space-out) · [Spark of](#spark-of) · [Speak up](#speak-up) · [Speak volumes](#speak-volumes) · [Sped down](#sped-down) · [Speed up](#speed-up) · [Spiral down](#spiral-down) · [Spit in someone’s face](#spit-in-someones-face) · [Sponge up](#sponge-up) · [Spot on](#spot-on) · [Sprinkle them in](#sprinkle-them-in) · [Stand out](#stand-out) · [start off](#start-off) · [Start off (start (something) off)](#start-off-start-something-off) · [stay ahead of the curve](#stay-ahead-of-the-curve) · [steeper/steep learning curve](#steepersteep-learning-curve) · [stems from](#stems-from) · [Step down](#step-down) · [Sticking point](#sticking-point) · [Stinky response](#stinky-response) · [Stomping around](#stomping-around) · [stop short of](#stop-short-of) · [stop short of doing](#stop-short-of-doing) · [Stress Out](#stress-out) · [Strew across](#strew-across) · [Strewn || strew || strewed || strewn / strewed](#strewn--strew--strewed--strewn--strewed) · [Strike a chord](#strike-a-chord) · [Strike up a conversation](#strike-up-a-conversation) · [Stumble across](#stumble-across) · [Stumble into](#stumble-into) · [Stumble upon](#stumble-upon) · [Sugar Rush](#sugar-rush) · [Sum up](#sum-up) · [Synonymous With](#synonymous-with)
 
 **T**
 
-[Table](#table) · [taint](#taint) · [Take a step back](#take-a-step-back) · [Take away](#take-away) · [Take care of](#take-care-of) · [Take hold of](#take-hold-of) · [Take It Slow](#take-it-slow) · [Take note of something](#take-note-of-something) · [Take off](#take-off) · [Take on](#take-on) · [Take out to dinner](#take-out-to-dinner) · [Take over](#take-over) · [Take someone down](#take-someone-down) · [Take someone’s word for it](#take-someones-word-for-it) · [Take the Leap](#take-the-leap) · [Take up](#take-up) · [Take your mind off](#take-your-mind-off) · [Talk in circles](#talk-in-circles) · [Talk to vs Talk with](#talk-to-vs-talk-with) · [Tap into](#tap-into) · [Taper](#taper) · [Tapped Out / Tap Out](#tapped-out--tap-out) · [Taxing](#taxing) · [Team up](#team-up) · [Tease](#tease) · [Tech-savvy](#tech-savvy) · [Tempest [Noun]](#tempest-noun) · [Terrain](#terrain) · [Test the waters](#test-the-waters) · [That was a stall](#that-was-a-stall) · [The hours dragged on](#the-hours-dragged-on) · [The limelight](#the-limelight) · [The real deal](#the-real-deal) · [There is no finish line](#there-is-no-finish-line) · [Thick-skinned](#thick-skinned) · [Think for oneself](#think-for-oneself) · [Think of](#think-of) · [Think outside of box](#think-outside-of-box) · [This is my call](#this-is-my-call) · [This just in](#this-just-in) · [Threat](#threat) · [Thrift shop](#thrift-shop) · [Thrilled](#thrilled) · [Throw In](#throw-in) · [Throw someone off](#throw-someone-off) · [thrust upon us](#thrust-upon-us) · [Tickle One’s Curiosity](#tickle-ones-curiosity) · [Ties back](#ties-back) · [Time to turn the page](#time-to-turn-the-page) · [Timeless](#timeless) · [Tip of the Iceberg](#tip-of-the-iceberg) · [to a certain extent](#to-a-certain-extent) · [To anchor this idea](#to-anchor-this-idea) · [To each their own](#to-each-their-own) · [To go out with someone](#to-go-out-with-someone) · [To make time for something (by adjusting other activities)](#to-make-time-for-something-by-adjusting-other-activities) · [To put away](#to-put-away) · [To vent at someone](#to-vent-at-someone) · [Toned-down](#toned-down) · [Topping](#topping) · [totes inappropes](#totes-inappropes) · [Touch base](#touch-base) · [Touch point](#touch-point) · [Touch upon](#touch-upon) · [tourist trap](#tourist-trap) · [Tousle vs Unkempt](#tousle-vs-unkempt) · [Tousled || Tousle](#tousled--tousle) · [Trade-off](#trade-off) · [Trailblazer](#trailblazer) · [Trailed off](#trailed-off) · [Traipsing out](#traipsing-out) · [Trample (on/over) somebody/something](#trample-onover-somebodysomething) · [Trudged / trudge](#trudged--trudge) · [Truth hurts](#truth-hurts) · [tumble down](#tumble-down) · [Turgid](#turgid) · [Turn Around](#turn-around) · [Turn Down](#turn-down) · [Turn On](#turn-on) · [Turn one’s back](#turn-ones-back) · [Turn Out](#turn-out) · [Turn Over](#turn-over) · [Turn the Tide (in Battlefield)](#turn-the-tide-in-battlefield) · [Turn Upside Down](#turn-upside-down) · [Turned on me](#turned-on-me) · [Tush](#tush) · [Twig](#twig) · [Twist](#twist) · [Two slides of the same coin](#two-slides-of-the-same-coin)
+[Take a step back](#take-a-step-back) · [Take away](#take-away) · [Take care of](#take-care-of) · [Take hold of](#take-hold-of) · [Take It Slow](#take-it-slow) · [Take note of something](#take-note-of-something) · [Take off](#take-off) · [Take on](#take-on) · [Take out to dinner](#take-out-to-dinner) · [Take over](#take-over) · [Take someone down](#take-someone-down) · [Take someone’s word for it](#take-someones-word-for-it) · [Take the Leap](#take-the-leap) · [Take up](#take-up) · [Take your mind off](#take-your-mind-off) · [Talk in circles](#talk-in-circles) · [Talk to vs Talk with](#talk-to-vs-talk-with) · [Tap into](#tap-into) · [Tapped Out / Tap Out](#tapped-out--tap-out) · [Team up](#team-up) · [Tempest [Noun]](#tempest-noun) · [Test the waters](#test-the-waters) · [That was a stall](#that-was-a-stall) · [The hours dragged on](#the-hours-dragged-on) · [The limelight](#the-limelight) · [The real deal](#the-real-deal) · [There is no finish line](#there-is-no-finish-line) · [Think for oneself](#think-for-oneself) · [Think of](#think-of) · [Think outside of box](#think-outside-of-box) · [This is my call](#this-is-my-call) · [This just in](#this-just-in) · [Thrift shop](#thrift-shop) · [Throw In](#throw-in) · [Throw someone off](#throw-someone-off) · [thrust upon us](#thrust-upon-us) · [Tickle One’s Curiosity](#tickle-ones-curiosity) · [Ties back](#ties-back) · [Time to turn the page](#time-to-turn-the-page) · [Tip of the Iceberg](#tip-of-the-iceberg) · [to a certain extent](#to-a-certain-extent) · [To anchor this idea](#to-anchor-this-idea) · [To each their own](#to-each-their-own) · [To go out with someone](#to-go-out-with-someone) · [To make time for something (by adjusting other activities)](#to-make-time-for-something-by-adjusting-other-activities) · [To put away](#to-put-away) · [To vent at someone](#to-vent-at-someone) · [totes inappropes](#totes-inappropes) · [Touch base](#touch-base) · [Touch point](#touch-point) · [Touch upon](#touch-upon) · [tourist trap](#tourist-trap) · [Tousle vs Unkempt](#tousle-vs-unkempt) · [Tousled || Tousle](#tousled--tousle) · [Trailed off](#trailed-off) · [Traipsing out](#traipsing-out) · [Trample (on/over) somebody/something](#trample-onover-somebodysomething) · [Trudged / trudge](#trudged--trudge) · [Truth hurts](#truth-hurts) · [tumble down](#tumble-down) · [Turn Around](#turn-around) · [Turn Down](#turn-down) · [Turn On](#turn-on) · [Turn one’s back](#turn-ones-back) · [Turn Out](#turn-out) · [Turn Over](#turn-over) · [Turn the Tide (in Battlefield)](#turn-the-tide-in-battlefield) · [Turn Upside Down](#turn-upside-down) · [Turned on me](#turned-on-me) · [Two slides of the same coin](#two-slides-of-the-same-coin)
 
 **U**
 
-[Ubiquitous](#ubiquitous) · [Ulterior motive](#ulterior-motive) · [Uncanny](#uncanny) · [Under advisement](#under-advisement) · [Under the hood](#under-the-hood) · [Undoubtedly](#undoubtedly) · [Undue pressure](#undue-pressure) · [Unfazed](#unfazed) · [Unfold](#unfold) · [Unique selling point](#unique-selling-point) · [Unkempt](#unkempt) · [Unload](#unload) · [Unobstructed](#unobstructed) · [unrealistic](#unrealistic) · [Unsubstantiated](#unsubstantiated) · [Until afterwards](#until-afterwards) · [Unwind](#unwind) · [up to date](#up-to-date) · [Up until this point / Up until now](#up-until-this-point--up-until-now) · [upmarket](#upmarket)
-
-**V**
-
-[vacationer](#vacationer) · [Vague](#vague) · [Vastness](#vastness) · [Velcro](#velcro) · [Venerable](#venerable) · [Vengeance](#vengeance) · [Venison](#venison) · [Venture](#venture) · [Villain](#villain) · [Virtue](#virtue) · [Voyage](#voyage)
+[Ulterior motive](#ulterior-motive) · [Under advisement](#under-advisement) · [Under the hood](#under-the-hood) · [Undue pressure](#undue-pressure) · [Unique selling point](#unique-selling-point) · [Until afterwards](#until-afterwards) · [up to date](#up-to-date) · [Up until this point / Up until now](#up-until-this-point--up-until-now)
 
 **W**
 
-[Waded into](#waded-into) · [Wait out](#wait-out) · [Walk and talk](#walk-and-talk) · [Walk around](#walk-around) · [Walk away](#walk-away) · [Walk through](#walk-through) · [Walked past me](#walked-past-me) · [was not the thing yet](#was-not-the-thing-yet) · [wash up](#wash-up) · [Watered down](#watered-down) · [way out](#way-out) · [Weathering](#weathering) · [Weigh In](#weigh-in) · [weigh on](#weigh-on) · [Wet Work](#wet-work) · [What are you so bouncy about ?](#what-are-you-so-bouncy-about-) · [What’re you up to](#whatre-you-up-to) · [Where rubber meets the road](#where-rubber-meets-the-road) · [whether](#whether) · [Whether This Is the End of the Road](#whether-this-is-the-end-of-the-road) · [whip up](#whip-up) · [Who to turn to](#who-to-turn-to) · [Wholeheartedly](#wholeheartedly) · [Wild west](#wild-west) · [Wilderness](#wilderness) · [Willful](#willful) · [Willingness](#willingness) · [Wind up](#wind-up) · [With the end in mind](#with-the-end-in-mind) · [Withdraw from](#withdraw-from) · [Without fail](#without-fail) · [Witness](#witness) · [Work on](#work-on) · [Work Oneself to the Bone](#work-oneself-to-the-bone) · [Work out](#work-out) · [Work up](#work-up) · [Wound](#wound) · [Wrangle](#wrangle) · [Wrap Up](#wrap-up) · [Write off](#write-off) · [Write Off / written off](#write-off--written-off) · [Wrong someone](#wrong-someone)
+[Waded into](#waded-into) · [Wait out](#wait-out) · [Walk and talk](#walk-and-talk) · [Walk around](#walk-around) · [Walk away](#walk-away) · [Walk through](#walk-through) · [Walked past me](#walked-past-me) · [was not the thing yet](#was-not-the-thing-yet) · [wash up](#wash-up) · [Watered down](#watered-down) · [way out](#way-out) · [Weaned off](#weaned-off) · [Weigh In](#weigh-in) · [weigh on](#weigh-on) · [Wet Work](#wet-work) · [What are you so bouncy about ?](#what-are-you-so-bouncy-about-) · [What’re you up to](#whatre-you-up-to) · [Where rubber meets the road](#where-rubber-meets-the-road) · [Whether This Is the End of the Road](#whether-this-is-the-end-of-the-road) · [whip up](#whip-up) · [Who to turn to](#who-to-turn-to) · [Wild west](#wild-west) · [Wind up](#wind-up) · [With the end in mind](#with-the-end-in-mind) · [Withdraw from](#withdraw-from) · [Without fail](#without-fail) · [Work on](#work-on) · [Work Oneself to the Bone](#work-oneself-to-the-bone) · [Work out](#work-out) · [Work up](#work-up) · [Wrap Up](#wrap-up) · [Write off](#write-off) · [Write Off / written off](#write-off--written-off) · [Wrong someone](#wrong-someone)
 
 **Y**
 
-[yank out](#yank-out) · [Yanked up](#yanked-up) · [Yard sale](#yard-sale) · [Yearning](#yearning) · [Yelped](#yelped) · [you are way out of line](#you-are-way-out-of-line) · [You Stay as Long as It Takes](#you-stay-as-long-as-it-takes) · [You want a piece of me?](#you-want-a-piece-of-me) · [Your Call](#your-call)
+[yank out](#yank-out) · [Yanked up](#yanked-up) · [Yard sale](#yard-sale) · [you are way out of line](#you-are-way-out-of-line) · [You Stay as Long as It Takes](#you-stay-as-long-as-it-takes) · [You want a piece of me?](#you-want-a-piece-of-me) · [Your Call](#your-call)
 
 **Z**
 
-[Zeitgeist](#zeitgeist) · [Zero Sum Game](#zero-sum-game) · [Zip](#zip)
+[Zero Sum Game](#zero-sum-game)
 
 **O**
 
@@ -385,69 +381,6 @@ We must abide by the company policy.
 
 [↑ Back to index](#index)
 
-# Abreast
-
-**Meaning:** To stay updated or informed; to remain aware of the latest developments.  
- **Examples (spoken):**
-
-* “I try to keep abreast of new technologies.”
-
-* “Stay abreast of the latest trends.”
-
-* “We should keep the client abreast of any changes.”
-
-👉 *Common in business and professional talk.*
-
-[↑ Back to index](#index)
-
-# Accord
-
-**Meaning:** Agreement or harmony.  
- **Usage:**
-
-* *“We’re acting in full accord with the rules.”*
-
-* *“They signed an accord to end the conflict.”*  
-   🟢 Formal — often used in law, politics, or official speech.
-
-**Meaning:** Agreement or harmony.  
- **Figurative meaning:** A sense of balance or alignment.
-
-🗣 *“They acted in perfect accord.”*  
- 🗣 *“The countries signed an accord on trade.”*
-
-[↑ Back to index](#index)
-
-# account
-
-verb
-
-consider or regard in a specified way
-
-her visit could not be accounted a success
-
-he accounted himself the unluckiest man alive
-
-[↑ Back to index](#index)
-
-# Accountability
-
-**Meaning:** Responsibility for actions or outcomes.
-
-🗣 *“We need accountability in leadership.”*  
- 🗣 *“Having a workout buddy increases accountability.”*
-
-[↑ Back to index](#index)
-
-# Acquire
-
-**Meaning:** To gain or obtain something, especially through effort or learning.
-
-🗣 *“He acquired a taste for classical music.”*  
- 🗣 *“The company acquired a smaller competitor.”*
-
-[↑ Back to index](#index)
-
 # Act upon
 
 To follow  
@@ -463,40 +396,10 @@ specific task to be completed, especially following a meeting
 
 [↑ Back to index](#index)
 
-# Admonished
-
-**Meaning:** Scolded gently or warned seriously.  
- **Usage:**
-
-* *“The teacher admonished the students for being late.”*
-
-* *“He was admonished to be careful.”*
-
-[↑ Back to index](#index)
-
-# Afoot
-
-adjective/adverb (used after "be," e.g. "something is afoot") — happening, in progress, or being secretly planned.
-
-"There were rumors that a merger was afoot."
-"Something's afoot in the leadership team's roadmap discussions."
-
-[↑ Back to index](#index)
-
 # After Ego (Alter Ego)
 
 **Meaning:** A second self or another side of one’s personality.  
  **Example:** *Superman’s alter ego is Clark Kent.*
-
-[↑ Back to index](#index)
-
-# Afterlife
-
-**Literal meaning:** Life after death.  
- **Figurative meaning:** The continuation of something (a project, reputation, or idea) after its supposed end.
-
-🗣 *“He believed firmly in the afterlife.”*  
- 🗣 *“Even after the company shut down, the product found an afterlife as open-source software.”*
 
 [↑ Back to index](#index)
 
@@ -589,42 +492,11 @@ Try repeating the example sentences aloud once or twice. This helps your brain s
 
 [↑ Back to index](#index)
 
-# aim
-
-verb
-
-have the intention of achieving
-
-new French cooking aims at producing clear, fresh flavors and light textures
-
-we aim to give you the best possible service
-
-[↑ Back to index](#index)
-
 # Ain’t gonna fly
 
 idiom (informal) — will not be accepted, approved, or believed; won't work.
 
 "That excuse ain't gonna fly with the client."
-
-[↑ Back to index](#index)
-
-# Albeit
-
-**Meaning:** Although; even though.  
- **Figurative meaning:** Adds contrast smoothly in formal or written speech.
-
-🗣 *“The project was successful, albeit delayed.”*  
- 🗣 *“She looked tired, albeit satisfied.”*
-
-💡 *(Elegant, formal alternative to “though.”)*
-
-[↑ Back to index](#index)
-
-# Align
-
-**Meaning:** To match or agree with something.  
- **Example:** *Your goals should align with your values.*
 
 [↑ Back to index](#index)
 
@@ -845,33 +717,6 @@ Place with rides and fun attractions.
 
 [↑ Back to index](#index)
 
-# Anchorage
-
-**Literal meaning:** A place where ships anchor.  
- **Figurative meaning:** A source of stability, safety, or grounding.
-
-🗣 *“The bay provided safe anchorage for the boats.”*  
- 🗣 *“Her family is her emotional anchorage.”*
-
-[↑ Back to index](#index)
-
-# Antique
-
-**Literal meaning:** An old, valuable item.  
- **Figurative meaning:** Something aged but respected or charmingly old-fashioned.
-
-🗣 *“That antique clock still works perfectly.”*  
- 🗣 *“He collects antique books.”*
-
-[↑ Back to index](#index)
-
-# Anxious
-
-**Meaning:** Nervous or worried.  
- **Example:** *I’m anxious about tomorrow’s interview.*
-
-[↑ Back to index](#index)
-
 # any doubt whatsoever
 
 The phrase **“any doubt whatsoever”** means *absolutely no doubt at all*. It’s often used for emphasis, to make it clear that there’s not even the smallest amount of uncertainty.
@@ -897,25 +742,6 @@ It’s stronger than just saying *“any doubt”* because the word **“whatsoe
 👉 Try speaking them aloud; it will help you get the natural flow.
 
 ✨ You can use this phrase in **professional settings** (meetings, presentations) when you want to **reassure confidence**, or in **casual talk** when you want to sound very certain about something.
-
-[↑ Back to index](#index)
-
-# Armband
-
-**Meaning:** A band worn around the arm for decoration or identification.  
- **Example:** *The players wore black armbands to honor him.*
-
-[↑ Back to index](#index)
-
-# Arse
-
-**Meaning:** British slang for “butt.” Also used casually for “idiot” or “fool.”  
- **Usage:**
-
-* *“Get your arse off the couch\!”*
-
-* *“He’s such an arse sometimes.”*  
-   🟢 Informal, often humorous or teasing.
 
 [↑ Back to index](#index)
 
@@ -989,86 +815,6 @@ indicates that something has not happened or been known up to the present time.
 
 [↑ Back to index](#index)
 
-# Ascendancy
-
-**Ascendancy** means having a position of power, influence, or control over someone or something.  
- It’s often used in formal or semi-formal spoken English to describe dominance, authority, or superiority in a situation.
-
-Examples in spoken English:
-
-* *“Over the years, technology has gained ascendancy over traditional methods.”*
-
-* *“Her calm and logical approach gave her ascendancy in the discussion.”*
-
-* *“That company has had commercial ascendancy in the market for decades.”*
-
-Similar words you can use:
-
-* **dominance** (more common in speech)
-
-* **control**
-
-* **influence**
-
-* **supremacy** (stronger tone, often used in competitive or historical contexts)
-
-Useful phrases you can practice:
-
-1. “On the other hand, his experience gave him ascendancy over the younger team members.”
-
-2. “For example, countries with strong economies usually hold ascendancy in global trade.”
-
-3. “That being said, ascendancy doesn’t last forever—power can shift quickly.”
-
-4. “In our field, innovation often takes ascendancy over tradition.”
-
-👉 Try speaking these sentences aloud; it will help you get comfortable using **ascendancy** naturally.
-
-[↑ Back to index](#index)
-
-# Aspiration
-
-**Meaning:** A strong desire or goal for achievement.
-
-🗣 *“Her aspiration is to start her own company.”*  
- 🗣 *“We should encourage kids to have big aspirations.”*
-
-[↑ Back to index](#index)
-
-# Aspirational
-
-**Meaning:** Something desirable that one hopes to achieve or emulate.  
- **Figurative meaning:** Used to describe lifestyles or goals that inspire others.
-
-🗣 *“That’s an aspirational brand — it makes people dream bigger.”*  
- 🗣 *“He has an aspirational mindset — always aiming higher.”*
-
-[↑ Back to index](#index)
-
-# Aspiring
-
-adjective — hoping to become (a particular thing), especially in a career, but not yet having achieved it.
-
-"She's an aspiring product manager, currently interning on the growth team."
-
-[↑ Back to index](#index)
-
-# assess
-
-verb
-
-evaluate or estimate the nature, ability, or quality of
-
-the committee must assess the relative importance of the issues
-
-it is difficult to assess whether this is a new trend
-
-the damage was assessed at $5 billion
-
-all empty properties will be assessed at 50 percent
-
-[↑ Back to index](#index)
-
 # At the back on one’s head
 
 An idea or thought that someone is aware of but is not actively thinking about
@@ -1099,41 +845,6 @@ It’s like a thought or concern that lingers quietly in your mind.
 
 🗣 *“He finally attained his dream of becoming a pilot.”*  
  🗣 *“Attaining your dream takes patience and persistence.”*
-
-[↑ Back to index](#index)
-
-# Auspicious
-
-**Meaning:** Lucky or promising; showing signs of success.  
- **Example:** *It’s an auspicious day to start a new project.*
-
-[↑ Back to index](#index)
-
-# Authority
-
-**Literal meaning:** The power or right to make decisions or enforce rules.  
- **Figurative meaning:** A person who is highly knowledgeable or respected in a field.
-
-🗣 *“You don’t have the authority to make that call.”*  
- 🗣 *“He’s an authority on data science.”*
-
-[↑ Back to index](#index)
-
-# Avid
-
-**Meaning:** Very enthusiastic or eager.  
- **Example:** *She’s an avid reader.*
-
-[↑ Back to index](#index)
-
-# Babble
-
-**Literal meaning:** To talk rapidly and incoherently, like a baby or someone nervous.  
- **Figurative meaning:** To speak nonsense or without clear meaning.
-
-🗣 *“The baby was babbling happily.”*  
- 🗣 *“He just babbled through his presentation — no structure at all.”*  
- 🗣 *“I tend to babble when I get nervous.”*
 
 [↑ Back to index](#index)
 
@@ -1224,26 +935,6 @@ Meaning: To create a copy of data or provide support.
 
 **Meaning:** Humblebragging—showing off indirectly.  
  **Example:** *He said, “I’m so tired of being promoted every year.” That’s classic backdoor bragging.*
-
-[↑ Back to index](#index)
-
-# Backstory
-
-**Meaning:** The background history of a character or event.  
- **Example:** *The villain’s backstory made the plot more interesting.*
-
-[↑ Back to index](#index)
-
-# Backup
-
-**Literal meaning:** Something or someone kept in reserve for support or replacement.  
- **Figurative meaning:** Emotional or strategic support; plan B.
-
-🗣 *“Always keep a backup of your files.”*  
- 🗣 *“Don’t worry, I’ve got a backup plan.”*  
- 🗣 *“I called my friend for backup during the presentation.”*
-
-💡 *(Also used as a verb: “I’ll back you up” \= I’ll support you.)*
 
 [↑ Back to index](#index)
 
@@ -1614,20 +1305,6 @@ Try saying this aloud:
 
 [↑ Back to index](#index)
 
-# Beaned
-
-* **Literal:** Hit someone on the head (usually with a ball).
-
-* **Figurative:** To unintentionally hurt or shock someone.
-
-* **Examples:**
-
-  * “He *beaned* the pitcher with a fastball.”
-
-  * “I almost *beaned* my boss with that door — so embarrassing\!”
-
-[↑ Back to index](#index)
-
 # Bear in mind
 
 “**Bear in mind**” means *to remember something important while considering or doing something*.
@@ -1813,68 +1490,6 @@ It’s often used in the context of relationships, friendships, or even work sit
 ✨ Gentle correction: your sentence *“I’m better off alone”* is **already correct and natural**. You can also say:
 
 * *“I’m better off on my own.”* (same meaning, slightly more casual).
-
-[↑ Back to index](#index)
-
-# Binding
-
-**Literal meaning:** Something that ties, fastens, or holds together.  
- **Figurative meaning:** Obligatory or unchangeable — something that must be followed.
-
-🗣 *“This contract is legally binding.”*  
- 🗣 *“They made a binding promise to each other.”*
-
-💡 *(Formal, used in law, business, or commitments.)*
-
-[↑ Back to index](#index)
-
-# Binge
-
-At its core, *binge* means **doing something excessively in a short period of time**, usually more than normal or healthy.
-
-### **Different Contexts of Usage**
-
-1. **Food/Drink**
-
-   * *“She went on a binge last night and ate a whole cake.”*
-
-   * *“After the party, he regretted his drinking binge.”*  
-      👉 Here, it means overeating or overdrinking in one go.
-
-2. **Entertainment (very common now)**
-
-   * *“We binged the entire Netflix series in one weekend.”*
-
-   * *“I’m binge-watching old cricket matches lately.”*  
-      👉 Doing too much watching in one stretch.
-
-3. **Shopping/Spending**
-
-   * *“She went on a shopping binge and bought 10 dresses.”*
-
-   * *“His spending binge left him broke by the end of the month.”*  
-      👉 Excessive buying in one go.
-
-4. **Work or Study (less common but possible)**
-
-   * *“I binged on coding last night and finished the project.”*
-
-   * *“He went on a study binge before the exams.”*  
-      👉 Putting in a very intense, continuous effort for hours.
-
-### **Spoken Sentences You Can Use**
-
-* *“I binged the whole season in one night—it was addictive.”*
-
-* *“Sometimes I go on a shopping binge when I’m stressed.”*
-
-* *“We shouldn’t binge on junk food, but it happens.”*
-
-* *“He binged on work and forgot to eat lunch.”*
-
-👉 Notice how in spoken English, people often use “binge” with **on** (binge on food, binge on shows, binge on work).
-
-✅ Practice tip: Try making 2–3 sentences aloud with *binge on* \+ (food, shows, shopping).
 
 [↑ Back to index](#index)
 
@@ -2087,16 +1702,6 @@ It refers to a **very short amount of time**, often emphasizing how fast or unex
 
 [↑ Back to index](#index)
 
-# Blob
-
-**Literal meaning:** A shapeless lump or mass.  
- **Figurative meaning:** Something or someone without form or energy.
-
-🗣 *“There’s a blob of paint on the floor.”*  
- 🗣 *“I felt like a blob after eating too much.”*
-
-[↑ Back to index](#index)
-
 # blow away
 
 verb
@@ -2116,87 +1721,18 @@ He blew out the candle.
 
 [↑ Back to index](#index)
 
+# Blurt out
+
+to say something suddenly and without thinking
+
+[↑ Back to index](#index)
+
 # Bob’s your uncle
 
 **Meaning (British idiom):** Used to say “and there you go” / “it’s that simple.”
 
 🗣 *“Just add sugar, mix it, and Bob’s your uncle — perfect cake\!”*  
  🗣 *“Upload the file, click share, and Bob’s your uncle.”*
-
-[↑ Back to index](#index)
-
-# Bold
-
-**Meaning:** Confident, daring, or vivid.
-
-🗣 *“That’s a bold move — I like it.”*  
- 🗣 *“She wore a bold red dress.”*
-
-[↑ Back to index](#index)
-
-# Bolt-on
-
-**adjective**  
-(of an extra part of a machine) able to be fastened on with a bolt or catch.  
-"a bolt-on accessory available for most 35 mm SLRs"
-
-denoting a feature, service, etc. that has been or can be added to an existing arrangement.  
-"there's no obligation to buy any type of bolt-on insurance product with a personal loan"
-
-**noun**  
-a bolt-on part of a machine.  
-"the bike's bolt-ons were worth more than the asking price"
-
-**"Bolt-on"** can be used both as a **noun** and an **adjective**, and it comes from the idea of **literally bolting something onto** an existing structure. In spoken and business English, it's often used **figuratively** to describe **something that is added on easily without major changes**.
-
-**🔹 Meanings:**
-
-1. **Literal (mechanical):**
-
-   * A **bolt-on** is a part that can be attached with bolts, without needing to rebuild or modify the original structure.
-
-   * *"This spoiler is a simple bolt-on for most cars."*
-
-2. **Figurative (business/tech):**
-
-   * A **bolt-on** feature or system is an **additional part that integrates easily** with something already in place.
-
-   * *"We added a bolt-on analytics module to the software."*
-
-3. **M\&A (mergers & acquisitions):**
-
-   * A **bolt-on acquisition** is when a company **buys a smaller business** that fits neatly into its operations.
-
-   * *"They’re looking for bolt-on acquisitions to expand their market share."*
-
-**🔹 Usage in sentences:**
-
-* *"The new CRM tool is a bolt-on to our existing platform."*  
-   → It can be added without disrupting the current system.
-
-* *"That feature isn’t built-in, but it’s available as a bolt-on."*  
-   → It’s optional and can be added if needed.
-
-* *"They completed a bolt-on acquisition to enhance their logistics services."*  
-   → They bought a smaller company that easily fits with their operations.
-
-[↑ Back to index](#index)
-
-# Booby-trapped
-
-**Meaning:** Set up with a hidden trap or danger.  
- **Usage:**
-
-* *“The house was booby-trapped.”*
-
-* *“He booby-trapped the gift box as a prank.”*
-
-[↑ Back to index](#index)
-
-# Bossy
-
-**Meaning:** Always telling others what to do.  
-**Example:** *My sister can be really bossy sometimes.*
 
 [↑ Back to index](#index)
 
@@ -2347,17 +1883,6 @@ Meaning: To expand or extend one’s interests.
 
 [↑ Back to index](#index)
 
-# Brat
-
-**Meaning:** A spoiled or badly behaved child (sometimes used teasingly for adults too).  
- **Usage:**
-
-* *“Stop acting like a brat\!”*
-
-* *“He’s a bit of a brat, but he’s harmless.”*
-
-[↑ Back to index](#index)
-
 # bread and butter
 
 * **Bread and butter** is an idiom that means **someone’s main source of income** or **the basic, essential part of something.**
@@ -2468,45 +1993,6 @@ Why do you break with me.
 
 [↑ Back to index](#index)
 
-# Breakdown
-
-**Meaning:** Failure of function; emotional collapse.  
- **Example:** *His car had a breakdown.* / *She had an emotional breakdown.*
-
-[↑ Back to index](#index)
-
-# Breathless
-
-**Literal meaning:** Out of breath.  
- **Figurative meaning:** Overwhelmed with excitement, admiration, or suspense.
-
-🗣 *“The hike left me breathless.”*  
- 🗣 *“Her story had the audience breathless.”*
-
-[↑ Back to index](#index)
-
-# Brick
-
-**Literal meaning:** A rectangular block used for building.  
- **Figurative meanings:**
-
-1. A solid, reliable person (British).
-
-2. Something heavy or dense (slang).
-
-🗣 *“He’s a real brick — always there when you need him.”*  
- 🗣 *“My old phone’s basically a brick now.”*
-
-💡 *(In tech slang, “bricked” \= completely unusable, e.g., “I bricked my phone.”)*
-
-**Literal meaning:** A solid building block.  
- **Figurative meaning:** A dependable person (British informal), or sometimes an obstacle metaphorically.
-
-🗣 *“She’s such a brick — always dependable.”*  
- 🗣 *“They hit a brick wall with the new policy.”*
-
-[↑ Back to index](#index)
-
 # Bring about
 
 Meaning: To cause or initiate a change or result.
@@ -2542,17 +2028,6 @@ To foster
 They brought me up.  
 I was brought up in Dehradun  
 ---
-
-[↑ Back to index](#index)
-
-# Budge
-
-**Meaning:** To move slightly, especially when something or someone is stubborn.  
- **Usage:**
-
-* *“The door wouldn’t budge.”* (physically stuck)
-
-* *“He wouldn’t budge on his opinion.”* (mentally stuck)
 
 [↑ Back to index](#index)
 
@@ -2742,59 +2217,12 @@ I bumped into her on the way back from the hospital.
 
 [↑ Back to index](#index)
 
-# Bury
-
-verb — literal: to put something in the ground and cover it with earth. Figurative: to suppress or hide something (*bury the lede*); or to be overwhelmed with work (*buried in work*).
-
-**Literal:** "They buried the time capsule under the old oak tree."
-**Figurative:** "He's buried in tickets this sprint." / "The company tried to bury the bad news in a Friday-afternoon release."
-
-[↑ Back to index](#index)
-
-# Busk
-
-**Meaning:** To perform music or art in public for money.  
- **Example:** *He used to busk on the subway platform.*
-
-[↑ Back to index](#index)
-
-# Buzzing
-
-**Meaning:** Full of excitement or activity.  
- **Example:** *The café was buzzing with people and music.*
-
-[↑ Back to index](#index)
-
 # By leaps and bounds
 
 **Meaning:** Rapidly or significantly.
 
 🗣 *“Her English has improved by leaps and bounds.”*  
  🗣 *“Technology is advancing by leaps and bounds.”*
-
-[↑ Back to index](#index)
-
-# Byproduct
-
-**Meaning:** A secondary result produced during another process.  
- **Figurative meaning:** An unintended consequence.
-
-🗣 *“Stress is a byproduct of ambition.”*  
- 🗣 *“This discovery was a byproduct of another experiment.”*
-
-[↑ Back to index](#index)
-
-# Cad
-
-* **Literal:** An old-fashioned term for a rude or dishonorable man.
-
-* **Figurative:** A man who behaves badly, especially toward women.
-
-* **Examples:**
-
-  * “He’s such a *cad* — he stood her up twice.”
-
-  * “Only a *cad* would treat someone like that.”
 
 [↑ Back to index](#index)
 
@@ -2989,40 +2417,6 @@ He finally calmed down after the argument.
 
 [↑ Back to index](#index)
 
-# Canoe
-
-**Literal meaning:** A narrow boat moved with paddles, usually for recreation or travel on water.  
- **Figurative meaning:** Symbol of self-reliance or personal effort (“paddle your own canoe” \= take responsibility for yourself).
-
-🗣 *“We went canoeing down the river last weekend.”*  
- 🗣 *“You have to paddle your own canoe in this career — no one’s going to do it for you.”*
-
-[↑ Back to index](#index)
-
-# Canopy
-
-**Literal meaning:** A roof-like covering (of trees, fabric, or structure).  
- **Figurative meaning:** Protection, shelter, or something overarching.
-
-🗣 *“The forest canopy blocked the sunlight.”*  
- 🗣 *“We sat under a canopy by the beach.”*  
- 🗣 *“He felt safe under the canopy of her calm presence.”*
-
-💡 *(Used literally in nature, figuratively in poetic speech.)*
-
-[↑ Back to index](#index)
-
-# Capacity
-
-**Literal meaning:** The maximum amount something can hold.  
- **Figurative meaning:** Ability or potential to perform, understand, or endure.
-
-🗣 *“The hall is full to capacity.”*  
- 🗣 *“She has a great capacity for empathy.”*  
- 🗣 *“I’m working at full mental capacity today.”*
-
-[↑ Back to index](#index)
-
 # carrot and stick
 
 ### **Meaning:**
@@ -3169,29 +2563,12 @@ Meaning: To profit or benefit from a situation or opportunity.
 
 [↑ Back to index](#index)
 
-# Cast
-
-**Literal meaning:** To throw or assign (like casting a net or a role).  
- **Figurative meaning:** To shape perception or set direction.
-
-🗣 *“They cast her as the lead actress.”*  
- 🗣 *“The news cast a shadow over the celebrations.”*
-
-[↑ Back to index](#index)
-
 # Cast off
 
 To abandon
 
 Snake casts off the outer skin.  
 ---
-
-[↑ Back to index](#index)
-
-# Catch
-
-**Meaning:** To notice, grab, or understand something.  
- **Example:** *Did you catch what she said?*
 
 [↑ Back to index](#index)
 
@@ -3241,36 +2618,11 @@ Meaning: To update or complete something that was missed or delayed.
 
 [↑ Back to index](#index)
 
-# Catchy
-
-**Meaning:** Easy to remember, especially because it’s appealing or rhythmic.  
- **Figurative meaning:** Anything that “sticks” in the mind — idea, slogan, or phrase.
-
-🗣 *“That’s such a catchy song — it’s stuck in my head\!”*  
- 🗣 *“We need a catchy title for this campaign.”*  
- 🗣 *“Her smile is catchy — everyone lights up around her.”*
-
-[↑ Back to index](#index)
-
 # Cater to someone
 
 phrasal verb — to provide what someone needs or wants; to satisfy their particular requirements or tastes.
 
 "The app was redesigned to cater to first-time users."
-
-[↑ Back to index](#index)
-
-# catfish
-
-verb
-
-use a fake profile to pretend to be someone else
-
-Many people are unaware that they are being catfished until it's too late.
-
-lure (someone) into a relationship by means of a fictional online persona
-
-he was being catfished by a cruel prankster
 
 [↑ Back to index](#index)
 
@@ -3292,21 +2644,6 @@ he was being catfished by a cruel prankster
 
 [↑ Back to index](#index)
 
-# Caveat
-
-**Meaning:** A warning or condition that you should be aware of before proceeding.  
- **Examples (spoken):**
-
-* “You can take the job — but with one caveat: it requires relocation.”
-
-* “Here’s the caveat — the software isn’t compatible with older systems.”
-
-* “That sounds good, but with a caveat, it’s not guaranteed.”
-
-👉 *Connecting phrase:* “That being said, there’s one caveat…”
-
-[↑ Back to index](#index)
-
 # Chair lift
 
 noun — a series of chairs mounted on a moving cable, used to carry people up a mountain, typically at ski resorts. Literal object, no figurative use.
@@ -3315,13 +2652,11 @@ noun — a series of chairs mounted on a moving cable, used to carry people up a
 
 [↑ Back to index](#index)
 
-# Chameleon
+# Chalk out
 
-**Literal meaning:** A color-changing reptile.  
- **Figurative meaning:** A person who adapts easily to different situations.
-
-🗣 *“She’s such a chameleon — fits in anywhere.”*  
- 🗣 \*“In business, being a chameleon helps you survive
+phrasal verb of chalk  
+sketch or plan something.  
+"we have already chalked out the strategy for conducting raids"
 
 [↑ Back to index](#index)
 
@@ -3332,16 +2667,6 @@ noun — a series of chairs mounted on a moving cable, used to carry people up a
 
 🗣 *“I was going to say no, but I changed my mind.”*  
  🗣 *“He never changes his mind once he decides.”*
-
-[↑ Back to index](#index)
-
-# Channel
-
-**Literal meaning:** A passage for water or communication.  
- **Figurative meaning:** To direct emotions, energy, or focus into something.
-
-🗣 *“She channels her creativity through painting.”*  
- 🗣 *“Try to channel your frustration into action.”*
 
 [↑ Back to index](#index)
 
@@ -3387,14 +2712,6 @@ Meaning: To register or report arrival at a place.
 
 **Cheer up** – To become happier.  
 Cheer up\! Things will get better.
-
-[↑ Back to index](#index)
-
-# Cherry-pick
-
-verb  
-choose and take only (the most beneficial or profitable items, opportunities, etc.) from what is available.  
-"the company should buy the whole airline and not just cherry-pick its best assets"
 
 [↑ Back to index](#index)
 
@@ -3561,16 +2878,6 @@ It suggests that even small, consistent actions can lead to big results over tim
 
 [↑ Back to index](#index)
 
-# Choke
-
-**Literal meaning:** To be unable to breathe or speak.  
- **Figurative meaning:** To fail under pressure or stress.
-
-🗣 *“He choked during the final round.”*  
- 🗣 *“Don’t choke — you’ve practiced for this.”*
-
-[↑ Back to index](#index)
-
 # choke back
 
 verb
@@ -3581,29 +2888,14 @@ Liz was choking back her anger
 
 [↑ Back to index](#index)
 
-# Choppy
+# Churn Out
 
-**Literal meaning:** Rough, uneven (like waves or video).  
- **Figurative meaning:** Inconsistent, lacking flow or smoothness.
+phrasal verb of churn  
+produce something routinely or mechanically and in large quantities.  
+"artists continued to churn out uninteresting works"
 
-🗣 *“The video call was choppy.”*  
- 🗣 *“His speech felt choppy and unorganized.”*
-
-[↑ Back to index](#index)
-
-# Chore
-
-**Meaning:** A routine task, often boring or domestic.  
- **Example:** *Doing the dishes is my least favorite chore.*
-
-[↑ Back to index](#index)
-
-# Chummy
-
-Adjective
-
-on friendly terms; friendly.  
-"she's become rather chummy with Ted recently"
+"Churning out" is an informal phrasal verb that means to produce something quickly and in large quantities, often at the expense of quality. For example, you might say   
+The factory churns out thousands of pairs of these shoes every week. 
 
 [↑ Back to index](#index)
 
@@ -3653,54 +2945,12 @@ the restaurant raised the bar for contemporary Scottish cuisine in the capital
 
 [↑ Back to index](#index)
 
-# Clad
-
-* **Literal:** Dressed or covered in something.
-
-* **Figurative:** Symbolically covered in emotion, attitude, or purpose.
-
-* **Examples:**
-
-  * “He was *clad* in black leather.”
-
-  * “She was *clad* in confidence and charm.”
-
-[↑ Back to index](#index)
-
-# Clamping
-
-* **Literal:** Holding tightly or fastening something firmly.
-
-* **Figurative:** Controlling or restraining emotions or actions.
-
-* **Examples:**
-
-  * “He *clamped* the lid on the jar.”
-
-  * “She *clamped* her lips shut to keep from arguing.”
-
-[↑ Back to index](#index)
-
 # Clap back
 
 phrasal verb of clap  
 informal•US  
 respond quickly to critical remarks or unfair treatment.  
 "she is not afraid to clap back at the haters when they use homophobic slurs"
-
-[↑ Back to index](#index)
-
-# Clasp
-
-* **Literal:** To hold tightly with your hands.
-
-* **Figurative:** To hold emotionally or symbolically (like an idea or memory).
-
-* **Examples:**
-
-  * “She *clasped* his hand tightly.”
-
-  * “He *clasped* the medal to his chest proudly.”
 
 [↑ Back to index](#index)
 
@@ -3793,46 +3043,6 @@ It suggests that someone was not doing well (messy, lazy, careless, etc.) and no
 
 [↑ Back to index](#index)
 
-# Cleft
-
-* **Literal:** A split or indentation (like a chin cleft or a rock crack).
-
-* **Figurative:** A divide or separation, emotional or physical.
-
-* **Examples:**
-
-  * “He had a *cleft* chin.”
-
-  * “A deep *cleft* formed between the two groups.”
-
-[↑ Back to index](#index)
-
-# Clenched
-
-* **Literal:** Closed tightly, usually hands or teeth.
-
-* **Figurative:** Showing suppressed anger or tension.
-
-* **Examples:**
-
-  * “She *clenched* her fists in rage.”
-
-  * “He *clenched* his jaw to keep calm.”
-
-[↑ Back to index](#index)
-
-# clickbait
-
-noun
-
-a link designed to entice readers to click, usually leading to dubious content
-
-these recent reports of the show's imminent demise are hyperbolic clickbait
-
-a clickbait article
-
-[↑ Back to index](#index)
-
 # Climb aboard
 
 **Literal meaning:** To get onto a vehicle.  
@@ -3887,52 +3097,6 @@ For example:
 "Too much excitement about the opportunity was clouding his judgment, making him overlook potential risks."
 
 In this context, clouding means to obscure or confuse clear thinking, like how clouds obscure visibility.
-
-[↑ Back to index](#index)
-
-# Clue
-
-**Literal meaning:** A hint or piece of information that helps solve something.  
- **Figurative meaning:** Understanding or awareness.
-
-🗣 *“I have no clue where he went.”*  
- 🗣 *“That clue led the police to the suspect.”*
-
-[↑ Back to index](#index)
-
-# Clumsiness
-
-**Meaning:** Lack of physical grace or coordination.  
- **Figurative meaning:** Awkwardness in behavior or handling situations.
-
-🗣 *“His clumsiness made everyone laugh.”*  
- 🗣 *“There was some clumsiness in how the issue was handled.”*
-
-[↑ Back to index](#index)
-
-# Clumsy
-
-**Literal meaning:** Physically awkward or uncoordinated.  
- **Figurative meaning:**
-
-1. Awkward in handling situations or expressing things.
-
-2. Lacking grace or subtlety.
-
-🗣 *“I’m so clumsy — I dropped my coffee again.”*  
- 🗣 *“That was a clumsy way to apologize.”*  
- 🗣 *“He made a clumsy attempt at humor.”*
-
-[↑ Back to index](#index)
-
-# Coarse
-
-**Meaning:** Rough, rude, or lacking refinement.  
- **Usage:**
-
-* *“His hands were coarse from work.”*
-
-* *“She disliked his coarse language.”*
 
 [↑ Back to index](#index)
 
@@ -4254,67 +3418,6 @@ I have come up with an idea
 
 [↑ Back to index](#index)
 
-# Commotion
-
-**Meaning:** Noisy confusion or disorder.
-
-🗣 *“There was a commotion outside the store.”*  
- 🗣 *“The kids caused quite a commotion.”*
-
-[↑ Back to index](#index)
-
-# Commute
-
-**Meaning:** To travel regularly between home and work.  
- **Example:** *I commute two hours every day.*
-
-**Meaning:** To travel between home and work regularly.  
- **Example:** *I commute an hour each day.*
-
-[↑ Back to index](#index)
-
-# Compassion
-
-**Meaning:** Deep sympathy and care for someone else’s suffering.  
- **Figurative sense:** Warmth or emotional understanding.
-
-🗣 *“She treated the patients with great compassion.”*  
- 🗣 *“A little compassion can go a long way.”*
-
-[↑ Back to index](#index)
-
-# Compelling
-
-**Meaning:** Strong, convincing, or very interesting.  
- **Examples (spoken):**
-
-* “That’s a compelling argument.”
-
-* “Her presentation was really compelling.”
-
-* “We need a compelling reason to change the plan.”
-
-👉 *Tip:* Often used in professional or persuasive speech.
-
-[↑ Back to index](#index)
-
-# Complex
-
-**Literal meaning:** Something made up of multiple interconnected parts.  
- **Figurative meaning:** Complicated or hard to understand; also refers to an emotional issue (e.g., “inferiority complex”).
-
-🗣 *“It’s a complex system with many moving parts.”*  
- 🗣 *“He has a complex about always being perfect.”*
-
-[↑ Back to index](#index)
-
-# Comply
-
-**Meaning:** To follow rules or instructions.  
- **Example:** *All employees must comply with the policy.*
-
-[↑ Back to index](#index)
-
 # Concentrated or Disperse
 
 **Meaning:**
@@ -4334,30 +3437,6 @@ I have come up with an idea
 
 [↑ Back to index](#index)
 
-# Conform
-
-**Meaning:** To follow rules or social expectations.  
- **Example:** *He doesn’t conform to traditional ways of thinking.*
-
-[↑ Back to index](#index)
-
-# Confuse
-
-**Meaning:** To make someone uncertain or puzzled.  
- **Example:** *His explanation just confused me more.*
-
-[↑ Back to index](#index)
-
-# Conman
-
-**Meaning:** A person who deceives others for personal gain; short for “confidence man.”  
- **Figurative meaning:** A smooth talker who manipulates trust.
-
-🗣 *“The conman tricked people into fake investments.”*  
- 🗣 *“He’s charming, but a total conman underneath.”*
-
-[↑ Back to index](#index)
-
 # Connecting Phrases You Can Use
 
 * “Basically…”  
@@ -4372,87 +3451,10 @@ Example:
 
 [↑ Back to index](#index)
 
-# Conscience
-
-**Meaning:** The inner sense of right and wrong.  
- **Example:** *His conscience wouldn’t let him lie.*
-
-[↑ Back to index](#index)
-
-# Conscientious
-
-**Meaning:** Careful and responsible in doing work.  
- **Example:** *She’s a conscientious employee—always thorough.*
-
-[↑ Back to index](#index)
-
-# Controversial
-
-**Meaning:** Causing public disagreement or debate.  
- **Example:** *His comments were quite controversial.*
-
-[↑ Back to index](#index)
-
-# Convince
-
-**Meaning:** To make someone believe or accept something as true or worthwhile.  
- **Figurative meaning:** To inspire or emotionally move someone to change their opinion or decision.
-
-🗣 *“I tried to convince him to join the trip.”*  
- 🗣 *“You’ll never convince me that pineapple belongs on pizza\!”*  
- 🗣 *“Her sincerity convinced everyone in the room.”*
-
-[↑ Back to index](#index)
-
-# Convoluted
-
-**Meaning:** Complicated, twisted, or hard to follow.
-
-🗣 *“That plot is so convoluted — I lost track halfway.”*  
- 🗣 *“The process is needlessly convoluted.”*
-
-[↑ Back to index](#index)
-
 # Cope With
 
 **Meaning:** To deal with or manage a difficult situation.  
  **Example:** *He’s learning to cope with stress.*
-
-[↑ Back to index](#index)
-
-# Corduroy
-
-**Literal meaning:** A thick, ridged fabric used in clothing.  
- **Figurative meaning:** Sometimes symbolizes vintage or retro fashion.
-
-🗣 *“He wore a brown corduroy jacket — very old-school.”*  
- 🗣 *“Corduroy pants are back in style\!”*
-
-[↑ Back to index](#index)
-
-# Cornerstone
-
-The word **“cornerstone”** has both a **literal meaning** and a **figurative meaning**:
-
-* **Literal meaning**: In old-style architecture, the cornerstone was the first stone set at the corner of a building. All other stones were aligned to it. So it was the foundation or starting point.
-
-* **Figurative meaning**: In everyday English, “cornerstone” means something that is **essential, fundamental, or the basis** of a system, idea, or organization. For example:
-
-  * “Trust is the cornerstone of any good relationship.”
-
-  * “Education is the cornerstone of a successful society.”
-
-👉 Think of it like saying *“the most important foundation piece.”*
-
-### **Phrases you can use in real life:**
-
-1. “Teamwork is really the cornerstone of our success.”
-
-2. “On the other hand, without innovation, our company could lose its cornerstone advantage.”
-
-3. “For example, honesty is the cornerstone of good leadership.”
-
-4. “That being said, communication is also a cornerstone we can’t ignore.”
 
 [↑ Back to index](#index)
 
@@ -4462,13 +3464,6 @@ The word **“cornerstone”** has both a **literal meaning** and a **figurative
 
 🗣 *“You can count on me.”*  
  🗣 *“Don’t count on good weather — it might rain.”*
-
-[↑ Back to index](#index)
-
-# Counterpart
-
-**Meaning:** A person in a similar position in another place or organization.  
- **Example:** *I met my counterpart from the London office.*
 
 [↑ Back to index](#index)
 
@@ -4483,16 +3478,6 @@ For example:
 ✅ The pilot had to course-correct due to strong winds.
 
 It's commonly used in business, leadership, and personal development contexts. 🚀
-
-[↑ Back to index](#index)
-
-# Coward
-
-**Meaning:** Someone who lacks courage.  
- **Figurative meaning:** A person who avoids responsibility or honesty out of fear.
-
-🗣 *“He ran away — what a coward.”*  
- 🗣 *“Don’t be a coward; tell her the truth.”*
 
 [↑ Back to index](#index)
 
@@ -4532,41 +3517,6 @@ burst into laughter
 she tries to keep a straight face, but she keeps cracking up
 
 this photo cracks me up
-
-[↑ Back to index](#index)
-
-# Crackerjack
-
-**Meaning:** Exceptionally skilled or excellent (old-fashioned but still cool).
-
-🗣 *“She’s a crackerjack programmer.”*  
- 🗣 *“That’s a crackerjack idea\!”*
-
-[↑ Back to index](#index)
-
-# Cram
-
-**Literal meaning:** To stuff or pack things tightly.  
- **Figurative meaning:**
-
-1. To study intensively before an exam.
-
-2. To overload something or someone with information or tasks.
-
-🗣 *“I had to cram all night for the test.”*  
- 🗣 *“Don’t cram so much into your schedule.”*  
- 🗣 *“He crammed his clothes into the suitcase.”*
-
-💡 *(“Cramming” is a universal student phrase — very natural in informal talk.)*
-
-[↑ Back to index](#index)
-
-# Craving
-
-**Meaning:** A strong desire for something, often food but also emotional.
-
-🗣 *“I’ve got a craving for chocolate.”*  
- 🗣 *“She’s craving adventure lately.”*
 
 [↑ Back to index](#index)
 
@@ -4614,10 +3564,9 @@ Something enters slowly and gradually — without you realizing it at first.
 
 [↑ Back to index](#index)
 
-# Crew
+# Creep out
 
-**Meaning:** A group working together.  
- **Example:** *The film crew worked overnight.*
+creeped out; creeping out; creeps out. US, informal. : to cause (someone) to have an uncomfortable feeling of nervousness or fear : to give (someone) the creeps. That guy really creeps me out. I felt creeped out being alone in the office at night.
 
 [↑ Back to index](#index)
 
@@ -4628,32 +3577,6 @@ Something enters slowly and gradually — without you realizing it at first.
 
 * *“Critics accused the government of crony capitalism.”*  
    🟢 Common in economic or political discussions.
-
-[↑ Back to index](#index)
-
-# Crucial
-
-**Meaning:** Extremely important or essential.
-
-🗣 *“It’s crucial that we meet this deadline.”*  
- 🗣 *“Trust is crucial in any relationship.”*
-
-[↑ Back to index](#index)
-
-# Crummy
-
-adjective (informal) — of poor quality; unpleasant, shabby, or disappointing.
-
-"The hotel room was pretty crummy for the price we paid."
-
-[↑ Back to index](#index)
-
-# Crutch
-
-noun — literal: a support used under the arm to help an injured person walk. Figurative: something relied on excessively, often in an unhealthy way that prevents real growth or improvement.
-
-**Literal:** "He was on crutches for six weeks after the surgery."
-**Figurative:** "Copy-pasting answers became a crutch instead of actually learning the language."
 
 [↑ Back to index](#index)
 
@@ -4775,19 +3698,6 @@ come to the point.
 
 [↑ Back to index](#index)
 
-# Dawn
-
-**Literal meaning:** The first appearance of light in the morning.  
- **Figurative meaning:** The moment something becomes clear or begins to develop.
-
-🗣 *“We reached the campsite at dawn.”*  
- 🗣 *“It suddenly dawned on me that I’d left my keys inside.”*  
- 🗣 *“A new era is dawning in AI technology.”*
-
-💡 *(Used beautifully in reflective or storytelling tones.)*
-
-[↑ Back to index](#index)
-
 # day in and day out
 
 The phrase **“day in and day out”** means something that happens **regularly, continuously, or without stopping** — usually describing something repetitive or routine.
@@ -4832,124 +3742,12 @@ You dazzled me.
 
 [↑ Back to index](#index)
 
-# Debut
-
-**Literal meaning:** A person’s first appearance or performance in a public role.  
- **Figurative meaning:** The first introduction or launch of anything new — product, idea, or even a style.
-
-🗣 *“The actor made his debut in a Netflix series.”*  
- 🗣 *“Their new car model will debut next month.”*  
- 🗣 *“That was my public speaking debut — nerve-wracking but fun.”*
-
-[↑ Back to index](#index)
-
-# Deck
-
-The word **deck** has a few common meanings, depending on context:
-
-1. **Ship/boat** → A flat surface or floor on a ship (e.g., “upper deck”).
-
-2. **Cards** → A full set of playing cards (e.g., “a deck of cards”).
-
-3. **Floor/platform** → A flat, outdoor floor attached to a house (like a wooden patio).
-
-4. **Presentation** → A set of slides (like PowerPoint) used for presenting.
-
-5. **Slang (informal)** → To **knock someone down** with a punch (e.g., “He decked him with one hit”).
-
-### **Usage in sentences (spoken style)**
-
-* **Ship/boat:** “We all gathered on the deck to watch the sunset.”
-
-* **Cards:** “Do you want to play? I’ve got a fresh deck of cards.”
-
-* **House/platform:** “Let’s sit out on the deck and have some coffee.”
-
-* **Presentation:** “I’ll send you the deck before our meeting so you can review it.”
-
-* **Slang:** “He got so angry, he almost decked the guy.”
-
-### **Common spoken phrases**
-
-* “Let’s run through the deck before the client call.” (work/presentation context)
-
-* “For example, the upper deck seats are more expensive.” (stadium/ship context)
-
-* “That being said, I’ll shuffle the deck and deal the cards.” (casual game context)
-
-* “On the other hand, sitting on the deck is nice in the evenings.” (home context)
-
-👉 I’d encourage you to practice saying:
-
-* *“Can you share the deck with me before the meeting?”*
-
-* *“We played cards with a new deck last night.”*
-
-* *“Let’s have dinner on the deck—it’s cooler outside.”*
-
-[↑ Back to index](#index)
-
 # Dedicate oneself to
 
 **Meaning:** To commit completely to a cause or goal.
 
 🗣 *“He dedicated himself to teaching underprivileged kids.”*  
  🗣 *“You have to dedicate yourself to your craft.”*
-
-[↑ Back to index](#index)
-
-# Deflected
-
-* **Literal:** Changed direction after hitting something.
-
-* **Figurative:** Avoided blame or changed the subject smoothly.
-
-* **Examples:**
-
-  * “The ball *deflected* off the wall.”
-
-  * “He *deflected* criticism with a joke.”
-
-[↑ Back to index](#index)
-
-# Delicate
-
-**Meaning:** Fragile, soft, or easily damaged — physically or emotionally.  
- **Usage:**
-
-* *“The glass is delicate.”*
-
-* *“It’s a delicate topic — be careful how you say it.”*
-
-[↑ Back to index](#index)
-
-# Delusion
-
-**Literal meaning:** A false belief held despite evidence to the contrary.  
- **Figurative meaning:** Self-deception or false confidence — often gently mocking or philosophical.
-
-🗣 *“He lives under the delusion that he’s always right.”*  
- 🗣 *“Fame can create dangerous delusions.”*  
- 🗣 *“It’s not confidence — it’s delusion.”*
-
-💡 *(“Delusional” is a sharp adjective for someone out of touch with reality.)*
-
-[↑ Back to index](#index)
-
-# Descendant
-
-Someone related to an ancestor.  
- 👉 *“She’s a descendant of a famous king.”*
-
-[↑ Back to index](#index)
-
-# despite
-
-preposition
-
-without being affected by; in spite of
-
-he remains a great leader despite age and infirmity
 
 [↑ Back to index](#index)
 
@@ -4961,15 +3759,6 @@ he remains a great leader despite age and infirmity
 * *“They exchanged devious glances before pulling a prank.”*
 
 * “Devious” always carries a sly or secretive tone.
-
-[↑ Back to index](#index)
-
-# Devoted
-
-**Meaning:** Loyal and dedicated.
-
-🗣 *“She’s devoted to her students.”*  
- 🗣 *“He’s a devoted father.”*
 
 [↑ Back to index](#index)
 
@@ -4989,40 +3778,6 @@ he remains a great leader despite age and infirmity
 
 [↑ Back to index](#index)
 
-# Diminish
-
-**Meaning:** To make or become smaller or weaker.  
- **Example:** *Don’t let fear diminish your confidence.*
-
-[↑ Back to index](#index)
-
-# Dire
-
-adjective
-
-1. extremely serious or urgent.
-
-"misuse of drugs can have dire consequences"
-
-2. informal•British
-
-of a very poor quality.  
-"the concert was dire"
-
-I have some dire news.
-
-[↑ Back to index](#index)
-
-# Disguise
-
-**Literal meaning:** To change appearance to hide identity.  
- **Figurative meaning:** To conceal true feelings or intentions.
-
-🗣 *“He came to the party in disguise.”*  
- 🗣 *“She disguised her disappointment with a smile.”*
-
-[↑ Back to index](#index)
-
 # Disheveled | dishevel
 
 * **Literal:** Messy or untidy in appearance.
@@ -5034,39 +3789,6 @@ I have some dire news.
   * “He looked *disheveled* after the long night.”
 
   * “Her *disheveled* look said she’d had a rough day.”
-
-[↑ Back to index](#index)
-
-# Distorted
-
-* **Literal:** Twisted out of shape.
-
-* **Figurative:** Misrepresented or altered from the truth.
-
-* **Examples:**
-
-  * “The reflection in the water was *distorted*.”
-
-  * “The media *distorted* his statement.”
-
-[↑ Back to index](#index)
-
-# Distress
-
-**Meaning:** Extreme anxiety, sorrow, or pain.
-
-🗣 *“She was in visible distress after the call.”*  
- 🗣 *“Financial distress hit many small businesses.”*
-
-[↑ Back to index](#index)
-
-# Ditch
-
-**Literal meaning:** A narrow trench or drain.  
- **Figurative meaning:** To abandon, discard, or get rid of something (or someone).
-
-🗣 *“Let’s ditch the old plan — it’s not working.”*  
- 🗣 *“He ditched class to hang out with friends.”*
 
 [↑ Back to index](#index)
 
@@ -5098,18 +3820,6 @@ The phrase **“dive into”** is often used in spoken English to mean:
 
 [↑ Back to index](#index)
 
-# DM
-
-verb
-
-organize and oversee a role-playing game, especially Dungeons & Dragons, in particular by narrating the details of the story that are not controlled by the players
-
-he DMed while I played as a solo warrior
-
-I'm lined up to DM a Dungeons & Dragons session
-
-[↑ Back to index](#index)
-
 # Dolled up
 
 "Dolled up" means to dress up in a fancy or extravagant way, or to make something more attractive through decoration. For example, you might doll up for a special event by wearing makeup, jewelry, and styling your hair.   
@@ -5121,65 +3831,6 @@ Synonyms
 Dressed up to the nines, Spiffed up, Spruced up, Togged up, Glam up, and Pretty up.
 
 Dressed or fixed up smartly and, often, ostentatiously, usually for a special occasion. For example, There's no need to get all dolled up—it's just a picnic , or They dolled up the classroom for parents' night . This expression alludes to a person or object being as attractive as a pretty doll.
-
-[↑ Back to index](#index)
-
-# douchebag
-
-/ˈduːʃbaɡ/  
-noun  
-1.a small syringe for douching the vagina.
-
-"Douchebag" is a vulgar slang term for a person who is obnoxious, offensive, or disgusting. It can also refer to a bag used for douches. 
-
-[↑ Back to index](#index)
-
-# Downside
-
-**Meaning:** The negative aspect of something.  
- **Example:** *The downside of remote work is isolation.*
-
-[↑ Back to index](#index)
-
-# Downtime
-
-### **Meanings of downtime**
-
-1. **Technical / Work Context**
-
-   * **When a system, service, or machine is not available or not working.**
-
-   * *“The server had two hours of downtime last night.”*
-
-   * *“We need to minimize downtime during deployment.”*
-
-2. **Everyday / Personal Context**
-
-   * **Time when you are not busy, resting, or relaxing.**
-
-   * *“I finally got some downtime over the weekend.”*
-
-   * *“She uses her downtime to read or go for a walk.”*
-
-✅ Sentences to practice:
-
-1. *“We scheduled maintenance to avoid unexpected downtime.”*
-
-2. *“Sorry for the delay, our system had some downtime.”*
-
-3. *“I like to spend my downtime watching movies.”*
-
-4. *“Let’s plan the release in a way that reduces customer downtime.”*
-
-💡 Context of usage:
-
-* **In IT/Cloud/DevOps meetings** → almost always about servers, systems, or services.
-
-* **In casual life** → relaxation time, break, holiday.
-
-👉 In your professional calls, instead of saying *“system not working”*, you can naturally say:
-
-* *“We experienced some downtime due to a configuration issue.”*
 
 [↑ Back to index](#index)
 
@@ -5198,25 +3849,6 @@ ask people to look at something
 "I wanted to draw your attention to the fact that all employees must submit their paperwork by the end of the week".   
 "I want to draw your attention to one absolutely fundamental fact".   
 "She jumped and shouted to draw attention to herself".
-
-[↑ Back to index](#index)
-
-# Drawl
-
-**Meaning:** To speak slowly with prolonged vowel sounds (common in some accents, like the Southern U.S.).  
- **Figurative meaning:** Speech that feels relaxed or lazy.
-
-🗣 *“He speaks with a Texan drawl.”*  
- 🗣 *“Her slow drawl made every sentence sound dramatic.”*
-
-[↑ Back to index](#index)
-
-# Dreaded
-
-**Meaning:** Feared or unpleasantly anticipated.
-
-🗣 *“Tomorrow’s dreaded meeting is giving me anxiety.”*  
- 🗣 *“He finally faced the dreaded dentist appointment.”*
 
 [↑ Back to index](#index)
 
@@ -5285,16 +3917,6 @@ examine or investigate something in detail
 
 [↑ Back to index](#index)
 
-# Drive
-
-**Literal meaning:** To operate a vehicle.  
- **Figurative meaning:** Motivation, determination, or the force behind actions.
-
-🗣 *“Her drive is what makes the team succeed.”*  
- 🗣 *“He’s driven to make a difference.”*
-
-[↑ Back to index](#index)
-
 # Drop By
 
 To **visit someone briefly** and **without a formal appointment**.
@@ -5348,89 +3970,11 @@ Used a lot in **casual conversation**, especially when you want to say:
 
 [↑ Back to index](#index)
 
-# Ducked
-
-* **Literal:** Lowered your head or body quickly to avoid something.
-
-* **Figurative:** Avoided a question or responsibility.
-
-* **Examples:**
-
-  * “He *ducked* as the ball flew by.”
-
-  * “She *ducked* the question about her promotion.”
-
-[↑ Back to index](#index)
-
 # due diligence
 
 noun
 
 the process of conducting a thorough and careful investigation or research before making an important decision
-
-[↑ Back to index](#index)
-
-# Dump
-
-### **Main meanings of dump**
-
-1. **To throw away / discard**
-
-   * *“I’m going to dump these old files.”* (throw away)
-
-   * *“They dumped the garbage in the bin.”*
-
-2. **To suddenly unload a lot of things**
-
-   * *“He dumped all his clothes on the bed.”*
-
-   * *“The truck dumped the sand on the road.”*
-
-3. **To suddenly share too much information / emotions**
-
-   * *“She dumped all her problems on me.”* (emotionally unload)
-
-   * *“Don’t dump all this work on me at once.”*
-
-4. **To end a relationship** (casual/slang)
-
-   * *“He dumped his girlfriend last week.”*
-
-5. **Place (noun)**
-
-   * *“This room looks like a dump.”* (messy place)
-
-   * *“We need to go to the dump to throw away this junk.”* (garbage site)
-
-✅ Sentences you can practice:
-
-1. *“Sorry for dumping all this work on you at the last minute.”*
-
-2. *“He dumped a lot of data into the system, and now it’s overloaded.”*
-
-3. *“I don’t want to dump my problems on you.”*
-
-4. *“We need to dump the logs after processing them.”* (useful in tech)
-
-💡 In your work (tech/DevOps/ML context), “dump” is often used for data:
-
-* *“I dumped the database to a file.”*
-
-* *“We can dump the logs for debugging.”*
-
-👉 It means *export or write out the whole content somewhere.*
-
-[↑ Back to index](#index)
-
-# Eager
-
-**Meaning:** Excitedly or impatiently wanting to do something.  
- **Figurative meaning:** Full of anticipation or enthusiasm.
-
-🗣 *“She’s eager to start her new job.”*  
- 🗣 *“He listened eagerly to the coach’s advice.”*
-
-💡 *(“Eager” has a positive tone, unlike “desperate.”)*
 
 [↑ Back to index](#index)
 
@@ -5465,14 +4009,6 @@ Example:
 
 [↑ Back to index](#index)
 
-# ecotourism
-
-noun
-
-tourism directed toward exotic, often threatened, natural environments, intended to support conservation efforts and observe wildlife.
-
-[↑ Back to index](#index)
-
 # Effect Change
 
 **Meaning:** To bring about or cause change.  
@@ -5492,35 +4028,6 @@ Quebec wants a little more elbow room within the federation
 
 [↑ Back to index](#index)
 
-# Elderly
-
-**Meaning:** Old (used respectfully for people).  
- **Example:** *She helps elderly neighbors with groceries.*
-
-[↑ Back to index](#index)
-
-# Elusive
-
-The word **“elusive”** is an adjective that means **difficult to find, catch, understand, define, or achieve**.
-
-✅ **Examples in sentences:**
-
-1. *The criminal remained elusive despite the police search.* (hard to catch)
-
-2. *True happiness can be elusive for many people.* (hard to achieve)
-
-3. *The meaning of the poem is somewhat elusive.* (hard to understand/define)
-
-👉 In **spoken English**, people often use it to describe something that always seems just out of reach:
-
-* *Success has been elusive for the team this season.*
-
-* *Sleep was elusive last night—I kept tossing and turning.*
-
-* *He gave me an elusive smile, like he was hiding something.*
-
-[↑ Back to index](#index)
-
 # Embody It
 
 **Meaning:** To represent or express an idea, value, or quality in a visible or human form.  
@@ -5536,29 +4043,10 @@ The word **“elusive”** is an adjective that means **difficult to find, catch
 
 [↑ Back to index](#index)
 
-# Embrace
-
-**Literal meaning:** To hug.  
- **Figurative meaning:** To accept or welcome an idea, change, or situation.
-
-🗣 *“He embraced the new culture quickly.”*  
- 🗣 *“We need to embrace failure as part of growth.”*
-
-[↑ Back to index](#index)
-
 # Employment Rate
 
 **Meaning:** The percentage of people employed.  
  **Example:** *The employment rate rose this year.*
-
-[↑ Back to index](#index)
-
-# Emulate
-
-**Meaning:** To imitate or match someone’s achievement or qualities, often with admiration.
-
-🗣 *“He tries to emulate his mentor’s work ethic.”*  
- 🗣 *“Great artists don’t copy — they emulate and evolve.”*
 
 [↑ Back to index](#index)
 
@@ -5606,33 +4094,6 @@ It often means:
 
 [↑ Back to index](#index)
 
-# Enraged
-
-**Meaning:** Extremely angry.  
- **Example:** *He was enraged by the unfair treatment.*
-
-[↑ Back to index](#index)
-
-# Enunciate
-
-**Meaning:** To pronounce words clearly and distinctly.  
- **Figurative meaning:** To express ideas with clarity or precision.
-
-🗣 *“Please enunciate — I couldn’t understand you.”*  
- 🗣 *“He enunciated his vision for the company beautifully.”*
-
-[↑ Back to index](#index)
-
-# Envisage
-
-**Meaning:** Imagine or picture something in your mind.  
- **Usage:**
-
-* *“I can’t envisage a world without music.”*  
-   🟢 Slightly formal, but great for thoughtful speech.
-
-[↑ Back to index](#index)
-
 # Epic level
 
 1. **Traditional meaning (literature/history):**  
@@ -5669,26 +4130,6 @@ It often means:
 
 [↑ Back to index](#index)
 
-# Epiphany
-
-**Meaning:** A sudden realization or insight.
-
-🗣 *“I had an epiphany about what I really want in life.”*  
- 🗣 *“That conversation gave me a huge epiphany.”*
-
-[↑ Back to index](#index)
-
-# Epitomized
-
-**Meaning:** Represented something perfectly; was the best example of it.  
- **Usage:**
-
-* *“She epitomized grace and strength.”*
-
-* *“That moment epitomized their teamwork.”*
-
-[↑ Back to index](#index)
-
 # Escape blame/punishment
 
 Meaning:
@@ -5709,13 +4150,6 @@ Meaning:
 
 [↑ Back to index](#index)
 
-# Estranged
-
-**Meaning:** No longer close or affectionate; separated.  
-**Example:** *He’s estranged from his brother.*
-
-[↑ Back to index](#index)
-
 # Ever since
 
 Ever since I decided to refuse to settle, my life has been on a path of unstoppable growth and transformation.
@@ -5728,62 +4162,6 @@ Ever since I decided to refuse to settle, my life has been on a path of unstoppa
 
 🗣 *“She packed everything but the kitchen sink for a two-day trip.”*  
  🗣 *“That film had action, romance, comedy — everything but the kitchen sink.”*
-
-[↑ Back to index](#index)
-
-# Exasperated
-
-**Meaning:** Annoyed, irritated, or frustrated after losing patience.  
- **Usage:**
-
-* *“He sighed, exasperated by her stubbornness.”*
-
-* *“I’m getting exasperated with all these delays.”*
-
-[↑ Back to index](#index)
-
-# expectations
-
-noun
-
-predictions about the outcome of an event
-
-Young people may feel unreasonable expectations about life if they only follow lifestyle influencers.
-
-[↑ Back to index](#index)
-
-# Expedite
-
-**Meaning:** To speed up a process.  
- **Example:** *Can you expedite the shipment?*
-
-[↑ Back to index](#index)
-
-# Exposure
-
-**Meaning:** The state of being visible or unprotected; also, experience or attention.  
- **Example:** *Too much sun exposure can damage your skin.*  
- *The new brand got huge exposure online.*
-
-[↑ Back to index](#index)
-
-# Fable
-
-**Meaning:** A short story with a moral lesson, often with animals.  
- **Figurative meaning:** A symbolic or instructive story.
-
-🗣 *“Aesop’s fables never get old.”*  
- 🗣 *“His success story is almost a modern fable.”*
-
-[↑ Back to index](#index)
-
-# Facade
-
-**Literal meaning:** The front of a building.  
- **Figurative meaning:** A deceptive outward appearance hiding reality.
-
-🗣 *“The house has a grand facade.”*  
- 🗣 *“Behind her cheerful facade, she was struggling.”*
 
 [↑ Back to index](#index)
 
@@ -5858,25 +4236,13 @@ phrasal verb — 1) to be deceived or tricked by something. 2) to fall in love w
 
 [↑ Back to index](#index)
 
-# Falsify
+# Falling out
 
-**Literal meaning:** To alter or forge information so it becomes false.  
- **Figurative meaning:** To twist or manipulate facts for personal gain.
+**noun**  
+a quarrel or disagreement.  
+"the two of them had a falling-out"
 
-🗣 *“He was fired for falsifying data.”*  
- 🗣 *“Someone falsified the records to cover up the mistake.”*  
- 🗣 *“You can’t falsify truth with clever words.”*
-
-💡 *(Common in legal, academic, or ethical discussions.)*
-
-[↑ Back to index](#index)
-
-# Familiarize
-
-**Meaning:** To learn or get used to something.
-
-🗣 *“Take some time to familiarize yourself with the software.”*  
- 🗣 *“I need to familiarize myself with the new policies.”*
+Go out on a limb
 
 [↑ Back to index](#index)
 
@@ -5930,15 +4296,6 @@ Try saying these aloud — it helps your spoken fluency and flow.
  ✔ Managing unexpected workload  
  ✔ Avoiding physical or real threats  
  ✔ Avoiding unwanted questions
-
-[↑ Back to index](#index)
-
-# Fervent
-
-**Meaning:** Showing passionate intensity or enthusiasm.
-
-🗣 *“She’s a fervent believer in education.”*  
- 🗣 *“His fervent speech moved everyone.”*
 
 [↑ Back to index](#index)
 
@@ -6004,27 +4361,6 @@ Pair it with connectors:
 
 [↑ Back to index](#index)
 
-# Fidelity
-
-**Meaning:** Faithfulness or loyalty to a person, cause, or principle.  
- **Figurative meaning:** Accuracy or exactness (e.g., “high-fidelity sound”).
-
-🗣 *“Their fidelity to the mission was inspiring.”*  
- 🗣 *“This speaker has incredible sound fidelity.”*
-
-[↑ Back to index](#index)
-
-# Field
-
-**Literal meaning:** An open area of land or a specific area of study or work.  
- **Figurative meaning:** A sphere of activity or expertise; also used to describe taking part in competition or responding to questions.
-
-🗣 *“He works in the field of data science.”*  
- 🗣 *“She’s one of the best doctors in her field.”*  
- 🗣 *“The spokesperson fielded all the tough questions.”*
-
-[↑ Back to index](#index)
-
 # Figure out
 
 phrasal verb of figure  
@@ -6078,13 +4414,6 @@ Meaning: To reach maximum capacity or occupancy.
 
 [↑ Back to index](#index)
 
-# Filthy
-
-**Meaning:** Extremely dirty.  
- **Example:** *The room was filthy after the party.*
-
-[↑ Back to index](#index)
-
 # Find One’s Bearing
 
 **Meaning:** To figure out where you are or what to do.  
@@ -6099,14 +4428,6 @@ Meaning: To reach maximum capacity or occupancy.
 
 [↑ Back to index](#index)
 
-# Fine-tune
-
-verb — to make small, precise adjustments to something in order to improve or optimize it.
-
-"We spent the last sprint fine-tuning the recommendation algorithm."
-
-[↑ Back to index](#index)
-
 # Fire up
 
 phrasal verb — 1) to start up (a machine, engine, or piece of software). 2) to make someone enthusiastic or energized.
@@ -6116,80 +4437,10 @@ phrasal verb — 1) to start up (a machine, engine, or piece of software). 2) to
 
 [↑ Back to index](#index)
 
-# firmly
-
-adverb
-
-with little possibility of movement; securely
-
-the door remained firmly shut
-
-his work is rooted firmly in Chinese culture
-
-I had her wrist grasped firmly in my hand
-
-stop the bleeding by pressing firmly
-
-the council is firmly committed to raising standards in education
-
-I firmly believe that we could do better
-
-his reputation is now firmly established
-
-[↑ Back to index](#index)
-
 # Fixate On
 
 **Meaning:** To focus too much on something.  
  **Example:** *Don’t fixate on your mistakes.*
-
-[↑ Back to index](#index)
-
-# Flashback
-
-noun — a sudden, vivid memory of a past event; also a storytelling technique that cuts back to an earlier scene.
-
-"That old codebase gave me a flashback to my first job."
-
-[↑ Back to index](#index)
-
-# Flashcard
-
-**Literal meaning:** A small card used for learning or memorization.  
- **Figurative meaning:** A symbol of structured or visual learning.
-
-🗣 *“I use flashcards to memorize vocabulary.”*  
- 🗣 *“Flashcards make studying less boring.”*
-
-[↑ Back to index](#index)
-
-# Flawless
-
-**Meaning:** Perfect, without any mistakes or defects.  
- **Figurative meaning:** Exceptionally well done or effortlessly graceful.
-
-🗣 *“Her performance was flawless.”*  
- 🗣 *“That dress looks flawless on you.”*  
- 🗣 *“He delivered a flawless pitch to investors.”*
-
-💡 *(Often used in praise — formal or informal.)*
-
-[↑ Back to index](#index)
-
-# fleabag
-
-noun
-
-a shabby and unpleasant motel or hotel
-
-[↑ Back to index](#index)
-
-# Flee
-
-**Meaning:** To run away from danger or escape quickly.
-
-🗣 *“The thief fled the scene.”*  
- 🗣 *“They had to flee the country during the war.”*
 
 [↑ Back to index](#index)
 
@@ -6203,48 +4454,14 @@ a shabby and unpleasant motel or hotel
 
 [↑ Back to index](#index)
 
-# Float
+# Fly through
 
-**Literal meaning:** To stay on the surface of a liquid or in the air.  
- **Figurative meaning:** To propose an idea, move smoothly, or exist without firm grounding.
+**Literal meaning:** To pass through the air, or through a place, rapidly.  
+**Figurative meaning:** To complete something quickly and with little effort.
 
-🗣 *“The leaf floated on the water.”*  
- 🗣 *“He floated the idea of a new design concept.”*
-
-[↑ Back to index](#index)
-
-# Flour
-
-**Meaning:** Powder made from grains, used in baking.  
- **Example:** *Add some flour to make the dough.*
-
-[↑ Back to index](#index)
-
-# Flow
-
-**Literal meaning:** Smooth, continuous movement.  
- **Figurative meaning:** A mental state of deep focus and effortlessness.
-
-🗣 *“The river flows calmly.”*  
- 🗣 *“Once you get in the flow, work feels effortless.”*
-
-[↑ Back to index](#index)
-
-# Fluff
-
-**Literal meaning:** Soft, light material or texture.  
- **Figurative meaning:** Superficial or meaningless content; lacking substance.
-
-🗣 *“Cut the fluff and get to the point.”*  
- 🗣 *“That report was full of fluff but no real insight.”*
-
-[↑ Back to index](#index)
-
-# fly-drive
-
-noun
-
-a vacation that includes a flight and car rental.
+🗣 *"The plane flew through the storm without any turbulence."*  
+🗣 *"She flew through the exam — she was done in twenty minutes."*  
+🗣 *"We flew through the backlog once we split the work across the team."*
 
 [↑ Back to index](#index)
 
@@ -6381,46 +4598,6 @@ Here, it means: *maybe not officially, but effectively that’s the case*.
 
 [↑ Back to index](#index)
 
-# Former
-
-**Meaning:** Refers to something or someone that existed or held a role in the past.  
- **Figurative meaning:** Often used to contrast with the present self or situation.
-
-🗣 *“He’s a former athlete turned coach.”*  
- 🗣 *“She’s nothing like her former self — much more confident now.”*
-
-[↑ Back to index](#index)
-
-# Fowl
-
-**Literal meaning:** A bird kept for food (like chicken, duck, or turkey).  
- **Figurative meaning:** Sometimes used metaphorically in idioms (e.g., “foul play” \= suspicious act).
-
-🗣 *“They raise fowls on their farm.”*  
- 🗣 *“The dish was made with wild fowl.”*
-
-[↑ Back to index](#index)
-
-# Frat
-
-**Meaning:** Short for *fraternity* — a college social club, usually for men.  
- **Usage:**
-
-* *“He joined a frat during his first year.”*  
-   🟢 Sometimes used negatively (party culture), sometimes neutrally.
-
-[↑ Back to index](#index)
-
-# Freckle
-
-**Meaning:** Small brownish spots on the skin caused by sunlight.  
- **Figurative meaning:** A charming mark or unique feature.
-
-🗣 *“She has cute freckles on her nose.”*  
- 🗣 *“His face was freckled from years in the sun.”*
-
-[↑ Back to index](#index)
-
 # Fresh out of
 
 **Literal meaning:** Recently finished or used up.  
@@ -6428,23 +4605,6 @@ Here, it means: *maybe not officially, but effectively that’s the case*.
 
 🗣 *“Sorry, we’re fresh out of milk.”*  
  🗣 *“He’s fresh out of college and already has a job.”*
-
-[↑ Back to index](#index)
-
-# Fringe
-
-**Literal meaning:** The outer edge or border of something (like fabric or area).  
- **Figurative meaning:**
-
-1. A marginal or unconventional part of a group or society.
-
-2. Non-mainstream or alternative.
-
-🗣 *“They live on the fringe of the city.”*  
- 🗣 *“That’s a fringe political movement.”*  
- 🗣 *“Fringe benefits include a gym membership and free meals.”*
-
-💡 *(“Fringe benefits” \= extra perks beyond salary.)*
 
 [↑ Back to index](#index)
 
@@ -6513,75 +4673,12 @@ It’s very similar to *“going forward”*, but it feels a bit **stronger and 
 
 [↑ Back to index](#index)
 
-# Frowned
-
-* **Literal:** Made a facial expression showing disapproval or concern.
-
-* **Figurative:** Disliked or disapproved of something.
-
-* **Examples:**
-
-  * “She *frowned* when she saw the bill.”
-
-  * “Smoking indoors is *frowned upon* here.”
-
-[↑ Back to index](#index)
-
-# Fudge
-
-**Literal meaning:** A sweet, creamy candy.  
-**Figurative meaning:** To distort, hide, or avoid the truth; to be imprecise.
-
-*“He fudged the numbers in his report.”*  
-*“Don’t fudge your excuses — just tell me the truth.”*
-
-[↑ Back to index](#index)
-
-# Fulfill
-
-**Meaning:** To complete, satisfy, or achieve something.
-
-🗣 *“She finally fulfilled her childhood dream.”*  
- 🗣 *“Helping others fulfills me more than money ever could.”*
-
-[↑ Back to index](#index)
-
-# Fulfilling
-
-**Meaning:** Giving satisfaction, purpose, or meaning.  
- **Figurative meaning:** Emotionally or spiritually rewarding.
-
-🗣 *“Teaching is such a fulfilling job.”*  
- 🗣 *“That hike was exhausting but incredibly fulfilling.”*  
- 🗣 *“I want work that feels fulfilling, not just well-paid.”*
-
-[↑ Back to index](#index)
-
-# Fulfillment
-
-**Meaning:** A sense of satisfaction or purpose from achieving something meaningful.
-
-🗣 *“Helping others gives me deep fulfillment.”*  
- 🗣 *“He’s chasing fulfillment, not fame.”*
-
-[↑ Back to index](#index)
-
 # Full potential
 
 **Meaning:** The maximum ability or performance someone can achieve.
 
 🗣 *“You’re not using your full potential yet.”*  
  🗣 *“The system hasn’t reached its full potential.”*
-
-[↑ Back to index](#index)
-
-# furthermore
-
-adverb
-
-​in addition to what has just been stated
-
-this species has a quiet charm and, furthermore, is an easy garden plant
 
 [↑ Back to index](#index)
 
@@ -6599,175 +4696,12 @@ this species has a quiet charm and, furthermore, is an easy garden plant
 
 [↑ Back to index](#index)
 
-# Garrison
-
-**Literal meaning:** A military base or troops stationed somewhere.  
- **Figurative meaning:** A secure or fortified place — physical or emotional.
-
-🗣 *“The soldiers were ordered back to the garrison.”*  
- 🗣 *“This office feels like a garrison during crunch time.”*
-
-[↑ Back to index](#index)
-
-# Gasped
-
-**Meaning:** Took a sharp breath suddenly — from shock, fear, or surprise.  
- **Usage:**
-
-* *“She gasped when she saw the snake.”*
-
-* *“He gasped in awe at the fireworks.”*
-
-###  **Gasp**
-
-**Meaning:** Breathe in suddenly from surprise, shock, or pain.  
- **Usage:**
-
-* *“She gasped when the lights went out.”*
-
-  *“He gasped for breath after running.”*
-
-[↑ Back to index](#index)
-
-# Gauge
-
-**Literal meaning:** To measure or estimate something’s size, capacity, or intensity.  
- **Figurative meaning:** To assess or judge a situation, mood, or person.
-
-🗣 *“The gauge on the dashboard shows low fuel.”*  
- 🗣 *“It’s hard to gauge his reaction over text.”*  
- 🗣 *“She gauged the mood of the room before speaking.”*
-
-[↑ Back to index](#index)
-
 # Gear up
 
 Meaning: To prepare or get ready for something.
 
 * Example 1: The team is gearing up for the product launch next week.  
 * Example 2: We’re gearing up for the annual conference.
-
-[↑ Back to index](#index)
-
-# Get
-
-## **🧩 1\. “Get” meaning to receive**
-
-Used when someone **receives** or **is given** something.
-
-* I **got** a message from him. → (received)
-
-* She **got** a new job. → (was offered/received)
-
-* Did you **get** my email? → (receive)
-
-## **💰 2\. “Get” meaning to obtain / buy**
-
-Used when you **obtain**, **buy**, or **secure** something.
-
-* I need to **get** some milk. → (buy)
-
-* He **got** a ticket for the concert. → (obtained)
-
-* Can you **get** me a coffee? → (buy or bring)
-
-## **🚶 3\. “Get” meaning to arrive / reach**
-
-Used when you **reach** a place.
-
-* What time did you **get** home? → (arrive)
-
-* We **got** to the station just in time.
-
-* It’s hard to **get** there by bus.
-
-## **🧠 4\. “Get” meaning to understand**
-
-Used when you **understand** something.
-
-* Do you **get** what I mean? → (understand)
-
-* I don’t **get** this joke.
-
-* Finally, I **got** the concept.
-
-## **🔄 5\. “Get” meaning to become / change state**
-
-This is one of the most common uses — **“get \+ adjective”** means **to become** that state.
-
-* It’s **getting** cold. → (becoming cold)
-
-* Don’t **get** angry. → (become angry)
-
-* I **got** tired after work. → (became tired)
-
-## **🧍‍♂️ 6\. “Get” with past participle → passive meaning**
-
-Used to show something **happened to someone**, often unexpectedly.
-
-* He **got hurt** in the accident.
-
-* My phone **got stolen**.
-
-* She **got promoted** last week.
-
-*(It’s similar to “be \+ past participle,” but more informal.)*
-
-## **🧳 7\. “Get” meaning to fetch / bring**
-
-Used when someone **goes and brings** something or someone.
-
-* I’ll **get** the door. → (open it / answer it)
-
-* Can you **get** me my jacket?
-
-* He went to **get** his sister from school.
-
-## **❤️ 8\. “Get” meaning to have the chance to do something**
-
-* I **got** to meet the CEO. → (had the opportunity)
-
-* You’ll **get** to see the Eiffel Tower.
-
-* We **got** to try the new restaurant yesterday.
-
-## **💬 9\. “Get” in phrasal verbs (changes meaning entirely\!)**
-
-Here are some common examples:
-
-| Phrasal Verb | Meaning | Example |
-| ----- | ----- | ----- |
-| **get up** | rise from bed | I **get up** at 7\. |
-| **get along / on** | have a good relationship | We **get along** well. |
-| **get over** | recover | He **got over** the flu. |
-| **get through** | finish / survive | I **got through** the exam. |
-| **get off** | leave a vehicle | We **got off** the train. |
-| **get in** | enter / arrive | The flight **got in** late. |
-| **get away** | escape / take a vacation | We **got away** for the weekend. |
-
-## **💡 10\. “Get” in idioms**
-
-Here are a few common idiomatic uses:
-
-* **get going** → start moving or taking action  
-   *We should get going soon.*
-
-* **get rid of** → remove or throw away  
-   *I need to get rid of old clothes.*
-
-* **get lost** → go away (rude) or lose one’s way  
-   *I got lost in the city.*
-
-* **get into trouble** → face problems or punishment  
-   *He got into trouble at school.*
-
-## **🗣 Bonus: “Get” for emotional reaction or emphasis**
-
-* What’s **got into you**? → (Why are you behaving this way?)
-
-* Don’t **get me wrong**. → (Don’t misunderstand me.)
-
-* It really **gets to me** when people lie. → (It bothers me emotionally.)
 
 [↑ Back to index](#index)
 
@@ -7182,39 +5116,6 @@ idiom — to receive information or news about something, often informally or un
 
 [↑ Back to index](#index)
 
-# getaway
-
-noun
-
-a vacation
-
-a perfect family getaway
-
-a popular island getaway
-
-[↑ Back to index](#index)
-
-# Gibberish
-
-**Literal meaning:** Meaningless or unintelligible speech or writing.  
-**Figurative meaning:** Confusing talk, nonsense, or overcomplicated explanation.
-
-🗣 *“That sounded like total gibberish to me.”*  
- 🗣 *“His emails are full of technical gibberish.”*
-
-[↑ Back to index](#index)
-
-# Giggled
-
-**Meaning:** Laughed lightly in a silly or nervous way.  
- **Usage:**
-
-* *“The children giggled at the joke.”*
-
-* *“She giggled shyly when he complimented her.”*
-
-[↑ Back to index](#index)
-
 # Give a Cue
 
 **Meaning:** To signal someone to do something.  
@@ -7278,72 +5179,11 @@ I just want to get rid of this trouble
 
 [↑ Back to index](#index)
 
-# Giveaway
-
-**Literal meaning:** Something given for free.  
- **Figurative meanings:**
-
-1. Something that reveals a secret or clue.
-
-2. A clear sign that exposes truth.
-
-🗣 *“The company is hosting a holiday giveaway.”*  
- 🗣 *“His nervous smile was a dead giveaway that he was lying.”*  
- 🗣 *“The accent was a giveaway that she wasn’t local.”*
-
-[↑ Back to index](#index)
-
-# Given
-
-### **1\. As a preposition (meaning "because of / considering")**
-
-👉 Most common in speech.
-
-* *“Given the traffic, we should leave early.”* (Considering the traffic)
-
-* *“Given his experience, he’ll probably get the job.”*
-
-It’s a quick way to say *“because of”* or *“taking into account.”*
-
-### **2\. As an adjective (meaning "particular / fixed")**
-
-* *“On any given day, you’ll find her at the library.”* (on any particular day)
-
-* *“There’s a limit to what you can do in a given situation.”*
-
-This is used when talking about something specific in a context.
-
-### **3\. As a noun (something taken as true / a fact) (less spoken, more academic/formal)**
-
-* *“That’s a given.”* (That’s obvious / certain.)
-
-* *“It’s a given that prices will rise.”*
-
-This is very natural in spoken English when you mean something is obvious.
-
-✅ In everyday spoken English, **\#1 and \#3 are most common**:
-
-* *“Given the time, we should wrap this up.”*
-
-* *“It’s a given that he’ll be late.”*
-
-[↑ Back to index](#index)
-
 # given that
 
 other
 
 taking a specific fact into account
-
-[↑ Back to index](#index)
-
-# glamping
-
-noun
-
-a form of camping involving accommodation and facilities more luxurious than those associated with traditional camping
-
-glamping is likely to satisfy any city slicker seeking a little refuge in nature—without foregoing any of life's luxuries
 
 [↑ Back to index](#index)
 
@@ -7392,24 +5232,6 @@ It’s often used when someone avoids going into detail about a mistake, problem
 ### **💡 Pro Tip:**
 
 **Tone matters.** "Gloss over" often has a **negative or critical** tone. It implies someone is **not being transparent** or is **avoiding the truth**.
-
-[↑ Back to index](#index)
-
-# gnaw
-
-**Literal meaning:** To bite or chew repeatedly.  
- **Figurative meaning:** To mentally or emotionally trouble someone.
-
-🗣 *“The dog gnawed on a bone.”*  
- 🗣 *“The guilt gnawed at him for years.”*
-
-💡 *(“Gnawing feeling” \= persistent unease or anxiety.)*
-
-verb
-
-cause persistent and wearing distress or anxiety
-
-the doubts continued to gnaw at me
 
 [↑ Back to index](#index)
 
@@ -7680,24 +5502,6 @@ spread quickly over the internet
 
 [↑ Back to index](#index)
 
-# God-awful
-
-**Meaning:** Terrible, extremely bad, or unpleasant (informal).  
- **Figurative sense:** Used to exaggerate disgust or frustration.
-
-🗣 *“That movie was god-awful\!”*  
- 🗣 *“The weather’s been god-awful all week.”*
-
-[↑ Back to index](#index)
-
-# Goggles
-
-noun — protective eyewear that fits closely around the eyes, worn for swimming, skiing, lab work, or construction. Literal object, no figurative use.
-
-"Wear your safety goggles before using the drill."
-
-[↑ Back to index](#index)
-
 # Going forward
 
 “**Going forward**” means **from now on, in the future, or moving ahead**.  
@@ -7789,31 +5593,6 @@ It’s often used in casual speech instead of saying *“I made a mistake”* or
 
 [↑ Back to index](#index)
 
-# Goofy
-
-adjective (informal) — silly, foolish, or awkward in a good-natured, endearing way.
-
-"He has a goofy sense of humor that lightens up tense meetings."
-
-[↑ Back to index](#index)
-
-# Goosebumps
-
-**Meaning:** Tiny bumps on skin from fear or excitement.  
- **Example:** *That song gave me goosebumps.*
-
-[↑ Back to index](#index)
-
-# Gorgeous
-
-**Meaning:** Extremely beautiful or attractive.  
- **Figurative meaning:** Stunning in quality or impact.
-
-🗣 *“You look gorgeous tonight.”*  
- 🗣 *“The sunset was absolutely gorgeous.”*
-
-[↑ Back to index](#index)
-
 # Got off
 
 * **Literal:** To leave or step down from a vehicle or surface.
@@ -7825,50 +5604,6 @@ adjective (informal) — silly, foolish, or awkward in a good-natured, endearing
   * “I *got off* the bus at the wrong stop.”
 
   * “He *got off* easy after missing the deadline.”
-
-[↑ Back to index](#index)
-
-# Gourmet
-
-### **Meaning**
-
-Something **high-quality, premium, or made with special care**, usually food.
-
-### **Usage & examples**
-
-* *“This is a gourmet restaurant.”*  
-* *“They serve gourmet coffee.”*  
-* *“It’s not fast food—it’s gourmet.”*
-
-**Extended meaning (informal):**  
- Sometimes used jokingly:
-
-* *“This instant noodles feels gourmet today.”* 😄
-
-🗣️ Pronunciation tip: **GOR-may** (silent “t”).
-
-## **🔗 Useful connecting sentences (very natural speech)**
-
-Try combining phrases like this:
-
-* *“At first, I drifted away, but then I decided to face the problem head on.”*  
-* *“Fear was the enemy within, but I pushed through it.”*  
-* *“That being said, we need to tackle this head on.”*
-
-## **✨ Gentle correction & natural phrasing**
-
-Your question was good 👍  
- A slightly more natural version would be:
-
-👉 **“Can you explain the meaning and usage of these words?”**
-
-## **🎯 Practice task (important)**
-
-Say these **out loud**:
-
-*“Instead of drifting away, I decided to face the challenge head on and push through.”*
-
-If you want, next time **you explain one of these phrases yourself**, and I’ll give you **feedback on fluency and clarity** 😊
 
 [↑ Back to index](#index)
 
@@ -7890,25 +5625,6 @@ If you want, next time **you explain one of these phrases yourself**, and I’ll
 
 [↑ Back to index](#index)
 
-# Gratification
-
-**Meaning:** Pleasure or satisfaction from fulfilling a desire.
-
-🗣 *“There’s instant gratification in social media likes.”*  
- 🗣 *“True success comes from delayed gratification.”*
-
-[↑ Back to index](#index)
-
-# Graveyard
-
-**Literal meaning:** Cemetery.  
- **Figurative meaning:** A place where things fail or are forgotten.
-
-🗣 *“This town’s full of old graveyards.”*  
- 🗣 *“That app idea ended up in the graveyard of forgotten startups.”*
-
-[↑ Back to index](#index)
-
 # Grinded against
 
 **Meaning:** Moved one’s body against someone or something in a rubbing motion — usually sexual.  
@@ -7916,33 +5632,6 @@ If you want, next time **you explain one of these phrases yourself**, and I’ll
 
 * *“He grinded against her on the dance floor.”*  
    🟠 Informal and physical — often in dance or intimate scenes.
-
-[↑ Back to index](#index)
-
-# Groom
-
-**Meaning:** To clean or take care of appearance; also to prepare someone for a role.  
- **Example:** *The horse was well groomed.* / *He’s being groomed for a leadership position.*
-
-[↑ Back to index](#index)
-
-# Groped
-
-**Meaning:** Touched someone roughly or inappropriately.  
- **Usage:**
-
-* *“She complained that he groped her in the crowd.”*  
-   🛑 Always negative; used for unwanted or illegal touching.
-
-[↑ Back to index](#index)
-
-# Groundbreaking
-
-**Literal meaning:** Something that breaks new ground, literally in construction.  
- **Figurative meaning:** Innovative, revolutionary, or setting a new standard.
-
-🗣 *“That’s a groundbreaking discovery in medical science.”*  
- 🗣 *“Their new app is truly groundbreaking — nothing like it exists.”*
 
 [↑ Back to index](#index)
 
@@ -7955,44 +5644,12 @@ phrasal verb — 1) to become too big for something, especially clothes. 2) to s
 
 [↑ Back to index](#index)
 
-# Gruesome
-
-**Meaning:** Horrifying, shocking, or extremely unpleasant — especially something bloody or violent.  
- **Figurative meaning:** Anything that provokes disgust or dread, even emotionally or metaphorically.
-
-🗣 *“It was a gruesome crime scene.”*  
- 🗣 *“The movie was so gruesome I had to look away.”*  
- 🗣 *“That’s a gruesome way to end a friendship.”* (figurative)
-
-[↑ Back to index](#index)
-
-# Grumbled
-
-**Meaning:** *Grumbled* means to complain in a low, slightly irritated voice.  
- **Usage:**
-
-* *“He grumbled about the cold weather.”*
-
-* Used when someone complains softly but clearly shows annoyance.
-
-[↑ Back to index](#index)
-
 # Habit stacking
 
 **Meaning:** Building a new habit by linking it to an existing one.
 
 🗣 *“I practice habit stacking — I stretch while brewing coffee.”*  
  🗣 *“It’s a smart way to stay consistent.”*
-
-[↑ Back to index](#index)
-
-# Hack
-
-**Literal meaning:** To cut roughly or access data illegally.  
- **Figurative meaning:** A clever shortcut or trick.
-
-🗣 *“Here’s a neat productivity hack for your workflow.”*  
- 🗣 *“He hacked his way into the system.”*
 
 [↑ Back to index](#index)
 
@@ -8008,14 +5665,6 @@ phrasal verb — 1) to become too big for something, especially clothes. 2) to s
 * “Halfway through the meeting, he made a great point.”
 
 👉 *Connector tip:* “At that point,” “By then,” “In the middle of.”
-
-[↑ Back to index](#index)
-
-# Halo
-
-**Meaning:** A ring of light around a holy figure’s head.  
- **Figurative:** Pure or saint-like quality.  
- **Example:** *He acts like he’s got a halo over his head.*
 
 [↑ Back to index](#index)
 
@@ -8038,110 +5687,6 @@ phrasal verb — 1) to become too big for something, especially clothes. 2) to s
 * To pass around something.  
 * Example 1: "The teacher handed out the test papers to all students."  
 * Example 2: "Volunteers handed out food and water to those in need."
-
-[↑ Back to index](#index)
-
-# Handoff
-
-“Handoff” generally means transferring responsibility, control, or information from one person, team, or system to another.
-
-### **Contexts where "handoff" is used:**
-
-1. **Work/Business:** When one team finishes their part of a project and passes it to another.  
-    *Example:* “The design team completed their work and did a handoff to the development team.”
-
-2. **Medical field:** Doctors or nurses handing off a patient’s care to another shift.  
-    *Example:* “During the night shift handoff, the nurse shared all critical updates.”
-
-3. **Technology:** Apple devices use “Handoff” to let you continue an activity seamlessly from iPhone to Mac or iPad.
-
-4. **Sports:** In American football, a handoff is when the quarterback hands the ball to another player.
-
-### **Phrases you can practice:**
-
-* “Let’s do a quick handoff so the next team has all the details.”
-
-* “The project is ready for handoff to the testing phase.”
-
-* “I’ll hand off this responsibility once the documentation is complete.”
-
-* “We had a smooth handoff between shifts, so everything stayed on track.”
-
-**Handoff** means **the transfer of responsibility, work, information, or control from one person/team/system to another.**
-
-In simple words:  
- 👉 *When one person finishes their part and passes it to someone else, that is a handoff.*
-
-## **🔹 Usage in Different Contexts**
-
-### **1️⃣ In Work / Projects (Very common in tech)**
-
-* “We’ll do a handoff to the DevOps team after development.”
-
-* “There was a communication gap during the handoff.”
-
-* “The handoff between data engineering and ML team needs to be smoother.”
-
-💡 In your MLOps context:  
- For example, after model training, you might say:
-
-“Once the model is validated, we’ll do a handoff to the deployment team.”
-
-That means responsibility shifts from one team to another.
-
-### **2️⃣ In Healthcare**
-
-When one doctor or nurse transfers patient responsibility to another.
-
-“The night shift handoff was not clear.”
-
-### **3️⃣ In Sports**
-
-In American football, when one player passes the ball to another — that’s also called a handoff.
-
-## **🔹 Spoken English Examples (Natural Phrases)**
-
-Here are 5 natural sentences you can use in meetings:
-
-1. “Let’s make sure the handoff is well documented.”
-
-2. “There seems to be some confusion during the handoff.”
-
-3. “After this phase, we’ll hand it off to the infra team.”
-
-4. “The handoff process needs to be more structured.”
-
-5. “To avoid delays, the handoff should be clearly defined.”
-
-## **🔹 Useful Connecting Phrases You Can Practice**
-
-You can say:
-
-* “For example, during the handoff between teams, clarity is very important.”
-
-* “On the other hand, if the handoff is not smooth, it can cause delays.”
-
-* “That being said, proper documentation can reduce handoff issues.”
-
-* “In my experience, most production issues happen during handoff.”
-
-## **🔹 Small Grammar Tip (for you)**
-
-You wrote:
-
-“handoff meaning and usage in spoken term explain briefly”
-
-More natural way:
-
-👉 “Can you briefly explain the meaning and usage of ‘handoff’ in spoken English?”
-
-Try to use full question structure in formal communication.
-
-Now I want you to practice 👇
-
-Explain this sentence in your own words:
-
-“The handoff between data engineering and MLOps was not clearly defined.”
 
 [↑ Back to index](#index)
 
@@ -8239,60 +5784,6 @@ We usually hang out at the coffee shop.
 **“Hangs off”** usually means **something is attached to or depends on something else**, or sometimes **someone is leaning/sitting from an edge**.
 
 The exact meaning depends on the context.
-
-[↑ Back to index](#index)
-
-# Harsh
-
-1. **Unpleasant / severe** – Something that feels too strong, rough, or unfriendly.
-
-   * *“The desert sun is harsh.”*
-
-   * *“That punishment was too harsh.”*
-
-2. **Critical / unkind** – When someone’s words or tone are too direct or unfriendly.
-
-   * *“His feedback was a bit harsh.”*
-
-   * *“She spoke in a harsh tone.”*
-
-3. **Difficult conditions** – When the environment or situation is very tough.
-
-   * *“They survived through a harsh winter.”*
-
-✅ **Spoken practice sentences:**
-
-* “I know my words may sound harsh, but I really want to be honest.”
-
-* “On the other hand, a little harsh feedback can sometimes help us improve.”
-
-* “That being said, we should avoid being unnecessarily harsh with people.”
-
-* “The weather outside is really harsh today—it’s freezing.”
-
-👉 Tip for meetings or casual talk:  
- Instead of directly saying *“You’re being harsh”*, you can soften it with:
-
-* *“That sounded a bit harsh, maybe we can rephrase it.”*
-
-* *“Your feedback is valid, but it might come across as harsh.”*
-
-[↑ Back to index](#index)
-
-# Harvest
-
-To collect crops or gather results.  
- 👉 *“Farmers are busy harvesting now.”*
-
-[↑ Back to index](#index)
-
-# Haunted
-
-**Literal meaning:** Inhabited by ghosts.  
- **Figurative meaning:** Disturbed or troubled by memories or guilt.
-
-🗣 *“That house looks haunted.”*  
- 🗣 *“He’s haunted by what happened years ago.”*
 
 [↑ Back to index](#index)
 
@@ -8506,17 +5997,6 @@ So in your sentence **“Please have this picked up on priority”**,
 
 [↑ Back to index](#index)
 
-# Hazy
-
-**Meaning:** Unclear, blurry, or vague — physically or mentally.  
- **Usage:**
-
-* *“The view was hazy this morning.”*
-
-* *“My memory of that day is hazy.”*
-
-[↑ Back to index](#index)
-
 # Head down/Heads down
 
 ### **1\. Literal / Physical meaning**
@@ -8705,44 +6185,6 @@ Saying "hear me out" politely, with a calm voice and eye contact, makes people m
 
 [↑ Back to index](#index)
 
-# Heckling
-
-**Meaning:** Interrupting or shouting at a speaker in a rude or mocking way.  
- **Examples (spoken):**
-
-* “The politician was heckled during the speech.”
-
-* “They kept heckling the comedian.”
-
-* “He handled the heckling with humor.”
-
-👉 *Common in:* Live shows, debates, or political events.
-
-[↑ Back to index](#index)
-
-# Hell-bent
-
-**"Hell-bent"** means being determined to do something, often with an almost reckless level of focus — so determined that you might ignore risks, warnings, or consequences.
-
-**Usage in sentences:**
-
-* *He’s hell-bent on finishing the project, even if it means working all night.*
-
-* *She’s hell-bent on proving everyone wrong.*
-
-It can have a **positive** tone (strong determination) or a **negative** one (stubborn and reckless) depending on context.
-
-[↑ Back to index](#index)
-
-# Helpless
-
-**Meaning:** Unable to act or control a situation.
-
-🗣 *“I felt helpless watching it happen.”*  
- 🗣 *“He’s not helpless — he just needs direction.”*
-
-[↑ Back to index](#index)
-
 # Herculean task
 
 A **“Herculean task”** means a job or duty that is **extremely difficult, demanding, or requires a lot of strength and effort**.
@@ -8769,22 +6211,6 @@ The phrase comes from **Hercules**, a hero in Greek mythology known for his supe
 
 [↑ Back to index](#index)
 
-# Hesitant
-
-**Meaning:** Slow to act or unsure; uncertain about making a move.  
- **Figurative sense:** Can also imply emotional hesitation — fear of commitment or risk.
-
-🗣 *“He looked hesitant to speak his mind.”*  
- 🗣 *“I was hesitant about joining, but it turned out great.”*
-
-[↑ Back to index](#index)
-
-# Hieroglyph
-
-**Hieroglyph** \= a **picture symbol** used in ancient writing (especially Egyptian) to represent words, sounds, or ideas. ✍️
-
-[↑ Back to index](#index)
-
 # Highlight reel
 
 **Literal meaning:** A compilation of best moments (sports, events, etc.).  
@@ -8792,16 +6218,6 @@ The phrase comes from **Hercules**, a hero in Greek mythology known for his supe
 
 🗣 *“Instagram is just everyone’s highlight reel.”*  
  🗣 *“His presentation was basically a highlight reel of past wins.”*
-
-[↑ Back to index](#index)
-
-# Hinge
-
-**Literal meaning:** A pivoting joint on which something swings.  
- **Figurative meaning:** To depend or revolve around something.
-
-🗣 *“Success hinges on good communication.”*  
- 🗣 *“Everything hinged on that one decision.”*
 
 [↑ Back to index](#index)
 
@@ -8835,7 +6251,75 @@ say something that is exactly right
 
 # hit up
 
-verb
+**“Hit up”** is an informal phrasal verb. It usually means:
+
+1. **To contact someone** (call, text, message)  
+2. **To ask someone for something**  
+3. Sometimes, **to go to a place**
+
+### **1️⃣ Hit up \= Contact someone**
+
+This is the most common meaning in spoken English.
+
+**Example:**
+
+* “I’ll hit you up later.”  
+   👉 I’ll contact you later.  
+* “Hit me up when you reach home.”  
+   👉 Contact me when you reach home.
+
+This is very casual and mostly used with friends or colleagues (not very formal settings).
+
+### **2️⃣ Hit up \= Ask for something**
+
+* “He hit me up for some money.”  
+   👉 He asked me for money.  
+* “She hit her manager up for a promotion.”  
+   👉 She asked her manager for a promotion.
+
+Here, it slightly implies requesting or seeking help.
+
+### **3️⃣ Hit up \= Go to a place**
+
+* “Let’s hit up that new café.”  
+   👉 Let’s go to that new café.
+
+This is also casual.
+
+## **In professional/meeting context (be careful)**
+
+In client calls or formal meetings (which you often attend as an Architect), avoid using “hit up.”
+
+Instead say:
+
+* “I’ll reach out to you.”  
+* “I’ll get in touch.”  
+* “Let me connect with you offline.”
+
+Because “hit up” sounds too casual for enterprise conversations.
+
+## **Natural Spoken Sentences You Can Practice**
+
+Try speaking these aloud:
+
+1. “I’ll hit you up once I finish this deployment.”  
+2. “If you need anything, just hit me up.”  
+3. “Let’s hit up the DevOps team and clarify the dependency.”  
+4. “I was planning to hit him up regarding the architecture changes.”  
+5. “That being said, I’ll hit you up tomorrow with the updated numbers.”
+
+Notice how I used **“That being said”** to improve flow. 👌
+
+## **Extra Context of Usage**
+
+* Very common in **American English**  
+* Mostly used in **texting, Slack, WhatsApp**  
+* Casual tone  
+* Not recommended in formal emails
+
+Now your turn 🎯
+
+Can you make 2–3 sentences using “hit up” in a technical context (maybe related to MLOps or architecture)?
 
 ask someone for something, typically money
 
@@ -8844,27 +6328,6 @@ I have an employee who is always hitting me up for a raise
 he hit up some family members
 
 if you have a serious band and would like to play some music, hit me up
-
-[↑ Back to index](#index)
-
-# Hitched
-
-**Meaning:** Connected or attached — also slang for “got married.”  
- **Usage:**
-
-* *“He hitched the trailer to his truck.”*
-
-* *“They got hitched last summer.”* (informal for married)
-
-[↑ Back to index](#index)
-
-# Hive
-
-**Literal meaning:** A structure for bees.  
- **Figurative meaning:** A place buzzing with activity and energy.
-
-🗣 *“The office was a hive of productivity this morning.”*  
- 🗣 *“That café’s always a hive of chatter.”*
 
 [↑ Back to index](#index)
 
@@ -9024,6 +6487,36 @@ I’m holding up → I’m managing / I’m okay
 
 [↑ Back to index](#index)
 
+# Hold/Held Up
+
+phrasal verb of hold  
+1\.  
+support and prevent something from falling.  
+"concrete pillars hold up the elevated section of the railway"
+
+2\.  
+display something by holding it above one's waist or head.  
+"he held up the book so she could see the cover"
+
+## 1\. "Hold up" (Present tense)
+
+It is used in the present tense.  
+Meanings:  
+**Delay or stop:** "The traffic is holding us up."  
+**Support or lift:** "These pillars hold up the building."  
+**As a question (informal):** "Hold up\! What did you just say?" (meaning: "Wait a moment.")  
+**To endure or remain strong:** "I hope she holds up under the pressure."
+
+## 2\. "Held up" (Past tense)
+
+It is the past tense or past participle of "hold up."  
+Meanings:  
+Was delayed or stopped: "The train was held up due to technical issues."  
+Was supported or sustained: "The roof was held up by steel beams."  
+Was robbed (as in a crime): "The bank was held up by two masked men."
+
+[↑ Back to index](#index)
+
 # holistic approach
 
 noun
@@ -9176,20 +6669,10 @@ Try these out loud to get the feel:
 
 [↑ Back to index](#index)
 
-# hotspot
+# Hop out
 
-noun
-
-a popular place of entertainment
-
-she knew all the Manhattan hotspots for classy blues and retro jazz
-
-[↑ Back to index](#index)
-
-# Hover
-
-**Meaning:** To stay in one place in the air or nearby.  
- **Example:** *The helicopter hovered over the city.*
+get out of quickly  
+The officer hopped out when he spotted an illegally parked car” synonyms: get off.
 
 [↑ Back to index](#index)
 
@@ -9210,39 +6693,6 @@ In what way : why does one think that? "This room looks different." "How so?
 
 [↑ Back to index](#index)
 
-# Howl
-
-**Meaning:** To make a loud crying or wailing sound (by animals or humans).  
- **Usage:**
-
-* *“The wolves howled at night.”*
-
-* *“He howled in pain.”* (can also mean crying loudly)
-
-[↑ Back to index](#index)
-
-# Huddled
-
-**Meaning:** Gathered closely together, often for warmth or protection.  
- **Usage:**
-
-* *“They huddled around the fire.”*
-
-* *“The kids huddled under one umbrella.”*
-
-[↑ Back to index](#index)
-
-# Huffed
-
-**Meaning:** Exhaled loudly or spoke in a slightly annoyed tone.  
- **Usage:**
-
-* *“She huffed and crossed her arms.”*
-
-* *“‘Fine,’ he huffed, giving up.”*
-
-[↑ Back to index](#index)
-
 # Huffed adorably
 
 **Meaning:** Exhaled or pouted in a cute, playful way.  
@@ -9254,84 +6704,10 @@ In what way : why does one think that? "This room looks different." "How so?
 
 [↑ Back to index](#index)
 
-# Hum
-
-**Literal meaning:** A low, steady sound.  
- **Figurative meaning:** To be active, busy, or full of energy.
-
-🗣 *“The fridge is humming again.”*  
- 🗣 *“The office was humming with excitement before the launch.”*
-
-[↑ Back to index](#index)
-
-# Humble
-
-**Literal meaning:** Modest or unassuming.  
- **Figurative meaning:**
-
-1. To lower one’s pride.
-
-2. To show gratitude or respect despite success.
-
-🗣 *“Despite his fame, he’s incredibly humble.”*  
- 🗣 *“Winning that award really humbled her.”*  
- 🗣 *“He comes from humble beginnings.”*
-
-💡 *(“Humble beginnings” \= modest or simple background.)*
-
-[↑ Back to index](#index)
-
-# Humility
-
-**Meaning:** Being humble; not thinking too highly of oneself.  
- **Example:** *True strength comes with humility.*
-
-[↑ Back to index](#index)
-
-# Hump
-
-**Meaning:** To lift or carry something heavy; informally — to have sex.  
- **Usage:**
-
-* *“We had to hump all the boxes upstairs.”* (literal)  
-   🟠 Be cautious — it often has a sexual meaning in casual talk.
-
-[↑ Back to index](#index)
-
-# Hurl
-
-**Meaning:** To throw something with great force — physically or emotionally (like insults).  
- **Examples (spoken):**
-
-* “He hurled the ball across the field.”
-
-* “She hurled insults at him during the argument.”
-
-* “Someone hurled a stone at the window.”
-
-👉 *Connector idea:* “Out of anger,” “In frustration,” “Without thinking, he hurled…”
-
-**Meaning:** Throw something forcefully — or vomit (informal).  
-**Usage:**
-
-* *“He hurled the ball across the field.”*
-
-* *“I felt so sick I almost hurled.”*
-
-[↑ Back to index](#index)
-
 # Hustle and Bustle
 
 **Meaning:** Busy and noisy activity.  
  **Example:** *I love the hustle and bustle of city life.*
-
-[↑ Back to index](#index)
-
-# Hypocritical
-
-adjective — behaving in a way that contradicts one's own stated beliefs or values; saying one thing and doing another.
-
-"It's hypocritical to preach work-life balance and then email the team at midnight."
 
 [↑ Back to index](#index)
 
@@ -9467,37 +6843,6 @@ Slang term:
 
 [↑ Back to index](#index)
 
-# Ignorance
-
-**Literal meaning:** Lack of knowledge or awareness.  
- **Figurative meaning:** Willful avoidance of truth or reality.
-
-🗣 *“Ignorance of the law is no excuse.”*  
- 🗣 *“He’s living in blissful ignorance.”*
-
-[↑ Back to index](#index)
-
-# Immersion
-
-**Literal meaning:** Deep involvement in an activity or environment.  
- **Figurative meaning:** Fully engaging your mind and senses in an experience or learning process.
-
-🗣 *“Language immersion helps you learn faster.”*  
- 🗣 *“He’s in total immersion mode for his new project.”*
-
-[↑ Back to index](#index)
-
-# Imminent
-
-**Meaning:** About to happen soon.  
- **Usage:**
-
-* *“A storm is imminent.”*
-
-* *“The company faces imminent closure.”*
-
-[↑ Back to index](#index)
-
 # Imperceptibly || imperceptible
 
 * **Literal:** So slightly that it’s barely noticeable.
@@ -9509,91 +6854,6 @@ Slang term:
   * “He smiled *imperceptibly* when he heard her name.”
 
   * “The tension in the room grew *imperceptibly*.”
-
-[↑ Back to index](#index)
-
-# Impersonate
-
-It means **to pretend to be someone else**, usually by copying their voice, behavior, or appearance.
-
-1. **Entertainment/fun:**
-
-   * *“The comedian impersonated the president on stage.”*
-
-   * *“She can impersonate movie stars really well.”*
-
-2. **Serious/negative (fraud, cheating):**
-
-   * *“The hacker impersonated a bank official to steal money.”*
-
-   * *“Someone tried to impersonate me online.”*
-
-✅ **Spoken practice sentences:**
-
-* “He impersonated his teacher so well, everyone laughed.”
-
-* “On the other hand, impersonating someone for fraud is a serious crime.”
-
-* “That being said, in acting, impersonating a character is a real skill.”
-
-* “She’s great at impersonating celebrities.”
-
-👉 **Contexts of usage:**
-
-* **Comedy/acting:** Copying someone for fun.
-
-* **Fraud/security:** Pretending to be someone for dishonest purposes.
-
-* **Casual talk:** *“Don’t impersonate me while I’m not there\!”* (joking with friends).
-
-✨ Small tip: In casual speech, instead of *impersonate*, people often say **“mimic,” “imitate,” or “do an impression of.”**
-
-[↑ Back to index](#index)
-
-# Implement
-
-**Literal meaning:** To put a plan, idea, or decision into effect.  
- **Figurative meaning:** To make something operational or real.
-
-🗣 *“The company will implement new safety measures.”*  
- 🗣 *“It’s time to implement what we’ve been planning for months.”*
-
-💡 *(Professional and action-oriented word — common in business, tech, and policy talk.)*
-
-[↑ Back to index](#index)
-
-# Imply
-
-**Meaning:** To suggest or express something indirectly.  
- **Figurative meaning:** To communicate meaning subtly through tone or wording.
-
-🗣 *“Are you implying I made a mistake?”*  
- 🗣 *“Her tone implied she wasn’t happy.”*
-
-[↑ Back to index](#index)
-
-# Impulse
-
-**Meaning:** A sudden strong desire or urge to do something.  
- **Examples (spoken):**
-
-* “I bought it on impulse.”
-
-* “He acted on impulse and later regretted it.”
-
-* “Sometimes it’s hard to resist an impulse purchase.”
-
-👉 *Connector idea:* “Without thinking,” “At that moment.”
-
-[↑ Back to index](#index)
-
-# Impulsive
-
-adjective. 
-
-If you describe someone as impulsive, you mean that they do things suddenly without thinking about them carefully first. He is too impulsive to be a responsible prime minister. Avoid making an impulsive decision. Synonyms: instinctive, emotional, unpredictable, quick
-
-You have Harvey made an impulsive deal which is certainly not working out.
 
 [↑ Back to index](#index)
 
@@ -9708,225 +6968,6 @@ without success or a result.
 
 [↑ Back to index](#index)
 
-# Incisive
-
-**Meaning:** Clear, sharp, and intelligent (especially about thinking or speaking).  
- **Usage:**
-
-* *“Her analysis was incisive and to the point.”*
-
-* *“He’s known for his incisive wit.”*
-
-[↑ Back to index](#index)
-
-# incommunicado
-
-adjective
-
-not able, wanting, or allowed to communicate with other people
-
-they were separated and detained incommunicado
-
-[↑ Back to index](#index)
-
-# Incompatible
-
-**Meaning:** Not able to exist or work together harmoniously.
-
-🗣 *“Their personalities were totally incompatible.”*  
- 🗣 *“That software’s incompatible with my system.”*
-
-[↑ Back to index](#index)
-
-# Inconceivable
-
-The word **“inconceivable”** means *something that is impossible to imagine, understand, or believe*. It describes a situation, event, or idea that feels *beyond what we can think of as possible*.
-
-### **Examples of Spoken Usage:**
-
-1. *“It’s inconceivable that he finished the project in just one day\!”*  
-    (means: hard to believe, almost impossible)
-
-2. *“The amount of data this system can handle is inconceivable.”*  
-    (means: too large to imagine)
-
-3. *“It’s inconceivable to me that she didn’t know about the issue.”*  
-    (means: unbelievable, unimaginable)
-
-### **Common Phrases You Could Use in Conversation:**
-
-* “That’s inconceivable—I never thought it could happen.”
-
-* “It’s almost inconceivable how fast technology is moving.”
-
-* “The idea seemed inconceivable at first, but now it makes sense.”
-
-* “Honestly, it’s inconceivable that they ignored such a big problem.”
-
-👉 Practice tip: When you want to sound natural in a meeting or casual talk, you can replace *“unbelievable”* or *“impossible to imagine”* with **“inconceivable”**.
-
-[↑ Back to index](#index)
-
-# Inconsistency
-
-**Meaning:** Lack of uniformity or reliability; when things don’t align or stay steady.  
- **Figurative meaning:** Emotional or behavioral unpredictability.
-
-🗣 *“The inconsistency in his statements made me doubt him.”*  
- 🗣 *“Her performance has been inconsistent lately.”*
-
-[↑ Back to index](#index)
-
-# Indescribable
-
-* **Literal:** Too extraordinary to describe in words.
-
-* **Figurative:** Beyond expression or imagination.
-
-* **Examples:**
-
-  * “The view from the top was *indescribable*.”
-
-  * “Her joy was *indescribable* when she saw her baby.”
-
-[↑ Back to index](#index)
-
-# Indigenous
-
-**Literal meaning:** Native to a particular region or place.  
- **Figurative meaning:** Authentic, deeply rooted, original to a culture.
-
-🗣 *“Indigenous art reflects centuries of tradition.”*  
- 🗣 *“We must preserve indigenous knowledge systems.”*
-
-[↑ Back to index](#index)
-
-# Indignation
-
-**Meaning:** Anger or annoyance at something unfair or offensive.  
- **Usage:**
-
-* *“She felt indignation at the way he spoke to her.”*
-
-* Often used in more serious or emotional situations.
-
-[↑ Back to index](#index)
-
-# Indispensable
-
-**Meaning:** Absolutely necessary; can’t do without it.  
- **Usage:**
-
-* *“Her expertise is indispensable to the team.”*
-
-* *“Water is indispensable for life.”*
-
-[↑ Back to index](#index)
-
-# Indulgently
-
-**Meaning:** In a way that is kind, forgiving, or allows pleasure.  
- **Usage:**
-
-* *“He smiled indulgently at the child’s mischief.”*
-
-* *“She lived indulgently, spending money on luxuries.”*
-
-[↑ Back to index](#index)
-
-# Inert
-
-**Meaning:** Lacking motion or energy; inactive.
-
-🗣 *“The gas is chemically inert.”*  
- 🗣 *“I felt inert all weekend — couldn’t do a thing.”*
-
-[↑ Back to index](#index)
-
-# Infamous
-
-adjective — well known for a bad or negative reason; having an unfavorable reputation. (Not the same as "famous," which is neutral/positive.)
-
-"The service is infamous for its confusing checkout flow."
-
-[↑ Back to index](#index)
-
-# Inflection
-
-**Literal meaning:** A change in tone or pitch of the voice.  
- **Figurative meaning:** A turning point or significant shift.
-
-🗣 *“His voice had a kind inflection.”*  
- 🗣 *“We’re at an inflection point in our company’s growth.”*
-
-[↑ Back to index](#index)
-
-# Innuendo
-
-**Meaning:** An indirect or hidden suggestion, often sexual or insulting.  
- **Usage:**
-
-* *“His comment was full of innuendo.”*
-
-* *“She didn’t appreciate his subtle innuendos.”*
-
-[↑ Back to index](#index)
-
-# Insecurity
-
-**Meaning:** Lack of confidence or self-doubt.  
- **Example:** *Her insecurity makes her overthink everything.*
-
-[↑ Back to index](#index)
-
-# Insidious
-
-**Meaning:** Something harmful that spreads subtly or gradually.
-
-🗣 *“It’s an insidious disease — hard to detect early.”*  
- 🗣 *“Social media addiction can be insidious.”*
-
-[↑ Back to index](#index)
-
-# Insinuated
-
-The word **“insinuated”** comes from the verb **insinuate**.  
- It has a few shades of meaning, depending on the context:
-
-### **1\. To suggest indirectly (usually something negative)**
-
-* Similar to *imply* or *hint*, often with a negative or critical undertone.  
-   👉 *He insinuated that I wasn’t qualified for the job.*  
-   (He didn’t say it directly, but hinted at it.)
-
-### **2\. To introduce gradually or subtly**
-
-* To bring something into a situation or conversation in a smooth, indirect way.  
-   👉 *She insinuated herself into the group by being overly friendly.*  
-   (She gradually inserted herself into the group.)
-
-🔑 **Synonyms (for the first sense):**  
- implied, hinted, suggested, alluded, intimated
-
-🔑 **Synonyms (for the second sense):**  
- inserted, introduced, ingratiated, wormed in
-
-[↑ Back to index](#index)
-
-# Internalize
-
-**Meaning:** To accept or absorb ideas deeply.  
- **Example:** *She internalized those harsh comments.*
-
-[↑ Back to index](#index)
-
-# Interrogate
-
-**Meaning:** To question someone thoroughly.  
- **Example:** *The detective interrogated the witness for hours.*
-
-[↑ Back to index](#index)
-
 # Intertwined with mine
 
 **Meaning:** Twisted or connected closely together (physically or emotionally).  
@@ -9935,22 +6976,6 @@ The word **“insinuated”** comes from the verb **insinuate**.
 * *“Her fingers intertwined with mine.”* (romantic context)
 
 * *“Their fates were intertwined.”* (figurative, storytelling)
-
-[↑ Back to index](#index)
-
-# Intricate
-
-**Meaning:** Complex and detailed.  
- **Example:** *The design was so intricate—it must’ve taken days.*
-
-[↑ Back to index](#index)
-
-# Investigate
-
-**Meaning:** To examine or look into something carefully.
-
-🗣 *“The police are investigating the matter.”*  
- 🗣 *“I like to investigate how systems really work.”*
 
 [↑ Back to index](#index)
 
@@ -9970,53 +6995,6 @@ phrasal verb of iron
 
 solve or settle difficulties or problems.  
 "they had ironed out their differences"
-
-[↑ Back to index](#index)
-
-# Irony
-
-**Irony** means when something happens in the opposite way of what you expect, often creating humor or pointing out contrast. It’s not the same as *coincidence*—it usually highlights contradiction.
-
-### **Types of Irony (in spoken English)**
-
-1. **Situational irony** – when the result is the opposite of what you’d expect.  
-    *Example*: “A fire station burns down—that’s ironic.”
-
-2. **Verbal irony** – when someone says something but means the opposite (often like sarcasm, but sarcasm is usually sharper or meant to mock).  
-    *Example*: If it’s raining heavily, you say: “Oh, what a beautiful day\!”
-
-3. **Dramatic irony** – more common in stories or movies, where the audience knows something the character doesn’t.  
-    *Example*: In a movie, we know the villain is hiding in the room, but the hero doesn’t.
-
-### **Common spoken usage**
-
-* “That’s ironic, isn’t it?”
-
-* “Kind of ironic that he failed the test he helped design.”
-
-* “It’s ironic—we worked so hard on speed, but now the system runs slower.”
-
-### **Phrases you can practice saying**
-
-1. “It’s funny, or maybe ironic, that we spent months preparing for this and still got surprised.”
-
-2. “That’s a bit ironic, considering he always tells us to be on time and he’s the one who’s late.”
-
-3. “Ironically, the more we tried to fix the issue, the worse it became.”
-
-4. “I can’t help but notice the irony here—it’s almost like the opposite of what we expected.”
-
-👉 Practice these aloud, and try using **“ironically”** as a connector in your speech when showing contrast.
-
-[↑ Back to index](#index)
-
-# island-hopping
-
-noun
-
-the activity of traveling from one island to another, especially as a tourist in an area of small islands
-
-seeing the best of what Greece has to offer requires some island-hopping
 
 [↑ Back to index](#index)
 
@@ -10096,34 +7074,6 @@ It often carries a negative connotation, suggesting that a more thorough or deci
 
 [↑ Back to index](#index)
 
-# Jam-packed
-
-**Meaning:** Extremely full or crowded.
-
-🗣 *“The train was jam-packed this morning.”*  
- 🗣 *“My schedule is jam-packed today.”*
-
-[↑ Back to index](#index)
-
-# jaunt
-
-noun
-
-a short excursion or journey for pleasure
-
-her little jaunt in France was over
-
-[↑ Back to index](#index)
-
-# Jaw-dropping
-
-**Meaning:** Extremely impressive or shocking.
-
-🗣 *“The view from the mountain was jaw-dropping.”*  
- 🗣 *“Her performance was absolutely jaw-dropping.”*
-
-[↑ Back to index](#index)
-
 # Jerk around
 
 **1️⃣ To waste someone’s time / not take something seriously**  
@@ -10175,24 +7125,6 @@ A **jigsaw puzzle** is a game or picture that’s been cut into many irregularly
 noun
 
 a commercial enterprise undertaken jointly by two or more parties which otherwise retain their distinct identities.
-
-[↑ Back to index](#index)
-
-# journaling
-
-noun (gerund of "journal") — the practice of regularly writing down one's thoughts, experiences, or reflections.
-
-"She started journaling every morning to organize her thoughts before work."
-
-[↑ Back to index](#index)
-
-# Joyride
-
-**Literal meaning:** A ride taken for fun, often recklessly.  
- **Figurative meaning:** A carefree or adventurous experience.
-
-🗣 *“They took his car for a joyride.”*  
- 🗣 *“The project started as a joyride but ended in chaos.”*
 
 [↑ Back to index](#index)
 
@@ -10301,17 +7233,6 @@ move at the same speed as others
 
 [↑ Back to index](#index)
 
-# Kernel
-
-**Literal meaning:** The central, most important part of something — like the edible part inside a nut or grain.  
- **Figurative meaning:** The core idea or truth at the heart of something.
-
-🗣 *“A kernel of corn popped right out of the pan.”*  
- 🗣 *“There’s a kernel of truth in every rumor.”*  
- 🗣 *“The kernel of his argument was actually quite convincing.”*
-
-[↑ Back to index](#index)
-
 # key takeaway
 
 noun
@@ -10340,19 +7261,6 @@ After hours of studying, the fatigue finally kicked in and I had to take a nap.
 
 [↑ Back to index](#index)
 
-# Kickoff
-
-**Meaning:** to start or initiate a process or workflow. Can be used as a noun or a verb. In MLOps/Databricks contexts, *kickoff* refers to the moment a job or pipeline begins running.
-
-* As a verb: *"We kick off the MLOps pipeline at 9 AM."*
-* As a noun: *"The kickoff of the training job was delayed due to system maintenance."*
-* *"We kick off the MLOps deployment pipeline manually from the Databricks Jobs UI."*
-* *"The scheduled kickoff for our MLOps pipeline is every Monday at 8 AM."*
-
-*Kickoff* is one word when referring to starting something — distinct from *kick in* (two words), which describes something starting to take effect. You generally don't say "kickin" as a standalone word in formal contexts.
-
-[↑ Back to index](#index)
-
 # Kill one’s darlings
 
 **Meaning:** To remove something you love for the sake of improvement — often in writing or design.
@@ -10370,24 +7278,6 @@ After hours of studying, the fatigue finally kicked in and I had to take a nap.
  🗣 *“By studying in the café, I work and relax — two birds, one stone.”*
 
 💡 *(A go-to idiom for efficient multitasking.)*
-
-[↑ Back to index](#index)
-
-# Kneel
-
-verb — literal: to go down on one's knee or knees, e.g. in prayer, respect, or to reach something low. Figurative: to submit or show deference to pressure.
-
-**Literal:** "He knelt down to tie his shoelace."
-**Figurative:** "The company had to kneel to regulatory pressure and change its policy."
-
-[↑ Back to index](#index)
-
-# Kooky
-
-**Meaning:** Eccentric, quirky, or weird in a fun way.
-
-🗣 *“She’s a bit kooky but incredibly creative.”*  
- 🗣 *“His kooky ideas often turn out brilliant.”*
 
 [↑ Back to index](#index)
 
@@ -10675,13 +7565,6 @@ Meaning: To dismiss or terminate employees due to economic reasons.
 
 [↑ Back to index](#index)
 
-# Lean
-
-**Meaning:** Thin or having little fat; also means efficient with no waste.  
- **Example:** *He stays lean by running daily.* / *Our team runs lean but productive.*
-
-[↑ Back to index](#index)
-
 # Lean into
 
 The phrase **“lean into”** means to **embrace something fully, accept it, and move forward with confidence instead of resisting or avoiding it**.
@@ -10772,26 +7655,6 @@ Meaning:
 * To clock out and end work.  
 * Example 1: "She usually leaves work to go home at 5 PM."  
 * Example 2: "He left work early to attend his daughter’s school event."
-
-[↑ Back to index](#index)
-
-# Lecherously
-
-**Meaning:** In a lustful or inappropriate sexual way.  
- **Usage:**
-
-* *“He smiled lecherously at her.”*  
-   🟠 Negative — often used to describe creepy or vulgar behavior.
-
-[↑ Back to index](#index)
-
-# Leered
-
-**Meaning:** Looked at someone in a creepy, lustful, or sly way.  
- **Usage:**
-
-* *“He leered at her across the room.”*  
-   🟠 Always negative — it suggests bad intent or sleaziness.
 
 [↑ Back to index](#index)
 
@@ -10983,19 +7846,6 @@ When are you going to level with me?
 
 [↑ Back to index](#index)
 
-# Leverage
-
-**Literal meaning:** Using force to gain advantage.  
- **Figurative meaning:** To use resources, knowledge, or relationships to achieve something bigger.
-
-🗣 *“We can leverage our network to find investors.”*  
- 🗣 *“She leveraged her experience to negotiate better pay.”*
-
-**Meaning:** To use something effectively to your advantage.  
- **Example:** *We can leverage our network to grow faster.*
-
-[↑ Back to index](#index)
-
 # Life Won’t Spare You
 
 **Meaning:** Life will test or challenge you; everyone faces hardship sooner or later.  
@@ -11021,32 +7871,6 @@ he never once lifted a finger to get Jimmy released from prison
 
 [↑ Back to index](#index)
 
-# lighten
-
-verb
-
-make or become lighter in weight, pressure, or severity
-
-efforts to lighten the burden of regulation
-
-the strain had lightened
-
-she attempted a joke to lighten the atmosphere
-
-Robbie felt her spirits lighten a little
-
-[↑ Back to index](#index)
-
-# Lisp
-
-**Literal meaning:** A speech disorder where “s” and “z” sounds are pronounced like “th.”  
- **Figurative meaning:** Sometimes used affectionately or descriptively to show vulnerability or uniqueness in speech.
-
-🗣 *“He used to have a slight lisp as a child.”*  
- 🗣 *“Her lisp gives her voice a really sweet tone.”*
-
-[↑ Back to index](#index)
-
 # listen up
 
 : to listen closely to what is being said. usually used as a command. Everybody listen up\! I have something to say.
@@ -11061,18 +7885,6 @@ A "rocky" relationship means your partnership is currently facing significant ch
 
 **Meaning:** Gradually; step by step.  
  **Example:** *He improved little by little every day.*
-
-[↑ Back to index](#index)
-
-# liven
-
-verb
-
-make or become more lively or interesting
-
-liven up bland foods with a touch of mustard
-
-the match didn't liven up until the second half
 
 [↑ Back to index](#index)
 
@@ -11377,6 +8189,57 @@ no one looped me in on anything
 
 [↑ Back to index](#index)
 
+# Looped in
+
+### **Meaning**
+
+“Looped in” means **included in communication**, usually email threads, meetings, or decisions.
+
+Very common in corporate and technical environments.
+
+### **Examples**
+
+* “I’ve looped in the DevOps team.”  
+* “Let’s loop in the security team before finalizing this.”
+
+### **Natural spoken phrases you can use**
+
+Speak these aloud:
+
+* “I’ll loop in the platform team for visibility.”  
+* “Let’s loop them in so everyone stays aligned.”  
+* “I’ve already looped in the stakeholders on this topic.”  
+* “For example, we should loop in the infra team early.”
+
+### **Where else you can use it**
+
+Useful in:
+
+* email discussions  
+* cross-team coordination  
+* escalation scenarios  
+* architecture decisions
+
+## **Quick combined example (very natural in meetings)**
+
+You could say:
+
+“Before we get going, there’s one outstanding question about the deployment strategy. I’ll loop in the infra team so we can resolve it quickly.”
+
+This sounds fluent, structured, and leadership-oriented. 🎯
+
+### **Small improvement suggestion for your message**
+
+You wrote:
+
+get going outstanding question looped in
+
+A more natural request would be:
+
+“Can you explain the phrases ‘get going,’ ‘outstanding question,’ and ‘looped in’?”
+
+[↑ Back to index](#index)
+
 # loosen up
 
 verb
@@ -11395,13 +8258,6 @@ beer relaxes certain parts of your brain and loosens you up
 
 **Meaning:** To stop communicating with someone.  
  **Example:** *I lost touch with my college friends.*
-
-[↑ Back to index](#index)
-
-# Lousy
-
-**Meaning:** Very bad or unpleasant.  
- **Example:** *I felt lousy after the argument.*
 
 [↑ Back to index](#index)
 
@@ -11428,26 +8284,6 @@ It can be **literal** (a person physically hiding) or **figurative** (a problem,
 * “On the surface, it looks fine, but there are risks lurking behind.”
 
 👉 Try saying them aloud, stressing *lurking behind* to make it natural.
-
-[↑ Back to index](#index)
-
-# Luscious
-
-**Meaning:** Rich, sweet, and pleasant to the senses — usually taste, smell, or appearance.  
- **Usage:**
-
-* *“The cake was absolutely luscious.”*
-
-* *“She had luscious hair that shimmered in the light.”*  
-   🟢 *Tip:* Use it when something feels rich, soft, or luxurious.
-
-[↑ Back to index](#index)
-
-# Luxurious
-
-adjective — extremely comfortable, elegant, or expensive; indulgent.
-
-"They stayed in a luxurious hotel overlooking the beach."
 
 [↑ Back to index](#index)
 
@@ -11570,25 +8406,6 @@ They made up after the argument.
 
 [↑ Back to index](#index)
 
-# Mandate
-
-**Literal meaning:** An official order or instruction.  
- **Figurative meaning:** Strong social or moral obligation to act in a certain way.
-
-🗣 *“The government issued a health mandate.”*  
- 🗣 *“As a doctor, I feel a moral mandate to speak up.”*
-
-[↑ Back to index](#index)
-
-# Manipulator
-
-**Meaning:** A person who skillfully controls or influences others, often unfairly.
-
-🗣 *“He’s a master manipulator — always twisting the truth.”*  
- 🗣 *“Beware of emotional manipulators who play the victim.”*
-
-[↑ Back to index](#index)
-
 # Mark of Somebody
 
 **Meaning:** A quality that identifies someone’s character.  
@@ -11606,35 +8423,19 @@ They made up after the argument.
 
 [↑ Back to index](#index)
 
-# Mass
+# Mellow out
 
-**Meaning:** A large quantity or group.  
- **Example:** *A mass of people gathered outside.* / *Mass communication.*
+"Mellow out" is an informal phrasal verb that means to become relaxed and calm.   
+For example, 
 
-[↑ Back to index](#index)
+"She mellowed out as she grew older". 
 
-# Mate
+Here are some other definitions of "mellow out": 
 
-**Meaning:** Friend or partner (common in British English).  
- **Example:** *Hey mate, how’s it going?*
-
-[↑ Back to index](#index)
-
-# Melodramatic
-
-**Meaning:** Overly emotional or exaggerated in behavior or speech.  
- **Figurative meaning:** Used humorously to describe someone reacting too strongly.
-
-🗣 *“Don’t be so melodramatic — it’s just a scratch.”*  
- 🗣 *“She tends to get melodramatic over small issues.”*
-
-[↑ Back to index](#index)
-
-# meme
-
-noun
-
-an often humorous image, video, etc., passed from one internet user to another
+- To get rid of nervous tension or anxiety  
+- To enjoy yourself by relaxing and not doing much  
+- To make more relaxed, agreeable, workable, etc.  
+- To soften or smooth
 
 [↑ Back to index](#index)
 
@@ -11645,138 +8446,6 @@ an often humorous image, video, etc., passed from one internet user to another
 
 🗣 *“My laptop’s totally messed up.”*  
  🗣 *“He’s been a bit messed up since the breakup.”*
-
-[↑ Back to index](#index)
-
-# metrics
-
-noun
-
-a method of measuring something, or the results obtained from this
-
-the report provides various metrics at the class and method level
-
-[↑ Back to index](#index)
-
-# Milestone
-
-A **milestone** is an **important stage, event, or achievement** in a process, project, or someone’s life.  
- Think of it as a **marker of progress**.
-
-### **Quick Examples**
-
-* *“Finishing this module is a big milestone for the project.”*
-
-* *“Graduation was a major milestone in her life.”*
-
-* *“We reached the milestone of 1 million users.”*
-
-### **Sentences You Can Use**
-
-1. “Completing testing is our next milestone.”
-
-2. “This release marks an important milestone for the team.”
-
-3. “Hitting that sales target was a big milestone.”
-
-👉 Formal alternatives: **achievement, landmark, turning point**.
-
-[↑ Back to index](#index)
-
-# Mimic
-
-**Meaning:** To imitate or copy behavior, sound, or style.
-
-🗣 *“He can mimic accents perfectly.”*  
- 🗣 *“Children often mimic their parents.”*
-
-[↑ Back to index](#index)
-
-# Mindset
-
-noun — a person's established set of attitudes, beliefs, or habitual way of thinking.
-
-"A growth mindset helps you treat failure as feedback rather than a verdict."
-
-[↑ Back to index](#index)
-
-# Mingle
-
-**Mingle** means to **move around and talk to different people in a social setting**. It’s about mixing with others and having casual conversations, instead of sticking with just one group.
-
-### **Quick Examples**
-
-* *“At the party, everyone was mingling and chatting.”*
-
-* *“I don’t know many people here, but I’ll try to mingle.”*
-
-* *“She likes to mingle with colleagues after work.”*
-
-### **Sentences You Can Use**
-
-1. “I’ll mingle a bit and then come back.”
-
-2. “He mingled with the guests during the reception.”
-
-3. “It’s a good chance to mingle and make connections.”
-
-4. “I’m not great at mingling, but I’ll give it a try.”
-
-💡 **Context of usage**:
-
-* **Casual/social**: parties, weddings, networking events.
-
-* **Professional**: company gatherings, conferences (often said as *“network and mingle”*).
-
-👉 Formal alternatives: **socialize, network, interact**.
-
-✨ Practice aloud: *“I’ll mingle with the team after the meeting.”*
-
-### **Literal Meanings of *Mingle***
-
-1. **To mix or blend substances**
-
-* *“The smell of coffee mingled with fresh bread.”*
-
-* *“Tears mingled with her laughter.”*
-
-* *“His excitement mingled with nervousness.”* (here it’s feelings, but still a mix)
-
-2. **To join or combine**
-
-* *“Streams mingled as they flowed into the river.”*
-
-* *“The colors mingled beautifully on the canvas.”*
-
-1. “The aroma of spices mingled in the air.”
-
-2. “Rain mingled with dust on the ground.”
-
-3. “Music mingled with laughter during the festival.”
-
-💡 **So, summary**:
-
-* **Social sense** → moving around and mixing with people.
-
-* **Literal sense** → different things (sounds, smells, colors, feelings, objects) mixing together.
-
-👉 Practice aloud: *“The smell of rain mingled with the cool breeze.”*
-
-Do you want me to also give you a few **metaphorical uses** (like “cultures mingling” or “traditions mingling”) that are common in professional or thoughtful discussions?
-
-[↑ Back to index](#index)
-
-# Mischievous
-
-**Meaning:** Playfully causing trouble or teasing.  
- **Example:** *He gave me a mischievous smile before hiding my keys.*
-
-[↑ Back to index](#index)
-
-# Misconception
-
-**Meaning:** A wrong or mistaken belief.  
- **Example:** *It’s a common misconception that bats are blind.*
 
 [↑ Back to index](#index)
 
@@ -11792,15 +8461,6 @@ Do you want me to also give you a few **metaphorical uses** (like “cultures mi
 🗣 *“I accidentally mixed up the files.”*  
  🗣 *“There was a mix-up at the airport with our luggage.”*  
  🗣 *“Don’t mix up confidence with arrogance.”*
-
-[↑ Back to index](#index)
-
-# Mockery
-
-**Meaning:** Ridicule or an imitation meant to insult.
-
-🗣 *“They made a mockery of the rules.”*  
- 🗣 *“The debate turned into a mockery.”*
 
 [↑ Back to index](#index)
 
@@ -11820,64 +8480,6 @@ Do you want me to also give you a few **metaphorical uses** (like “cultures mi
 
 🗣 *“Our new system is modeled after Google’s architecture.”*  
  🗣 *“He modeled his leadership style after his mentor.”*
-
-[↑ Back to index](#index)
-
-# Molasses
-
-Great word\! **Molasses** is thick, dark syrup that comes from refining sugarcane or sugar beets. It’s sticky, very sweet, and pours very slowly.
-
-### **Meanings & Usage:**
-
-1. **Literal (food)**
-
-   * Used in baking, cooking, or making rum.
-
-   * *“This cake has a rich flavor because of the molasses.”*
-
-2. **Figurative (metaphor)**
-
-   * Because molasses is **slow and heavy**, people use it to describe slowness.
-
-   * *“Traffic is moving like molasses today.”* (very slow)
-
-   * *“My computer runs slower than molasses.”*
-
-3. **Emotional/metaphorical tone**
-
-   * Sometimes it implies heaviness or difficulty.
-
-   * *“Getting him out of bed in the morning is like pulling molasses uphill.”*
-
-✅ Sentences you can practice:
-
-1. *“The project moved forward as slowly as molasses.”*
-
-2. *“After the update, my laptop felt like molasses.”*
-
-3. *“He speaks so slowly, almost like molasses dripping.”*
-
-4. *“This syrup is thick, almost like molasses.”*
-
-👉 Notice how it’s often used in similes: *“like molasses”* to stress slowness.
-
-💡 Context of usage:
-
-* In **casual talk** → slowness (“internet is slower than molasses”).
-
-* In **work talk** → performance issues (“our job execution is crawling like molasses”).
-
-* In **cooking talk** → actual ingredient.
-
-[↑ Back to index](#index)
-
-# Moldable
-
-**Literal meaning:** Can be shaped or formed easily.  
- **Figurative meaning:** Easily influenced or adaptable, especially in attitude or behavior.
-
-🗣 *“The clay is soft and moldable.”*  
- 🗣 *“Children’s minds are highly moldable at a young age.”*
 
 [↑ Back to index](#index)
 
@@ -11907,38 +8509,10 @@ It usually carries a sense of pressure and finality—where preparation ends, an
 
 [↑ Back to index](#index)
 
-# Monk
-
-**Literal meaning:** A man who lives under religious vows in a monastery.  
- **Figurative meaning:** A person who lives a simple, disciplined, or solitary life.
-
-🗣 *“He lives like a monk — no luxuries at all.”*  
- 🗣 *“Monks dedicate their lives to meditation and peace.”*
-
-[↑ Back to index](#index)
-
 # Mood Swings
 
 **Meaning:** Sudden changes in mood.  
  **Example:** *Teenagers often have mood swings.*
-
-[↑ Back to index](#index)
-
-# Mortar
-
-**Meaning:** A mixture used to hold bricks together.  
- **Example:** *The wall was built with cement and mortar.*
-
-[↑ Back to index](#index)
-
-# Mortifying
-
-**Meaning:** Extremely embarrassing or shameful.  
- **Usage:**
-
-* *“It was mortifying when I tripped in front of everyone.”*
-
-* Often used when something hurts your pride or dignity.
 
 [↑ Back to index](#index)
 
@@ -11977,6 +8551,12 @@ It usually carries a sense of pressure and finality—where preparation ends, an
 * **Meaning**: To modify arrangements or reschedule something.  
 * **Example**: Can we move around the meeting to a later time?  
 * **Example**: My plans keep moving around because of last-minute work changes.
+
+[↑ Back to index](#index)
+
+# Move Over
+
+move in order to make room for someone for something.
 
 [↑ Back to index](#index)
 
@@ -12035,27 +8615,6 @@ That sentence is understandable but **not natural**.
 
 [↑ Back to index](#index)
 
-# Muffled
-
-**Meaning:** Softened sound, unclear or dull.  
- **Example:** *I heard muffled voices from the next room.*
-
-[↑ Back to index](#index)
-
-# Mumble
-
-Speak unclearly or quietly.  
- 👉 *“Don’t mumble—speak clearly.”*
-
-[↑ Back to index](#index)
-
-# Mundane
-
-**Meaning:** Ordinary or boring.  
- **Example:** *He found his office job too mundane.*
-
-[↑ Back to index](#index)
-
 # Mutton chops
 
 **Literal meaning:** Thick sideburns that connect to a mustache — a vintage facial hairstyle.  
@@ -12068,23 +8627,9 @@ Speak unclearly or quietly.
 
 [↑ Back to index](#index)
 
-# Narrator
-
-**Meaning:** The person who tells the story.  
- **Example:** *The narrator explains what’s happening in the background.*
-
-[↑ Back to index](#index)
-
 # Nasty Scar
 
 **Nasty scar** \= an **ugly or unpleasant-looking mark** left on the skin after an injury or wound has healed.
-
-[↑ Back to index](#index)
-
-# Naysayer
-
-**Meaning:** A person who always finds fault or doubts success.  
- **Example:** *Ignore the naysayers and keep going.*
 
 [↑ Back to index](#index)
 
@@ -12094,16 +8639,6 @@ Speak unclearly or quietly.
 
 🗣 *“That’s a neat trick — how did you manage it?”*  
  🗣 *“He’s got a neat trick for remembering names.”*
-
-[↑ Back to index](#index)
-
-# Necking
-
-**Meaning:** Kissing or making out passionately.  
- **Usage:**
-
-* *“They were necking in the car.”*  
-   🟠 Informal; mildly romantic or suggestive.
 
 [↑ Back to index](#index)
 
@@ -12148,64 +8683,6 @@ Speak unclearly or quietly.
 
 [↑ Back to index](#index)
 
-# Nimble
-
-**Literal meaning:** Quick and light in movement.  
- **Figurative meaning:** Quick-witted, adaptable, or mentally sharp.
-
-🗣 *“The gymnast was incredibly nimble.”*  
- 🗣 *“In business, you have to stay nimble.”*
-
-💡 *(Used often to describe flexible organizations or thinkers.)*
-
-[↑ Back to index](#index)
-
-# Nip
-
-### **1\. To bite, pinch, or squeeze lightly**
-
-* *“The dog nipped my hand.”* (bit lightly)
-
-* *“The baby kept nipping my arm.”* (pinching playfully)
-
-### **2\. To cut off or stop something quickly (often in the phrase *“nip in the bud”*)**
-
-👉 *“Nip in the bud”* means to stop a problem early before it grows bigger.
-
-* *“We need to nip this bug in the bud before it affects production.”*
-
-* *“If you see negativity in the team, nip it in the bud.”*
-
-### **3\. To go quickly (British informal)**
-
-* *“I’ll just nip to the store.”* (I’ll quickly go to the store)
-
-* *“She nipped out for a coffee.”*
-
-### **4\. A small amount of alcohol (informal)**
-
-* *“He had a quick nip of whiskey.”*
-
-### **Spoken Sentences You Can Use**
-
-1. “We should nip this issue in the bud before it spreads.”
-
-2. “I’m going to nip out for five minutes.”
-
-3. “The dog nipped my finger, but it wasn’t serious.”
-
-4. “Let’s nip that rumor in the bud before it gets out of hand.”
-
-💡 **Context of usage**:
-
-* In **professional meetings**, you’ll mainly hear *“nip it in the bud”*.
-
-* In **casual British English**, “nip out” or “nip to” is very common for quick errands.
-
-* “Nip” for biting or drinking is usually casual/personal.
-
-[↑ Back to index](#index)
-
 # Nip it in the bud
 
 **Meaning:** To stop something before it grows or gets worse.
@@ -12223,15 +8700,6 @@ Noun informal
 
 the most important aspects or practical details of a subject or situation.  
 "let's get down to the nitty-gritty of finding a job"
-
-[↑ Back to index](#index)
-
-# Nitty-gritty
-
-**Meaning:** The most essential or practical details of a topic.
-
-🗣 *“Let’s get down to the nitty-gritty of the plan.”*  
- 🗣 *“Once you understand the nitty-gritty, the rest is easy.”*
 
 [↑ Back to index](#index)
 
@@ -12278,23 +8746,6 @@ they wanted a lot of money with no strings attached
 
 [↑ Back to index](#index)
 
-# Non-Negotiable
-
-**Meaning:** Not open to discussion or compromise.  
- **Example:** *Honesty is non-negotiable for me.*
-
-[↑ Back to index](#index)
-
-# Nonsense
-
-**Meaning:** Something absurd or meaningless.  
- **Figurative meaning:** Used to dismiss foolish talk or behavior.
-
-🗣 *“That’s absolute nonsense — don’t believe it.”*  
- 🗣 *“Stop talking nonsense and focus.”*
-
-[↑ Back to index](#index)
-
 # Note down
 
 Meaning: To write something down.
@@ -12327,141 +8778,12 @@ It’s a way to strongly praise or highlight how impressive something or someone
 
 [↑ Back to index](#index)
 
-# Notorious
-
-**Meaning:** Famous for something bad or undesirable.  
- **Figurative meaning:** Infamous, but often used playfully or ironically too.
-
-🗣 *“That street is notorious for traffic jams.”*  
- 🗣 *“He’s notorious for arriving late.”*  
- 🗣 *“The place serves the city’s notorious chili wings.”*
-
-[↑ Back to index](#index)
-
-# Novice
-
-**Meaning:** A beginner.  
- **Example:** *I’m a novice at photography.*
-
-[↑ Back to index](#index)
-
-# Nowhere
-
-* **Basic meaning:** *not in or to any place*.  
-   Example: *“I looked for my keys everywhere, but they were nowhere to be found.”*
-
-* **Figurative meaning:** *no progress / no importance / no chance*.  
-   Example: *“This project is going nowhere.”*
-
-### **Phrase: nowhere close to**
-
-This means *“not at all near to”* or *“far from being”*.
-
-* *“That explanation is nowhere close to correct.”* (It’s totally wrong.)
-
-* *“We’re nowhere close to finishing the work.”* (We still have a long way to go.)
-
-It’s often used for **emphasis** when something is very far from the truth, a goal, or an expectation.
-
-### **Similar words/phrases and usage**
-
-1. **Far from**
-
-   * *“This solution is far from perfect.”*  
-      (Meaning: it’s not perfect at all.)
-
-2. **Not even near**
-
-   * *“The quality is not even near what we expected.”*
-
-3. **Nowhere near**
-
-   * This is almost the same as “nowhere close to.”
-
-   * *“The stadium was nowhere near full.”*
-
-4. **Miles away from** *(informal)*
-
-   * *“Your guess is miles away from the real answer.”*
-
-### **Common spoken sentences you can practice:**
-
-1. *“We’re nowhere close to finishing this project.”*
-
-2. *“That’s nowhere near what I meant.”*
-
-3. *“Your estimate is far from accurate.”*
-
-4. *“The result is not even close to what we expected.”*
-
-👉 Try saying them aloud slowly, then a bit faster, to get the rhythm.
-
-[↑ Back to index](#index)
-
-# Nuanced
-
-adjective — showing subtle shades of meaning, attitude, or expression; not simplistic or black-and-white.
-
-"Her explanation of the tradeoffs was nuanced, acknowledging both the risks and the benefits."
-
-[↑ Back to index](#index)
-
-# Obnoxious
-
-The word **“obnoxious”** is an **adjective** used to describe someone or something that is **very unpleasant, annoying, or offensive**. It’s stronger than just “annoying” — it carries the sense of being irritating in a loud or rude way.
-
-### **🔹 Examples in sentences**
-
-* *He’s so obnoxious when he brags about his achievements.*
-
-* *The party guests were being loud and obnoxious all night.*
-
-* *That obnoxious smell made it hard to stay in the room.*
-
-👉 In **spoken English**, it’s often used casually to complain about behavior:
-
-* *Stop being so obnoxious—you’re embarrassing me\!*
-
-* *Her laugh is kind of obnoxious, but funny at the same time.*
-
-* *I can’t stand his obnoxious attitude.*
-
-[↑ Back to index](#index)
-
-# Obscene
-
-**Meaning:** Offensive, vulgar, or sexually explicit.  
- **Usage:**
-
-* *“He made an obscene gesture.”*
-
-* *“The prices were obscene.”* (figurative — ridiculously high)
-
-[↑ Back to index](#index)
-
-# Obstacle
-
-**Meaning:** Something that blocks your way or progress.  
- **Example:** *Fear is the biggest obstacle to success.*
-
-[↑ Back to index](#index)
-
 # Occur to someone
 
 To come into one’s mind
 
 It suddenly occurred to me that I hadn’t locked the front door  
 Did it ever occur to you that you might be overtraining
-
-[↑ Back to index](#index)
-
-# Odds
-
-**Literal meaning:** Probability, chances.  
- **Figurative meaning:** The balance of chances for or against success.
-
-🗣 *“The odds are against us, but let’s give it a shot.”*  
- 🗣 *“He beat the odds and made it big.”*
 
 [↑ Back to index](#index)
 
@@ -12595,45 +8917,6 @@ Describes something physically on or near the top of one’s head.
 Example:
 
 "The hat was sitting right on the top of his head.
-
-[↑ Back to index](#index)
-
-# Off-putting
-
-“Off-putting” means something that makes you feel uncomfortable, unpleasant, or discouraged. It’s usually used to describe behavior, appearance, tone, or situations that give you a negative impression.
-
-For example:
-
-* A strong unpleasant smell can be *off-putting*.
-
-* If someone speaks very rudely in a meeting, their attitude might feel *off-putting*.
-
-* Complicated instructions in a tool could be *off-putting* for new users.
-
-### **Common spoken sentences:**
-
-1. “I found his tone quite off-putting, to be honest.”
-
-2. “The smell in the room was a bit off-putting.”
-
-3. “Her comment was off-putting, but I tried not to take it personally.”
-
-4. “The user interface looks off-putting at first, but it gets easier once you try it.”
-
-👉 You can use “off-putting” in both formal (work, presentations) and informal (casual chat) settings.
-
-[↑ Back to index](#index)
-
-# Offering
-
-**Literal meaning:** Something presented or given (to someone, to God, etc.).  
- **Figurative meaning:** A product, service, or creative work made available to others.
-
-🗣 *“The villagers left offerings at the temple.”*  
- 🗣 *“Our latest software offering is focused on security.”*  
- 🗣 *“Her art is her offering to the world.”*
-
-💡 *(Sounds respectful and purposeful — often used in creative or business settings.)*
 
 [↑ Back to index](#index)
 
@@ -12864,13 +9147,6 @@ Jannie saw that the stock prices were on the up, so she immediately invested in 
 
 [↑ Back to index](#index)
 
-# One-Size-Fits-All
-
-**Meaning:** Suitable for everyone (often said sarcastically).  
- **Example:** *There’s no one-size-fits-all solution to learning.*
-
-[↑ Back to index](#index)
-
 # One’s lot in life
 
 **Meaning:** A person’s fate, situation, or circumstances.  
@@ -12894,26 +9170,6 @@ Jannie saw that the stock prices were on the up, so she immediately invested in 
 
 🗣 *“She waited for the opportune moment to speak.”*  
  🗣 *“This is an opportune moment to launch the campaign.”*
-
-[↑ Back to index](#index)
-
-# Orientation
-
-**Literal meaning:** The process of becoming familiar with a new environment or system.  
- **Figurative meaning:** A general direction or perspective (e.g., political or moral orientation).
-
-🗣 *“We had our company orientation last week.”*  
- 🗣 *“Her orientation toward ethics makes her stand out.”*
-
-[↑ Back to index](#index)
-
-# Orphanage
-
-**Literal meaning:** A home for children without parents.  
- **Figurative meaning:** Sometimes used to describe a place or system neglected or abandoned.
-
-🗣 *“She volunteered at an orphanage during her summer break.”*  
- 🗣 *“That old library feels like an orphanage of forgotten books.”*
 
 [↑ Back to index](#index)
 
@@ -12962,21 +9218,6 @@ Example: "It was out of the way for him to act so kindly."
 
 [↑ Back to index](#index)
 
-# Outcome
-
-noun — the way a thing turns out; a result or consequence.
-
-"The outcome of the A/B test surprised everyone on the team."
-
-[↑ Back to index](#index)
-
-# Outrageous
-
-**Meaning:** Shockingly bad or surprisingly good (depending on tone).  
- **Example:** *The prices were outrageous\!* / *That joke was outrageous but funny.*
-
-[↑ Back to index](#index)
-
 # Over the top
 
 "A little over the top" is an idiom that means something is slightly too extreme or excessive for the situation. For example, you might describe a birthday party with clowns, ponies, and a chocolate fountain as "over the top". 
@@ -13022,13 +9263,6 @@ excessive, extravagant, extreme, insane, inappropriate, unbearable, flamboyant, 
 
 [↑ Back to index](#index)
 
-# Overcome
-
-**Meaning:** To defeat or successfully deal with something.  
- **Example:** *She overcame her fear of public speaking.*
-
-[↑ Back to index](#index)
-
 # Overly rich
 
 **Meaning:** Too rich in taste, smell, or texture — often unpleasantly so.  
@@ -13037,89 +9271,6 @@ excessive, extravagant, extreme, insane, inappropriate, unbearable, flamboyant, 
 * *“The dessert was overly rich — I couldn’t finish it.”*
 
 * You can also use it metaphorically: *“The decor was overly rich for my taste.”*
-
-[↑ Back to index](#index)
-
-# Overpacker
-
-**Meaning:** Someone who packs too much for a trip.
-
-🗣 *“I’m such an overpacker — I bring clothes I never wear.”*  
- 🗣 *“She’s a classic overpacker; her suitcase won’t even close.”*
-
-[↑ Back to index](#index)
-
-# Overrated
-
-**Meaning:** Not as good as people say.  
- **Example:** *That movie was so overrated.*
-
-[↑ Back to index](#index)
-
-# Oversee
-
-The verb **“oversee”** means:
-
-👉 *to supervise, manage, or watch over something to make sure it is done correctly.*
-
-It comes from “over” (above) \+ “see” (to look), so it literally means *“to look over from above.”*
-
-### **Usage examples**
-
-1. *“The manager will oversee the project to ensure everything runs smoothly.”*
-
-2. *“Teachers oversee students during examinations to prevent cheating.”*
-
-3. *“She was hired to oversee the daily operations of the company.”*
-
-🔹 **Synonyms:** supervise, manage, monitor, direct, administer, control.
-
-[↑ Back to index](#index)
-
-# Oxymoron
-
-**Meaning:** A figure of speech combining contradictory terms (e.g., *bittersweet*, *deafening silence*).  
- **Figurative meaning:** A paradoxical combination in real life.
-
-🗣 *“‘Act naturally’ is such a classic oxymoron.”*  
- 🗣 *“Working vacation — talk about an oxymoron.”*
-
-[↑ Back to index](#index)
-
-# Pace
-
-/peɪs/  
-verb  
-gerund or present participle: **pacing**  
-1\. walk at a steady speed, especially without a particular destination and as an expression of anxiety or annoyance.  
-"we paced up and down in exasperation"
-
-2\. move or develop (something) at a particular rate or speed.  
-"the action is paced to the beat of a perky march"
-
-[↑ Back to index](#index)
-
-# Paddle
-
-* **Literal:** To move through water using paddles.
-
-* **Figurative:** To move about casually or playfully, especially in shallow water.
-
-* **Examples:**
-
-  * “They *paddled* across the lake.”
-
-  * “The kids were *paddling* in the stream.”
-
-[↑ Back to index](#index)
-
-# Pail
-
-**Literal meaning:** A bucket, typically used to carry liquids or small items.  
- **Figurative meaning:** Rarely figurative, but used in phrases like “beyond the pale” (meaning beyond acceptable limits).
-
-🗣 *“She filled the pail with water from the well.”*  
- 🗣 *“That kind of behavior is beyond the pale.”*
 
 [↑ Back to index](#index)
 
@@ -13164,27 +9315,6 @@ It’s often used in business, storytelling, or personal conversations when some
 
 [↑ Back to index](#index)
 
-# Palate
-
-**Literal meaning:** The roof of the mouth or sense of taste.  
- **Figurative meaning:** One’s taste or preference in food or art.
-
-🗣 *“That dessert really suits my palate.”*  
- 🗣 *“He has a refined palate for wine.”*
-
-[↑ Back to index](#index)
-
-# Palpable
-
-**Meaning:** So strong you can almost feel it physically.  
-**Usage:**
-
-* *“The tension in the room was palpable.”*
-
-* *“There was palpable excitement in the air.”*
-
-[↑ Back to index](#index)
-
 # Pan out
 
 **"Pan out"** means *to turn out well* or *to happen in a particular way*, especially when talking about the outcome of plans, ideas, or efforts.
@@ -13207,23 +9337,6 @@ To turn out or happen successfully.
 
 [↑ Back to index](#index)
 
-# Panhandle
-
-**Literal meaning:** To beg for money in public.  
- **Figurative meaning:** To repeatedly ask for something — money, help, or attention — often in a needy or shameless way.
-
-🗣 *“You’ll find people panhandling near the station.”*  
- 🗣 *“He’s been panhandling for sponsorships all week.”*
-
-[↑ Back to index](#index)
-
-# Paradigm
-
-**Meaning:** A model or pattern of something.  
- **Example:** *We need a new paradigm for education.*
-
-[↑ Back to index](#index)
-
 # Paradigm shift
 
 **Meaning:** A major change in perspective or approach.
@@ -13233,37 +9346,12 @@ To turn out or happen successfully.
 
 [↑ Back to index](#index)
 
-# Paradoxically
-
-**Meaning:** In a way that seems contradictory but is actually true.  
- **Examples (spoken):**
-
-* “Paradoxically, working less helped me become more productive.”
-
-* “He was shy but, paradoxically, loved public speaking.”
-
-* “Paradoxically, the company grew after cutting costs.”
-
-👉 *Connector tip:* Use it to introduce contrast or irony — “Interestingly,” “Strangely enough.”
-
-[↑ Back to index](#index)
-
 # Pass on
 
 Meaning: To decline or reject an offer or opportunity.
 
 * Example 1: After careful consideration, I decided to pass on the investment opportunity.  
 * Example 2: He passed on the promotion to focus on his family life.
-
-[↑ Back to index](#index)
-
-# Pattern
-
-**Meaning:** A repeated form or trend.  
- **Figurative meaning:** A consistent way of behaving or occurring.
-
-🗣 *“There’s a pattern in his mistakes.”*  
- 🗣 *“Fashion trends always follow a cycle — it’s a pattern.”*
 
 [↑ Back to index](#index)
 
@@ -13294,45 +9382,6 @@ idiom — to publicly show respect, honor, or tribute to someone or something.
 
 **Pay off** – To finish paying a debt.  
  I finally paid off my student loan.
-
-[↑ Back to index](#index)
-
-# Peeked
-
-**Meaning:** Took a quick, secret look.  
- **Usage:**
-
-* *“You peeked at the gift, didn’t you?”*
-
-* *“He peeked through the door.”*  
-   🟢 Implies curiosity or playfulness.
-
-[↑ Back to index](#index)
-
-# Peer
-
-**Literal meaning:** A person who is equal in age, status, or ability.  
- **Figurative meaning:** Someone in the same social, professional, or academic group.
-
-🗣 *“Students learn a lot from their peers.”*  
- 🗣 *“He’s highly respected among his peers.”*  
- 🗣 *“Peer pressure can influence decisions.”*
-
-💡 *(Professional tone: “peer review,” “peer network.” Informal tone: “my peers at work.”)*
-
-[↑ Back to index](#index)
-
-# Pensive
-
-* **Literal:** Deeply thoughtful, often in a serious or sad way.
-
-* **Figurative:** Lost in reflective or emotional thought.
-
-* **Examples:**
-
-  * “He sat by the window, *pensive* and quiet.”
-
-  * “She grew *pensive* thinking about her past.”
 
 [↑ Back to index](#index)
 
@@ -13370,80 +9419,17 @@ It comes from the idea of something being “penned up” (like animals in a pen
 
 * “After the exam, all my pent-up tension just disappeared.”
 
-[↑ Back to index](#index)
+(मन में दबा हुआ, छिपा हुआ, नियंत्रित किया हुआ)
 
-# Pent-up
+adjective  
+1\.  
+(of emotions, energy, etc.) unable to be expressed or released.  
+"pent-up frustrations"  
+2\.  
+closely confined or held back.  
+"a surge of pent-up water"
 
-**Pent-up** describes **feelings, energy, or emotions** that have been **kept inside or restrained for a long time**, often building pressure until they are released.
-
-### **🔸 Definition:**
-
-Stored or suppressed over time, unable to be freely expressed.
-
-### **🔸 Examples:**
-
-1. **Emotions**
-
-   * *"She finally let out her pent-up frustration."*
-
-   * *"Years of pent-up anger exploded in that moment."*
-
-2. **Energy / Urges**
-
-   * *"The kids had a lot of pent-up energy after being indoors all day."*
-
-   * *"He released his pent-up creativity through painting."*
-
-### **🔸 Synonyms:**
-
-* Repressed
-
-* Bottled-up
-
-* Suppressed
-
-* Held back
-
-💡 Often used with **anger**, **frustration**, **energy**, **demand**, or **emotion**.
-
-Think of it like a **pressure cooker** — the more it’s held in, the stronger the release.
-
-[↑ Back to index](#index)
-
-# perception
-
-noun — 1) the way something is understood, interpreted, or regarded by others. 2) the ability to notice or become aware of something through the senses.
-
-"Public perception of the brand improved after the refund policy changed."
-
-[↑ Back to index](#index)
-
-# Perceptive
-
-**Meaning:** Able to notice or understand things quickly and deeply.  
- **Usage:**
-
-* *“That was a very perceptive observation.”*  
-   🟢 A compliment — means you notice subtle details.
-
-[↑ Back to index](#index)
-
-# Perform
-
-**Meaning:** To act, sing, or do a task.  
- **Example:** *She performed beautifully on stage.*
-
-[↑ Back to index](#index)
-
-# perk
-
-verb
-
-become or make more cheerful, lively, or interesting
-
-she'd been depressed, but she seemed to perk up last week
-
-the coffee had perked him up long enough to tackle the reviews
+Take out your pent up feelings.
 
 [↑ Back to index](#index)
 
@@ -13458,46 +9444,12 @@ the coffee had perked him up long enough to tackle the reviews
 
 [↑ Back to index](#index)
 
-# Perpetuate
-
-**Meaning:** To cause something (often negative) to continue indefinitely.
-
-🗣 *“That stereotype perpetuates gender bias.”*  
- 🗣 *“We shouldn’t perpetuate myths without proof.”*
-
-[↑ Back to index](#index)
-
-# Persevere
-
-**Meaning:** To continue doing something despite difficulties or obstacles.  
- **Figurative meaning:** To stay committed through hardship.
-
-🗣 *“She persevered through years of training to become a doctor.”*  
- 🗣 *“If you persevere long enough, success will follow.”*  
- 🗣 *“He’s not the smartest, but he perseveres.”*
-
-💡 *(Closely linked to “resilience” and “determination.”)*
-
-[↑ Back to index](#index)
-
 # Personal best
 
 **Meaning:** One’s highest achievement or best performance.
 
 🗣 *“I ran my personal best in the marathon.”*  
  🗣 *“That speech was your personal best yet.”*
-
-[↑ Back to index](#index)
-
-# perspective
-
-noun
-
-a particular attitude toward or way of regarding something; a point of view
-
-most guidebook history is written from the editor's perspective
-
-we must keep a sense of perspective about what he's done
 
 [↑ Back to index](#index)
 
@@ -13519,22 +9471,6 @@ Meaning: To gradually discontinue or replace something.
 
 [↑ Back to index](#index)
 
-# Phenomenon
-
-noun — a fact, occurrence, or situation that is observed, especially one that is remarkable or notable; also, a remarkably talented person or thing.
-
-"Viral marketing is a fascinating phenomenon to study."
-"He's a phenomenon on the basketball court."
-
-[↑ Back to index](#index)
-
-# Phony
-
-**Meaning:** Fake or insincere.  
- **Example:** *He sounded friendly, but it felt phony.*
-
-[↑ Back to index](#index)
-
 # Pick up
 
 **Literal meaning:** To lift or collect something.  
@@ -13549,23 +9485,6 @@ noun — a fact, occurrence, or situation that is observed, especially one that 
 🗣 *“I picked up some Italian while traveling.”*  
  🗣 *“Business is finally picking up again.”*  
  🗣 *“Let’s pick up where we left off.”*
-
-[↑ Back to index](#index)
-
-# Pick-Me-Up
-
-**Meaning:** Something that boosts your mood or energy.  
-**Example:** *Coffee is my morning pick-me-up.*
-
-[↑ Back to index](#index)
-
-# Picturesque
-
-**Literal meaning:** Beautiful like a painting.  
- **Figurative meaning:** Perfectly charming, idealized, or visually delightful.
-
-🗣 *“The village looked absolutely picturesque.”*  
- 🗣 *“It was a picturesque evening by the lake.”*
 
 [↑ Back to index](#index)
 
@@ -13654,6 +9573,15 @@ to decide what to do when you know what is happening, rather than planning in ad
 
 [↑ Back to index](#index)
 
+# Plowed ahead
+
+**"Plowed ahead"**(go ahead) is a verb that means to continue doing something despite problems or opposition:   
+"The city is plowing ahead with plans to demolish the building".   
+"Buster plowed ahead with the laptop rollout, ignoring the protests of the workers".  
+He knew it, yet he plowed ahead.
+
+[↑ Back to index](#index)
+
 # point of view
 
 noun
@@ -13675,84 +9603,6 @@ certain aspects are not visible from a single point of view
 
 [↑ Back to index](#index)
 
-# pontificate
-
-verb
-
-express one's opinions in a way considered annoyingly pompous and dogmatic
-
-he was pontificating about art and history
-
-[↑ Back to index](#index)
-
-# Pontification
-
-### **Meaning of pontification**
-
-**Pontification** means **speaking in a way that sounds too serious, too confident, or like you believe you are always right—often without inviting discussion**.
-
-It sometimes has a slightly **negative tone**, especially in meetings or technical discussions.
-
-**Simple explanation:**  
- When someone talks as if they are the final authority and doesn’t consider other opinions, they are *pontificating*.
-
-**Example:**
-
-He kept pontificating about architecture decisions without listening to the team.
-
-In workplace settings (especially architecture or MLOps discussions), this word is useful when describing communication style.
-
-### **Where you can use it (technical context) 💻**
-
-As a Cloud Architect or MLOps Engineer, you might use it when discussing collaboration styles:
-
-* design reviews  
-* architecture meetings  
-* stakeholder discussions  
-* leadership communication feedback
-
-Instead of pontificating, we should open this for discussion across teams.
-
-This sounds mature and diplomatic.
-
-### **Natural spoken sentences you can use 🎯**
-
-Practice saying these aloud:
-
-1. “I don’t want to sound like I’m pontificating, but I think we should reconsider this approach.”  
-2. “Sometimes in architecture meetings, people start pontificating instead of collaborating.”  
-3. “That being said, let’s avoid pontificating and gather feedback from the team.”  
-4. “For example, we can present options instead of pontificating about a single solution.”  
-5. “On the other hand, a little confidence is good—as long as it doesn’t become pontification.”
-
-### **Related useful alternatives (more common in meetings)**
-
-These sound more natural in everyday corporate conversation:
-
-* “being too opinionated”  
-* “speaking authoritatively”  
-* “talking at people instead of with people”  
-* “pushing a viewpoint strongly”
-
-I don’t want to be too opinionated here, but this architecture might not scale well.
-
-### **Gentle correction of your word ✏️**
-
-You wrote: **ponitification**  
- Correct spelling: **pontification**
-
-A natural way to ask your question would be:
-
-What does pontification mean, and how do we use it in conversation?
-
-Try speaking one sentence aloud now:
-
-“I don’t want to sound like I’m pontificating, but here’s my perspective.”
-
-If you'd like, I can also show **polite ways to disagree in meetings without sounding like you’re pontificating**—very useful for architecture discussions.
-
-[↑ Back to index](#index)
-
 # Pop into one’s head
 
 **Meaning:** To suddenly come to mind.
@@ -13769,15 +9619,6 @@ If you'd like, I can also show **polite ways to disagree in meetings without sou
 
 🗣 *“New coffee shops keep popping up around the city.”*  
  🗣 *“That idea just popped up in my head.”*
-
-[↑ Back to index](#index)
-
-# Posturing
-
-**Meaning:** Behavior intended to impress or mislead; showing off rather than being genuine.
-
-🗣 *“All that talk was just political posturing.”*  
- 🗣 *“He’s posturing for attention instead of solving the problem.”*
 
 [↑ Back to index](#index)
 
@@ -13858,96 +9699,6 @@ It means: **the more you practice something, the better you get at it.**
 
 **Meaning:** A person who’s difficult or self-important.  
  **Example:** *He’s talented but a bit of a prima donna.*
-
-[↑ Back to index](#index)
-
-# Proactive
-
-**Meaning:** Taking initiative instead of waiting for things to happen.
-
-🗣 *“Be proactive — don’t wait for instructions.”*  
- 🗣 *“She’s one of the most proactive managers I’ve met.”*
-
-[↑ Back to index](#index)
-
-# Process
-
-**Literal meaning:** A series of steps or actions to achieve a result.  
- **Figurative meaning:**
-
-1. To mentally digest or come to terms with something.
-
-2. To work through emotions or ideas internally.
-
-🗣 *“Let’s go over the process again.”*  
- 🗣 *“I need some time to process what just happened.”*  
- 🗣 *“She’s still processing the loss.”*
-
-💡 *(“Processing” emotions is very common in empathetic, conversational English.)*
-
-[↑ Back to index](#index)
-
-# Profanities
-
-**Meaning:** Swear words or offensive language.  
- **Usage:**
-
-* *“He shouted profanities at the driver.”*  
-   🟠 Used to refer to cursing without repeating the bad words.
-
-[↑ Back to index](#index)
-
-# Prosperous
-
-**Meaning:** Successful and wealthy; thriving.
-
-🗣 *“They live a prosperous life.”*  
- 🗣 *“Hard work leads to a prosperous future.”*
-
-[↑ Back to index](#index)
-
-# Protagonist
-
-**Literal meaning:** The main character or hero in a story, movie, or play.  
- **Figurative meaning:** The central or leading figure in any real-life situation — the one driving events or change.
-
-🗣 *“In our startup journey, she’s definitely the protagonist — always pushing things forward.”*  
- 🗣 *“Every story needs a strong protagonist, whether it’s fiction or real life.”*
-
-[↑ Back to index](#index)
-
-# protégé
-
-/ˈprɒtɪʒeɪ/  
-noun  
-a person who is guided and supported by an older and more experienced or influential person.  
-"Ruskin submitted his protégé's name for election"
-
-If I'm a dirty lawyer then you are looking into the mirror.
-
-[↑ Back to index](#index)
-
-# Prove
-
-verb
-
-demonstrate the truth or existence of (something) by evidence or argument
-
-the concept is difficult to prove
-
-[↑ Back to index](#index)
-
-# Puckered
-
-**Meaning:** Wrinkled or tightened — especially lips or fabric.
-
-(especially with reference to a person's face) tightly gather or contract into wrinkles or small folds.
-
- **Usage:**
-
-* *“He puckered his lips for a kiss.”*
-
-* *“The fabric puckered around the edges.”*
 
 [↑ Back to index](#index)
 
@@ -14226,33 +9977,6 @@ The other day
 
 [↑ Back to index](#index)
 
-# Pungent
-
-**Meaning:** Strong, sharp smell or taste.  
- **Example:** *The cheese was too pungent for me.*
-
-[↑ Back to index](#index)
-
-# Purred
-
-**Meaning:** Literally — the sound a cat makes. 
-
-Figuratively — to speak in a smooth, soft, or seductive tone.  
-**Usage:**
-
-* *“The cat purred on my lap.”*
-
-* *“‘You missed me, didn’t you?’ she purred.”*
-
-[↑ Back to index](#index)
-
-# Pursuit
-
-**Meaning:** The act of chasing or striving for something.  
- **Example:** *He’s in pursuit of excellence.*
-
-[↑ Back to index](#index)
-
 # Push back
 
 **“Push back”** is a very useful phrase in professional conversations—especially in technical discussions, architecture reviews, and stakeholder meetings.
@@ -14509,6 +10233,18 @@ Think of it like checking someone’s pulse to see how they’re doing—here, y
 
 [↑ Back to index](#index)
 
+# Put out
+
+phrasal verb — 1) to extinguish (a fire, cigarette). 2) to inconvenience or annoy someone (usually passive: "be put out"). 3) to publish or release (a statement, an album).
+
+बुझाना, बाहर निकालना (to extinguish/put out)
+
+**Literal:** "Firefighters put out the blaze within an hour."
+**Figurative (annoyed):** "She was put out that no one told her about the schedule change."
+**Figurative (release):** "The company put out a statement addressing the outage."
+
+[↑ Back to index](#index)
+
 # Put out/off
 
 Extinguish (light/fire/gas etc)
@@ -14738,25 +10474,6 @@ I can’t put up with your anger
 
 [↑ Back to index](#index)
 
-# Quay
-
-**Meaning:** A platform along the edge of a harbor for loading ships.  
- **Example:** *The ship docked at the quay.*
-
-[↑ Back to index](#index)
-
-# Quip
-
-**Meaning:** A clever or witty remark, often funny or sarcastic.  
- **Usage:**
-
-* *“He made a quick quip about my cooking.”*
-
-* *“Her quip lightened the mood.”*  
-   🟢 It’s short, humorous, and usually spontaneous.
-
-[↑ Back to index](#index)
-
 # Quit it
 
 **Meaning:** Informal way to tell someone to stop doing something annoying or inappropriate.
@@ -14781,17 +10498,6 @@ abbreviation for "rest and relaxation" (or "rest and recreation") — time off t
 phrasal verb of rake  
 revive the memory of an incident or period that is best forgotten.  
 "I don't see the point in raking up the past"
-
-[↑ Back to index](#index)
-
-# Ram
-
-**Literal meaning:** To hit or push something hard, especially with force.  
- **Figurative meaning:** To impose or force an idea or rule aggressively.
-
-🗣 *“The car rammed into the wall.”*  
- 🗣 *“They tried to ram their policy through without discussion.”*  
- 🗣 *“Don’t ram your opinions down people’s throats.”*
 
 [↑ Back to index](#index)
 
@@ -14859,41 +10565,10 @@ Say this slowly and clearly:
 
 [↑ Back to index](#index)
 
-# Rancher
-
-**Meaning:** A person who owns or works on a ranch (a large farm for animals).  
- **Usage:**
-
-* *“He’s a cattle rancher from Texas.”*
-
-[↑ Back to index](#index)
-
 # Rapid Fire
 
 **Meaning:** Very fast sequence (often of questions).  
  **Example:** *He handled the rapid-fire questions smoothly.*
-
-[↑ Back to index](#index)
-
-# Raspiness
-
-**Raspiness** is a **noun** that describes a **rough, harsh, or scratchy quality in a sound**, most often referring to a **voice**. It comes from the word **raspy**, which suggests a grating or coarse sound (like rubbing sandpaper).
-
-### **🔹 Examples in sentences**
-
-* *His voice had a raspiness after shouting at the concert.*
-
-* *The raspiness in her singing gave it a unique charm.*
-
-* *Cold weather often brings raspiness to my throat.*
-
-👉 In **spoken English**, people usually use it when talking about voices:
-
-* *I like the raspiness in his voice—it makes the song more emotional.*
-
-* *After a long day of talking, I noticed some raspiness in my throat.*
-
-* *That old actor’s raspiness makes him sound so intense.*
 
 [↑ Back to index](#index)
 
@@ -14921,6 +10596,17 @@ idiom (usually negative) — an exhausting, competitive, repetitive struggle for
  A **ratchet** is a mechanical device that only turns in one direction — once you move it forward, it can’t slip back. So metaphorically, to “ratchet up” something means you keep pushing it higher without letting it drop back down.
 
 There’s also **"ratchet down"**, which means to decrease something gradually.
+
+[↑ Back to index](#index)
+
+# Ratting on
+
+"Ratting on" is a phrasal verb that means to betray someone's trust by giving away secret information about them, or to fail to do something that you said you would do: 
+
+"He ratted on us"   
+"They ratted on the deal"   
+"Someone ratted us out to the police"   
+"The college was ratting out students for music piracy"
 
 [↑ Back to index](#index)
 
@@ -14959,212 +10645,9 @@ Well you are really coming along.
 
 [↑ Back to index](#index)
 
-# Reckless
-
-**Meaning:** Careless, irresponsible, or without regard for consequences.
-
-🗣 *“That was a reckless decision.”*  
- 🗣 *“He’s brave but sometimes reckless.”*
-
-[↑ Back to index](#index)
-
-# Recompense
-
-* **Literal:** Compensation or reward for loss or effort.
-
-* **Figurative:** Making up for something — emotionally or financially.
-
-* **Examples:**
-
-  * “She received *recompense* for the damage.”
-
-  * “A sincere apology can be a kind of *recompense*.”
-
-[↑ Back to index](#index)
-
-# Reconcile
-
-verb
-
-restore friendly relations between
-
-she wanted to be reconciled with her father
-
-the news reconciled us
-
-a landscape in which inner and outer vision were reconciled
-
-you may have to adjust your ideal to reconcile it with reality
-
-it is not necessary to reconcile the cost accounts to the financial accounts
-
-advice on how to reconcile the conflict
-
-he could not reconcile himself to the thought of his mother stocking shelves
-
-he was reconciled to leaving
-
-[↑ Back to index](#index)
-
-# Rectify
-
-Meaning of "Rectify / Rectification"
-
-* **Rectify (verb):** to correct something, to make it right, or to fix an error.
-
-* **Rectification (noun):** the act of correcting, adjusting, or making something right.
-
-Think of it as *"turning something wrong into right."*
-
-Different Contexts Where It’s Used
-
-1. **General / Everyday use**
-
-   * Correcting mistakes, misunderstandings, or errors.
-
-   * Example: *“I sent the wrong file yesterday, but I rectified it by sending the updated one today.”*
-
-   * Here, **rectify** \= *fix a mistake*.
-
-2. **Technical / Engineering**
-
-   * In electrical engineering, *rectification* means **converting AC (alternating current) to DC (direct current)** using devices like rectifiers.
-
-   * Example: *“This circuit uses a diode for rectification.”*
-
-3. **Law / Formal Documents**
-
-   * Rectification means **correcting an error in a contract or legal document** so it reflects what was actually intended.
-
-   * Example: *“The court ordered rectification of the agreement due to a drafting mistake.”*
-
-4. **Medical / Professional**
-
-   * Rectify \= correct a condition, imbalance, or issue.
-
-   * Example: *“The doctor suggested exercises to rectify my posture.”*
-
-5. **Spiritual / Astrological**
-
-   * In astrology, rectification means **adjusting a birth chart** when the exact birth time isn’t known, by analyzing life events.
-
-   * Example: *“He did a rectification of my horoscope to find my accurate ascendant.”*
-
-Spoken Sentences You Can Use
-
-* “I’ll rectify the issue as soon as possible.”
-
-* “Thanks for pointing it out; I’ll make the rectification right away.”
-
-* “On the other hand, if the document isn’t clear, rectification might be needed.”
-
-* “That being said, once it’s rectified, we shouldn’t face the same problem again.”
-
-👉 A tip: *“Rectify” sounds a bit formal*, so in casual talk you’d more often hear *“fix,” “correct,” or “sort out.”* Use “rectify” in professional or technical contexts.
-
-[↑ Back to index](#index)
-
-# Recuperating
-
-**Meaning:** Recovering from illness, stress, or exhaustion.  
- **Examples (spoken):**
-
-* “I’m still recuperating from the flu.”
-
-* “She’s been resting at home, recuperating after surgery.”
-
-* “After that long project, I need a few days to recuperate.”
-
-👉 *Common phrase:* “Recuperating at home” or “Recuperating from an injury.”
-
-[↑ Back to index](#index)
-
-# regard
-
-verb
-
-consider or think of (someone or something) in a specified way
-
-she regarded Omaha as her base
-
-he was highly regarded by senators of both parties
-
-Professor Ryker regarded him with a faint smile
-
-if these things regarded only myself, I could stand it with composure
-
-he talked very wisely, but I regarded him not
-
-[↑ Back to index](#index)
-
-# Relish
-
-**Literal meaning:** A sauce or condiment.  
- **Figurative meaning:** To deeply enjoy or take pleasure in something.
-
-🗣 *“He relished every bite of the meal.”*  
- 🗣 *“She relished the challenge of solving that problem.”*
-
-[↑ Back to index](#index)
-
-# Remark
-
-The word **“remark”** can be used both as a **noun** and a **verb**.
-
-### **🔹 As a noun → a comment or statement**
-
-* *She made a funny remark during the meeting.*
-
-* *His remark offended some people in the audience.*
-
-* *The teacher’s remark encouraged the student.*
-
-### **🔹 As a verb → to say or comment**
-
-* *He remarked that the weather was unusually hot.*
-
-* *“That’s interesting,” she remarked thoughtfully.*
-
-* *The judge remarked on the importance of honesty.*
-
-👉 In **spoken English**, “remark” is a bit **formal**, so in casual talk, people more often say **“comment,” “say,” “point out,”** or just speak directly.
-
-**Spoken-style examples:**
-
-* *The manager remarked that we need to be more efficient.*
-
-* *I just wanted to remark on how well you did today.*
-
-* *She remarked that the food was excellent.*
-
-[↑ Back to index](#index)
-
-# Reminisce
-
-**Meaning:** To recall past events fondly.
-
-🗣 *“We reminisced about our school days.”*  
- 🗣 *“Old songs make me reminisce about my childhood.”*
-
-[↑ Back to index](#index)
-
 # Reminiscent smile
 
 A reminiscent smile is a smile that shows you are remembering something from the past, usually with pleasure. It can also be described as a look that shows you are remembering something from the past. 
-
-[↑ Back to index](#index)
-
-# Remnants
-
-* **Literal:** Small remaining parts of something that existed before.
-
-* **Figurative:** Emotional traces or leftovers of an experience.
-
-* **Examples:**
-
-  * “The *remnants* of dinner were still on the table.”
-
-  * “He felt the *remnants* of guilt even years later.”
 
 [↑ Back to index](#index)
 
@@ -15207,48 +10690,6 @@ Practice sentences you can use in real life:
 4. *“Rest assured, I’ll handle the client call if you’re unavailable.”*
 
 👉 Try speaking these aloud slowly, then naturally.
-
-[↑ Back to index](#index)
-
-# Restless
-
-**Meaning:** Unable to relax or stay still due to worry or excitement.
-
-🗣 *“I’ve been feeling restless lately — like I need a change.”*  
- 🗣 *“The audience grew restless during the delay.”*
-
-[↑ Back to index](#index)
-
-# Retorted
-
-* **Literal:** Replied sharply or angrily.
-
-* **Figurative:** Responded quickly with wit or irritation.
-
-* **Examples:**
-
-  * “She *retorted*, ‘I don’t need your help\!’”
-
-  * “He *retorted* before she could even finish.”
-
-[↑ Back to index](#index)
-
-# Revelling
-
-**Meaning:** Enjoying something very much, often with enthusiasm or pleasure.  
- **Usage:**
-
-* *“They were revelling in the victory.”*
-
-* *“She revelled in the attention.”*  
-   🟢 It means to *fully enjoy* a moment.
-
-[↑ Back to index](#index)
-
-# Righteousness
-
-**Meaning:** Moral correctness or virtue.  
- **Example:** *He spoke with a sense of righteousness.*
 
 [↑ Back to index](#index)
 
@@ -15389,6 +10830,171 @@ Exiting the assignment
  🗣 *“Life with kids is a roller coaster — fun but unpredictable.”*
 
 💡 *(Widely used metaphor for unpredictable life events.)*
+
+[↑ Back to index](#index)
+
+# Rolling up
+
+“Rolling up” is a **phrasal verb**, and its meaning depends on the context. Let’s break it down clearly.
+
+## **1️⃣ Rolling up \= Arriving somewhere (informal)**
+
+👉 Very common in casual spoken English.
+
+It means **to arrive**, usually in a relaxed or confident way.
+
+**Examples:**
+
+* “He rolled up to the meeting 10 minutes late.”  
+* “She rolled up in a brand-new car.”
+
+💡 It often suggests *style, attitude, or confidence*.
+
+## **2️⃣ Rolling up \= Gathering / combining into one (technical usage)**
+
+In business, data engineering, or reporting:
+
+It means **to aggregate or summarize data**.
+
+For example (relevant to you as an MLOps / data engineer):
+
+* “We roll up the daily metrics into a monthly dashboard.”  
+* “Let’s roll up the logs at the service level.”
+
+Here, it means:  
+ 👉 Combine smaller units into a higher-level summary.
+
+## **3️⃣ Rolling up \= Physically folding something**
+
+* “She rolled up her sleeves before starting the work.”  
+* “He rolled up the carpet.”
+
+In spoken English, **“roll up your sleeves”** also means:  
+ 👉 Prepare to work hard.
+
+## **How You Can Use It in Meetings**
+
+Since you work in architecture and MLOps, you might say:
+
+* “We’re rolling up the batch results into a consolidated report.”  
+* “Once the jobs finish, we roll up the metrics at the cluster level.”  
+* “He rolled up to the call without context.” 😄
+
+## **🔥 Spoken Sentences You Can Practice**
+
+Try saying these aloud:
+
+1. “We can roll up the metrics at a higher level for better visibility.”  
+2. “He just rolled up to the meeting without any background.”  
+3. “Let’s roll up the daily numbers into a weekly summary.”  
+4. “Alright, let’s roll up our sleeves and fix this issue.”
+
+Notice how I’m using connectors:
+
+* “For example…”  
+* “On the other hand…”  
+* “That being said…”
+
+Try adding them like this:
+
+“We can roll up the logs at the service level. That being said, we still need raw data for debugging.”
+
+## **Small Correction (if you were speaking)**
+
+You wrote: **“rolling up”**
+
+In real conversation, you would naturally ask:
+
+* “What does ‘rolling up’ mean?”  
+* Or “How do we use ‘rolling up’ in spoken English?”
+
+That sounds more natural and complete.
+
+## **Quick Practice for You 🎤**
+
+Explain in your own words:
+
+👉 What does “rolling up metrics” mean in a data pipeline?
+
+Try to answer in 3–4 sentences. I’ll give you feedback on clarity, structure, and flow.
+
+And yes — please say it aloud while practicing. That’s how you build fluency.
+
+You said:
+
+**“Any other I have seen it used in case of car window”**
+
+A more natural way to say it would be:
+
+* **“I’ve also seen it used in the context of a car window.”**  
+* Or: **“I’ve seen it used when talking about car windows.”**
+
+Now let’s explain clearly.
+
+## **🚗 Rolling up (Car Window Context)**
+
+Yes — when we say **“roll up the window”**, it means:
+
+👉 **Close the window by moving the glass upward.**
+
+This comes from old cars where you had to literally rotate (roll) a handle.
+
+Even though modern cars use buttons, we still say:
+
+* “Roll up the window.”  
+* “Can you roll the window up?”
+
+### **Opposite: Roll down**
+
+* “Roll down the window.”  
+* “Can you roll it down? It’s too hot.”
+
+## **Why do we still say “roll” if it’s a button?**
+
+Good question.
+
+Because language keeps old habits.  
+ Even though the mechanism changed, the expression stayed.
+
+For example:
+
+* We still say “dial a number” even though we don’t rotate a dial.  
+* We say “hang up the phone” even though we don’t physically hang it.
+
+Language is conservative 😊
+
+## **🗣 Natural Spoken Sentences You Can Practice**
+
+Say these aloud:
+
+1. “Can you roll up the window? It’s getting noisy outside.”  
+2. “I rolled down the window to get some fresh air.”  
+3. “Back in the day, you actually had to roll the window manually.”  
+4. “That being said, most modern cars use automatic controls now.”
+
+Notice how I added a connector:
+
+* **“Back in the day…”**  
+* **“That being said…”**
+
+These make your speech flow naturally.
+
+## **🧠 Other Contexts Where “Roll Up” Is Used**
+
+Just so you sound more natural in conversation:
+
+* **Arriving:** “He rolled up late.”  
+* **Data aggregation:** “We roll up metrics at the service level.”  
+* **Sleeves (prepare to work):** “Let’s roll up our sleeves.”  
+* **Car window:** “Roll up the window.”
+
+## **🎤 Speaking Practice for You**
+
+Explain this in 3–4 sentences:
+
+👉 Why do we still say “roll up the window” even though modern cars use buttons?
+
+Use at least one connector like:
 
 [↑ Back to index](#index)
 
@@ -15620,46 +11226,6 @@ phrasal verb — to take an idea or task and continue developing it independentl
 
 [↑ Back to index](#index)
 
-# RV
-
-**Literal meaning:** Short for *recreational vehicle* — a large motor vehicle with living space, used for travel and camping.  
- **Figurative meaning:** Sometimes used symbolically to represent freedom, adventure, or a nomadic lifestyle.
-
-🗣 *“We’re renting an RV and doing a road trip across the country.”*  
- 🗣 *“He quit his job, bought an RV, and just took off to live freely.”*
-
-💡 *(Used a lot in American casual speech — “RV life” \= minimal, travel-based living.)*
-
-[↑ Back to index](#index)
-
-# Saber-rattling
-
-**"Saber-rattling"** means threatening or showing aggression — especially in a political or military context — to intimidate or warn others, often without actually taking action.
-
-**Examples:**
-
-* *The country’s recent missile tests are seen as saber-rattling.*
-
-* *His speech was full of saber-rattling but no real plan for war.*
-
-**Origin:**  
- It comes from the image of soldiers shaking or rattling their **sabers** (swords) to show they’re ready to fight — more about intimidation than actual combat.
-
-It’s almost always used in a **figurative sense** today, usually for governments, leaders, or powerful groups making threats.
-
-[↑ Back to index](#index)
-
-# Sagging
-
-**Meaning:** Drooping or hanging down loosely.  
- **Usage:**
-
-* *“The old couch was sagging in the middle.”*
-
-* *“His shoulders were sagging with exhaustion.”*
-
-[↑ Back to index](#index)
-
 # Salad Dressing
 
 **Meaning:** A sauce added to salads.  
@@ -15667,115 +11233,10 @@ It’s almost always used in a **figurative sense** today, usually for governmen
 
 [↑ Back to index](#index)
 
-# Sandbox
-
-noun/verb — literal: a box filled with sand for children to play in. Figurative (common in tech): an isolated testing environment where changes can be made safely without affecting production.
-
-**Literal:** "The kids were playing in the sandbox."
-**Figurative:** "Test the new integration in the sandbox environment before deploying to production."
-
-[↑ Back to index](#index)
-
 # Save up (for)
 
 **Save up (for)** – To collect money for something.  
  I'm saving up for a new laptop.
-
-[↑ Back to index](#index)
-
-# Savor
-
-**Meaning:** To enjoy something fully and slowly.  
- **Example:** *Savor every moment of your vacation.*
-
-[↑ Back to index](#index)
-
-# Scam
-
-**Meaning:** A dishonest scheme or fraud.
-
-🗣 *“That investment offer was a total scam.”*  
- 🗣 *“He fell for an online scam.”*
-
-[↑ Back to index](#index)
-
-# Scamper
-
-**Meaning:** To run quickly and lightly (often used for kids or animals).  
- **Example:** *The kids scampered across the playground.*
-
-[↑ Back to index](#index)
-
-# Scapegoat
-
-A **scapegoat** is a person who is unfairly **blamed for something** that was not really their fault.
-
-* Example: *“When the project failed, the manager made me the scapegoat.”*
-
-* Example: *“Politicians sometimes use others as scapegoats to cover their own mistakes.”*
-
-👉 It comes from an old tradition where a goat was symbolically burdened with people’s sins and sent away. That’s why today it means blaming someone unfairly.
-
-✅ **Spoken practice sentences:**
-
-* “He became the scapegoat for the company’s failures.”
-
-* “On the other hand, sometimes leaders need to take responsibility instead of finding a scapegoat.”
-
-* “That being said, people often look for a scapegoat when things go wrong.”
-
-* “I don’t want to be the scapegoat for someone else’s mistake.”
-
-👉 **Context of usage:**
-
-* **Workplace:** *“They blamed the intern—it felt like he was made the scapegoat.”*
-
-* **Politics:** *“The opposition is using him as a scapegoat for the crisis.”*
-
-* **Casual talk:** *“Don’t make me the scapegoat for this\!”* (light or joking way).
-
-[↑ Back to index](#index)
-
-# Scoffed
-
-**Meaning:** Mocked or laughed at something disrespectfully.  
- **Usage:**
-
-* *“He scoffed at my idea.”*
-
-* *“‘You? A singer?’ she scoffed.”*
-
-[↑ Back to index](#index)
-
-# Scooted
-
-* **Literal:** Moved quickly or slid a short distance.
-
-* **Figurative:** Left or moved aside in a hurry.
-
-* **Examples:**
-
-  * “He *scooted* over to make space.”
-
-  * “She *scooted* out the door as soon as it ended.”
-
-[↑ Back to index](#index)
-
-# Scope
-
-**Meaning:** Range, extent, or area of something.
-
-🗣 *“The project’s scope is too broad.”*  
- 🗣 *“There’s huge scope for innovation here.”*
-
-[↑ Back to index](#index)
-
-# Scoundrel
-
-**Meaning:** A dishonest or wicked person (often used humorously).
-
-🗣 *“You scoundrel\! You ate my dessert.”*  
- 🗣 *“He played the charming scoundrel in the movie.”*
 
 [↑ Back to index](#index)
 
@@ -15834,21 +11295,6 @@ It’s often used in business, startups, programming, and self-improvement. The 
 
 [↑ Back to index](#index)
 
-# Scurry
-
-**Meaning:** To move quickly with small steps.  
-**Example:** *The mice scurried across the floor.*
-
-[↑ Back to index](#index)
-
-# Seductive
-
-adjective — literal: sexually attractive or tempting. Figurative: very appealing or tempting in a way that might lead you astray, e.g. a "seductive but risky" idea.
-
-"The idea of a quick fix was seductive, but we knew it would pile up tech debt."
-
-[↑ Back to index](#index)
-
 # Self fulfilling prophecy
 
 A **self-fulfilling prophecy** is when a belief or expectation (about yourself, others, or a situation) actually **causes itself to become true**—because the belief influences actions and behavior in a way that makes it happen.
@@ -15869,15 +11315,6 @@ A **self-fulfilling prophecy** is when a belief or expectation (about yourself, 
 
 [↑ Back to index](#index)
 
-# Self-conscious
-
-**Meaning:** Uncomfortably aware of how one appears to others.
-
-🗣 *“I felt so self-conscious giving that speech.”*  
- 🗣 *“He’s too self-conscious to dance in public.”*
-
-[↑ Back to index](#index)
-
 # Self-Inflicted Wound
 
 **Meaning:** A problem or harm someone caused to themselves — literally or figuratively.  
@@ -15890,16 +11327,6 @@ A **self-fulfilling prophecy** is when a belief or expectation (about yourself, 
 * “The company’s failure was a self-inflicted wound due to poor leadership.”
 
 👉 *Connectors:* “In other words,” “to put it simply,” “it was their own doing.”
-
-[↑ Back to index](#index)
-
-# Self-supplied
-
-**Literal meaning:** Providing for oneself.  
- **Figurative meaning:** Independent, self-reliant, not dependent on others.
-
-🗣 *“He’s entirely self-supplied — grows his own vegetables.”*  
- 🗣 *“She’s self-supplied emotionally — doesn’t rely on others for validation.”*
 
 [↑ Back to index](#index)
 
@@ -16012,26 +11439,12 @@ Here are some other examples of the phrase in use:
 
 [↑ Back to index](#index)
 
-# Shadowing
-
-**Meaning:** Observing someone closely to learn.  
- **Example:** *I’m shadowing my manager to learn the ropes.*
-
-[↑ Back to index](#index)
-
 # Shake up
 
 Meaning: To make significant changes or reforms in an organization.
 
 * Example 1: The new CEO plans to shake up the company’s structure for better efficiency.  
 * Example 2: The government announced plans to shake up the healthcare system.
-
-[↑ Back to index](#index)
-
-# Shameless
-
-**Meaning:** Showing no embarrassment or guilt.  
- **Example:** *He made a shameless attempt to take all the credit.*
 
 [↑ Back to index](#index)
 
@@ -16063,42 +11476,6 @@ In movies, "shard of glass" can also refer to a horrible truth, a blind spot, or
 
 [↑ Back to index](#index)
 
-# Shelved
-
-**Meaning:** To postpone, cancel, or set something aside temporarily.  
- **Examples (spoken):**
-
-* “The project has been shelved for now.”
-
-* “We had to shelve our plans due to budget cuts.”
-
-* “Let’s not shelve it completely; we might revisit it later.”
-
-👉 *Common phrase:* “Put on the shelf” or “shelved indefinitely.”
-
-[↑ Back to index](#index)
-
-# Shimmering
-
-**Meaning:** Shining softly with a wavering light.  
- **Example:** *The lake looked beautiful, shimmering under the sun.*
-
-[↑ Back to index](#index)
-
-# Shimmied
-
-* **Literal:** Moved or shook the body in a playful or dancing way.
-
-* **Figurative:** Moved skillfully or smoothly into or out of something.
-
-* **Examples:**
-
-  * “She *shimmied* across the dance floor.”
-
-  * “He *shimmied* out of his jacket quickly.”
-
-[↑ Back to index](#index)
-
 # Shimmied out
 
 * **Literal:** Slid or wiggled out of clothing or a tight space.
@@ -16113,23 +11490,6 @@ In movies, "shard of glass" can also refer to a horrible truth, a blind spot, or
 
 [↑ Back to index](#index)
 
-# Shit
-
-**Literal meaning:** Slang for feces.  
- **Figurative meaning (slang):** Used casually for emphasis — frustration, disbelief, or excitement (⚠️ informal, use only in relaxed settings).
-
-🗣 *“Oh shit, I forgot my wallet\!”*  
- 🗣 *“That movie scared the shit out of me.”*
-
-[↑ Back to index](#index)
-
-# Shoot
-
-**Meaning:** To fire a gun; also casually means to film or take a photo, or to say something quickly.  
- **Example:** *Let’s shoot a quick video.* / *Shoot\! I forgot my keys\!* (used as an exclamation)
-
-[↑ Back to index](#index)
-
 # Shoot me now
 
 The phrase "shoot me now" is a humorous or exaggerated way of expressing frustration, embarrassment, or exasperation in a given situation. It's not meant literally but instead conveys the feeling of wanting to escape or avoid the current moment because it's overwhelming, awkward, or ridiculous.
@@ -16140,6 +11500,12 @@ The phrase "shoot me now" is a humorous or exaggerated way of expressing frustra
 
 **Shop around** – To compare prices before buying.  
  Shop around before buying a new phone.
+
+[↑ Back to index](#index)
+
+# Shove up
+
+: **to move over to make room for someone else**. Shove up so that I can sit down, too.
 
 [↑ Back to index](#index)
 
@@ -16168,20 +11534,6 @@ He didn’t show up to the meeting.
 
 [↑ Back to index](#index)
 
-# shrink
-
-verb
-
-move back or away, especially because of fear or disgust
-
-she shrank away from him, covering her face
-
-he shrank back against the wall
-
-I don't shrink from my responsibilities
-
-[↑ Back to index](#index)
-
 # Shut down
 
 **Literal meaning:** To stop operating or turn off.  
@@ -16205,16 +11557,6 @@ I don't shrink from my responsibilities
 
 [↑ Back to index](#index)
 
-# Sick
-
-**Literal meaning:** Ill or unwell.  
- **Figurative meaning (slang):** Awesome, impressive, or cool.
-
-🗣 *“I’m feeling a bit sick today.”*  
- 🗣 *“That new track is sick\!”*
-
-[↑ Back to index](#index)
-
 # Sign language
 
 **Meaning:** A language using gestures and facial expressions for communication, used by the deaf.  
@@ -16234,13 +11576,6 @@ I don't shrink from my responsibilities
 
 [↑ Back to index](#index)
 
-# Silly
-
-**Meaning:** Not serious; playful or foolish.  
- **Example:** *Don’t be silly—it’s just a joke.*
-
-[↑ Back to index](#index)
-
 # silver lining
 
 an advantage that comes from a difficult or unpleasant situation: When things look black, there's always a silver lining. The injury had a silver lining: it enabled Blake to spend his father's last weeks with him. 
@@ -16249,17 +11584,6 @@ A silver lining is a positive aspect that can be found in a negative situation. 
 
 "When things look black, there's always a silver lining".  
 "The injury had a silver lining: it enabled Blake to spend his father's last weeks with him".
-
-[↑ Back to index](#index)
-
-# Simmered
-
-**Meaning:** Literally — to cook gently just below boiling. Figuratively — to stay quietly angry or emotional.  
-**Usage:**
-
-* *“The soup simmered on the stove.”*
-
-* *“He simmered with anger but didn’t say a word.”*
 
 [↑ Back to index](#index)
 
@@ -16298,15 +11622,6 @@ He lost his job when it was discovered that he had been siphoning off money from
 to wait patiently and take no action: 
 
 You sit tight, and I'll go get help.
-
-[↑ Back to index](#index)
-
-# Sitcom
-
-**Meaning:** Short for “situational comedy” — a funny TV show about everyday life.
-
-🗣 *“Friends is my favorite sitcom of all time.”*  
- 🗣 *“That sitcom always lifts my mood.”*
 
 [↑ Back to index](#index)
 
@@ -16368,18 +11683,6 @@ phrasal verb — to gradually lose energy, momentum, or interest and fade away, 
 
 [↑ Back to index](#index)
 
-# Sleazy
-
-**Meaning:** Morally dirty, cheap, or disreputable — often used for people or places.  
- **Usage:**
-
-* *“It was a sleazy bar downtown.”*
-
-* *“He’s such a sleazy politician.”*  
-   🟠 Used for behavior or things that feel low-class or corrupt.
-
-[↑ Back to index](#index)
-
 # Slip in
 
 Slip in” is a **phrasal verb** that usually means to **enter, insert, or say something quietly, casually, or without much notice**.  
@@ -16437,16 +11740,6 @@ Slip in” is a **phrasal verb** that usually means to **enter, insert, or say s
 
 [↑ Back to index](#index)
 
-# Slumber
-
-**Meaning:** Sleep — usually deep or peaceful.  
- **Usage:**
-
-* *“She fell into a deep slumber.”*  
-   🟢 Sounds a bit poetic or literary.
-
-[↑ Back to index](#index)
-
 # Slumped down
 
 **Meaning:** Sat or fell heavily with poor posture — tired or sad.  
@@ -16485,16 +11778,6 @@ Try speaking these aloud a few times:
 
 [↑ Back to index](#index)
 
-# Smashing
-
-**Literal meaning:** Breaking something forcefully.  
- **Figurative meaning (British slang):** Excellent, wonderful, or successful.
-
-🗣 *“They threw a smashing party last night.”*  
- 🗣 *“That was a smashing idea, really\!”*
-
-[↑ Back to index](#index)
-
 # Sneak out
 
 **"Sneak out"** means to leave a place quietly and secretly, usually to avoid being noticed.
@@ -16529,20 +11812,6 @@ Try speaking these aloud a few times:
 "Someone was sneaking around in the dead of night".  
 "What are you doing sneaking around in here?".  
 "He was sneaking around the back of the house".
-
-[↑ Back to index](#index)
-
-# Sniggering
-
-* **Literal:** Laughing quietly, often mockingly.
-
-* **Figurative:** Laughing behind someone’s back.
-
-* **Examples:**
-
-  * “The kids were *sniggering* during the teacher’s speech.”
-
-  * “They *sniggered* when I mispronounced the word.”
 
 [↑ Back to index](#index)
 
@@ -16591,16 +11860,6 @@ Try speaking these aloud a few times:
 idiom — to relax outdoors and enjoy sunshine, typically while on vacation.
 
 "We spent the weekend at the beach just soaking up some sun."
-
-[↑ Back to index](#index)
-
-# Soar
-
-**Literal meaning:** To fly or rise high in the air.  
- **Figurative meaning:** To increase, succeed, or elevate emotionally.
-
-🗣 *“Eagles soar above the mountains.”*  
- 🗣 *“Her confidence soared after the promotion.”*
 
 [↑ Back to index](#index)
 
@@ -16670,21 +11929,6 @@ During a project update:
  **Usage:**
 
 * *“I couldn’t speak — it felt like something was clogging my throat.”*
-
-[↑ Back to index](#index)
-
-# Sore
-
-**Meaning:** Painful or tender to touch.  
- **Figurative:** Upset or annoyed.  
- **Example:** *My legs are sore after the workout.* / *He’s still sore about losing the game.*
-
-[↑ Back to index](#index)
-
-# Sorrow
-
-**Meaning:** Deep sadness.  
- **Example:** *Her eyes reflected sorrow.*
 
 [↑ Back to index](#index)
 
@@ -16779,16 +12023,6 @@ Too comfortable and not trying to improve.
 
 [↑ Back to index](#index)
 
-# spearhead
-
-verb
-
-lead or initiate a project, task, or initiative with enthusiasm and determination, taking a prominent role in driving its success
-
-Sarah was chosen to spearhead the company's sustainability initiative and develop strategies to reduce carbon emissions.
-
-[↑ Back to index](#index)
-
 # Sped down
 
 * **Literal:** Moved fast along a path or road.
@@ -16827,89 +12061,6 @@ Sarah was chosen to spearhead the company's sustainability initiative and develo
 
 [↑ Back to index](#index)
 
-# Spice
-
-**Literal meaning:** A seasoning or flavor enhancer.  
- **Figurative meaning:** Something that adds excitement or interest.
-
-🗣 *“Add some spice to your dish.”*  
- 🗣 *“Her humor adds spice to every conversation.”*
-
-[↑ Back to index](#index)
-
-# Spillover
-
-### **Literal meaning**
-
-When something physically flows over the edge because there’s too much.
-
-* *“The tea caused a **spillover** on the table.”*
-
-* *“The dam couldn’t hold the water, so there was a spillover.”*
-
-### **Figurative meaning (much more common in spoken/work settings)**
-
-It means **an effect or result that spreads into another area, often unintentionally.**
-
-Examples in spoken English:
-
-* **Work-life balance:**  
-   *“Sometimes stress at work has a **spillover** into family life.”*
-
-* **Economics/Business:**  
-   *“The slowdown in China created a **spillover effect** on global markets.”*
-
-* **General situations:**  
-   *“The excitement from the festival had a positive **spillover** into the nearby towns.”*  
-   *“Arguments at home can cause a **spillover** at school for kids.”*
-
-✅ **In everyday speech**, “spillover” is often paired with **“effect”** → *“spillover effect.”*  
- It sounds a bit formal, but it’s common in discussions about work, economics, psychology, or social life.
-
-The phrase **“spill over”** means something that **extends beyond its normal limits** — like when water spills over the edge of a glass. In spoken English, we often use it metaphorically to describe when **one thing starts affecting another area**.
-
-### **💡 Common meanings and examples:**
-
-1. **To overflow or go beyond boundaries (literal)**
-
-   * “The coffee **spilled over** the cup.”  
-      *(It literally went over the edge.)*
-
-2. **To extend into another area or situation (figurative)**
-
-   * “The meeting **spilled over** into lunch time.”  
-      *(It continued longer than planned.)*
-
-   * “His frustration at work **spilled over** into his personal life.”  
-      *(His emotions carried into another part of his life.)*
-
-3. **To have consequences beyond the original situation**
-
-   * “The conflict in one region **spilled over** into neighboring countries.”  
-      *(The effects spread to nearby areas.)*
-
-### **🗣️ Useful spoken phrases**
-
-* “Sorry, our discussion kind of **spilled over** into the next meeting slot.”
-
-* “I didn’t mean to let my stress **spill over** into our conversation.”
-
-* “The workload from last week **spilled over** into this week.”
-
-* “The excitement **spilled over** into the entire team.”
-
-* “We need to manage this before it **spills over** to other projects.”
-
-### **🔗 Connecting phrases you can use with it:**
-
-* “As a result, it **spilled over** into…”
-
-* “On the other hand, we can’t let this issue **spill over** into production.”
-
-* “For example, if testing is delayed, it might **spill over** to deployment.”
-
-[↑ Back to index](#index)
-
 # Spiral down
 
 **Literal meaning:** To move downward in a spiral shape.  
@@ -16925,32 +12076,6 @@ The phrase **“spill over”** means something that **extends beyond its normal
 idiom (figurative, strong register) — to show blatant contempt or disrespect toward someone, treating their effort, trust, or generosity with disdain.
 
 "Ignoring their feedback after they spent hours reviewing the doc felt like spitting in their face."
-
-[↑ Back to index](#index)
-
-# splurge
-
-verb
-
-spend (money) freely or extravagantly
-
-I'd splurged about $2,500 on clothes
-
-we splurged on T-bone steaks
-
-[↑ Back to index](#index)
-
-# Spluttering
-
-* **Literal:** Making spitting or choking sounds while speaking or reacting.
-
-* **Figurative:** Speaking angrily or in shock, struggling to form words.
-
-* **Examples:**
-
-  * “He was *spluttering* after swallowing water.”
-
-  * “She was *spluttering* with rage at his comment.”
 
 [↑ Back to index](#index)
 
@@ -16975,74 +12100,6 @@ The phrase **“sponge up”** means to **absorb something completely**, just li
 * *During my internship, I tried to sponge up as much knowledge as I could.*
 
 * *Don’t just sit quietly, sponge up what the experts are saying.*
-
-[↑ Back to index](#index)
-
-# Spooning
-
-* **Literal:** Lying closely with someone facing the same direction, like two spoons.
-
-* **Figurative:** Being physically close or affectionate.
-
-* **Examples:**
-
-  * “They were *spooning* under the blanket.”
-
-  * “I love *spooning* on a lazy Sunday morning.”
-
-[↑ Back to index](#index)
-
-# Spot
-
-1. **Noun – a place or location**
-
-   * *“This is a nice spot for lunch.”* (place)
-
-   * *“He found a quiet spot to read.”*
-
-2. **Noun – a mark or stain**
-
-   * *“There’s a spot on your shirt.”*
-
-3. **Verb – to notice or recognize**
-
-   * *“I spotted him in the crowd.”* (noticed/recognized)
-
-   * *“Can you spot the difference between these two pictures?”*
-
-4. **Noun – a short amount of time / opportunity**
-
-   * *“She got a spot on the TV show.”* (opportunity, position)
-
-   * *“Can I have a spot of your time?”* (a little time – more British usage)
-
-5. **Noun – a minor role or turn**
-
-   * *“He did a comedy spot at the event.”* (performance slot)
-
-1. **“On the spot”** → immediately
-
-   * *“They hired me on the spot.”*
-
-   * *“He had to answer on the spot.”*
-
-2. **“Put someone on the spot”** → make them feel pressured or awkward
-
-   * *“I don’t want to put you on the spot, but can you explain this now?”*
-
-3. **“Sweet spot”** → the perfect position or best point
-
-   * *“We finally hit the sweet spot in our pricing.”*
-
-1. **“I spotted a mistake in the report.”**
-
-2. **“We found a great spot for our weekend trip.”**
-
-3. **“She answered the question on the spot.”**
-
-4. **“For example, during meetings, managers sometimes put people on the spot with sudden questions.”**
-
-5. **“That being said, every team has its sweet spot where things just click.”**
 
 [↑ Back to index](#index)
 
@@ -17165,152 +12222,6 @@ So in conversation, it means: **to include a little bit of something naturally, 
 
 [↑ Back to index](#index)
 
-# Squatted
-
-**Meaning:** Sat low with knees bent and feet flat on the ground.  
- **Usage:**
-
-* *“She squatted to tie her shoelaces.”*  
-   🟢 Neutral, but in stories it can describe posture or movement.
-
-[↑ Back to index](#index)
-
-# Squawk
-
-* **Literal:** A loud, harsh cry (like a bird).
-
-* **Figurative:** Complain loudly or protest.
-
-* **Examples:**
-
-  * “The parrot *squawked* when I approached.”
-
-  * “He *squawked* about the extra workload.”
-
-[↑ Back to index](#index)
-
-# Squeaking
-
-* **Literal:** Making a short, high-pitched sound.
-
-* **Figurative:** Speaking in a nervous or excited voice.
-
-* **Examples:**
-
-  * “The door *squeaked* open slowly.”
-
-  * “She *squeaked* with excitement when she saw the gift.”
-
-[↑ Back to index](#index)
-
-# Squelchy
-
-**Literal meaning:** Making a wet, sucking sound.  
- **Figurative meaning:** Describing something messy or unpleasantly damp.
-
-🗣 *“My shoes went all squelchy in the mud.”*  
- 🗣 *“That handshake felt squelchy — gross\!”*
-
-[↑ Back to index](#index)
-
-# Squinted
-
-* **Literal:** Narrowed the eyes to see better.
-
-* **Figurative:** Looked closely or suspiciously.
-
-* **Examples:**
-
-  * “He *squinted* at the tiny text.”
-
-  * “She *squinted* at him, not sure she believed his story.”
-
-[↑ Back to index](#index)
-
-# Squirmed
-
-* **Literal:** Wriggled or twisted the body in discomfort.
-
-* **Figurative:** Felt embarrassed or uneasy.
-
-* **Examples:**
-
-  * “The child *squirmed* in his chair.”
-
-  * “He *squirmed* when she brought up his mistake.”
-
-[↑ Back to index](#index)
-
-# Stalk
-
-**Verb**
-
-* **To follow or pursue stealthily** (animal/hunter): *The tiger stalked its prey.*
-
-* **To follow someone obsessively or harass them** (criminal/online): *He was arrested for stalking his ex.*
-
-* **To walk away angrily or with purpose** (phrasal: *stalk off / stalk out*): *She stalked out of the meeting.*
-
-**Noun**
-
-* **The main stem of a plant** (or petiole): *The celery stalk.*
-
-* **A period or instance of following/harassing someone**: *There were several stalks reported.* (less common)
-
-**Pronunciation**
-
-* Roughly: **stawk** — IPA: **/stɔːk/** (similar in US/UK). One-syllable, final /k/ pronounced.
-
-**Usage notes**
-
-* When used about people, **“stalk” has a strongly negative, often criminal sense** (real-world/online stalking). Use carefully.
-
-* As a plant-term it’s neutral and common in everyday English.
-
-* “Stalk off” / “stalk out” \= leave angrily; informal but common.
-
-**Examples**
-
-* Animal/hunting: *The cougar stalked the deer for hours before pouncing.*
-
-* Harassment: *She changed her number after discovering someone was stalking her online.*
-
-* Angry exit: *After the argument he stalked out of the room.*
-
-* Plant: *Trim the outer stalks before cooking.*
-
-**Collocations (common pairs)**
-
-* **stalk someone / stalk someone online / stalk an ex**
-
-* **stalk prey**
-
-* **stalk off / stalk out**
-
-* **celery stalk / flower stalk / stalk of a plant**
-
-**Synonyms & antonyms**
-
-* Synonyms (follow/harass sense): **trail, shadow, pursue, harass**
-
-* Antonyms (leave angrily sense): **linger, remain** (not exact opposites)
-
-* For plant sense: **stem, petiole**
-
-**Warning / safety note**
-
-If **you or someone is being stalked**, take it seriously: save evidence (messages/screenshots), block the person, tell trusted people, and contact local authorities or support services.
-
-**Quick practice (say aloud)**
-
-1. “The fox stalked the henhouse at night.”
-
-2. “He kept calling and following her — that’s stalking.”
-
-3. “Fed up with the meeting, she stalked off.”
-
-[↑ Back to index](#index)
-
 # Stand out
 
 The phrase **“stand out”** means to be **noticeable, different, or better** than others in some way. 🌟
@@ -17336,6 +12247,19 @@ The phrase **“stand out”** means to be **noticeable, different, or better** 
 * *If you want to get hired, your resume needs to stand out.*
 
 * *He stood out because of his confidence and clear communication.*
+
+[↑ Back to index](#index)
+
+# start off
+
+phrasal verb of start
+
+begin to travel or move.  
+"we started off on our journey"  
+begin to operate or do something or to happen.  
+"treatment should start off with attention to diet"  
+cause someone or something to begin to operate or do something.  
+"What started you off on this search?"
 
 [↑ Back to index](#index)
 
@@ -17494,14 +12418,6 @@ remain updated, informed, or prepared in order to anticipate and adapt to future
 
 [↑ Back to index](#index)
 
-# staycation
-
-noun
-
-a vacation spent in one's home country rather than abroad, or one spent at home and involving day trips to local attractions.
-
-[↑ Back to index](#index)
-
 # steeper/steep learning curve
 
 A steep learning curve is an expression that describes the initial difficulty of learning something that is considered to be very challenging.
@@ -17520,47 +12436,12 @@ For example, "His love of the outdoors stems from his father".
 
 [↑ Back to index](#index)
 
-# Stench
-
-**Literal meaning:** A strong, unpleasant smell.  
- **Figurative meaning:** Something morally offensive or corrupt.
-
-🗣 *“The stench from the garbage was unbearable.”*  
- 🗣 *“There’s a stench of dishonesty in that deal.”*
-
-[↑ Back to index](#index)
-
 # Step down
 
 Meaning: To resign or leave a position or role.
 
 * Example 1: The CEO decided to step down after serving the company for 20 years.  
 * Example 2: She stepped down from her role to focus on personal projects.
-
-[↑ Back to index](#index)
-
-# Stern
-
-**Meaning:** Serious, strict, or firm in expression or manner.  
- **Usage:**
-
-* *“The teacher gave him a stern warning.”*
-
-* *“Her face was stern but kind.”*
-
-[↑ Back to index](#index)
-
-# Stick
-
-**Literal meaning:** A thin piece of wood.  
- **Figurative meanings:**
-
-1. *To remain or continue* (e.g., “stick with it”).
-
-2. *To attach emotionally or mentally* (“that memory stuck with me”).
-
-🗣 *“Stick to your plan — it’ll work.”*  
- 🗣 *“That advice really stuck with me.”*
 
 [↑ Back to index](#index)
 
@@ -17590,60 +12471,6 @@ For example:
 
 [↑ Back to index](#index)
 
-# Stiffened
-
-**Meaning:** Became tense, rigid, or suddenly still — often due to emotion.  
- **Usage:**
-
-* *“She stiffened when he touched her shoulder.”*
-
-* *“He stiffened with anger.”*  
-   🟢 Used for physical or emotional reactions.
-
-[↑ Back to index](#index)
-
-# Stifle
-
-* **Literal:** To hold back or suppress (breath, sound, emotion).
-
-* **Figurative:** To prevent growth, creativity, or freedom.
-
-* **Examples:**
-
-  * “She *stifled* a laugh during the meeting.”
-
-  * “Strict rules can *stifle* innovation.”
-
-[↑ Back to index](#index)
-
-# Stifling
-
-* **Literal:** Hot and airless; difficult to breathe in.
-
-* **Figurative:** Oppressively restrictive or suffocating emotionally.
-
-* **Examples:**
-
-  * “The room was *stifling* in the heat.”
-
-  * “The office culture felt *stifling* — no room for creativity.”
-
-[↑ Back to index](#index)
-
-# Sting
-
-* **Literal:** A sharp pain caused by a bite, needle, or emotion.
-
-* **Figurative:** Emotional pain caused by insult or betrayal.
-
-* **Examples:**
-
-  * “The bee *stung* me on the arm.”
-
-  * “His harsh words really *stung*.”
-
-[↑ Back to index](#index)
-
 # Stinky response
 
 **Meaning:** A rude or unpleasant reply.  
@@ -17654,13 +12481,17 @@ For example:
 
 [↑ Back to index](#index)
 
-# Stockholder
+# Stomping around
 
-**Meaning:** Someone who owns shares in a company.  
- **Figurative meaning:** Stakeholder, someone with a vested interest.
+"Stomping around" means to walk with heavy steps, often in anger or to make a loud noise: 
 
-🗣 *“Stockholders voted to approve the merger.”*  
- 🗣 *“As a stockholder, you’re entitled to annual reports.”*
+* The children were stomping around noisily.  
+* I could hear my mother stomping around in the other room.  
+* She stomped up the stairs and slammed her bedroom door.
+
+"Stomp" can also mean to put your foot down on the ground quickly and hard, often to show anger. For example, 
+
+* The little boy was stomping his foot and refusing to take his medicine.
 
 [↑ Back to index](#index)
 
@@ -17681,16 +12512,6 @@ phrase
 come close to doing something, but not actually doing it
 
 Dave stopped short of telling her the brutal truth, believing subtly would be a better approach this time round.
-
-[↑ Back to index](#index)
-
-# Straw
-
-**Literal meaning:** A thin tube for drinking or the dried stalk of grain.  
- **Figurative meaning:** Used in idioms like “the last straw” (final limit of patience).
-
-🗣 *“He drank his soda through a straw.”*  
- 🗣 *“That rude comment was the last straw — I’m done\!”*
 
 [↑ Back to index](#index)
 
@@ -17759,30 +12580,6 @@ idiom — to evoke a strong emotional response, or a sense of shared recognition
 
 [↑ Back to index](#index)
 
-# Strip
-
-**Meaning:** To remove clothing or layers.  
- **Figurative:** To remove something completely.  
- **Example:** *He stripped off his jacket.* / *The company stripped away unnecessary rules.*
-
-[↑ Back to index](#index)
-
-# Strive
-
-**Meaning:** To make a great effort to achieve something.
-
-🗣 *“We should always strive for excellence, not perfection.”*  
- 🗣 *“He’s been striving to make his business profitable.”*
-
-[↑ Back to index](#index)
-
-# Struggle
-
-**Meaning:** To try hard despite difficulty.  
- **Example:** *She’s struggling to balance work and family.*
-
-[↑ Back to index](#index)
-
 # Stumble across
 
  → *To find something by chance while not looking for it.*  
@@ -17826,16 +12623,6 @@ Examples:
 
 [↑ Back to index](#index)
 
-# Subtle
-
-**Meaning:** Delicate, not obvious, or hard to notice.  
- **Figurative meaning:** Nuanced or skillfully understated.
-
-🗣 *“There’s a subtle difference between sarcasm and humor.”*  
- 🗣 *“Her perfume was subtle but lovely.”*
-
-[↑ Back to index](#index)
-
 # Sugar Rush
 
 **Meaning:** Burst of energy after eating sugar.  
@@ -17854,182 +12641,10 @@ Meaning:
 
 [↑ Back to index](#index)
 
-# Superficial
-
-**Meaning:** Shallow, lacking depth (in thought, emotion, or detail).
-
-🗣 *“Don’t judge people based on superficial appearances.”*  
- 🗣 *“Her analysis was too superficial — it missed the real issue.”*
-
-[↑ Back to index](#index)
-
-# Supplier
-
-**Literal meaning:** A person or company that provides goods or services.  
- **Figurative meaning:** Any source that provides something of value (even non-material).
-
-🗣 *“We’re negotiating prices with our main supplier.”*  
- 🗣 *“Water suppliers are facing high demand this summer.”*  
- 🗣 *“Books are a supplier of wisdom.”* (figurative)
-
-[↑ Back to index](#index)
-
-# Supply
-
-1. **As a verb (to provide / give something):**
-
-   * *“The company supplies water to the city.”*
-
-   * *“We need to supply enough data for the analysis.”*
-
-2. **As a noun (the amount of something available):**
-
-   * *“The food supply is running low.”*
-
-   * *“There’s a high demand but limited supply of skilled workers.”*
-
-3. **In business/economics:**
-
-   * “Supply and demand” – the balance between how much is available and how much people want.
-
-✅ **Spoken practice sentences:**
-
-* “We need to supply more details before the client meeting.”
-
-* “On the other hand, our current supply of resources is limited.”
-
-* “That being said, if demand decreases, supply won’t be an issue.”
-
-* “The hospital received a new supply of medicines yesterday.”
-
-👉 **Contexts of usage:**
-
-* **Workplace:** *“Can you supply me with the latest reports?”*
-
-* **Casual:** *“We need to buy a new supply of groceries.”*
-
-* **Technical/Business:** *“The supply chain has been disrupted.”*
-
-[↑ Back to index](#index)
-
-# Surgical
-
-**Meaning:** Precise, careful, or accurate (not only medical).
-
-**Example:** *His approach to problem-solving is almost surgical.*
-
-[↑ Back to index](#index)
-
-# Suspend
-
-**Literal meaning:** To temporarily stop or hang.  
- **Figurative meaning:** To pause judgment or delay action.
-
-🗣 *“The service was suspended due to weather.”*  
- 🗣 *“Let’s suspend disbelief and enjoy the story.”*
-
-[↑ Back to index](#index)
-
-# Swarm
-
-**Literal meaning:** A large group of insects (like bees) moving together.  
- **Figurative meaning:** A crowd or rush of people or things moving in unison.
-
-🗣 *“Bees swarmed around the hive.”*  
- 🗣 *“Fans swarmed the stage after the concert.”*
-
-[↑ Back to index](#index)
-
-# Swatted
-
-**Meaning:** Hit or pushed something away quickly, often with your hand.  
- **Usage:**
-
-* *“He swatted the mosquito.”*
-
-* *“She swatted my hand playfully.”*
-
-[↑ Back to index](#index)
-
-# Swing
-
-**Literal meaning:** Move back and forth.  
- **Figurative meaning:** Shift suddenly or dramatically.
-
-🗣 *“Her mood swings a lot.”*  
- 🗣 *“The market could swing either way.”*
-
-[↑ Back to index](#index)
-
-# Synergy
-
-**Literal meaning:** The combined power of two or more elements that is greater than their individual effects.  
- **Figurative meaning:** A smooth, powerful collaboration between people or systems.
-
-🗣 *“There’s great synergy between our design and engineering teams.”*  
- 🗣 *“When you find synergy in a partnership, things just flow.”*
-
-[↑ Back to index](#index)
-
 # Synonymous With
 
 **Meaning:** Closely associated or having the same meaning.  
  **Example:** *Her name is synonymous with kindness.*
-
-[↑ Back to index](#index)
-
-# Table
-
-The verb "table" has multiple meanings, including to put something aside, to submit something for consideration, or to enter something into a list.   
-To put something aside   
-To set something aside indefinitely  
-To postpone or suspend consideration of something  
-To leave something for discussion at a later time  
-To submit something for consideration   
-To present something formally for discussion  
-To submit a bill for consideration by a legislative body
-
-To Postpone or Delay (Verb – Common in American English):  
-To table something means to set it aside for discussion or action at a later time.  
-Example: "The committee decided to table the proposal until next month."
-
-To Present or Submit for Discussion (Verb – Common in British English):  
-To table something means to formally bring it up for discussion or consideration.  
-Example: "The new policy was tabled in the meeting."
-
-A Systematic Arrangement of Data (Noun – Contextual Use):  
-A table can refer to an organized display of information, often in rows and columns.  
-Example: "The results were summarized in a table."
-
-Mathematical Context:  
-A table can mean a set of values or a computational tool, like multiplication tables or truth tables.
-
-[↑ Back to index](#index)
-
-# taint
-
-/teɪnt/  
-verb  
-past tense: tainted; past participle: tainted
-
-contaminate or pollute (something).  
-"the air was tainted by fumes from the cars"
-
-affect with a bad or undesirable quality.  
-"his reputation was tainted by scandal"
-
-archaic  
-(of food or water) become contaminated or polluted.  
-"the rennet should be soaked in water containing sufficient salt to keep it from tainting"
-
-The term "taint" is vulgar slang for the perineum, which is the area between the anus and the genitals.   
-"Taint" can also be used as a verb or a noun to describe something that harms the reputation of a person or thing:   
-Verb  
-When a person or thing is tainted by something bad, their reputation is harmed. For example, "Opposition leaders said that the elections had been tainted by corruption".  
-Noun  
-An undesirable quality that spoils the reputation of someone or something. For example, "Her government never really shook off the taint of corruption".  
-Synonyms of "taint" include disgrace, shame, dishonor, and stigma.   
-The term "taint" has been used in comedic shows, including Saturday Night Live and The Daily Show. 
 
 [↑ Back to index](#index)
 
@@ -18178,6 +12793,14 @@ Meaning: To accept or undertake a responsibility or challenge.
 
 * Example 1: The project manager decided to take on the new project despite its complexity.  
 * Example 2: She took on additional responsibilities to help the team meet the deadline.
+
+phrasal verb of take  
+1\.  
+engage an employee.  
+"he took me on as an apprentice"  
+2\.  
+be willing or ready to meet an adversary or opponent.  
+"a group of villagers has taken on the planners"
 
 [↑ Back to index](#index)
 
@@ -18461,21 +13084,6 @@ Or:
 
 [↑ Back to index](#index)
 
-# Taper
-
-**Meaning:** To gradually decrease or reduce in size, strength, or amount.  
- **Examples (spoken):**
-
-* “The pain will taper off over time.”
-
-* “They’re tapering production to control costs.”
-
-* “Rainfall will taper towards the weekend.”
-
-👉 *Common phrase:* “Taper off” \= to slowly end.
-
-[↑ Back to index](#index)
-
 # Tapped Out / Tap Out
 
 "Tap out" can mean to give up, submit, or run out of money.
@@ -18491,37 +13099,12 @@ Examples of "tapped out" in a sentence:
 
 [↑ Back to index](#index)
 
-# Taxing
-
-**Meaning:** Physically or mentally exhausting.
-
-🗣 *“That presentation was mentally taxing.”*  
- 🗣 *“It’s a taxing job, but rewarding.”*
-
-[↑ Back to index](#index)
-
 # Team up
 
 Meaning: To collaborate or join forces with others.
 
 * Example 1: The two companies decided to team up to launch a new product line.  
 * Example 2: We need to team up to tackle this challenging project.
-
-[↑ Back to index](#index)
-
-# Tease
-
-**Meaning:** To playfully make fun of someone.  
-**Example:** *Don’t tease him about his accent.*
-
-[↑ Back to index](#index)
-
-# Tech-savvy
-
-**Meaning:** Skilled and comfortable using technology.
-
-🗣 *“He’s pretty tech-savvy — he fixed my phone in minutes.”*  
- 🗣 *“We need more tech-savvy people in the team.”*
 
 [↑ Back to index](#index)
 
@@ -18536,14 +13119,6 @@ Meaning: To collaborate or join forces with others.
   * “The ship fought through the *tempest*.”
 
   * “Her mind was a *tempest* of emotions.”
-
-[↑ Back to index](#index)
-
-# Terrain
-
-**Meaning:** Type of land or ground.  
- **Figurative:** Used for a situation or field of activity.  
- **Example:** *The terrain was rocky.* / *He’s exploring new business terrain.*
 
 [↑ Back to index](#index)
 
@@ -18605,14 +13180,6 @@ The journey is more important than the destination: The journey is more importan
 Limitless potential: There is limitless potential in sport and design.   
 Creative life: The creative life is not linear, and there is no finish line to it.   
 Good habits: There is no finish line to good habits, and hitting a milestone is a reminder of how far you've come.
-
-[↑ Back to index](#index)
-
-# Thick-skinned
-
-adjective  
-insensitive to criticism or insults.  
-"I suppose you have to be pretty thick-skinned to be an MP"
 
 [↑ Back to index](#index)
 
@@ -18690,17 +13257,6 @@ idiom (from news broadcasting) — used to introduce breaking or very recent new
 
 [↑ Back to index](#index)
 
-# Threat
-
-**Literal meaning:** A danger or expression of intent to harm.  
- **Figurative meaning:** Anything that poses risk or challenge.
-
-🗣 *“Cybersecurity threats are increasing.”*  
- 🗣 *“She’s a real threat to her competitors.”*  
- 🗣 *“They didn’t realize how serious the threat was.”*
-
-[↑ Back to index](#index)
-
 # Thrift shop
 
 **Literal meaning:** A store that sells secondhand goods, often for charity.  
@@ -18708,13 +13264,6 @@ idiom (from news broadcasting) — used to introduce breaking or very recent new
 
 🗣 *“I found this jacket at a thrift shop — only five bucks\!”*  
  🗣 *“She loves the thrill of thrift-shop hunting.”*
-
-[↑ Back to index](#index)
-
-# Thrilled
-
-**Meaning:** Extremely happy or excited.  
-**Example:** *I’m thrilled to be part of this project\!*
 
 [↑ Back to index](#index)
 
@@ -18804,15 +13353,6 @@ After a breakup, someone might say, "It's time to turn the page and start focusi
 Programmer's life:  
 A programmer might say, "This project taught me a lot, but now it's time to turn the page and work on something more challenging."  
 It conveys the idea of progress, growth, or change.
-
-[↑ Back to index](#index)
-
-# Timeless
-
-**Meaning:** Not affected by time; always relevant or beautiful.
-
-🗣 *“That song is absolutely timeless.”*  
- 🗣 *“Her elegance is timeless.”*
 
 [↑ Back to index](#index)
 
@@ -18914,27 +13454,6 @@ Workplace Context:
 "The manager vented at the team after the project missed the deadline, even though it wasn’t entirely their fault."  
 Everyday Life:  
 "He came home and vented at his family because his car broke down on the way."
-
-[↑ Back to index](#index)
-
-# Toned-down
-
-adjective  
-altered so as to be less extreme or intense.  
-"a toned-down version of the report was published"
-
-to make something less forceful or offensive, usually a piece of writing or a speech: language is toned down Some of the language in the original play has been toned down for the television version.
-
-[↑ Back to index](#index)
-
-# Topping
-
-**Literal meaning:** A layer of food placed on top of something, like pizza or cake.  
- **Figurative meaning:** Something extra or special added to enhance a situation; also used to describe excellence (“top-notch”).
-
-🗣 *“What toppings do you want on your pizza?”*  
- 🗣 *“Her performance was the topping on an already perfect evening.”*  
- 🗣 *“He’s a topping student — always at the top of his class.”*
 
 [↑ Back to index](#index)
 
@@ -19042,37 +13561,6 @@ a place that caters to tourists
 
 [↑ Back to index](#index)
 
-# Trade-off
-
-Meaning: To exchange or sacrifice one thing for another.
-
-* Example 1: We need to trade off short-term profits for long-term sustainability.  
-* Example 2: There’s always a trade-off between quality and cost.
-
-[↑ Back to index](#index)
-
-# Trailblazer
-
-The word **“trailblazer”** is a **noun** that means someone who is the **first to do something** or who **leads the way** in a new field, making it easier for others to follow. It comes from the literal idea of blazing a trail through a forest so others can walk behind you. 🌲✨
-
-✅ **Examples:**
-
-* *Marie Curie was a trailblazer in the field of science.*
-
-* *As the first woman CEO of the company, she was a real trailblazer.*
-
-* *He’s considered a trailblazer in modern architecture.*
-
-👉 In **spoken English**, it’s often used to **praise someone’s courage or innovation**:
-
-* *She’s a trailblazer—always trying new ideas.*
-
-* *That startup was a trailblazer in the electric vehicle market.*
-
-* *He’s not just successful, he’s a trailblazer for future entrepreneurs.*
-
-[↑ Back to index](#index)
-
 # Trailed off
 
 **Meaning:** Spoke more and more quietly until stopping.  
@@ -19138,18 +13626,6 @@ phrasal verb — literal: to fall down suddenly and in an uncontrolled way. Figu
 
 **Literal:** "The old wall began to tumble down after the storm."
 **Figurative:** "Revenue tumbled down after the biggest client left."
-
-[↑ Back to index](#index)
-
-# Turgid
-
-**Meaning:** Swollen, inflated, or overly fancy in language.  
- **Usage:**
-
-* *“His turgid speech bored everyone.”*
-
-* *“The river was turgid after the rain.”*  
-   🟢 Can describe both language and physical swelling.
 
 [↑ Back to index](#index)
 
@@ -19380,49 +13856,11 @@ After all I did for him, he turned on me.
 
 [↑ Back to index](#index)
 
-# Tush
-
-* **Literal:** Slang for buttocks (informal and playful).
-
-* **Figurative:** Used humorously for someone’s backside.
-
-* **Examples:**
-
-  * “Sit your *tush* down and relax.”
-
-  * “He fell right on his *tush*\! It was hilarious.”
-
-[↑ Back to index](#index)
-
-# Twig
-
-**Literal meaning:** A small, thin branch.  
- **Figurative meaning (slang):** To suddenly understand or notice something.
-
-🗣 *“He finally twigged that she was lying.”*  
- 🗣 *“It took me a second to twig what he meant.”*
-
-[↑ Back to index](#index)
-
-# Twist
-
-**Meaning:** Unexpected change or turn in events.  
- **Example:** *The story had an amazing twist at the end.*
-
-[↑ Back to index](#index)
-
 # Two slides of the same coin
 
 idiom (commonly written "two **sides** of the same coin") — two things that appear different on the surface but are closely related, or are two aspects of the same underlying issue.
 
 "Ambition and impatience are often two sides of the same coin."
-
-[↑ Back to index](#index)
-
-# Ubiquitous
-
-**Meaning:** Everywhere; very common.  
- **Example:** *Smartphones are ubiquitous these days.*
 
 [↑ Back to index](#index)
 
@@ -19433,16 +13871,6 @@ idiom (commonly written "two **sides** of the same coin") — two things that ap
 
 * *“I think he has an ulterior motive for helping you.”*  
    🟠 Implies deception or secret intentions.
-
-[↑ Back to index](#index)
-
-# Uncanny
-
-**Meaning:** Strange, mysterious, or hard to explain — often because it feels eerily familiar or “too accurate.”
-
-🗣 *“She has an uncanny ability to read people’s emotions.”*  
- 🗣 *“It’s uncanny how much that actor looks like my brother.”*  
- 🗣 *“There’s something uncanny about this silence.”*
 
 [↑ Back to index](#index)
 
@@ -19457,14 +13885,6 @@ In legal proceedings, "take under advisement" means a judge will review evidence
 # Under the hood
 
 The phrase "under the hood" is an idiom that originates from car maintenance, where the hood refers to the cover over a car's engine. In a broader sense, it means "behind the scenes" or "the inner workings" of something.
-
-[↑ Back to index](#index)
-
-# Undoubtedly
-
-adverb — without doubt; certainly.
-
-"This is undoubtedly the strongest proposal we've received this quarter."
 
 [↑ Back to index](#index)
 
@@ -19499,45 +13919,6 @@ adverb — without doubt; certainly.
 
 [↑ Back to index](#index)
 
-# Unfazed
-
-**Meaning:** Not surprised, disturbed, or affected.  
- **Usage:**
-
-* *“Everyone was shocked, but I was unfazed by her appearance.”*
-
-* Shows calmness or emotional stability.
-
-[↑ Back to index](#index)
-
-# Unfold
-
-The word **“unfold”** can be used both **literally** and **figuratively**.
-
-### **🔹 Literal meaning → to open up something that was folded**
-
-* *She unfolded the letter and began to read.*
-
-* *He unfolded the map to check the route.*
-
-### **🔹 Figurative meaning → to develop gradually, to reveal, to happen step by step**
-
-* *As the story unfolded, we learned the truth about her past.*
-
-* *The mystery slowly unfolded before the detective’s eyes.*
-
-* *His career is still unfolding—he has so much potential ahead.*
-
-👉 In **spoken English**, it’s often used for **situations, events, or stories** that reveal themselves over time:
-
-* *Let’s wait and see how things unfold.*
-
-* *The evening unfolded better than I expected.*
-
-* *History is unfolding right in front of us.*
-
-[↑ Back to index](#index)
-
 # Unique selling point
 
 noun
@@ -19559,56 +13940,6 @@ you may choose to outsource this function to another company or do it yourself
 
 [↑ Back to index](#index)
 
-# Unkempt
-
-* **Literal:** Untidy or messy in appearance.
-
-* **Figurative:** Careless or disorganized in attitude or manner.
-
-* **Examples:**
-
-  * “His hair was *unkempt* and wild.”
-
-  * “The garden looked *unkempt* after the storm.”
-
-[↑ Back to index](#index)
-
-# Unload
-
-**Meaning:** To remove goods from a vehicle; also means to express feelings.  
- **Example:** *They unloaded the boxes from the truck.* / *She finally unloaded her worries on a friend.*
-
-[↑ Back to index](#index)
-
-# Unobstructed
-
-**Meaning:** Clear, without blockage or obstacle.  
- **Usage:**
-
-* *“The view from the balcony was unobstructed.”*  
-   🟢 Often used for vision, sound, or movement.
-
-[↑ Back to index](#index)
-
-# unrealistic
-
-adjective
-
-not attainable
-
-Social media is often accused of setting unrealistic beauty standards.
-
-[↑ Back to index](#index)
-
-# Unsubstantiated
-
-Adjective
-
-not supported or proven by evidence.  
-"unsubstantiated claims"
-
-[↑ Back to index](#index)
-
 # Until afterwards
 
 The phrase **"until afterwards"** means waiting for a certain point in time (or event) to pass before something else happens or is done. It emphasizes that an action or discussion is delayed to take place only after something else has been completed or occurred.
@@ -19621,50 +13952,6 @@ Here are some examples to clarify:
    (This means the mistake was only noticed after the event or situation had already happened.)  
 3. **"You won’t fully understand the importance of this decision until afterwards."**  
    (This implies the understanding will come after the consequences or results of the decision are evident.)
-
-[↑ Back to index](#index)
-
-# Unwind
-
-“Unwind” basically means **to relax after being stressed, busy, or tired**.  
- Think of it like loosening a tightly wound spring — you release the tension.
-
-Usage in spoken English:
-
-* After a long day at work:  
-   *“I just want to unwind with a good movie.”*
-
-* Talking to friends:  
-   *“Let’s go out this weekend and unwind a little.”*
-
-* In casual advice:  
-   *“You should take a walk to unwind.”*
-
-### **Common contexts:**
-
-* Work/life balance conversations: *“I usually unwind by listening to music.”*
-
-* Vacation or free time: *“That trip really helped me unwind.”*
-
-* Even in team meetings (light tone): *“After finishing this sprint, we all need some time to unwind.”*
-
-### **Sentences you can practice saying aloud:**
-
-1. *“After a busy day, I like to unwind with some music.”*
-
-2. *“On the other hand, some people unwind by exercising instead of resting.”*
-
-3. *“That being said, I personally prefer to unwind by spending time with my family.”*
-
-4. *“For example, yesterday I unwound by cooking a nice meal.”*
-
-👉 Try speaking these out loud and notice how “unwind” gives a relaxed, easy-going feeling.
-
-**Meaning:** To relax or release tension.  
- **Figurative meaning:** To mentally or emotionally reset.
-
-🗣 *“I like to unwind with a cup of tea after work.”*  
- 🗣 *“The weekend is the perfect time to unwind.”*
 
 [↑ Back to index](#index)
 
@@ -19688,122 +13975,6 @@ Key points about "up until this point":
 It emphasizes the timeframe leading up to the current situation.   
 It can be used to indicate a change or turning point in a narrative.   
 "Up until now" is a common way to use this phrase.
-
-[↑ Back to index](#index)
-
-# upmarket
-
-adjective
-
-relatively expensive and designed to appeal to affluent consumers
-
-an upmarket ski resort
-
-upmarket boutiques
-
-[↑ Back to index](#index)
-
-# vacationer
-
-noun
-
-a person on vacation away from home.
-
-vacationers have been enjoying brilliant blue skies
-
-[↑ Back to index](#index)
-
-# Vague
-
-**Meaning:** Not clear or specific.  
- **Example:** *Her answer was too vague to understand.*
-
-[↑ Back to index](#index)
-
-# Vastness
-
-**Meaning:** Immense size, space, or extent.  
- **Figurative meaning:** Boundless scale — physical, emotional, or intellectual.
-
-🗣 *“We were awed by the vastness of the desert.”*  
- 🗣 *“The vastness of human knowledge is humbling.”*
-
-[↑ Back to index](#index)
-
-# Velcro
-
-**Literal meaning:** A type of fastener made of tiny hooks and loops that stick together.  
- **Figurative meaning:** Something (or someone) that clings tightly or is inseparable.
-
-🗣 *“This bag has a Velcro strap.”*  
- 🗣 *“Those two kids are like Velcro — always stuck together.”*  
- 🗣 *“He’s a bit too Velcro for me — I need space.”* (informal humor)
-
-[↑ Back to index](#index)
-
-# Venerable
-
-**Meaning:** Worthy of respect due to age, wisdom, or character.  
- **Figurative meaning:** Can describe institutions, traditions, or even objects admired for longevity or legacy.
-
-🗣 *“He’s a venerable professor, respected by all.”*  
- 🗣 *“The venerable oak tree stood for centuries.”*
-
-[↑ Back to index](#index)
-
-# Vengeance
-
-Strong desire for revenge.  
- 👉 *“He acted out of vengeance.”*
-
-[↑ Back to index](#index)
-
-# Venison
-
-**Literal meaning:** Meat from a deer.  
- **Figurative use:** Rare — mostly used literally, but sometimes symbolically to imply something luxurious or rustic.
-
-🗣 *“We had roasted venison at the lodge last winter.”*  
- 🗣 *“He served venison to show off his hunting skills.”*
-
-[↑ Back to index](#index)
-
-# Venture
-
-**Literal meaning:** A risky journey or business enterprise.  
- **Figurative meaning:** To dare to do something new or uncertain.
-
-🗣 *“They’re venturing into the renewable energy market.”*  
- 🗣 *“I wouldn’t venture to guess how much that costs.”*
-
-[↑ Back to index](#index)
-
-# Villain
-
-**Meaning:** The bad character in a story.  
- **Example:** *The movie’s villain was unforgettable.*
-
-[↑ Back to index](#index)
-
-# Virtue
-
-**Literal meaning:** Moral excellence or goodness.  
- **Figurative meaning:** A positive trait or strength.
-
-🗣 *“Patience is a great virtue.”*  
- 🗣 *“He turned his weakness into a virtue.”*
-
-[↑ Back to index](#index)
-
-# Voyage
-
-**Literal meaning:** A long journey, especially by sea or space.  
- **Figurative meaning:** A significant personal or spiritual journey.
-
-🗣 *“Their voyage across the Atlantic took months.”*  
- 🗣 *“Life itself is a voyage of discovery.”*
-
-💡 *(More poetic than “trip” or “journey.”)*
 
 [↑ Back to index](#index)
 
@@ -19994,17 +14165,18 @@ For many, education is a way out of poverty.
 
 [↑ Back to index](#index)
 
-# Weathering
+# Weaned off
 
-* **Literal:** Being worn down by weather or natural forces.
+"Weaned off" is a phrasal verb that means to gradually stop doing or using something:   
+"I'm gradually weaning myself off cigarettes".   
+"The doctor tried to wean her off sleeping pills".   
+"It's difficult to wean addicts off cocaine once they're hooked". 
 
-* **Figurative:** Enduring difficult times or challenges.
+"Efforts to wean the country from its dependence on foreign oil".   
+"Updated bilateral trade pacts focused on sectors that China dominates—such as critical minerals and pharmaceutical supply chains—would also wean Washington and its partners off the Chinese market".   
+"European countries moved to wean themselves off Russian energy sources". 
 
-* **Examples:**
-
-  * “The rocks were *weathered* by years of rain.”
-
-  * “They’re *weathering* the crisis together.”
+Deviousness
 
 [↑ Back to index](#index)
 
@@ -20033,6 +14205,13 @@ For many, education is a way out of poverty.
 * Can be polite: *"Feel free to weigh in if you have suggestions."*
 
 * Or assertive: *"I want to weigh in here — I think we should refactor the code."*
+
+**Weighing a contestant**  
+The act of weighing an athlete, such as a boxer or jockey, before a competition. For example, "The boxers arrived for the pre-fight weigh-in".   
+**Contributing to a discussion**  
+To join a discussion, argument, or activity by saying something important, persuading someone, or doing something to help. For example, "We all weighed in with our suggestions".   
+**Bringing weight or influence to bear**  
+To bring one's weight or influence to bear, especially as a participant, contributor, or mediator. For example, "He weighed in with a few sharp comments"
 
 [↑ Back to index](#index)
 
@@ -20080,22 +14259,6 @@ The phrase "What are you so bouncy about?" is an informal way of asking why some
 idiom (also "where the rubber meets the road") — the point where a theory, plan, or idea is finally put into practice and truly tested.
 
 "The design looks great on paper, but production traffic is where the rubber meets the road."
-
-[↑ Back to index](#index)
-
-# whether
-
-conjunction
-
-expressing a doubt or choice between alternatives
-
-he seemed undecided whether to go or stay
-
-it is still not clear whether or not he realizes
-
-I'll see whether she's at home
-
-I'm going whether you like it or not
 
 [↑ Back to index](#index)
 
@@ -20148,50 +14311,9 @@ It’s about **seeking guidance** or **finding the right person** to rely on.
 
 [↑ Back to index](#index)
 
-# Wholeheartedly
-
-**Meaning:** With complete sincerity and enthusiasm.  
- **Figurative meaning:** Fully committed emotionally or mentally.
-
-🗣 *“I agree with you wholeheartedly.”*  
- 🗣 *“She supported the idea wholeheartedly.”*
-
-[↑ Back to index](#index)
-
 # Wild west
 
 Noun: the western US in its frontier period characterized by roughness and lawlessness Wild West
-
-[↑ Back to index](#index)
-
-# Wilderness
-
-**Meaning:** A wild, natural area with no people or buildings.  
- **Figurative:** A confusing or unorganized place/situation.  
- **Example:** *They camped in the wilderness for a week.* / *After the breakup, he felt lost in an emotional wilderness.*
-
-[↑ Back to index](#index)
-
-# Willful
-
-**Meaning:** Intentional, deliberate, or stubbornly determined.  
- **Figurative meaning:** Can imply both strength of character or defiance.
-
-🗣 *“That was a willful act of disobedience.”*  
- 🗣 *“She’s willful, but that’s what makes her a great leader.”*
-
-[↑ Back to index](#index)
-
-# Willingness
-
-**Meaning:** The readiness or desire to do something.  
- **Figurative meaning:** Openness, cooperative attitude, or positive intention.
-
-🗣 *“I really appreciate your willingness to help.”*  
- 🗣 *“His willingness to learn sets him apart.”*  
- 🗣 *“There’s a willingness in the team to try new ideas.”*
-
-💡 *(Used to praise attitude rather than skill — “willingness” shows humility and motivation.)*
 
 [↑ Back to index](#index)
 
@@ -20267,16 +14389,6 @@ Meaning:
 
 [↑ Back to index](#index)
 
-# Witness
-
-**Literal meaning:** To see an event happen.  
- **Figurative meaning:** To experience or be part of something significant.
-
-🗣 *“I witnessed the accident.”*  
- 🗣 *“We’re witnessing history in the making.”*
-
-[↑ Back to index](#index)
-
 # Work on
 
 * It means **to focus your effort on something**, usually to improve it, develop it, or complete it.
@@ -20342,23 +14454,6 @@ Meaning: To gradually develop or build up something.
 
 * Example 1: He worked up his skills and eventually became a successful entrepreneur.  
 * Example 2: She worked up the courage to speak at the meeting.
-
-[↑ Back to index](#index)
-
-# Wound
-
-**Meaning:** An injury or cut.  
- **Figurative:** Emotional hurt.  
- **Example:** *He had a deep wound on his arm.* / *Her words left an emotional wound.*
-
-[↑ Back to index](#index)
-
-# Wrangle
-
-verb — literal: to herd or manage livestock (as in "cattle wrangler"). Figurative: to argue persistently, especially over a decision or issue; or to manage something with effort/difficulty.
-
-**Literal:** "The cowboys wrangled the cattle back into the pen."
-**Figurative:** "The two teams wrangled over ownership of the shared library for weeks."
 
 [↑ Back to index](#index)
 
@@ -20462,29 +14557,6 @@ So it carries the idea of **not gently removing**, but rather pulling quickly wi
 
 [↑ Back to index](#index)
 
-# Yearning
-
-**Meaning:** Deep, emotional longing or desire.  
- **Usage:**
-
-* *“She felt a yearning to return home.”*
-
-* *“His eyes showed a quiet yearning.”*
-
-[↑ Back to index](#index)
-
-# Yelped
-
-* **Literal:** Gave a short, sharp cry (from pain or surprise).
-
-* **Figurative:** Reacted quickly or emotionally to something shocking.
-
-* **Examples:**
-
-  * “The dog *yelped* when stepped on.”
-
-[↑ Back to index](#index)
-
 # you are way out of line
 
 The phrase "you are way out of line" is used to tell someone they are behaving inappropriately or crossing boundaries, often in terms of respect, rules, or acceptable behavior. Here's a breakdown of its use:
@@ -20532,17 +14604,6 @@ Breaking Rules or Protocols
 
 [↑ Back to index](#index)
 
-# Zeitgeist
-
-**Meaning:** The defining spirit or mood of a particular time in history, especially shown in art, culture, or trends.
-
-🗣 *“That movie perfectly captures the zeitgeist of the 90s.”*  
- 🗣 *“AI is the zeitgeist of our generation.”*
-
-💡 *(Elegant and intellectual — literally means “time spirit” in German.)*
-
-[↑ Back to index](#index)
-
 # Zero Sum Game
 
 A Zero-Sum Game is a situation in which one person's gain is exactly balanced by another person's loss. The total amount of value remains the same—one wins, the other loses.
@@ -20558,16 +14619,6 @@ Business Collaboration: Two companies partnering to create a new product benefit
 **adjective**  
 relating to or denoting a situation in which whatever is gained by one side is lost by the other.  
 "altruism is not a zero-sum game"
-
-[↑ Back to index](#index)
-
-# Zip
-
-noun/verb — noun: a fastener (zipper); informally, "nothing/zero" ("we got zip"). verb: to move very fast, or to close something with a zipper.
-
-"He zipped up his jacket." (verb, literal)
-"We got zip for a response from the vendor." (noun, informal — nothing)
-"She zipped through the code review in ten minutes." (verb, figurative — fast)
 
 [↑ Back to index](#index)
 

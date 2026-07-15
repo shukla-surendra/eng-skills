@@ -8,8 +8,8 @@ Each file opens with a clickable **A–Z index** — tap a word to jump to it, a
 
 | File | What's in it | Entries |
 |------|--------------|--------:|
-| [Vocabulary](vocab.md) | Single words, with meanings, examples, and spoken usage | ~1,458 |
-| [Phrasal Verbs](phrasal-verbs.md) | Two/three-word verbs (*get off*, *push back*, …) | ~1,304 |
+| [Vocabulary](vocab.md) | Single words, with meanings, examples, and spoken usage | ~1,862 |
+| [Phrasal Verbs](phrasal-verbs.md) | Two/three-word verbs (*get off*, *push back*, …) | ~822 |
 | [Idioms](idioms.md) | Idiomatic expressions and how to use them | ~52 |
 | [Grammar Notes](grammar-notes.md) | Articles, until/by, frequency adverbs, used to, has/have had, question forms | ~9 |
 | [Speaking Toolkit](speaking-toolkit.md) | How to explain, frame sentences, use analogies, go deeper without losing the thread, plus connecting/meeting phrases | ~10 |

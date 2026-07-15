@@ -1,100 +1,108 @@
 # Vocabulary
 
-> 1458 entries · restructured 2026-07-12 · sorted A–Z
+> 1862 entries · restructured 2026-07-14 · sorted A–Z
 
 ## Index
 
 **A**
 
-[Abandon](#abandon) · [Aberration](#aberration) · [Abort](#abort) · [abrupt](#abrupt) · [Absolution](#absolution) · [Absurd](#absurd) · [Abuzz](#abuzz) · [Abysmal](#abysmal) · [Abyss](#abyss) · [Accentuate](#accentuate) · [Accessible](#accessible) · [Accolade](#accolade) · [Accomplished](#accomplished) · [Accord](#accord) · [Accreditation](#accreditation) · [Accrue](#accrue) · [Accumulate](#accumulate) · [Acquainted](#acquainted) · [Acquisition](#acquisition) · [ad hoc](#ad-hoc) · [Adage](#adage) · [Adaptable](#adaptable) · [Adhere](#adhere) · [Admonish](#admonish) · [Adulation](#adulation) · [Advent](#advent) · [Aegis](#aegis) · [Aesthetic](#aesthetic) · [Affectation](#affectation) · [Affectionate](#affectionate) · [Affinity](#affinity) · [Afflict](#afflict) · [Aggravate](#aggravate) · [Agonizing](#agonizing) · [Agony](#agony) · [Akin](#akin) · [all in all](#all-in-all) · [Alleviate](#alleviate) · [Allude](#allude) · [Aloof](#aloof) · [Altercation](#altercation) · [Ambitious](#ambitious) · [Ambush](#ambush) · [Amenity](#amenity) · [Amiable](#amiable) · [Amicably](#amicably) · [Amnesia](#amnesia) · [ample](#ample) · [Amputate](#amputate) · [Amused](#amused) · [Analogy](#analogy) · [Anchor Point](#anchor-point) · [Angst](#angst) · [Anguished](#anguished) · [Annex](#annex) · [Annexation](#annexation) · [Anoint](#anoint) · [Antsy](#antsy) · [anymore](#anymore) · [Aplomb](#aplomb) · [Appalled](#appalled) · [Appalling](#appalling) · [Apparent](#apparent) · [appealing](#appealing) · [Apprehension](#apprehension) · [Apprised](#apprised) · [Archaic](#archaic) · [Armagedom](#armagedom) · [Arrogant](#arrogant) · [Arson](#arson) · [Ascend](#ascend) · [Aspersion](#aspersion) · [Assassination](#assassination) · [Assault](#assault) · [Assiduously](#assiduously) · [Assimilate](#assimilate) · [Assorted](#assorted) · [Assuage](#assuage) · [Astonished](#astonished) · [Astounding](#astounding) · [Astute](#astute) · [asymmetry](#asymmetry) · [Attain](#attain) · [Atypical](#atypical) · [Audacity](#audacity) · [Averse](#averse) · [Avert](#avert) · [Avid](#avid) · [axiom](#axiom)
+[Abandon](#abandon) · [Aberration](#aberration) · [Abort](#abort) · [Abreast](#abreast) · [abrupt](#abrupt) · [Absolution](#absolution) · [Absurd](#absurd) · [Abuzz](#abuzz) · [Abysmal](#abysmal) · [Abyss](#abyss) · [Accentuate](#accentuate) · [Accessible](#accessible) · [Accolade](#accolade) · [Accomplished](#accomplished) · [Accord](#accord) · [account](#account) · [Accountability](#accountability) · [Accreditation](#accreditation) · [Accrue](#accrue) · [Accumulate](#accumulate) · [Acquainted](#acquainted) · [Acquire](#acquire) · [Acquisition](#acquisition) · [ad hoc](#ad-hoc) · [Adage](#adage) · [Adaptable](#adaptable) · [Adhere](#adhere) · [Admonish](#admonish) · [Admonished](#admonished) · [Adulation](#adulation) · [Advent](#advent) · [Aegis](#aegis) · [Aesthetic](#aesthetic) · [Affectation](#affectation) · [Affectionate](#affectionate) · [Affinity](#affinity) · [Afflict](#afflict) · [Afoot](#afoot) · [Afterlife](#afterlife) · [Aggravate](#aggravate) · [Agonizing](#agonizing) · [Agony](#agony) · [aim](#aim) · [Akin](#akin) · [Albeit](#albeit) · [Align](#align) · [all in all](#all-in-all) · [Alleviate](#alleviate) · [Allude](#allude) · [Aloof](#aloof) · [Altercation](#altercation) · [Ambitious](#ambitious) · [Ambush](#ambush) · [Amenity](#amenity) · [Amiable](#amiable) · [Amicably](#amicably) · [Amnesia](#amnesia) · [ample](#ample) · [Amputate](#amputate) · [Amused](#amused) · [Analogy](#analogy) · [Anchor Point](#anchor-point) · [Anchorage](#anchorage) · [Angst](#angst) · [Anguished](#anguished) · [Annex](#annex) · [Annexation](#annexation) · [Anoint](#anoint) · [Antique](#antique) · [Antsy](#antsy) · [Anxious](#anxious) · [anymore](#anymore) · [Aplomb](#aplomb) · [Appalled](#appalled) · [Appalling](#appalling) · [Apparent](#apparent) · [appealing](#appealing) · [Apprehension](#apprehension) · [Apprised](#apprised) · [Archaic](#archaic) · [Armagedom](#armagedom) · [Armband](#armband) · [Arrogant](#arrogant) · [Arse](#arse) · [Arson](#arson) · [Ascend](#ascend) · [Ascendancy](#ascendancy) · [Aspersion](#aspersion) · [Aspiration](#aspiration) · [Aspirational](#aspirational) · [Aspiring](#aspiring) · [Assassination](#assassination) · [Assault](#assault) · [assess](#assess) · [Assiduously](#assiduously) · [Assimilate](#assimilate) · [Assorted](#assorted) · [Assuage](#assuage) · [Astonished](#astonished) · [Astounding](#astounding) · [Astute](#astute) · [asymmetry](#asymmetry) · [Attain](#attain) · [Atypical](#atypical) · [Audacity](#audacity) · [Auspicious](#auspicious) · [Authority](#authority) · [Averse](#averse) · [Avert](#avert) · [Avid](#avid) · [axiom](#axiom)
 
 **B**
 
-[Back out](#back-out) · [Backdrop](#backdrop) · [Badass](#badass) · [Badger](#badger) · [Bagel](#bagel) · [Ballpark](#ballpark) · [Banter](#banter) · [Barge](#barge) · [Beacon](#beacon) · [beat](#beat) · [Bedrock](#bedrock) · [Begrudge](#begrudge) · [Begrudgingly](#begrudgingly) · [Behest](#behest) · [Behoove](#behoove) · [Behove](#behove) · [Belligerence](#belligerence) · [belligerent](#belligerent) · [Bellwether](#bellwether) · [Benignant](#benignant) · [Bereavement](#bereavement) · [Berserk](#berserk) · [Big-headed](#big-headed) · [Bigamy](#bigamy) · [Bigotry](#bigotry) · [Bimbo](#bimbo) · [bite me](#bite-me) · [bizarre](#bizarre) · [Blab](#blab) · [Blabber](#blabber) · [Blend](#blend) · [Blindsided / blind side](#blindsided--blind-side) · [Blip](#blip) · [Blister](#blister) · [blistering](#blistering) · [Blurt out](#blurt-out) · [Boastful](#boastful) · [Bolster](#bolster) · [Bombardment](#bombardment) · [Bonhomie](#bonhomie) · [boomerange](#boomerange) · [Boorish](#boorish) · [borrow](#borrow) · [bosom](#bosom) · [Bossy](#bossy) · [Brainchild](#brainchild) · [Brazen](#brazen) · [Break-even](#break-even) · [breakthrough](#breakthrough) · [Brew](#brew) · [Brilliance](#brilliance) · [Brim](#brim) · [Brooding](#brooding) · [Brusque](#brusque) · [Buck](#buck) · [Bucking](#bucking) · [Budge](#budge) · [Bug](#bug) · [Bugger](#bugger) · [Burp](#burp)
+[Babble](#babble) · [Back out](#back-out) · [Backdrop](#backdrop) · [Backstory](#backstory) · [Backup](#backup) · [Badass](#badass) · [Badger](#badger) · [Bagel](#bagel) · [Ballpark](#ballpark) · [Banter](#banter) · [Barge](#barge) · [Beacon](#beacon) · [Beaned](#beaned) · [beat](#beat) · [Bedrock](#bedrock) · [Begrudge](#begrudge) · [Begrudgingly](#begrudgingly) · [Behest](#behest) · [Behoove](#behoove) · [Behove](#behove) · [Belligerence](#belligerence) · [belligerent](#belligerent) · [Bellwether](#bellwether) · [Benignant](#benignant) · [Bereavement](#bereavement) · [Berserk](#berserk) · [Big-headed](#big-headed) · [Bigamy](#bigamy) · [Bigotry](#bigotry) · [Bimbo](#bimbo) · [Binding](#binding) · [Binge](#binge) · [bite me](#bite-me) · [bizarre](#bizarre) · [Blab](#blab) · [Blabber](#blabber) · [Blend](#blend) · [Blindsided / blind side](#blindsided--blind-side) · [Blip](#blip) · [Blister](#blister) · [blistering](#blistering) · [Blob](#blob) · [Boastful](#boastful) · [Bold](#bold) · [Bolster](#bolster) · [Bolt-on](#bolt-on) · [Bombardment](#bombardment) · [Bonhomie](#bonhomie) · [Booby-trapped](#booby-trapped) · [boomerange](#boomerange) · [Boorish](#boorish) · [borrow](#borrow) · [bosom](#bosom) · [Bossy](#bossy) · [Brainchild](#brainchild) · [Brat](#brat) · [Brazen](#brazen) · [Break-even](#break-even) · [Breakdown](#breakdown) · [breakthrough](#breakthrough) · [Breathless](#breathless) · [Brew](#brew) · [Brick](#brick) · [Brilliance](#brilliance) · [Brim](#brim) · [Brooding](#brooding) · [Brusque](#brusque) · [Buck](#buck) · [Bucking](#bucking) · [Budge](#budge) · [Bug](#bug) · [Bugger](#bugger) · [Burp](#burp) · [Bury](#bury) · [Busk](#busk) · [Buzzing](#buzzing) · [Byproduct](#byproduct)
 
 **C**
 
-[Cadence](#cadence) · [Cajole](#cajole) · [Callous](#callous) · [Camouflage](#camouflage) · [Candor](#candor) · [Canonical](#canonical) · [Capitulate](#capitulate) · [Capitulation](#capitulation) · [Captivate](#captivate) · [Carefree](#carefree) · [Caressing](#caressing) · [Cascade](#cascade) · [Catapult](#catapult) · [Catastrophic](#catastrophic) · [Cater](#cater) · [Caveat](#caveat) · [Cessation](#cessation) · [Chalk out](#chalk-out) · [Chaos](#chaos) · [Chaperone](#chaperone) · [Chastise](#chastise) · [Cheekily](#cheekily) · [Cherish](#cherish) · [Chicken Coop](#chicken-coop) · [Chide](#chide) · [Chips](#chips) · [Chisel](#chisel) · [Chomping](#chomping) · [Churn Out](#churn-out) · [Chutzpah](#chutzpah) · [Circa](#circa) · [Circumspect](#circumspect) · [Claimant](#claimant) · [Clasp](#clasp) · [Clench](#clench) · [Clenching](#clenching) · [Cliché](#cliché) · [Cliffhanger](#cliffhanger) · [Cling](#cling) · [Clinging](#clinging) · [Clingy](#clingy) · [Clink](#clink) · [Clogging](#clogging) · [Clumsiness](#clumsiness) · [Clunky](#clunky) · [Co-inhabited](#co-inhabited) · [Coalesce](#coalesce) · [Coercion](#coercion) · [Coetus](#coetus) · [Cognizance](#cognizance) · [Coherent/incoherent](#coherentincoherent) · [Cohesion](#cohesion) · [Cohesive](#cohesive) · [Cohort](#cohort) · [cold feet](#cold-feet) · [Colluding](#colluding) · [Colossal](#colossal) · [Commotion](#commotion) · [Commute](#commute) · [Compassionate](#compassionate) · [Compelling](#compelling) · [Compile](#compile) · [Complacent](#complacent) · [Complexion](#complexion) · [Composed](#composed) · [Comprehension](#comprehension) · [comprise](#comprise) · [Conceal](#conceal) · [conceptualize](#conceptualize) · [Concierge](#concierge) · [Concoct](#concoct) · [concur](#concur) · [Concussion](#concussion) · [Condemnable](#condemnable) · [Condescending](#condescending) · [Condo](#condo) · [Condone](#condone) · [Conducive](#conducive) · [conduit](#conduit) · [Confidante](#confidante) · [Confide](#confide) · [confiscate](#confiscate) · [Confiscated](#confiscated) · [Conflate](#conflate) · [Conflated, conflate](#conflated-conflate) · [Conglomerate](#conglomerate) · [Congruent](#congruent) · [Conjecture](#conjecture) · [Connotation](#connotation) · [Conscience](#conscience) · [Consecration](#consecration) · [Consensus](#consensus) · [Considerate](#considerate) · [Console](#console) · [Conspicuous](#conspicuous) · [Constituent](#constituent) · [Construe](#construe) · [Contagious](#contagious) · [Contemporary](#contemporary) · [Contempt](#contempt) · [Contended](#contended) · [Contender](#contender) · [Content](#content) · [Contention](#contention) · [Contentious](#contentious) · [Contextualize](#contextualize) · [Contingency Plan](#contingency-plan) · [Contrast](#contrast) · [Conundrum](#conundrum) · [Convergence](#convergence) · [Conviction](#conviction) · [Cooed](#cooed) · [Cope](#cope) · [Copious](#copious) · [copious sarcasm](#copious-sarcasm) · [Cordoned](#cordoned) · [Cornerstone](#cornerstone) · [Corral](#corral) · [Counterfeit](#counterfeit) · [Counterintuitive](#counterintuitive) · [Courageous](#courageous) · [Courteous](#courteous) · [Covert](#covert) · [Coxing](#coxing) · [Crabber](#crabber) · [Cramp](#cramp) · [Cramped](#cramped) · [Credulity](#credulity) · [Creep out](#creep-out) · [Creepy](#creepy) · [Crib](#crib) · [Crooked](#crooked) · [Crouch](#crouch) · [Crouched](#crouched) · [Crud](#crud) · [Cruel](#cruel) · [Crumbling](#crumbling) · [Crummy](#crummy) · [Crystallize](#crystallize) · [Cue vs Clue](#cue-vs-clue) · [Cuisine](#cuisine) · [Culminated](#culminated) · [Cumbersome](#cumbersome) · [Cunning](#cunning) · [Curtness](#curtness) · [Cushion](#cushion) · [Custodian](#custodian) · [Cut a new deal](#cut-a-new-deal) · [Cynical](#cynical)
+[Cad](#cad) · [Cadence](#cadence) · [Cajole](#cajole) · [Callous](#callous) · [Camouflage](#camouflage) · [Candor](#candor) · [Canoe](#canoe) · [Canonical](#canonical) · [Canopy](#canopy) · [Capacity](#capacity) · [Capitulate](#capitulate) · [Capitulation](#capitulation) · [Captivate](#captivate) · [Carefree](#carefree) · [Caressing](#caressing) · [Cascade](#cascade) · [Cast](#cast) · [Catapult](#catapult) · [Catastrophic](#catastrophic) · [Catch](#catch) · [Catchy](#catchy) · [Cater](#cater) · [catfish](#catfish) · [Caveat](#caveat) · [Cessation](#cessation) · [Chameleon](#chameleon) · [Channel](#channel) · [Chaos](#chaos) · [Chaperone](#chaperone) · [Chastise](#chastise) · [Cheekily](#cheekily) · [Cherish](#cherish) · [Cherry-pick](#cherry-pick) · [Chicken Coop](#chicken-coop) · [Chide](#chide) · [Chips](#chips) · [Chisel](#chisel) · [Choke](#choke) · [Chomping](#chomping) · [Choppy](#choppy) · [Chore](#chore) · [Chummy](#chummy) · [Chutzpah](#chutzpah) · [Circa](#circa) · [Circumspect](#circumspect) · [Clad](#clad) · [Claimant](#claimant) · [Clamping](#clamping) · [Clasp](#clasp) · [Cleft](#cleft) · [Clench](#clench) · [Clenched](#clenched) · [Clenching](#clenching) · [Cliché](#cliché) · [clickbait](#clickbait) · [Cliffhanger](#cliffhanger) · [Cling](#cling) · [Clinging](#clinging) · [Clingy](#clingy) · [Clink](#clink) · [Clogging](#clogging) · [Clue](#clue) · [Clumsiness](#clumsiness) · [Clumsy](#clumsy) · [Clunky](#clunky) · [Co-inhabited](#co-inhabited) · [Coalesce](#coalesce) · [Coarse](#coarse) · [Coercion](#coercion) · [Coetus](#coetus) · [Cognizance](#cognizance) · [Coherent/incoherent](#coherentincoherent) · [Cohesion](#cohesion) · [Cohesive](#cohesive) · [Cohort](#cohort) · [cold feet](#cold-feet) · [Colluding](#colluding) · [Colossal](#colossal) · [Commotion](#commotion) · [Commute](#commute) · [Compassion](#compassion) · [Compassionate](#compassionate) · [Compelling](#compelling) · [Compile](#compile) · [Complacent](#complacent) · [Complex](#complex) · [Complexion](#complexion) · [Comply](#comply) · [Composed](#composed) · [Comprehension](#comprehension) · [comprise](#comprise) · [Conceal](#conceal) · [conceptualize](#conceptualize) · [Concierge](#concierge) · [Concoct](#concoct) · [concur](#concur) · [Concussion](#concussion) · [Condemnable](#condemnable) · [Condescending](#condescending) · [Condo](#condo) · [Condone](#condone) · [Conducive](#conducive) · [conduit](#conduit) · [Confidante](#confidante) · [Confide](#confide) · [confiscate](#confiscate) · [Confiscated](#confiscated) · [Conflate](#conflate) · [Conflated, conflate](#conflated-conflate) · [Conform](#conform) · [Confuse](#confuse) · [Conglomerate](#conglomerate) · [Congruent](#congruent) · [Conjecture](#conjecture) · [Conman](#conman) · [Connotation](#connotation) · [Conscience](#conscience) · [Conscientious](#conscientious) · [Consecration](#consecration) · [Consensus](#consensus) · [Considerate](#considerate) · [Console](#console) · [Conspicuous](#conspicuous) · [Constituent](#constituent) · [Construe](#construe) · [Contagious](#contagious) · [Contemporary](#contemporary) · [Contempt](#contempt) · [Contended](#contended) · [Contender](#contender) · [Content](#content) · [Contention](#contention) · [Contentious](#contentious) · [Contextualize](#contextualize) · [Contingency Plan](#contingency-plan) · [Contrast](#contrast) · [Controversial](#controversial) · [Conundrum](#conundrum) · [Convergence](#convergence) · [Conviction](#conviction) · [Convince](#convince) · [Convoluted](#convoluted) · [Cooed](#cooed) · [Cope](#cope) · [Copious](#copious) · [copious sarcasm](#copious-sarcasm) · [Cordoned](#cordoned) · [Corduroy](#corduroy) · [Cornerstone](#cornerstone) · [Corral](#corral) · [Counterfeit](#counterfeit) · [Counterintuitive](#counterintuitive) · [Counterpart](#counterpart) · [Courageous](#courageous) · [Courteous](#courteous) · [Covert](#covert) · [Coward](#coward) · [Coxing](#coxing) · [Crabber](#crabber) · [Crackerjack](#crackerjack) · [Cram](#cram) · [Cramp](#cramp) · [Cramped](#cramped) · [Craving](#craving) · [Credulity](#credulity) · [Creepy](#creepy) · [Crew](#crew) · [Crib](#crib) · [Crooked](#crooked) · [Crouch](#crouch) · [Crouched](#crouched) · [Crucial](#crucial) · [Crud](#crud) · [Cruel](#cruel) · [Crumbling](#crumbling) · [Crummy](#crummy) · [Crutch](#crutch) · [Crystallize](#crystallize) · [Cue vs Clue](#cue-vs-clue) · [Cuisine](#cuisine) · [Culminated](#culminated) · [Cumbersome](#cumbersome) · [Cunning](#cunning) · [Curtness](#curtness) · [Cushion](#cushion) · [Custodian](#custodian) · [Cut a new deal](#cut-a-new-deal) · [Cynical](#cynical)
 
 **D**
 
-[Dabbed](#dabbed) · [Damp](#damp) · [Dangling](#dangling) · [Darn it](#darn-it) · [Dazzle](#dazzle) · [de facto](#de-facto) · [Dearth](#dearth) · [Debacle](#debacle) · [Debunk](#debunk) · [Decapitated](#decapitated) · [Deceased](#deceased) · [Decimate](#decimate) · [Decree](#decree) · [Deduce](#deduce) · [Deductive Reasoning](#deductive-reasoning) · [defiant](#defiant) · [Deflection](#deflection) · [Dejected](#dejected) · [Deliberation](#deliberation) · [Delicate](#delicate) · [Delinquent](#delinquent) · [Deluge](#deluge) · [Delusion](#delusion) · [Delve](#delve) · [Demit](#demit) · [Denounce](#denounce) · [Deplete](#deplete) · [Deplore](#deplore) · [Deposition](#deposition) · [Derangement](#derangement) · [Dereliction](#dereliction) · [Derogatory](#derogatory) · [Desist](#desist) · [Desolate](#desolate) · [Despair](#despair) · [Despise](#despise) · [Despondent](#despondent) · [Detestable](#detestable) · [Detour](#detour) · [Detract](#detract) · [Detractor](#detractor) · [Detrimental](#detrimental) · [Devastating](#devastating) · [Devious](#devious) · [Devise](#devise) · [Devolve](#devolve) · [Devour](#devour) · [Diabolical](#diabolical) · [Digress](#digress) · [Diligent](#diligent) · [Diligently](#diligently) · [Diminish](#diminish) · [Dimple](#dimple) · [Discord](#discord) · [Discrepant](#discrepant) · [Discretion](#discretion) · [Disdain](#disdain) · [Disentitle](#disentitle) · [Disgruntled](#disgruntled) · [Disguise](#disguise) · [Disheartened](#disheartened) · [Disheveled](#disheveled) · [Disinclination](#disinclination) · [dislodge](#dislodge) · [Dismay](#dismay) · [Dismembered](#dismembered) · [Disparity](#disparity) · [Disperse](#disperse) · [Disrobe](#disrobe) · [Dissent](#dissent) · [Dissipate](#dissipate) · [Dissuade](#dissuade) · [Distil](#distil) · [Distinguish](#distinguish) · [Distraught](#distraught) · [Distress](#distress) · [Divulge](#divulge) · [Docile (daa·sl)](#docile-daasl) · [Dogma](#dogma) · [Dogmatic](#dogmatic) · [Doldrums](#doldrums) · [Domineering](#domineering) · [Donning](#donning) · [Doom](#doom) · [Dope](#dope) · [Dormant](#dormant) · [Dormitory](#dormitory) · [Douche](#douche) · [Downplay](#downplay) · [Doxxing](#doxxing) · [Drap](#drap) · [Drape](#drape) · [Drawn](#drawn) · [Dread](#dread) · [Dreaded](#dreaded) · [Dribble](#dribble) · [Dripping](#dripping) · [Dross](#dross) · [Dulcet](#dulcet) · [Dumbfounded](#dumbfounded) · [Dumpling](#dumpling) · [Dungeon](#dungeon) · [duplicitous](#duplicitous) · [Duress](#duress)
+[Dabbed](#dabbed) · [Damp](#damp) · [Dangling](#dangling) · [Darn it](#darn-it) · [Dawn](#dawn) · [Dazzle](#dazzle) · [de facto](#de-facto) · [Dearth](#dearth) · [Debacle](#debacle) · [Debunk](#debunk) · [Debut](#debut) · [Decapitated](#decapitated) · [Deceased](#deceased) · [Decimate](#decimate) · [Deck](#deck) · [Decree](#decree) · [Deduce](#deduce) · [Deductive Reasoning](#deductive-reasoning) · [defiant](#defiant) · [Deflected](#deflected) · [Deflection](#deflection) · [Dejected](#dejected) · [Deliberation](#deliberation) · [Delicate](#delicate) · [Delinquent](#delinquent) · [Deluge](#deluge) · [Delusion](#delusion) · [Delve](#delve) · [Demit](#demit) · [Denounce](#denounce) · [Deplete](#deplete) · [Deplore](#deplore) · [Deposition](#deposition) · [Derangement](#derangement) · [Dereliction](#dereliction) · [Derogatory](#derogatory) · [Descendant](#descendant) · [Desist](#desist) · [Desolate](#desolate) · [Despair](#despair) · [Despise](#despise) · [despite](#despite) · [Despondent](#despondent) · [Detestable](#detestable) · [Detour](#detour) · [Detract](#detract) · [Detractor](#detractor) · [Detrimental](#detrimental) · [Devastating](#devastating) · [Devious](#devious) · [Devise](#devise) · [Devolve](#devolve) · [Devoted](#devoted) · [Devour](#devour) · [Diabolical](#diabolical) · [Digress](#digress) · [Diligent](#diligent) · [Diligently](#diligently) · [Diminish](#diminish) · [Dimple](#dimple) · [Dire](#dire) · [Discord](#discord) · [Discrepant](#discrepant) · [Discretion](#discretion) · [Disdain](#disdain) · [Disentitle](#disentitle) · [Disgruntled](#disgruntled) · [Disguise](#disguise) · [Disheartened](#disheartened) · [Disheveled](#disheveled) · [Disinclination](#disinclination) · [dislodge](#dislodge) · [Dismay](#dismay) · [Dismembered](#dismembered) · [Disparity](#disparity) · [Disperse](#disperse) · [Disrobe](#disrobe) · [Dissent](#dissent) · [Dissipate](#dissipate) · [Dissuade](#dissuade) · [Distil](#distil) · [Distinguish](#distinguish) · [Distorted](#distorted) · [Distraught](#distraught) · [Distress](#distress) · [Ditch](#ditch) · [Divulge](#divulge) · [DM](#dm) · [Docile (daa·sl)](#docile-daasl) · [Dogma](#dogma) · [Dogmatic](#dogmatic) · [Doldrums](#doldrums) · [Domineering](#domineering) · [Donning](#donning) · [Doom](#doom) · [Dope](#dope) · [Dormant](#dormant) · [Dormitory](#dormitory) · [Douche](#douche) · [douchebag](#douchebag) · [Downplay](#downplay) · [Downside](#downside) · [Downtime](#downtime) · [Doxxing](#doxxing) · [Drap](#drap) · [Drape](#drape) · [Drawl](#drawl) · [Drawn](#drawn) · [Dread](#dread) · [Dreaded](#dreaded) · [Dribble](#dribble) · [Dripping](#dripping) · [Drive](#drive) · [Dross](#dross) · [Ducked](#ducked) · [Dulcet](#dulcet) · [Dumbfounded](#dumbfounded) · [Dump](#dump) · [Dumpling](#dumpling) · [Dungeon](#dungeon) · [duplicitous](#duplicitous) · [Duress](#duress)
 
 **E**
 
-[Eavesdropping](#eavesdropping) · [Ecstatic](#ecstatic) · [Eerie](#eerie) · [Effervescent](#effervescent) · [Efficacy](#efficacy) · [Egalitarianism](#egalitarianism) · [Egregious](#egregious) · [Elated](#elated) · [Elegant](#elegant) · [Elevate](#elevate) · [Elevation](#elevation) · [Elicit](#elicit) · [Elucidate](#elucidate) · [Elude](#elude) · [Elusive](#elusive) · [Emanate](#emanate) · [Emancipation](#emancipation) · [Emasculating](#emasculating) · [Embark](#embark) · [Embodiment](#embodiment) · [Embody](#embody) · [Emboldened](#emboldened) · [Embroil](#embroil) · [Emeritus](#emeritus) · [Eminent](#eminent) · [Empathetic](#empathetic) · [Empirical](#empirical) · [en masse](#en-masse) · [Enamor](#enamor) · [Enchanting](#enchanting) · [Endurance](#endurance) · [Endure](#endure) · [enduring](#enduring) · [Engorge](#engorge) · [Engrossed](#engrossed) · [Engrossing](#engrossing) · [Engulf](#engulf) · [Enigma](#enigma) · [Enigmatic](#enigmatic) · [Enlist](#enlist) · [Enormity](#enormity) · [Ensign](#ensign) · [Entail](#entail) · [Entelechy](#entelechy) · [Enthrall](#enthrall) · [Entice](#entice) · [Entourage](#entourage) · [Enunciate](#enunciate) · [Envious](#envious) · [Envisage](#envisage) · [Ephemeral](#ephemeral) · [Epilogue](#epilogue) · [Epiphany](#epiphany) · [Epitome](#epitome) · [Equitable](#equitable) · [Errand](#errand) · [Erratic](#erratic) · [Erroneous](#erroneous) · [Escort](#escort) · [Espouse](#espouse) · [Essence](#essence) · [Etiquette](#etiquette) · [Euphemism](#euphemism) · [Euphoria](#euphoria) · [Eventually](#eventually) · [Exacerbate](#exacerbate) · [Exasperate](#exasperate) · [Excerpt](#excerpt) · [Exclude](#exclude) · [Excruciating](#excruciating) · [Excruciatingly](#excruciatingly) · [Execrable](#execrable) · [Exert](#exert) · [Exertion](#exertion) · [Exhilarated](#exhilarated) · [Exhort](#exhort) · [Exigency](#exigency) · [Exodus](#exodus) · [Exoneration](#exoneration) · [Exotic](#exotic) · [Expediency](#expediency) · [Expedite](#expedite) · [Expedition](#expedition) · [Explore](#explore) · [Exponent](#exponent) · [Exquisite](#exquisite) · [Exquisitely](#exquisitely) · [Extinct](#extinct) · [Extol](#extol) · [Extrapolate](#extrapolate) · [extravagant](#extravagant) · [Extricate](#extricate) · [Exude](#exude)
+[Eager](#eager) · [Eavesdropping](#eavesdropping) · [ecotourism](#ecotourism) · [Ecstatic](#ecstatic) · [Eerie](#eerie) · [Effervescent](#effervescent) · [Efficacy](#efficacy) · [Egalitarianism](#egalitarianism) · [Egregious](#egregious) · [Elated](#elated) · [Elderly](#elderly) · [Elegant](#elegant) · [Elevate](#elevate) · [Elevation](#elevation) · [Elicit](#elicit) · [Elucidate](#elucidate) · [Elude](#elude) · [Elusive](#elusive) · [Emanate](#emanate) · [Emancipation](#emancipation) · [Emasculating](#emasculating) · [Embark](#embark) · [Embodiment](#embodiment) · [Embody](#embody) · [Emboldened](#emboldened) · [Embrace](#embrace) · [Embroil](#embroil) · [Emeritus](#emeritus) · [Eminent](#eminent) · [Empathetic](#empathetic) · [Empirical](#empirical) · [Emulate](#emulate) · [en masse](#en-masse) · [Enamor](#enamor) · [Enchanting](#enchanting) · [Endurance](#endurance) · [Endure](#endure) · [enduring](#enduring) · [Engorge](#engorge) · [Engrossed](#engrossed) · [Engrossing](#engrossing) · [Engulf](#engulf) · [Enigma](#enigma) · [Enigmatic](#enigmatic) · [Enlist](#enlist) · [Enormity](#enormity) · [Enraged](#enraged) · [Ensign](#ensign) · [Entail](#entail) · [Entelechy](#entelechy) · [Enthrall](#enthrall) · [Entice](#entice) · [Entourage](#entourage) · [Enunciate](#enunciate) · [Envious](#envious) · [Envisage](#envisage) · [Ephemeral](#ephemeral) · [Epilogue](#epilogue) · [Epiphany](#epiphany) · [Epitome](#epitome) · [Epitomized](#epitomized) · [Equitable](#equitable) · [Errand](#errand) · [Erratic](#erratic) · [Erroneous](#erroneous) · [Escort](#escort) · [Espouse](#espouse) · [Essence](#essence) · [Estranged](#estranged) · [Etiquette](#etiquette) · [Euphemism](#euphemism) · [Euphoria](#euphoria) · [Eventually](#eventually) · [Exacerbate](#exacerbate) · [Exasperate](#exasperate) · [Exasperated](#exasperated) · [Excerpt](#excerpt) · [Exclude](#exclude) · [Excruciating](#excruciating) · [Excruciatingly](#excruciatingly) · [Execrable](#execrable) · [Exert](#exert) · [Exertion](#exertion) · [Exhilarated](#exhilarated) · [Exhort](#exhort) · [Exigency](#exigency) · [Exodus](#exodus) · [Exoneration](#exoneration) · [Exotic](#exotic) · [expectations](#expectations) · [Expediency](#expediency) · [Expedite](#expedite) · [Expedition](#expedition) · [Explore](#explore) · [Exponent](#exponent) · [Exposure](#exposure) · [Exquisite](#exquisite) · [Exquisitely](#exquisitely) · [Extinct](#extinct) · [Extol](#extol) · [Extrapolate](#extrapolate) · [extravagant](#extravagant) · [Extricate](#extricate) · [Exude](#exude)
 
 **F**
 
-[Facade](#facade) · [Facet](#facet) · [Facilitate](#facilitate) · [Faction](#faction) · [Faint](#faint) · [Fallacy](#fallacy) · [Falling out](#falling-out) · [Fallouts](#fallouts) · [Fandom](#fandom) · [Fanfare](#fanfare) · [Far-fetched](#far-fetched) · [Farcical](#farcical) · [Fasten](#fasten) · [Fathom](#fathom) · [Fawn](#fawn) · [Feasibility](#feasibility) · [Feign](#feign) · [Ferocity](#ferocity) · [Fervent](#fervent) · [Fervor](#fervor) · [Fiasco](#fiasco) · [Fickle](#fickle) · [Fickleness](#fickleness) · [Fiddled](#fiddled) · [Fidget](#fidget) · [fitting](#fitting) · [Flabbergasted](#flabbergasted) · [Flaccid](#flaccid) · [Flaccidly](#flaccidly) · [Flak](#flak) · [Flap](#flap) · [Flatter](#flatter) · [Flaunt](#flaunt) · [Flex](#flex) · [Flicked](#flicked) · [Flicking](#flicking) · [Flora and fauna](#flora-and-fauna) · [Floura and fauna](#floura-and-fauna) · [Flout](#flout) · [Fluffy](#fluffy) · [fluttered](#fluttered) · [Folklore](#folklore) · [Fondest memories](#fondest-memories) · [Fondle](#fondle) · [Fondling](#fondling) · [Foray](#foray) · [Forcible](#forcible) · [Foresight](#foresight) · [Forfeit](#forfeit) · [Forgo](#forgo) · [Forsake](#forsake) · [Fortuitous](#fortuitous) · [Fracas](#fracas) · [Frank](#frank) · [Fraternity](#fraternity) · [Frenemy](#frenemy) · [Frenetic](#frenetic) · [Frisk](#frisk) · [Frivolity](#frivolity) · [Frivolous](#frivolous) · [Frown](#frown) · [Frugal](#frugal) · [Fugitive](#fugitive) · [Fumble](#fumble) · [Fussy](#fussy) · [futile](#futile) · [Fuzzy](#fuzzy)
+[Fable](#fable) · [Facade](#facade) · [Facet](#facet) · [Facilitate](#facilitate) · [Faction](#faction) · [Faint](#faint) · [Fallacy](#fallacy) · [Fallouts](#fallouts) · [Falsify](#falsify) · [Familiarize](#familiarize) · [Fandom](#fandom) · [Fanfare](#fanfare) · [Far-fetched](#far-fetched) · [Farcical](#farcical) · [Fasten](#fasten) · [Fathom](#fathom) · [Fawn](#fawn) · [Feasibility](#feasibility) · [Feign](#feign) · [Ferocity](#ferocity) · [Fervent](#fervent) · [Fervor](#fervor) · [Fiasco](#fiasco) · [Fickle](#fickle) · [Fickleness](#fickleness) · [Fiddled](#fiddled) · [Fidelity](#fidelity) · [Fidget](#fidget) · [Field](#field) · [Filthy](#filthy) · [Fine-tune](#fine-tune) · [firmly](#firmly) · [fitting](#fitting) · [Flabbergasted](#flabbergasted) · [Flaccid](#flaccid) · [Flaccidly](#flaccidly) · [Flak](#flak) · [Flap](#flap) · [Flashback](#flashback) · [Flashcard](#flashcard) · [Flatter](#flatter) · [Flaunt](#flaunt) · [Flawless](#flawless) · [fleabag](#fleabag) · [Flee](#flee) · [Flex](#flex) · [Flicked](#flicked) · [Flicking](#flicking) · [Float](#float) · [Flora and fauna](#flora-and-fauna) · [Flour](#flour) · [Floura and fauna](#floura-and-fauna) · [Flout](#flout) · [Flow](#flow) · [Fluff](#fluff) · [Fluffy](#fluffy) · [fluttered](#fluttered) · [fly-drive](#fly-drive) · [Folklore](#folklore) · [Fondest memories](#fondest-memories) · [Fondle](#fondle) · [Fondling](#fondling) · [Foray](#foray) · [Forcible](#forcible) · [Foresight](#foresight) · [Forfeit](#forfeit) · [Forgo](#forgo) · [Former](#former) · [Forsake](#forsake) · [Fortuitous](#fortuitous) · [Fowl](#fowl) · [Fracas](#fracas) · [Frank](#frank) · [Frat](#frat) · [Fraternity](#fraternity) · [Freckle](#freckle) · [Frenemy](#frenemy) · [Frenetic](#frenetic) · [Fringe](#fringe) · [Frisk](#frisk) · [Frivolity](#frivolity) · [Frivolous](#frivolous) · [Frown](#frown) · [Frowned](#frowned) · [Frugal](#frugal) · [Fudge](#fudge) · [Fugitive](#fugitive) · [Fulfill](#fulfill) · [Fulfilling](#fulfilling) · [Fulfillment](#fulfillment) · [Fumble](#fumble) · [furthermore](#furthermore) · [Fussy](#fussy) · [futile](#futile) · [Fuzzy](#fuzzy)
 
 **G**
 
-[Gag](#gag) · [Galvanize](#galvanize) · [Gaslight](#gaslight) · [Gasped/gasp](#gaspedgasp) · [Gavel](#gavel) · [Gaze](#gaze) · [Generous](#generous) · [Get going](#get-going) · [Getaway](#getaway) · [Gibberish](#gibberish) · [Giddy](#giddy) · [Gimmick](#gimmick) · [Gist](#gist) · [Giveaway](#giveaway) · [Gladden](#gladden) · [Glean](#glean) · [glistening](#glistening) · [gloat](#gloat) · [Gloating](#gloating) · [Glum](#glum) · [Goo](#goo) · [Goosebump](#goosebump) · [Grasp](#grasp) · [Gratification](#gratification) · [Gravitas](#gravitas) · [Gregarious](#gregarious) · [Grim](#grim) · [Grinning](#grinning) · [Grit](#grit) · [Groan/Groaned](#groangroaned) · [Groggy](#groggy) · [Grope](#grope) · [Groundbreaking](#groundbreaking) · [Grudge](#grudge) · [Grumpy](#grumpy) · [Gullible](#gullible) · [Gush](#gush) · [Gushing](#gushing) · [Gutsy](#gutsy)
+[Gag](#gag) · [Galvanize](#galvanize) · [Garrison](#garrison) · [Gaslight](#gaslight) · [Gasped](#gasped) · [Gasped/gasp](#gaspedgasp) · [Gauge](#gauge) · [Gavel](#gavel) · [Gaze](#gaze) · [Generous](#generous) · [Get](#get) · [Get going](#get-going) · [Getaway](#getaway) · [Gibberish](#gibberish) · [Giddy](#giddy) · [Giggled](#giggled) · [Gimmick](#gimmick) · [Gist](#gist) · [Giveaway](#giveaway) · [Given](#given) · [Gladden](#gladden) · [glamping](#glamping) · [Glean](#glean) · [glistening](#glistening) · [gloat](#gloat) · [Gloating](#gloating) · [Glum](#glum) · [gnaw](#gnaw) · [God-awful](#god-awful) · [Goggles](#goggles) · [Goo](#goo) · [Goofy](#goofy) · [Goosebump](#goosebump) · [Goosebumps](#goosebumps) · [Gorgeous](#gorgeous) · [Gourmet](#gourmet) · [Grasp](#grasp) · [Gratification](#gratification) · [Graveyard](#graveyard) · [Gravitas](#gravitas) · [Gregarious](#gregarious) · [Grim](#grim) · [Grinning](#grinning) · [Grit](#grit) · [Groan/Groaned](#groangroaned) · [Groggy](#groggy) · [Groom](#groom) · [Grope](#grope) · [Groped](#groped) · [Groundbreaking](#groundbreaking) · [Grudge](#grudge) · [Gruesome](#gruesome) · [Grumbled](#grumbled) · [Grumpy](#grumpy) · [Gullible](#gullible) · [Gush](#gush) · [Gushing](#gushing) · [Gutsy](#gutsy)
 
 **H**
 
-[Hail](#hail) · [Halfway](#halfway) · [Hamper](#hamper) · [Hand in hand](#hand-in-hand) · [Hard pass](#hard-pass) · [Harness](#harness) · [Harping](#harping) · [Havoc](#havoc) · [Head-on](#head-on) · [Headroom](#headroom) · [Headspace](#headspace) · [heartfelt](#heartfelt) · [Heckling](#heckling) · [Hedge](#hedge) · [Hefty](#hefty) · [Heinous](#heinous) · [Heir](#heir) · [Heist](#heist) · [Helter skelter](#helter-skelter) · [Henceforth](#henceforth) · [Herald](#herald) · [Hiatus](#hiatus) · [Hide-Hid-Hidden](#hide-hid-hidden) · [Hinder](#hinder) · [Hit up](#hit-up) · [Hold/Held Up](#holdheld-up) · [holler](#holler) · [Hollow](#hollow) · [Homicide](#homicide) · [Honorarium](#honorarium) · [Hooliganism](#hooliganism) · [Hop out](#hop-out) · [Horrendous](#horrendous) · [Hostile](#hostile) · [Hotchpotch](#hotchpotch) · [Hound](#hound) · [Hover](#hover) · [Howling](#howling) · [Hubris](#hubris) · [Huddle](#huddle) · [Humongous](#humongous) · [Hurl](#hurl) · [Hysterical](#hysterical)
+[Hack](#hack) · [Hail](#hail) · [Halfway](#halfway) · [Halo](#halo) · [Hamper](#hamper) · [Hand in hand](#hand-in-hand) · [Handoff](#handoff) · [Hard pass](#hard-pass) · [Harness](#harness) · [Harping](#harping) · [Harsh](#harsh) · [Harvest](#harvest) · [Haunted](#haunted) · [Havoc](#havoc) · [Hazy](#hazy) · [Head-on](#head-on) · [Headroom](#headroom) · [Headspace](#headspace) · [heartfelt](#heartfelt) · [Heckling](#heckling) · [Hedge](#hedge) · [Hefty](#hefty) · [Heinous](#heinous) · [Heir](#heir) · [Heist](#heist) · [Hell-bent](#hell-bent) · [Helpless](#helpless) · [Helter skelter](#helter-skelter) · [Henceforth](#henceforth) · [Herald](#herald) · [Hesitant](#hesitant) · [Hiatus](#hiatus) · [Hide-Hid-Hidden](#hide-hid-hidden) · [Hieroglyph](#hieroglyph) · [Hinder](#hinder) · [Hinge](#hinge) · [Hitched](#hitched) · [Hive](#hive) · [holler](#holler) · [Hollow](#hollow) · [Homicide](#homicide) · [Honorarium](#honorarium) · [Hooliganism](#hooliganism) · [Horrendous](#horrendous) · [Hostile](#hostile) · [Hotchpotch](#hotchpotch) · [hotspot](#hotspot) · [Hound](#hound) · [Hover](#hover) · [Howl](#howl) · [Howling](#howling) · [Hubris](#hubris) · [Huddle](#huddle) · [Huddled](#huddled) · [Huffed](#huffed) · [Hum](#hum) · [Humble](#humble) · [Humility](#humility) · [Humongous](#humongous) · [Hump](#hump) · [Hurl](#hurl) · [Hypocritical](#hypocritical) · [Hysterical](#hysterical)
 
 **I**
 
-[Ignominious](#ignominious) · [Illicit](#illicit) · [Illusion](#illusion) · [Imbibe](#imbibe) · [Imbroglio](#imbroglio) · [Immersion](#immersion) · [Immersive](#immersive) · [Imminent](#imminent) · [Immolate](#immolate) · [Impair](#impair) · [Impale](#impale) · [Impartial](#impartial) · [Impeccable](#impeccable) · [Impede](#impede) · [Impending](#impending) · [Impetus](#impetus) · [Implicate](#implicate) · [Implore](#implore) · [Imply](#imply) · [Importune](#importune) · [Impromptu](#impromptu) · [Improvise](#improvise) · [Impune](#impune) · [in nutshell](#in-nutshell) · [Inadmissible](#inadmissible) · [Inadvertent](#inadvertent) · [Inadvertently](#inadvertently) · [Incendiary](#incendiary) · [Incentivize](#incentivize) · [Incidental](#incidental) · [Inclined](#inclined) · [Incorporate](#incorporate) · [Incredulity](#incredulity) · [Inculcate](#inculcate) · [Incumbent](#incumbent) · [Indebtedness](#indebtedness) · [Indelible](#indelible) · [Indignant](#indignant) · [Indoctrinate](#indoctrinate) · [Indomitable](#indomitable) · [Inept](#inept) · [Inexplicable](#inexplicable) · [Infallible](#infallible) · [Infatuated](#infatuated) · [Infest](#infest) · [Infiltrate](#infiltrate) · [Infiltration](#infiltration) · [Inflammatory](#inflammatory) · [Inflection point](#inflection-point) · [Inflict](#inflict) · [Infuse](#infuse) · [Ingrain](#ingrain) · [Ingress vs Egress](#ingress-vs-egress) · [Injunction](#injunction) · [Innate](#innate) · [Innocuous](#innocuous) · [Inoculate](#inoculate) · [Inrage](#inrage) · [Inside out](#inside-out) · [insinuate](#insinuate) · [Insolvency](#insolvency) · [Instill](#instill) · [Insurgency](#insurgency) · [Insurrection](#insurrection) · [Intensify](#intensify) · [Interim](#interim) · [Interject](#interject) · [Interlude](#interlude) · [Interpolate](#interpolate) · [Intolerant](#intolerant) · [Intricate](#intricate) · [Intrigue](#intrigue) · [Intuitive](#intuitive) · [Inundate](#inundate) · [Invariably](#invariably) · [Inventive](#inventive) · [invigorate](#invigorate) · [Irk](#irk) · [Irrational](#irrational) · [Irresponsible](#irresponsible) · [Itinerary](#itinerary)
+[Ignominious](#ignominious) · [Ignorance](#ignorance) · [Illicit](#illicit) · [Illusion](#illusion) · [Imbibe](#imbibe) · [Imbroglio](#imbroglio) · [Immersion](#immersion) · [Immersive](#immersive) · [Imminent](#imminent) · [Immolate](#immolate) · [Impair](#impair) · [Impale](#impale) · [Impartial](#impartial) · [Impeccable](#impeccable) · [Impede](#impede) · [Impending](#impending) · [Impersonate](#impersonate) · [Impetus](#impetus) · [Implement](#implement) · [Implicate](#implicate) · [Implore](#implore) · [Imply](#imply) · [Importune](#importune) · [Impromptu](#impromptu) · [Improvise](#improvise) · [Impulse](#impulse) · [Impulsive](#impulsive) · [Impune](#impune) · [in nutshell](#in-nutshell) · [Inadmissible](#inadmissible) · [Inadvertent](#inadvertent) · [Inadvertently](#inadvertently) · [Incendiary](#incendiary) · [Incentivize](#incentivize) · [Incidental](#incidental) · [Incisive](#incisive) · [Inclined](#inclined) · [incommunicado](#incommunicado) · [Incompatible](#incompatible) · [Inconceivable](#inconceivable) · [Inconsistency](#inconsistency) · [Incorporate](#incorporate) · [Incredulity](#incredulity) · [Inculcate](#inculcate) · [Incumbent](#incumbent) · [Indebtedness](#indebtedness) · [Indelible](#indelible) · [Indescribable](#indescribable) · [Indigenous](#indigenous) · [Indignant](#indignant) · [Indignation](#indignation) · [Indispensable](#indispensable) · [Indoctrinate](#indoctrinate) · [Indomitable](#indomitable) · [Indulgently](#indulgently) · [Inept](#inept) · [Inert](#inert) · [Inexplicable](#inexplicable) · [Infallible](#infallible) · [Infamous](#infamous) · [Infatuated](#infatuated) · [Infest](#infest) · [Infiltrate](#infiltrate) · [Infiltration](#infiltration) · [Inflammatory](#inflammatory) · [Inflection](#inflection) · [Inflection point](#inflection-point) · [Inflict](#inflict) · [Infuse](#infuse) · [Ingrain](#ingrain) · [Ingress vs Egress](#ingress-vs-egress) · [Injunction](#injunction) · [Innate](#innate) · [Innocuous](#innocuous) · [Innuendo](#innuendo) · [Inoculate](#inoculate) · [Inrage](#inrage) · [Insecurity](#insecurity) · [Inside out](#inside-out) · [Insidious](#insidious) · [insinuate](#insinuate) · [Insinuated](#insinuated) · [Insolvency](#insolvency) · [Instill](#instill) · [Insurgency](#insurgency) · [Insurrection](#insurrection) · [Intensify](#intensify) · [Interim](#interim) · [Interject](#interject) · [Interlude](#interlude) · [Internalize](#internalize) · [Interpolate](#interpolate) · [Interrogate](#interrogate) · [Intolerant](#intolerant) · [Intricate](#intricate) · [Intrigue](#intrigue) · [Intuitive](#intuitive) · [Inundate](#inundate) · [Invariably](#invariably) · [Inventive](#inventive) · [Investigate](#investigate) · [invigorate](#invigorate) · [Irk](#irk) · [Irony](#irony) · [Irrational](#irrational) · [Irresponsible](#irresponsible) · [island-hopping](#island-hopping) · [Itinerary](#itinerary)
 
 **J**
 
-[Jabbed](#jabbed) · [Jest](#jest) · [Jingoism](#jingoism) · [Jittery](#jittery) · [Jostle](#jostle) · [Jostled](#jostled) · [Juncture](#juncture) · [Junta](#junta)
+[Jabbed](#jabbed) · [Jam-packed](#jam-packed) · [jaunt](#jaunt) · [Jaw-dropping](#jaw-dropping) · [Jest](#jest) · [Jingoism](#jingoism) · [Jittery](#jittery) · [Jostle](#jostle) · [Jostled](#jostled) · [journaling](#journaling) · [Joyride](#joyride) · [Juncture](#juncture) · [Junta](#junta)
 
 **K**
 
-[Kooky](#kooky)
+[Kernel](#kernel) · [Kickoff](#kickoff) · [Kneel](#kneel) · [Kooky](#kooky)
 
 **L**
 
-[Lackadaisical](#lackadaisical) · [Lame](#lame) · [Lament](#lament) · [Languid](#languid) · [Lash](#lash) · [Latch](#latch) · [Latent](#latent) · [Latter](#latter) · [Lavish](#lavish) · [Ledge](#ledge) · [Leg-up](#leg-up) · [Legion](#legion) · [lend](#lend) · [length and breadth](#length-and-breadth) · [Lenient](#lenient) · [Lesion](#lesion) · [Lessen](#lessen) · [Lest](#lest) · [Lewd thoughts](#lewd-thoughts) · [Libel](#libel) · [Likewise](#likewise) · [Limbo](#limbo) · [Lineage](#lineage) · [Litterateur](#litterateur) · [Loathing](#loathing) · [Loin](#loin) · [Long Shot](#long-shot) · [Longing](#longing) · [Looming](#looming) · [Looped in](#looped-in) · [Lousy](#lousy) · [lucrative](#lucrative) · [Ludicrous](#ludicrous) · [Lull](#lull) · [Lumberjack](#lumberjack) · [Lustre](#lustre)
+[Lackadaisical](#lackadaisical) · [Lame](#lame) · [Lament](#lament) · [Languid](#languid) · [Lash](#lash) · [Latch](#latch) · [Latent](#latent) · [Latter](#latter) · [Lavish](#lavish) · [Lean](#lean) · [Lecherously](#lecherously) · [Ledge](#ledge) · [Leered](#leered) · [Leg-up](#leg-up) · [Legion](#legion) · [lend](#lend) · [length and breadth](#length-and-breadth) · [Lenient](#lenient) · [Lesion](#lesion) · [Lessen](#lessen) · [Lest](#lest) · [Leverage](#leverage) · [Lewd thoughts](#lewd-thoughts) · [Libel](#libel) · [lighten](#lighten) · [Likewise](#likewise) · [Limbo](#limbo) · [Lineage](#lineage) · [Lisp](#lisp) · [Litterateur](#litterateur) · [liven](#liven) · [Loathing](#loathing) · [Loin](#loin) · [Long Shot](#long-shot) · [Longing](#longing) · [Looming](#looming) · [Lousy](#lousy) · [lucrative](#lucrative) · [Ludicrous](#ludicrous) · [Lull](#lull) · [Lumberjack](#lumberjack) · [Luscious](#luscious) · [Lustre](#lustre) · [Luxurious](#luxurious)
 
 **M**
 
-[Maelstrom](#maelstrom) · [Magnum opus](#magnum-opus) · [Makeshift](#makeshift) · [Mammoth](#mammoth) · [Mangle](#mangle) · [Manifest & Manifestation](#manifest--manifestation) · [Mannequin](#mannequin) · [Manslaughter](#manslaughter) · [Mantis](#mantis) · [Mantle](#mantle) · [Manure](#manure) · [Mascot](#mascot) · [Masquerade](#masquerade) · [mate](#mate) · [Matrix/metric](#matrixmetric) · [matter-of-fact](#matter-of-fact) · [Mausoleum](#mausoleum) · [Meadow](#meadow) · [Mean](#mean) · [Meaty](#meaty) · [Meddle](#meddle) · [mediocre](#mediocre) · [Meek](#meek) · [Megalomaniac](#megalomaniac) · [Melancholy](#melancholy) · [Mellifluous](#mellifluous) · [Mellow](#mellow) · [Mellow out](#mellow-out) · [Menace](#menace) · [Mercenary](#mercenary) · [Mesmerize](#mesmerize) · [Meticulous](#meticulous) · [Mettle](#mettle) · [Midst](#midst) · [Miffed](#miffed) · [Mince](#mince) · [Mind-boggling](#mind-boggling) · [Miniature](#miniature) · [Miserable](#miserable) · [Misery](#misery) · [Misspoke](#misspoke) · [Modality](#modality) · [Modest](#modest) · [Monotonous](#monotonous) · [Moot](#moot) · [Moot point](#moot-point) · [Mope](#mope) · [Mortify](#mortify) · [mount](#mount) · [Move Over](#move-over) · [Muck](#muck) · [Muddled](#muddled) · [Mugging](#mugging) · [Mumbled / Mumble](#mumbled--mumble) · [mumbo-jumbo](#mumbo-jumbo) · [Mundane](#mundane) · [Mush](#mush) · [Muster](#muster) · [Mutter](#mutter)
+[Maelstrom](#maelstrom) · [Magnum opus](#magnum-opus) · [Makeshift](#makeshift) · [Mammoth](#mammoth) · [Mandate](#mandate) · [Mangle](#mangle) · [Manifest & Manifestation](#manifest--manifestation) · [Manipulator](#manipulator) · [Mannequin](#mannequin) · [Manslaughter](#manslaughter) · [Mantis](#mantis) · [Mantle](#mantle) · [Manure](#manure) · [Mascot](#mascot) · [Masquerade](#masquerade) · [Mass](#mass) · [mate](#mate) · [Matrix/metric](#matrixmetric) · [matter-of-fact](#matter-of-fact) · [Mausoleum](#mausoleum) · [Meadow](#meadow) · [Mean](#mean) · [Meaty](#meaty) · [Meddle](#meddle) · [mediocre](#mediocre) · [Meek](#meek) · [Megalomaniac](#megalomaniac) · [Melancholy](#melancholy) · [Mellifluous](#mellifluous) · [Mellow](#mellow) · [Melodramatic](#melodramatic) · [meme](#meme) · [Menace](#menace) · [Mercenary](#mercenary) · [Mesmerize](#mesmerize) · [Meticulous](#meticulous) · [metrics](#metrics) · [Mettle](#mettle) · [Midst](#midst) · [Miffed](#miffed) · [Milestone](#milestone) · [Mimic](#mimic) · [Mince](#mince) · [Mind-boggling](#mind-boggling) · [Mindset](#mindset) · [Mingle](#mingle) · [Miniature](#miniature) · [Mischievous](#mischievous) · [Misconception](#misconception) · [Miserable](#miserable) · [Misery](#misery) · [Misspoke](#misspoke) · [Mockery](#mockery) · [Modality](#modality) · [Modest](#modest) · [Molasses](#molasses) · [Moldable](#moldable) · [Monk](#monk) · [Monotonous](#monotonous) · [Moot](#moot) · [Moot point](#moot-point) · [Mope](#mope) · [Mortar](#mortar) · [Mortify](#mortify) · [Mortifying](#mortifying) · [mount](#mount) · [Muck](#muck) · [Muddled](#muddled) · [Muffled](#muffled) · [Mugging](#mugging) · [Mumble](#mumble) · [Mumbled / Mumble](#mumbled--mumble) · [mumbo-jumbo](#mumbo-jumbo) · [Mundane](#mundane) · [Mush](#mush) · [Muster](#muster) · [Mutter](#mutter)
 
 **N**
 
-[Narcisist](#narcisist) · [Narcissist](#narcissist) · [Narrative](#narrative) · [Nascent](#nascent) · [Nasty](#nasty) · [Nebulous](#nebulous) · [Necessity](#necessity) · [Nefarious](#nefarious) · [Negate](#negate) · [Nerve-wracking](#nerve-wracking) · [Nestle](#nestle) · [Niche](#niche) · [Niggling](#niggling) · [Non-starter](#non-starter) · [Nonchalant](#nonchalant) · [Nonchalantly](#nonchalantly) · [Noose](#noose) · [Nosedive](#nosedive) · [noun(informal)](#nouninformal) · [Noxious](#noxious) · [Nuance](#nuance) · [Nudge](#nudge) · [Nugget](#nugget) · [Nuisance](#nuisance) · [Nuzzle](#nuzzle)
+[Narcisist](#narcisist) · [Narcissist](#narcissist) · [Narrative](#narrative) · [Narrator](#narrator) · [Nascent](#nascent) · [Nasty](#nasty) · [Naysayer](#naysayer) · [Nebulous](#nebulous) · [Necessity](#necessity) · [Necking](#necking) · [Nefarious](#nefarious) · [Negate](#negate) · [Nerve-wracking](#nerve-wracking) · [Nestle](#nestle) · [Niche](#niche) · [Niggling](#niggling) · [Nimble](#nimble) · [Nip](#nip) · [Nitty-gritty](#nitty-gritty) · [Non-Negotiable](#non-negotiable) · [Non-starter](#non-starter) · [Nonchalant](#nonchalant) · [Nonchalantly](#nonchalantly) · [Nonsense](#nonsense) · [Noose](#noose) · [Nosedive](#nosedive) · [Notorious](#notorious) · [noun(informal)](#nouninformal) · [Novice](#novice) · [Nowhere](#nowhere) · [Noxious](#noxious) · [Nuance](#nuance) · [Nuanced](#nuanced) · [Nudge](#nudge) · [Nugget](#nugget) · [Nuisance](#nuisance) · [Nuzzle](#nuzzle)
 
 **O**
 
-[Obfuscate](#obfuscate) · [Obfuscating](#obfuscating) · [Obituary](#obituary) · [Obliterate](#obliterate) · [Oblivious](#oblivious) · [Obnoxious](#obnoxious) · [Obsequious](#obsequious) · [Observe/Absorb](#observeabsorb) · [Obsessive](#obsessive) · [Obsolescence](#obsolescence) · [Obsolete](#obsolete) · [Obstinate](#obstinate) · [Odds](#odds) · [Odious](#odious) · [Off-ramp](#off-ramp) · [Offsetting](#offsetting) · [Ogling](#ogling) · [Omission](#omission) · [On account of](#on-account-of) · [on the contrary](#on-the-contrary) · [One-off](#one-off) · [Ooze](#ooze) · [Orator](#orator) · [Ordeal](#ordeal) · [Orientation](#orientation) · [Ostensible](#ostensible) · [Oust](#oust) · [Outlay](#outlay) · [Outpace](#outpace) · [Outsmart](#outsmart) · [Outstanding question](#outstanding-question) · [Outweigh](#outweigh) · [Overarching](#overarching) · [Overexerting yourself](#overexerting-yourself) · [Overhaul](#overhaul) · [overloaded term](#overloaded-term) · [Overlook](#overlook) · [Oversee](#oversee) · [Overseeing](#overseeing) · [Overshadow](#overshadow) · [Overt](#overt) · [Overthrow](#overthrow) · [Overturn](#overturn) · [Overwhelming](#overwhelming)
+[Obfuscate](#obfuscate) · [Obfuscating](#obfuscating) · [Obituary](#obituary) · [Obliterate](#obliterate) · [Oblivious](#oblivious) · [Obnoxious](#obnoxious) · [Obscene](#obscene) · [Obsequious](#obsequious) · [Observe/Absorb](#observeabsorb) · [Obsessive](#obsessive) · [Obsolescence](#obsolescence) · [Obsolete](#obsolete) · [Obstacle](#obstacle) · [Obstinate](#obstinate) · [Odds](#odds) · [Odious](#odious) · [Off-putting](#off-putting) · [Off-ramp](#off-ramp) · [Offering](#offering) · [Offsetting](#offsetting) · [Ogling](#ogling) · [Omission](#omission) · [On account of](#on-account-of) · [on the contrary](#on-the-contrary) · [One-off](#one-off) · [One-Size-Fits-All](#one-size-fits-all) · [Ooze](#ooze) · [Orator](#orator) · [Ordeal](#ordeal) · [Orientation](#orientation) · [Orphanage](#orphanage) · [Ostensible](#ostensible) · [Oust](#oust) · [Outcome](#outcome) · [Outlay](#outlay) · [Outpace](#outpace) · [Outrageous](#outrageous) · [Outsmart](#outsmart) · [Outstanding question](#outstanding-question) · [Outweigh](#outweigh) · [Overarching](#overarching) · [Overcome](#overcome) · [Overexerting yourself](#overexerting-yourself) · [Overhaul](#overhaul) · [overloaded term](#overloaded-term) · [Overlook](#overlook) · [Overpacker](#overpacker) · [Overrated](#overrated) · [Oversee](#oversee) · [Overseeing](#overseeing) · [Overshadow](#overshadow) · [Overt](#overt) · [Overthrow](#overthrow) · [Overturn](#overturn) · [Overwhelming](#overwhelming) · [Oxymoron](#oxymoron)
 
 **P**
 
-[Panting](#panting) · [Paparazzo](#paparazzo) · [Parable](#parable) · [Paranoia](#paranoia) · [Paranoid](#paranoid) · [Parity](#parity) · [Parley](#parley) · [Partial](#partial) · [Passionate](#passionate) · [Patronize](#patronize) · [Patronizing](#patronizing) · [Paucity](#paucity) · [Pave](#pave) · [Peculiar](#peculiar) · [Peg](#peg) · [Pent up](#pent-up) · [Per se](#per-se) · [Perceive](#perceive) · [Perilously](#perilously) · [Perish](#perish) · [Perjury](#perjury) · [Pernicious](#pernicious) · [Perpetrate](#perpetrate) · [Perpetrator](#perpetrator) · [Perpetual](#perpetual) · [Perpetuate](#perpetuate) · [Perpetuated](#perpetuated) · [Perplexed](#perplexed) · [Persecute](#persecute) · [Persistent](#persistent) · [Pert](#pert) · [Pertain](#pertain) · [Pervasive](#pervasive) · [Pervasive vs Widespread vs Ubiquitous](#pervasive-vs-widespread-vs-ubiquitous) · [Perversion](#perversion) · [Petite](#petite) · [Petrified](#petrified) · [Picturesque](#picturesque) · [Piglet](#piglet) · [Pilferage](#pilferage) · [Pilfering](#pilfering) · [Pillory](#pillory) · [Pinnacle](#pinnacle) · [Pioneer](#pioneer) · [Pique](#pique) · [Pitfall](#pitfall) · [Pivot](#pivot) · [Pivotal](#pivotal) · [Plaque](#plaque) · [Plausible](#plausible) · [Plausible/implausible](#plausibleimplausible) · [Plight](#plight) · [Plopped](#plopped) · [Plowed ahead](#plowed-ahead) · [Plummet](#plummet) · [Plunge](#plunge) · [Poignant](#poignant) · [Poised](#poised) · [Polyglot](#polyglot) · [Populous](#populous) · [Pores](#pores) · [Potential](#potential) · [Pound](#pound) · [Pouting](#pouting) · [Practical](#practical) · [Pragmatic](#pragmatic) · [Prance](#prance) · [Prawn](#prawn) · [Precarious](#precarious) · [Precedent](#precedent) · [Precipitate](#precipitate) · [Precision](#precision) · [Precursor](#precursor) · [Predatory](#predatory) · [Predicament](#predicament) · [Predicate](#predicate) · [Predisposition](#predisposition) · [Predominant](#predominant) · [Predominantly](#predominantly) · [Prep](#prep) · [Preposterous](#preposterous) · [Prerogative](#prerogative) · [Pressure Mount](#pressure-mount) · [prestigious](#prestigious) · [Presumably](#presumably) · [Presume](#presume) · [Pretext](#pretext) · [Prevailing](#prevailing) · [Prevalence](#prevalence) · [Prevalent](#prevalent) · [Prick](#prick) · [Pro bono](#pro-bono) · [Probity](#probity) · [Procrastinator](#procrastinator) · [Procreate](#procreate) · [Procure](#procure) · [Prod](#prod) · [Proliferation](#proliferation) · [Prolification](#prolification) · [Prominent](#prominent) · [Promiscuity](#promiscuity) · [Promiscuous](#promiscuous) · [Prompt](#prompt) · [Proponent](#proponent) · [Proposition](#proposition) · [Prorated](#prorated) · [Prospect](#prospect) · [Prospective](#prospective) · [Protagonist](#protagonist) · [Protrude](#protrude) · [Protrusion](#protrusion) · [Providential](#providential) · [Provocative](#provocative) · [Prowess](#prowess) · [Prowl](#prowl) · [Prudence](#prudence) · [Prudent](#prudent) · [Pry](#pry) · [Puffery](#puffery) · [Pulverize](#pulverize) · [Punctuate](#punctuate) · [Punitive](#punitive) · [Punk](#punk) · [Punt](#punt) · [Purge](#purge) · [Purportedly](#purportedly) · [Pushes you off the cliff](#pushes-you-off-the-cliff) · [Put out](#put-out)
+[Pace](#pace) · [Paddle](#paddle) · [Pail](#pail) · [Palate](#palate) · [Palpable](#palpable) · [Panhandle](#panhandle) · [Panting](#panting) · [Paparazzo](#paparazzo) · [Parable](#parable) · [Paradigm](#paradigm) · [Paradoxically](#paradoxically) · [Paranoia](#paranoia) · [Paranoid](#paranoid) · [Parity](#parity) · [Parley](#parley) · [Partial](#partial) · [Passionate](#passionate) · [Patronize](#patronize) · [Patronizing](#patronizing) · [Pattern](#pattern) · [Paucity](#paucity) · [Pave](#pave) · [Peculiar](#peculiar) · [Peeked](#peeked) · [Peer](#peer) · [Peg](#peg) · [Pensive](#pensive) · [Pent-up](#pent-up) · [Per se](#per-se) · [Perceive](#perceive) · [perception](#perception) · [Perceptive](#perceptive) · [Perform](#perform) · [Perilously](#perilously) · [Perish](#perish) · [Perjury](#perjury) · [perk](#perk) · [Pernicious](#pernicious) · [Perpetrate](#perpetrate) · [Perpetrator](#perpetrator) · [Perpetual](#perpetual) · [Perpetuate](#perpetuate) · [Perpetuated](#perpetuated) · [Perplexed](#perplexed) · [Persecute](#persecute) · [Persevere](#persevere) · [Persistent](#persistent) · [perspective](#perspective) · [Pert](#pert) · [Pertain](#pertain) · [Pervasive](#pervasive) · [Pervasive vs Widespread vs Ubiquitous](#pervasive-vs-widespread-vs-ubiquitous) · [Perversion](#perversion) · [Petite](#petite) · [Petrified](#petrified) · [Phenomenon](#phenomenon) · [Phony](#phony) · [Pick-Me-Up](#pick-me-up) · [Picturesque](#picturesque) · [Piglet](#piglet) · [Pilferage](#pilferage) · [Pilfering](#pilfering) · [Pillory](#pillory) · [Pinnacle](#pinnacle) · [Pioneer](#pioneer) · [Pique](#pique) · [Pitfall](#pitfall) · [Pivot](#pivot) · [Pivotal](#pivotal) · [Plaque](#plaque) · [Plausible](#plausible) · [Plausible/implausible](#plausibleimplausible) · [Plight](#plight) · [Plopped](#plopped) · [Plummet](#plummet) · [Plunge](#plunge) · [Poignant](#poignant) · [Poised](#poised) · [Polyglot](#polyglot) · [pontificate](#pontificate) · [Pontification](#pontification) · [Populous](#populous) · [Pores](#pores) · [Posturing](#posturing) · [Potential](#potential) · [Pound](#pound) · [Pouting](#pouting) · [Practical](#practical) · [Pragmatic](#pragmatic) · [Prance](#prance) · [Prawn](#prawn) · [Precarious](#precarious) · [Precedent](#precedent) · [Precipitate](#precipitate) · [Precision](#precision) · [Precursor](#precursor) · [Predatory](#predatory) · [Predicament](#predicament) · [Predicate](#predicate) · [Predisposition](#predisposition) · [Predominant](#predominant) · [Predominantly](#predominantly) · [Prep](#prep) · [Preposterous](#preposterous) · [Prerogative](#prerogative) · [Pressure Mount](#pressure-mount) · [prestigious](#prestigious) · [Presumably](#presumably) · [Presume](#presume) · [Pretext](#pretext) · [Prevailing](#prevailing) · [Prevalence](#prevalence) · [Prevalent](#prevalent) · [Prick](#prick) · [Pro bono](#pro-bono) · [Proactive](#proactive) · [Probity](#probity) · [Process](#process) · [Procrastinator](#procrastinator) · [Procreate](#procreate) · [Procure](#procure) · [Prod](#prod) · [Profanities](#profanities) · [Proliferation](#proliferation) · [Prolification](#prolification) · [Prominent](#prominent) · [Promiscuity](#promiscuity) · [Promiscuous](#promiscuous) · [Prompt](#prompt) · [Proponent](#proponent) · [Proposition](#proposition) · [Prorated](#prorated) · [Prospect](#prospect) · [Prospective](#prospective) · [Prosperous](#prosperous) · [Protagonist](#protagonist) · [Protrude](#protrude) · [Protrusion](#protrusion) · [protégé](#protégé) · [Prove](#prove) · [Providential](#providential) · [Provocative](#provocative) · [Prowess](#prowess) · [Prowl](#prowl) · [Prudence](#prudence) · [Prudent](#prudent) · [Pry](#pry) · [Puckered](#puckered) · [Puffery](#puffery) · [Pulverize](#pulverize) · [Punctuate](#punctuate) · [Pungent](#pungent) · [Punitive](#punitive) · [Punk](#punk) · [Punt](#punt) · [Purge](#purge) · [Purportedly](#purportedly) · [Purred](#purred) · [Pursuit](#pursuit) · [Pushes you off the cliff](#pushes-you-off-the-cliff)
 
 **Q**
 
-[Quiescent](#quiescent) · [Quintessential](#quintessential) · [quirky](#quirky) · [Quisling](#quisling)
+[Quay](#quay) · [Quiescent](#quiescent) · [Quintessential](#quintessential) · [Quip](#quip) · [quirky](#quirky) · [Quisling](#quisling)
 
 **R**
 
-[Race/Raced](#raceraced) · [Ramification](#ramification) · [Ramp](#ramp) · [Rant](#rant) · [Rapport](#rapport) · [Rational](#rational) · [Rationale](#rationale) · [Ratting on](#ratting-on) · [Rattle](#rattle) · [Rattling](#rattling) · [Ravage](#ravage) · [Rave](#rave) · [Raven](#raven) · [Ravish](#ravish) · [Razzing](#razzing) · [Rebuff](#rebuff) · [Recess](#recess) · [Reciprocate](#reciprocate) · [reckless](#reckless) · [Reckon](#reckon) · [Recline](#recline) · [Reclusive](#reclusive) · [Recon](#recon) · [Reconcile](#reconcile) · [Reconciliation](#reconciliation) · [Recuperate](#recuperate) · [Reformatory](#reformatory) · [Refrain](#refrain) · [Refurbish](#refurbish) · [Refute](#refute) · [Reins](#reins) · [Rejuvenation](#rejuvenation) · [Relegate](#relegate) · [Relentless](#relentless) · [Relevant](#relevant) · [Relevé](#relevé) · [Reliable](#reliable) · [Relic](#relic) · [Reminisce](#reminisce) · [Remorse](#remorse) · [Renaissance](#renaissance) · [Rendezvous](#rendezvous) · [Renege](#renege) · [Renounce](#renounce) · [Renowned](#renowned) · [Repatriate](#repatriate) · [Repel](#repel) · [Repent](#repent) · [Replenish](#replenish) · [Reprehensible](#reprehensible) · [Reprieve](#reprieve) · [Reprimand](#reprimand) · [Reprisal](#reprisal) · [Reprise](#reprise) · [Resentful](#resentful) · [Resonance](#resonance) · [Resonate](#resonate) · [Resort](#resort) · [Resounding](#resounding) · [Resourceful](#resourceful) · [Restitute](#restitute) · [Resurgent](#resurgent) · [Reticent](#reticent) · [Retort](#retort) · [Retract](#retract) · [Retraction](#retraction) · [Revelation](#revelation) · [Reverence](#reverence) · [Rhetoric](#rhetoric) · [ridden](#ridden) · [Risible](#risible) · [Rivet](#rivet) · [Robe](#robe) · [Rolling up](#rolling-up) · [Rotten](#rotten) · [Rouse](#rouse) · [Rousing](#rousing) · [Rout](#rout) · [Rube](#rube) · [Ruckus](#ruckus) · [Rudimentary](#rudimentary) · [Ruffling](#ruffling) · [Rug](#rug) · [Rumble](#rumble) · [Rumbling](#rumbling) · [Rummage](#rummage) · [Rust](#rust)
+[Race/Raced](#raceraced) · [Ram](#ram) · [Ramification](#ramification) · [Ramp](#ramp) · [Rancher](#rancher) · [Rant](#rant) · [Rapport](#rapport) · [Raspiness](#raspiness) · [Rational](#rational) · [Rationale](#rationale) · [Rattle](#rattle) · [Rattling](#rattling) · [Ravage](#ravage) · [Rave](#rave) · [Raven](#raven) · [Ravish](#ravish) · [Razzing](#razzing) · [Rebuff](#rebuff) · [Recess](#recess) · [Reciprocate](#reciprocate) · [reckless](#reckless) · [Reckon](#reckon) · [Recline](#recline) · [Reclusive](#reclusive) · [Recompense](#recompense) · [Recon](#recon) · [Reconcile](#reconcile) · [Reconciliation](#reconciliation) · [Rectify](#rectify) · [Recuperate](#recuperate) · [Recuperating](#recuperating) · [Reformatory](#reformatory) · [Refrain](#refrain) · [Refurbish](#refurbish) · [Refute](#refute) · [regard](#regard) · [Reins](#reins) · [Rejuvenation](#rejuvenation) · [Relegate](#relegate) · [Relentless](#relentless) · [Relevant](#relevant) · [Relevé](#relevé) · [Reliable](#reliable) · [Relic](#relic) · [Relish](#relish) · [Remark](#remark) · [Reminisce](#reminisce) · [Remnants](#remnants) · [Remorse](#remorse) · [Renaissance](#renaissance) · [Rendezvous](#rendezvous) · [Renege](#renege) · [Renounce](#renounce) · [Renowned](#renowned) · [Repatriate](#repatriate) · [Repel](#repel) · [Repent](#repent) · [Replenish](#replenish) · [Reprehensible](#reprehensible) · [Reprieve](#reprieve) · [Reprimand](#reprimand) · [Reprisal](#reprisal) · [Reprise](#reprise) · [Resentful](#resentful) · [Resonance](#resonance) · [Resonate](#resonate) · [Resort](#resort) · [Resounding](#resounding) · [Resourceful](#resourceful) · [Restitute](#restitute) · [Restless](#restless) · [Resurgent](#resurgent) · [Reticent](#reticent) · [Retort](#retort) · [Retorted](#retorted) · [Retract](#retract) · [Retraction](#retraction) · [Revelation](#revelation) · [Revelling](#revelling) · [Reverence](#reverence) · [Rhetoric](#rhetoric) · [ridden](#ridden) · [Righteousness](#righteousness) · [Risible](#risible) · [Rivet](#rivet) · [Robe](#robe) · [Rotten](#rotten) · [Rouse](#rouse) · [Rousing](#rousing) · [Rout](#rout) · [Rube](#rube) · [Ruckus](#ruckus) · [Rudimentary](#rudimentary) · [Ruffling](#ruffling) · [Rug](#rug) · [Rumble](#rumble) · [Rumbling](#rumbling) · [Rummage](#rummage) · [Rust](#rust) · [RV](#rv)
 
 **S**
 
-[Sabbatical](#sabbatical) · [Sack](#sack) · [Sad](#sad) · [Sadden](#sadden) · [Sagging](#sagging) · [Salivate](#salivate) · [Sanctify](#sanctify) · [Sanctimony](#sanctimony) · [Sanctuary](#sanctuary) · [Sapling](#sapling) · [Savage](#savage) · [Savour](#savour) · [Say/Suppose](#saysuppose) · [Scaffold](#scaffold) · [Scarce](#scarce) · [Schism](#schism) · [Scoff](#scoff) · [Scoot](#scoot) · [Scornful](#scornful) · [Scouting](#scouting) · [Scrambling](#scrambling) · [Screech](#screech) · [Scribble](#scribble) · [Scrumptious](#scrumptious) · [Scrunch](#scrunch) · [Scrupulous](#scrupulous) · [Scum](#scum) · [Scupper](#scupper) · [Scuttle](#scuttle) · [Seabed](#seabed) · [Secluded](#secluded) · [Secretion](#secretion) · [Sectarianism](#sectarianism) · [Seemingly](#seemingly) · [Seldom](#seldom) · [Semitism](#semitism) · [Sensible](#sensible) · [Serene](#serene) · [Sermon](#sermon) · [shag](#shag) · [Sheer](#sheer) · [Shelved](#shelved) · [Shiftless](#shiftless) · [Shimmering](#shimmering) · [Shimmy](#shimmy) · [Shived](#shived) · [Shove](#shove) · [Shove up](#shove-up) · [Shovel](#shovel) · [Shrewd](#shrewd) · [Shrivel](#shrivel) · [Shun](#shun) · [Shy/bashful](#shybashful) · [sightseeing](#sightseeing) · [Signor](#signor) · [Silly](#silly) · [Simmer / simmered](#simmer--simmered) · [Sincere](#sincere) · [sinful](#sinful) · [Siphon](#siphon) · [Skimp](#skimp) · [Skimpy](#skimpy) · [Slam](#slam) · [Slander](#slander) · [Slant](#slant) · [Sleazy](#sleazy) · [Sleek](#sleek) · [Slender](#slender) · [Slit](#slit) · [Slither](#slither) · [Slog](#slog) · [Sloppy](#sloppy) · [Slouch](#slouch) · [Slugfest](#slugfest) · [Sluggish](#sluggish) · [Slumber](#slumber) · [Slump](#slump) · [Slur](#slur) · [Sly](#sly) · [Slyly](#slyly) · [Smear](#smear) · [Smirk](#smirk) · [Smite](#smite) · [Smush](#smush) · [Snag](#snag) · [Snail’s pace](#snails-pace) · [snap(move quickly)](#snapmove-quickly) · [Snapped](#snapped) · [Sneaky](#sneaky) · [Snoop](#snoop) · [Snort](#snort) · [Snotted](#snotted) · [Snub](#snub) · [Snuggle](#snuggle) · [Social cues](#social-cues) · [Solely](#solely) · [Solicit](#solicit) · [Solitude](#solitude) · [Sophisticated](#sophisticated) · [Souvenir](#souvenir) · [Spank](#spank) · [Spat](#spat) · [Spay](#spay) · [Spearhead](#spearhead) · [Spectacular](#spectacular) · [Spendthrift](#spendthrift) · [Spike](#spike) · [Spinoff](#spinoff) · [Splinter](#splinter) · [Splurge](#splurge) · [Spoiler](#spoiler) · [Spooky](#spooky) · [Sprawl](#sprawl) · [Spruik](#spruik) · [Spurious](#spurious) · [spurn](#spurn) · [Spurt](#spurt) · [Squabble](#squabble) · [Squall](#squall) · [Squeal](#squeal) · [Squeez](#squeez) · [Squire](#squire) · [Squirm](#squirm) · [Squirt](#squirt) · [Staggering](#staggering) · [Stagnate](#stagnate) · [Stagnation](#stagnation) · [Stain](#stain) · [stammer](#stammer) · [Standstill](#standstill) · [start off](#start-off) · [Startle](#startle) · [Startled](#startled) · [Stationary](#stationary) · [Statutory](#statutory) · [stay](#stay) · [Steadfast](#steadfast) · [Stench](#stench) · [Stepping Stone](#stepping-stone) · [Stern](#stern) · [Sternly](#sternly) · [Stewardess](#stewardess) · [Stifle](#stifle) · [Stillborn](#stillborn) · [Stingy](#stingy) · [Stink](#stink) · [Stint](#stint) · [Stipulate](#stipulate) · [Stir](#stir) · [Stodgy](#stodgy) · [Stoicism](#stoicism) · [Stolid](#stolid) · [Stomp](#stomp) · [Stomping](#stomping) · [Stomping around](#stomping-around) · [Stoop](#stoop) · [Stoutly](#stoutly) · [Straddle](#straddle) · [Strained](#strained) · [Stranded](#stranded) · [Strangle](#strangle) · [Strangulate](#strangulate) · [Strategize](#strategize) · [Strident](#strident) · [Stringent](#stringent) · [Strive](#strive) · [Stroll](#stroll) · [Stubborn](#stubborn) · [Stud](#stud) · [Stumble](#stumble) · [Stupendous](#stupendous) · [Suave](#suave) · [Subdue](#subdue) · [Subjugate](#subjugate) · [Sublime](#sublime) · [Subpar](#subpar) · [Subpoena](#subpoena) · [Subsequent](#subsequent) · [Subservient](#subservient) · [Substantial](#substantial) · [Substantiate](#substantiate) · [Subsume](#subsume) · [Succeed](#succeed) · [Succinct](#succinct) · [Succulent](#succulent) · [Suckling](#suckling) · [Suffice](#suffice) · [Suggestibility](#suggestibility) · [Suitor](#suitor) · [Sulk](#sulk) · [Sullen](#sullen) · [Supple](#supple) · [supposedly](#supposedly) · [Surly](#surly) · [surreal](#surreal) · [Swashbuckling](#swashbuckling) · [swatted | Swat](#swatted--swat) · [Sway](#sway) · [Swig](#swig) · [Swirl](#swirl) · [Swivel](#swivel) · [Sycophancy](#sycophancy) · [Sympathetic](#sympathetic)
+[Sabbatical](#sabbatical) · [Saber-rattling](#saber-rattling) · [Sack](#sack) · [Sad](#sad) · [Sadden](#sadden) · [Sagging](#sagging) · [Salivate](#salivate) · [Sanctify](#sanctify) · [Sanctimony](#sanctimony) · [Sanctuary](#sanctuary) · [Sandbox](#sandbox) · [Sapling](#sapling) · [Savage](#savage) · [Savor](#savor) · [Savour](#savour) · [Say/Suppose](#saysuppose) · [Scaffold](#scaffold) · [Scam](#scam) · [Scamper](#scamper) · [Scapegoat](#scapegoat) · [Scarce](#scarce) · [Schism](#schism) · [Scoff](#scoff) · [Scoffed](#scoffed) · [Scoot](#scoot) · [Scooted](#scooted) · [Scope](#scope) · [Scornful](#scornful) · [Scoundrel](#scoundrel) · [Scouting](#scouting) · [Scrambling](#scrambling) · [Screech](#screech) · [Scribble](#scribble) · [Scrumptious](#scrumptious) · [Scrunch](#scrunch) · [Scrupulous](#scrupulous) · [Scum](#scum) · [Scupper](#scupper) · [Scurry](#scurry) · [Scuttle](#scuttle) · [Seabed](#seabed) · [Secluded](#secluded) · [Secretion](#secretion) · [Sectarianism](#sectarianism) · [Seductive](#seductive) · [Seemingly](#seemingly) · [Seldom](#seldom) · [Self-conscious](#self-conscious) · [Self-supplied](#self-supplied) · [Semitism](#semitism) · [Sensible](#sensible) · [Serene](#serene) · [Sermon](#sermon) · [Shadowing](#shadowing) · [shag](#shag) · [Shameless](#shameless) · [Sheer](#sheer) · [Shelved](#shelved) · [Shiftless](#shiftless) · [Shimmering](#shimmering) · [Shimmied](#shimmied) · [Shimmy](#shimmy) · [Shit](#shit) · [Shived](#shived) · [Shoot](#shoot) · [Shove](#shove) · [Shovel](#shovel) · [Shrewd](#shrewd) · [shrink](#shrink) · [Shrivel](#shrivel) · [Shun](#shun) · [Shy/bashful](#shybashful) · [Sick](#sick) · [sightseeing](#sightseeing) · [Signor](#signor) · [Silly](#silly) · [Simmer / simmered](#simmer--simmered) · [Simmered](#simmered) · [Sincere](#sincere) · [sinful](#sinful) · [Siphon](#siphon) · [Sitcom](#sitcom) · [Skimp](#skimp) · [Skimpy](#skimpy) · [Slam](#slam) · [Slander](#slander) · [Slant](#slant) · [Sleazy](#sleazy) · [Sleek](#sleek) · [Slender](#slender) · [Slit](#slit) · [Slither](#slither) · [Slog](#slog) · [Sloppy](#sloppy) · [Slouch](#slouch) · [Slugfest](#slugfest) · [Sluggish](#sluggish) · [Slumber](#slumber) · [Slump](#slump) · [Slur](#slur) · [Sly](#sly) · [Slyly](#slyly) · [Smashing](#smashing) · [Smear](#smear) · [Smirk](#smirk) · [Smite](#smite) · [Smush](#smush) · [Snag](#snag) · [Snail’s pace](#snails-pace) · [snap(move quickly)](#snapmove-quickly) · [Snapped](#snapped) · [Sneaky](#sneaky) · [Sniggering](#sniggering) · [Snoop](#snoop) · [Snort](#snort) · [Snotted](#snotted) · [Snub](#snub) · [Snuggle](#snuggle) · [Soar](#soar) · [Social cues](#social-cues) · [Solely](#solely) · [Solicit](#solicit) · [Solitude](#solitude) · [Sophisticated](#sophisticated) · [Sore](#sore) · [Sorrow](#sorrow) · [Souvenir](#souvenir) · [Spank](#spank) · [Spat](#spat) · [Spay](#spay) · [Spearhead](#spearhead) · [Spectacular](#spectacular) · [Spendthrift](#spendthrift) · [Spice](#spice) · [Spike](#spike) · [Spillover](#spillover) · [Spinoff](#spinoff) · [Splinter](#splinter) · [Splurge](#splurge) · [Spluttering](#spluttering) · [Spoiler](#spoiler) · [Spooky](#spooky) · [Spooning](#spooning) · [Spot](#spot) · [Sprawl](#sprawl) · [Spruik](#spruik) · [Spurious](#spurious) · [spurn](#spurn) · [Spurt](#spurt) · [Squabble](#squabble) · [Squall](#squall) · [Squatted](#squatted) · [Squawk](#squawk) · [Squeaking](#squeaking) · [Squeal](#squeal) · [Squeez](#squeez) · [Squelchy](#squelchy) · [Squinted](#squinted) · [Squire](#squire) · [Squirm](#squirm) · [Squirmed](#squirmed) · [Squirt](#squirt) · [Staggering](#staggering) · [Stagnate](#stagnate) · [Stagnation](#stagnation) · [Stain](#stain) · [Stalk](#stalk) · [stammer](#stammer) · [Standstill](#standstill) · [Startle](#startle) · [Startled](#startled) · [Stationary](#stationary) · [Statutory](#statutory) · [stay](#stay) · [staycation](#staycation) · [Steadfast](#steadfast) · [Stench](#stench) · [Stepping Stone](#stepping-stone) · [Stern](#stern) · [Sternly](#sternly) · [Stewardess](#stewardess) · [Stick](#stick) · [Stiffened](#stiffened) · [Stifle](#stifle) · [Stifling](#stifling) · [Stillborn](#stillborn) · [Sting](#sting) · [Stingy](#stingy) · [Stink](#stink) · [Stint](#stint) · [Stipulate](#stipulate) · [Stir](#stir) · [Stockholder](#stockholder) · [Stodgy](#stodgy) · [Stoicism](#stoicism) · [Stolid](#stolid) · [Stomp](#stomp) · [Stomping](#stomping) · [Stoop](#stoop) · [Stoutly](#stoutly) · [Straddle](#straddle) · [Strained](#strained) · [Stranded](#stranded) · [Strangle](#strangle) · [Strangulate](#strangulate) · [Strategize](#strategize) · [Straw](#straw) · [Strident](#strident) · [Stringent](#stringent) · [Strip](#strip) · [Strive](#strive) · [Stroll](#stroll) · [Struggle](#struggle) · [Stubborn](#stubborn) · [Stud](#stud) · [Stumble](#stumble) · [Stupendous](#stupendous) · [Suave](#suave) · [Subdue](#subdue) · [Subjugate](#subjugate) · [Sublime](#sublime) · [Subpar](#subpar) · [Subpoena](#subpoena) · [Subsequent](#subsequent) · [Subservient](#subservient) · [Substantial](#substantial) · [Substantiate](#substantiate) · [Subsume](#subsume) · [Subtle](#subtle) · [Succeed](#succeed) · [Succinct](#succinct) · [Succulent](#succulent) · [Suckling](#suckling) · [Suffice](#suffice) · [Suggestibility](#suggestibility) · [Suitor](#suitor) · [Sulk](#sulk) · [Sullen](#sullen) · [Superficial](#superficial) · [Supple](#supple) · [Supplier](#supplier) · [Supply](#supply) · [supposedly](#supposedly) · [Surgical](#surgical) · [Surly](#surly) · [surreal](#surreal) · [Suspend](#suspend) · [Swarm](#swarm) · [Swashbuckling](#swashbuckling) · [Swatted](#swatted) · [swatted | Swat](#swatted--swat) · [Sway](#sway) · [Swig](#swig) · [Swing](#swing) · [Swirl](#swirl) · [Swivel](#swivel) · [Sycophancy](#sycophancy) · [Sympathetic](#sympathetic) · [Synergy](#synergy)
 
 **T**
 
-[Taint](#taint) · [take on](#take-on) · [Tame](#tame) · [Tangle](#tangle) · [Tangle/Untangle](#tangleuntangle) · [Taper](#taper) · [Tarnish](#tarnish) · [Tarp](#tarp) · [Tedium](#tedium) · [Teeter](#teeter) · [Temerity](#temerity) · [Temp](#temp) · [Tenderly](#tenderly) · [Tepid](#tepid) · [Thrash](#thrash) · [Throb](#throb) · [Throbbing](#throbbing) · [Thuggery](#thuggery) · [Tickle](#tickle) · [Timebox](#timebox) · [Timid](#timid) · [Tipping Point](#tipping-point) · [Titbit](#titbit) · [Toilsome](#toilsome) · [Topple](#topple) · [Torrent](#torrent) · [tortuous](#tortuous) · [Torturous](#torturous) · [Traction](#traction) · [Trailblazer](#trailblazer) · [Train wreck](#train-wreck) · [Trample](#trample) · [Trance](#trance) · [Tranche](#tranche) · [Tranquility](#tranquility) · [Transmissible](#transmissible) · [Transpire](#transpire) · [Tread](#tread) · [Tremendous](#tremendous) · [Trespass](#trespass) · [Truce](#truce) · [Trump](#trump) · [Tug](#tug) · [Tumble](#tumble) · [Tumultuous](#tumultuous) · [Tuxedo](#tuxedo) · [Twirl](#twirl) · [Tyrant](#tyrant)
+[Table](#table) · [Taint](#taint) · [Tame](#tame) · [Tangle](#tangle) · [Tangle/Untangle](#tangleuntangle) · [Taper](#taper) · [Tarnish](#tarnish) · [Tarp](#tarp) · [Taxing](#taxing) · [Tease](#tease) · [Tech-savvy](#tech-savvy) · [Tedium](#tedium) · [Teeter](#teeter) · [Temerity](#temerity) · [Temp](#temp) · [Tenderly](#tenderly) · [Tepid](#tepid) · [Terrain](#terrain) · [Thick-skinned](#thick-skinned) · [Thrash](#thrash) · [Threat](#threat) · [Thrilled](#thrilled) · [Throb](#throb) · [Throbbing](#throbbing) · [Thuggery](#thuggery) · [Tickle](#tickle) · [Timebox](#timebox) · [Timeless](#timeless) · [Timid](#timid) · [Tipping Point](#tipping-point) · [Titbit](#titbit) · [Toilsome](#toilsome) · [Toned-down](#toned-down) · [Topping](#topping) · [Topple](#topple) · [Torrent](#torrent) · [tortuous](#tortuous) · [Torturous](#torturous) · [Traction](#traction) · [Trade-off](#trade-off) · [Trailblazer](#trailblazer) · [Train wreck](#train-wreck) · [Trample](#trample) · [Trance](#trance) · [Tranche](#tranche) · [Tranquility](#tranquility) · [Transmissible](#transmissible) · [Transpire](#transpire) · [Tread](#tread) · [Tremendous](#tremendous) · [Trespass](#trespass) · [Truce](#truce) · [Trump](#trump) · [Tug](#tug) · [Tumble](#tumble) · [Tumultuous](#tumultuous) · [Turgid](#turgid) · [Tush](#tush) · [Tuxedo](#tuxedo) · [Twig](#twig) · [Twirl](#twirl) · [Twist](#twist) · [Tyrant](#tyrant)
 
 **U**
 
-[Ubiquitous](#ubiquitous) · [Unassuming](#unassuming) · [Uncanny](#uncanny) · [Underneath](#underneath) · [Unfazed](#unfazed) · [Unfettered](#unfettered) · [Unfurl](#unfurl) · [Unleash](#unleash) · [Unleashed](#unleashed) · [Unorthodox](#unorthodox) · [Unperturbed](#unperturbed) · [Unprecedented](#unprecedented) · [Unpretentious](#unpretentious) · [Unravel](#unravel) · [Untidy](#untidy) · [Untoward](#untoward) · [Unwind](#unwind) · [Upbeat](#upbeat) · [Uproarious](#uproarious) · [Upset](#upset) · [Upstage](#upstage) · [Uptight person](#uptight-person) · [Urge](#urge) · [Usher](#usher) · [Usurp](#usurp) · [Utopia](#utopia) · [Utterly](#utterly)
+[Ubiquitous](#ubiquitous) · [Unassuming](#unassuming) · [Uncanny](#uncanny) · [Underneath](#underneath) · [Undoubtedly](#undoubtedly) · [Unfazed](#unfazed) · [Unfettered](#unfettered) · [Unfold](#unfold) · [Unfurl](#unfurl) · [Unkempt](#unkempt) · [Unleash](#unleash) · [Unleashed](#unleashed) · [Unload](#unload) · [Unobstructed](#unobstructed) · [Unorthodox](#unorthodox) · [Unperturbed](#unperturbed) · [Unprecedented](#unprecedented) · [Unpretentious](#unpretentious) · [Unravel](#unravel) · [unrealistic](#unrealistic) · [Unsubstantiated](#unsubstantiated) · [Untidy](#untidy) · [Untoward](#untoward) · [Unwind](#unwind) · [Upbeat](#upbeat) · [upmarket](#upmarket) · [Uproarious](#uproarious) · [Upset](#upset) · [Upstage](#upstage) · [Uptight person](#uptight-person) · [Urge](#urge) · [Usher](#usher) · [Usurp](#usurp) · [Utopia](#utopia) · [Utterly](#utterly)
 
 **V**
 
-[Vague](#vague) · [Valiantly](#valiantly) · [Vandalize](#vandalize) · [Vanity](#vanity) · [Vassal](#vassal) · [Vendetta](#vendetta) · [Vengeance](#vengeance) · [Venture](#venture) · [Veracity](#veracity) · [Versatile](#versatile) · [Vest](#vest) · [vested interest](#vested-interest) · [Vet](#vet) · [Vicinity](#vicinity) · [Vicious](#vicious) · [Vigil](#vigil) · [Vigorous](#vigorous) · [Vigour](#vigour) · [vintage](#vintage) · [Virulent](#virulent) · [Vital](#vital) · [Vixen](#vixen) · [Voluble](#voluble) · [voluptuous](#voluptuous) · [Vox Populi, Vox Dei](#vox-populi-vox-dei) · [Vulgar](#vulgar)
+[vacationer](#vacationer) · [Vague](#vague) · [Valiantly](#valiantly) · [Vandalize](#vandalize) · [Vanity](#vanity) · [Vassal](#vassal) · [Vastness](#vastness) · [Velcro](#velcro) · [Vendetta](#vendetta) · [Venerable](#venerable) · [Vengeance](#vengeance) · [Venison](#venison) · [Venture](#venture) · [Veracity](#veracity) · [Versatile](#versatile) · [Vest](#vest) · [vested interest](#vested-interest) · [Vet](#vet) · [Vicinity](#vicinity) · [Vicious](#vicious) · [Vigil](#vigil) · [Vigorous](#vigorous) · [Vigour](#vigour) · [Villain](#villain) · [vintage](#vintage) · [Virtue](#virtue) · [Virulent](#virulent) · [Vital](#vital) · [Vixen](#vixen) · [Voluble](#voluble) · [voluptuous](#voluptuous) · [Vox Populi, Vox Dei](#vox-populi-vox-dei) · [Voyage](#voyage) · [Vulgar](#vulgar)
 
 **W**
 
-[wade](#wade) · [Wage](#wage) · [Waggle / Waggling](#waggle--waggling) · [wailing](#wailing) · [Wall clock](#wall-clock) · [Wane](#wane) · [Waylay](#waylay) · [Weaned off](#weaned-off) · [Weasel](#weasel) · [Wedge](#wedge) · [Weepy](#weepy) · [Weigh in](#weigh-in) · [well](#well) · [Whim](#whim) · [Whimper](#whimper) · [Whodunit](#whodunit) · [Wield](#wield) · [Wiggle](#wiggle) · [Wind whispering](#wind-whispering) · [Withdrawn](#withdrawn) · [Withered](#withered) · [Withstand](#withstand) · [Witty](#witty) · [Wrath](#wrath) · [Wreathe](#wreathe) · [Wrecking](#wrecking) · [Wretched](#wretched) · [Write-up](#write-up) · [Writhe](#writhe) · [Wuss](#wuss)
+[wade](#wade) · [Wage](#wage) · [Waggle / Waggling](#waggle--waggling) · [wailing](#wailing) · [Wall clock](#wall-clock) · [Wane](#wane) · [Waylay](#waylay) · [Weasel](#weasel) · [Weathering](#weathering) · [Wedge](#wedge) · [Weepy](#weepy) · [well](#well) · [whether](#whether) · [Whim](#whim) · [Whimper](#whimper) · [Whodunit](#whodunit) · [Wholeheartedly](#wholeheartedly) · [Wield](#wield) · [Wiggle](#wiggle) · [Wilderness](#wilderness) · [Willful](#willful) · [Willingness](#willingness) · [Wind whispering](#wind-whispering) · [Withdrawn](#withdrawn) · [Withered](#withered) · [Withstand](#withstand) · [Witness](#witness) · [Witty](#witty) · [Wound](#wound) · [Wrangle](#wrangle) · [Wrath](#wrath) · [Wreathe](#wreathe) · [Wrecking](#wrecking) · [Wretched](#wretched) · [Write-up](#write-up) · [Writhe](#writhe) · [Wuss](#wuss)
+
+**Y**
+
+[Yearning](#yearning) · [Yelped](#yelped)
+
+**Z**
+
+[Zeitgeist](#zeitgeist) · [Zip](#zip)
 
 **G**
 
@@ -148,6 +156,21 @@ Congress Feels Northeast Results an Aberration, Hold No Lessons for Karnataka
 # Abort
 
 to cause something to stop or fail before it begins or before it is complete
+
+[↑ Back to index](#index)
+
+# Abreast
+
+**Meaning:** To stay updated or informed; to remain aware of the latest developments.  
+ **Examples (spoken):**
+
+* “I try to keep abreast of new technologies.”
+
+* “Stay abreast of the latest trends.”
+
+* “We should keep the client abreast of any changes.”
+
+👉 *Common in business and professional talk.*
 
 [↑ Back to index](#index)
 
@@ -282,7 +305,42 @@ well educated and having good social skills.
 
 # Accord
 
+**Meaning:** Agreement or harmony.  
+ **Usage:**
+
+* *“We’re acting in full accord with the rules.”*
+
+* *“They signed an accord to end the conflict.”*  
+   🟢 Formal — often used in law, politics, or official speech.
+
+**Meaning:** Agreement or harmony.  
+ **Figurative meaning:** A sense of balance or alignment.
+
+🗣 *“They acted in perfect accord.”*  
+ 🗣 *“The countries signed an accord on trade.”*
+
 (agreement, conformity) सहमति, सहमत होना
+
+[↑ Back to index](#index)
+
+# account
+
+verb
+
+consider or regard in a specified way
+
+her visit could not be accounted a success
+
+he accounted himself the unluckiest man alive
+
+[↑ Back to index](#index)
+
+# Accountability
+
+**Meaning:** Responsibility for actions or outcomes.
+
+🗣 *“We need accountability in leadership.”*  
+ 🗣 *“Having a workout buddy increases accountability.”*
 
 [↑ Back to index](#index)
 
@@ -323,6 +381,15 @@ verb — to accumulate or build up gradually over time, especially money, benefi
 having fair knowledge of; "they were acquainted"; "fully acquainted with the facts"
 
 They were acquainted people.
+
+[↑ Back to index](#index)
+
+# Acquire
+
+**Meaning:** To gain or obtain something, especially through effort or learning.
+
+🗣 *“He acquired a taste for classical music.”*  
+ 🗣 *“The company acquired a smaller competitor.”*
 
 [↑ Back to index](#index)
 
@@ -421,6 +488,17 @@ advise or urge (someone) earnestly.
 ARCHAIC  
 warn (someone) of something to be avoided.  
 "he admonished the people against the evil of such practices"
+
+[↑ Back to index](#index)
+
+# Admonished
+
+**Meaning:** Scolded gently or warned seriously.  
+ **Usage:**
+
+* *“The teacher admonished the students for being late.”*
+
+* *“He was admonished to be careful.”*
 
 [↑ Back to index](#index)
 
@@ -562,6 +640,25 @@ It’s often used in formal or serious contexts rather than casual speech.
 
 [↑ Back to index](#index)
 
+# Afoot
+
+adjective/adverb (used after "be," e.g. "something is afoot") — happening, in progress, or being secretly planned.
+
+"There were rumors that a merger was afoot."
+"Something's afoot in the leadership team's roadmap discussions."
+
+[↑ Back to index](#index)
+
+# Afterlife
+
+**Literal meaning:** Life after death.  
+ **Figurative meaning:** The continuation of something (a project, reputation, or idea) after its supposed end.
+
+🗣 *“He believed firmly in the afterlife.”*  
+ 🗣 *“Even after the company shut down, the product found an afterlife as open-source software.”*
+
+[↑ Back to index](#index)
+
 # Aggravate
 
 *Pronunciation:* AG-ruh-vayt
@@ -601,6 +698,18 @@ Sorrow तीव्र पीड़ा acute pain, agony
 
 [↑ Back to index](#index)
 
+# aim
+
+verb
+
+have the intention of achieving
+
+new French cooking aims at producing clear, fresh flavors and light textures
+
+we aim to give you the best possible service
+
+[↑ Back to index](#index)
+
 # Akin
 
 *Pronunciation:* uh-KIN
@@ -618,6 +727,25 @@ related by blood.
 Example: "His new haircut is akin to a bowl cut." 
 
 If two things are akin, then they're similar or related. A cupcake is akin to a cake and relatives are akin to each other. If you know the word kin — a relative — then you have a clue to the meaning of akin. People who are related are akin, but the word goes beyond blood relations.
+
+[↑ Back to index](#index)
+
+# Albeit
+
+**Meaning:** Although; even though.  
+ **Figurative meaning:** Adds contrast smoothly in formal or written speech.
+
+🗣 *“The project was successful, albeit delayed.”*  
+ 🗣 *“She looked tired, albeit satisfied.”*
+
+💡 *(Elegant, formal alternative to “though.”)*
+
+[↑ Back to index](#index)
+
+# Align
+
+**Meaning:** To match or agree with something.  
+ **Example:** *Your goals should align with your values.*
 
 [↑ Back to index](#index)
 
@@ -900,6 +1028,16 @@ That sounds very natural in meetings.
 
 [↑ Back to index](#index)
 
+# Anchorage
+
+**Literal meaning:** A place where ships anchor.  
+ **Figurative meaning:** A source of stability, safety, or grounding.
+
+🗣 *“The bay provided safe anchorage for the boats.”*  
+ 🗣 *“Her family is her emotional anchorage.”*
+
+[↑ Back to index](#index)
+
 # Angst
 
 *Pronunciation:* AHNGST (rhymes with "wronged")
@@ -970,11 +1108,28 @@ ceremonially confer divine or holy office upon (a priest or monarch) by smearing
 
 [↑ Back to index](#index)
 
+# Antique
+
+**Literal meaning:** An old, valuable item.  
+ **Figurative meaning:** Something aged but respected or charmingly old-fashioned.
+
+🗣 *“That antique clock still works perfectly.”*  
+ 🗣 *“He collects antique books.”*
+
+[↑ Back to index](#index)
+
 # Antsy
 
 adjectiveinformal•North American  
 agitated, impatient, or restless.  
 "Dick got antsy the day he put to sea"
+
+[↑ Back to index](#index)
+
+# Anxious
+
+**Meaning:** Nervous or worried.  
+ **Example:** *I’m anxious about tomorrow’s interview.*
 
 [↑ Back to index](#index)
 
@@ -1192,6 +1347,13 @@ a dramatic and catastrophic conflict, especially one seen as likely to destroy t
 
 [↑ Back to index](#index)
 
+# Armband
+
+**Meaning:** A band worn around the arm for decoration or identification.  
+ **Example:** *The players wore black armbands to honor him.*
+
+[↑ Back to index](#index)
+
 # Arrogant
 
 ( अहंकारी/घमण्डी/अभिमानी, जिद्दी , अक्खड़)  
@@ -1200,6 +1362,18 @@ Big-headed
 adjectiveINFORMAL  
 conceited or arrogant.  
 "I'm trying not to get too big-headed"
+
+[↑ Back to index](#index)
+
+# Arse
+
+**Meaning:** British slang for “butt.” Also used casually for “idiot” or “fool.”  
+ **Usage:**
+
+* *“Get your arse off the couch\!”*
+
+* *“He’s such an arse sometimes.”*  
+   🟢 Informal, often humorous or teasing.
 
 [↑ Back to index](#index)
 
@@ -1228,6 +1402,43 @@ verb
 
 [↑ Back to index](#index)
 
+# Ascendancy
+
+**Ascendancy** means having a position of power, influence, or control over someone or something.  
+ It’s often used in formal or semi-formal spoken English to describe dominance, authority, or superiority in a situation.
+
+Examples in spoken English:
+
+* *“Over the years, technology has gained ascendancy over traditional methods.”*
+
+* *“Her calm and logical approach gave her ascendancy in the discussion.”*
+
+* *“That company has had commercial ascendancy in the market for decades.”*
+
+Similar words you can use:
+
+* **dominance** (more common in speech)
+
+* **control**
+
+* **influence**
+
+* **supremacy** (stronger tone, often used in competitive or historical contexts)
+
+Useful phrases you can practice:
+
+1. “On the other hand, his experience gave him ascendancy over the younger team members.”
+
+2. “For example, countries with strong economies usually hold ascendancy in global trade.”
+
+3. “That being said, ascendancy doesn’t last forever—power can shift quickly.”
+
+4. “In our field, innovation often takes ascendancy over tradition.”
+
+👉 Try speaking these sentences aloud; it will help you get comfortable using **ascendancy** naturally.
+
+[↑ Back to index](#index)
+
 # Aspersion
 
 *Pronunciation:* uh-SPUR-zhuhn
@@ -1235,6 +1446,33 @@ verb
 noun  
 an attack on the reputation or integrity of someone or something.  
 "I don't think anyone is casting aspersions on you"
+
+[↑ Back to index](#index)
+
+# Aspiration
+
+**Meaning:** A strong desire or goal for achievement.
+
+🗣 *“Her aspiration is to start her own company.”*  
+ 🗣 *“We should encourage kids to have big aspirations.”*
+
+[↑ Back to index](#index)
+
+# Aspirational
+
+**Meaning:** Something desirable that one hopes to achieve or emulate.  
+ **Figurative meaning:** Used to describe lifestyles or goals that inspire others.
+
+🗣 *“That’s an aspirational brand — it makes people dream bigger.”*  
+ 🗣 *“He has an aspirational mindset — always aiming higher.”*
+
+[↑ Back to index](#index)
+
+# Aspiring
+
+adjective — hoping to become (a particular thing), especially in a career, but not yet having achieved it.
+
+"She's an aspiring product manager, currently interning on the growth team."
 
 [↑ Back to index](#index)
 
@@ -1253,6 +1491,22 @@ Polygamy, marriage to more than one spouse at a time.
  हमला,  धावा
 
 Attacking someone physically 
+
+[↑ Back to index](#index)
+
+# assess
+
+verb
+
+evaluate or estimate the nature, ability, or quality of
+
+the committee must assess the relative importance of the issues
+
+it is difficult to assess whether this is a new trend
+
+the damage was assessed at $5 billion
+
+all empty properties will be assessed at 50 percent
 
 [↑ Back to index](#index)
 
@@ -1463,6 +1717,23 @@ Imbibe
 
 [↑ Back to index](#index)
 
+# Auspicious
+
+**Meaning:** Lucky or promising; showing signs of success.  
+ **Example:** *It’s an auspicious day to start a new project.*
+
+[↑ Back to index](#index)
+
+# Authority
+
+**Literal meaning:** The power or right to make decisions or enforce rules.  
+ **Figurative meaning:** A person who is highly knowledgeable or respected in a field.
+
+🗣 *“You don’t have the authority to make that call.”*  
+ 🗣 *“He’s an authority on data science.”*
+
+[↑ Back to index](#index)
+
 # Averse
 
 *Pronunciation:* uh-VURS
@@ -1508,6 +1779,9 @@ having or showing a keen interest in or enthusiasm for something.
 having an eager desire for.  
 "she was avid for information about the murder inquiry"
 
+**Meaning:** Very enthusiastic or eager.  
+ **Example:** *She’s an avid reader.*
+
 [↑ Back to index](#index)
 
 # axiom
@@ -1536,6 +1810,17 @@ a statement or proposition which is regarded as being established, accepted, or 
 
 Mathematics  
 a statement or proposition on which an abstractly defined structure is based.
+
+[↑ Back to index](#index)
+
+# Babble
+
+**Literal meaning:** To talk rapidly and incoherently, like a baby or someone nervous.  
+ **Figurative meaning:** To speak nonsense or without clear meaning.
+
+🗣 *“The baby was babbling happily.”*  
+ 🗣 *“He just babbled through his presentation — no structure at all.”*  
+ 🗣 *“I tend to babble when I get nervous.”*
 
 [↑ Back to index](#index)
 
@@ -1579,6 +1864,26 @@ When people say **"in the backdrop of events"**, they mean:
 * "I started gym training against the backdrop of a stressful work life."
 
 * "He made this decision in the backdrop of recent financial losses."
+
+[↑ Back to index](#index)
+
+# Backstory
+
+**Meaning:** The background history of a character or event.  
+ **Example:** *The villain’s backstory made the plot more interesting.*
+
+[↑ Back to index](#index)
+
+# Backup
+
+**Literal meaning:** Something or someone kept in reserve for support or replacement.  
+ **Figurative meaning:** Emotional or strategic support; plan B.
+
+🗣 *“Always keep a backup of your files.”*  
+ 🗣 *“Don’t worry, I’ve got a backup plan.”*  
+ 🗣 *“I called my friend for backup during the presentation.”*
+
+💡 *(Also used as a verb: “I’ll back you up” \= I’ll support you.)*
 
 [↑ Back to index](#index)
 
@@ -1674,6 +1979,20 @@ a hill suitable for a beacon.
 "Ivinghoe Beacon"
 
 a light or other visible object serving as a signal, warning, or guide at sea, on an airfield, etc.
+
+[↑ Back to index](#index)
+
+# Beaned
+
+* **Literal:** Hit someone on the head (usually with a ball).
+
+* **Figurative:** To unintentionally hurt or shock someone.
+
+* **Examples:**
+
+  * “He *beaned* the pitcher with a fastball.”
+
+  * “I almost *beaned* my boss with that door — so embarrassing\!”
 
 [↑ Back to index](#index)
 
@@ -1934,6 +2253,68 @@ Instead of “bimbo,” people now often say:
 
 [↑ Back to index](#index)
 
+# Binding
+
+**Literal meaning:** Something that ties, fastens, or holds together.  
+ **Figurative meaning:** Obligatory or unchangeable — something that must be followed.
+
+🗣 *“This contract is legally binding.”*  
+ 🗣 *“They made a binding promise to each other.”*
+
+💡 *(Formal, used in law, business, or commitments.)*
+
+[↑ Back to index](#index)
+
+# Binge
+
+At its core, *binge* means **doing something excessively in a short period of time**, usually more than normal or healthy.
+
+### **Different Contexts of Usage**
+
+1. **Food/Drink**
+
+   * *“She went on a binge last night and ate a whole cake.”*
+
+   * *“After the party, he regretted his drinking binge.”*  
+      👉 Here, it means overeating or overdrinking in one go.
+
+2. **Entertainment (very common now)**
+
+   * *“We binged the entire Netflix series in one weekend.”*
+
+   * *“I’m binge-watching old cricket matches lately.”*  
+      👉 Doing too much watching in one stretch.
+
+3. **Shopping/Spending**
+
+   * *“She went on a shopping binge and bought 10 dresses.”*
+
+   * *“His spending binge left him broke by the end of the month.”*  
+      👉 Excessive buying in one go.
+
+4. **Work or Study (less common but possible)**
+
+   * *“I binged on coding last night and finished the project.”*
+
+   * *“He went on a study binge before the exams.”*  
+      👉 Putting in a very intense, continuous effort for hours.
+
+### **Spoken Sentences You Can Use**
+
+* *“I binged the whole season in one night—it was addictive.”*
+
+* *“Sometimes I go on a shopping binge when I’m stressed.”*
+
+* *“We shouldn’t binge on junk food, but it happens.”*
+
+* *“He binged on work and forgot to eat lunch.”*
+
+👉 Notice how in spoken English, people often use “binge” with **on** (binge on food, binge on shows, binge on work).
+
+✅ Practice tip: Try making 2–3 sentences aloud with *binge on* \+ (food, shows, shopping).
+
+[↑ Back to index](#index)
+
 # bite me
 
 (phrase of bite).
@@ -2180,9 +2561,13 @@ Let’s look at a few common uses 👇
 
 [↑ Back to index](#index)
 
-# Blurt out
+# Blob
 
-to say something suddenly and without thinking
+**Literal meaning:** A shapeless lump or mass.  
+ **Figurative meaning:** Something or someone without form or energy.
+
+🗣 *“There’s a blob of paint on the floor.”*  
+ 🗣 *“I felt like a blob after eating too much.”*
 
 [↑ Back to index](#index)
 
@@ -2193,6 +2578,15 @@ adjective — openly proud of one's own achievements or possessions, in a way th
 "He was boastful about his promotion, mentioning it in every conversation."
 
 Related: **boast** (verb) — "She boasted about closing the biggest deal of the quarter."
+
+[↑ Back to index](#index)
+
+# Bold
+
+**Meaning:** Confident, daring, or vivid.
+
+🗣 *“That’s a bold move — I like it.”*  
+ 🗣 *“She wore a bold red dress.”*
 
 [↑ Back to index](#index)
 
@@ -2210,6 +2604,54 @@ They bolstered the seats for a more comfortable ride.
 
 [↑ Back to index](#index)
 
+# Bolt-on
+
+**adjective**  
+(of an extra part of a machine) able to be fastened on with a bolt or catch.  
+"a bolt-on accessory available for most 35 mm SLRs"
+
+denoting a feature, service, etc. that has been or can be added to an existing arrangement.  
+"there's no obligation to buy any type of bolt-on insurance product with a personal loan"
+
+**noun**  
+a bolt-on part of a machine.  
+"the bike's bolt-ons were worth more than the asking price"
+
+**"Bolt-on"** can be used both as a **noun** and an **adjective**, and it comes from the idea of **literally bolting something onto** an existing structure. In spoken and business English, it's often used **figuratively** to describe **something that is added on easily without major changes**.
+
+**🔹 Meanings:**
+
+1. **Literal (mechanical):**
+
+   * A **bolt-on** is a part that can be attached with bolts, without needing to rebuild or modify the original structure.
+
+   * *"This spoiler is a simple bolt-on for most cars."*
+
+2. **Figurative (business/tech):**
+
+   * A **bolt-on** feature or system is an **additional part that integrates easily** with something already in place.
+
+   * *"We added a bolt-on analytics module to the software."*
+
+3. **M\&A (mergers & acquisitions):**
+
+   * A **bolt-on acquisition** is when a company **buys a smaller business** that fits neatly into its operations.
+
+   * *"They’re looking for bolt-on acquisitions to expand their market share."*
+
+**🔹 Usage in sentences:**
+
+* *"The new CRM tool is a bolt-on to our existing platform."*  
+   → It can be added without disrupting the current system.
+
+* *"That feature isn’t built-in, but it’s available as a bolt-on."*  
+   → It’s optional and can be added if needed.
+
+* *"They completed a bolt-on acquisition to enhance their logistics services."*  
+   → They bought a smaller company that easily fits with their operations.
+
+[↑ Back to index](#index)
+
 # Bombardment
 
 a continuous attack on a place with guns or bombs: aerial bombardment. The bombardment had begun several days earlier, destroying many buildings.
@@ -2223,6 +2665,17 @@ a continuous attack on a place with guns or bombs: aerial bombardment. The bomba
 noun  
 cheerful friendliness; geniality.  
 "he exuded good humour and bonhomie"
+
+[↑ Back to index](#index)
+
+# Booby-trapped
+
+**Meaning:** Set up with a hidden trap or danger.  
+ **Usage:**
+
+* *“The house was booby-trapped.”*
+
+* *“He booby-trapped the gift box as a prank.”*
 
 [↑ Back to index](#index)
 
@@ -2339,6 +2792,9 @@ Cynical
 
 Distrustful, skeptical attitude toward others' motives.
 
+**Meaning:** Always telling others what to do.  
+**Example:** *My sister can be really bossy sometimes.*
+
 [↑ Back to index](#index)
 
 # Brainchild
@@ -2352,6 +2808,17 @@ Innovative Brainchild: The new technology was the brainchild of a team of engine
 Artistic Brainchild: The painting was the artist's brilliant brainchild, combining various styles and techniques.
 
 The term conveys a sense of personal investment and creative origin, suggesting that the idea or creation is the offspring of someone's intellectual or imaginative efforts.
+
+[↑ Back to index](#index)
+
+# Brat
+
+**Meaning:** A spoiled or badly behaved child (sometimes used teasingly for adults too).  
+ **Usage:**
+
+* *“Stop acting like a brat\!”*
+
+* *“He’s a bit of a brat, but he’s harmless.”*
 
 [↑ Back to index](#index)
 
@@ -2472,6 +2939,13 @@ the point or state at which a person or company breaks even.
 
 [↑ Back to index](#index)
 
+# Breakdown
+
+**Meaning:** Failure of function; emotional collapse.  
+ **Example:** *His car had a breakdown.* / *She had an emotional breakdown.*
+
+[↑ Back to index](#index)
+
 # breakthrough
 
 A "breakthrough" is a noun that refers to a significant and sudden advance or development in a particular field, situation, or process. It denotes a notable achievement or discovery that represents a leap forward in understanding, technology, or progress.
@@ -2485,6 +2959,16 @@ Medical Breakthrough: A significant advancement in medical research or treatment
 Technological Breakthrough: An innovation or development that represents a major step forward in technology.
 
 The term "breakthrough" is often associated with overcoming obstacles or barriers, leading to a transformative change or improvement in a specific domain.
+
+[↑ Back to index](#index)
+
+# Breathless
+
+**Literal meaning:** Out of breath.  
+ **Figurative meaning:** Overwhelmed with excitement, admiration, or suspense.
+
+🗣 *“The hike left me breathless.”*  
+ 🗣 *“Her story had the audience breathless.”*
 
 [↑ Back to index](#index)
 
@@ -2506,6 +2990,28 @@ a kind of beer.
 2\.  
 a cup or mug of tea or coffee.  
 "she took a sip of the hot reviving brew"
+
+[↑ Back to index](#index)
+
+# Brick
+
+**Literal meaning:** A rectangular block used for building.  
+ **Figurative meanings:**
+
+1. A solid, reliable person (British).
+
+2. Something heavy or dense (slang).
+
+🗣 *“He’s a real brick — always there when you need him.”*  
+ 🗣 *“My old phone’s basically a brick now.”*
+
+💡 *(In tech slang, “bricked” \= completely unusable, e.g., “I bricked my phone.”)*
+
+**Literal meaning:** A solid building block.  
+ **Figurative meaning:** A dependable person (British informal), or sometimes an obstacle metaphorically.
+
+🗣 *“She’s such a brick — always dependable.”*  
+ 🗣 *“They hit a brick wall with the new policy.”*
 
 [↑ Back to index](#index)
 
@@ -2617,6 +3123,13 @@ It’s often used in both **literal** and **figurative** ways.
 * Most often used in negative contexts (“wouldn’t budge”, “didn’t budge”).
 
 * In spoken English, it adds color when describing stubbornness (either of objects or people).
+
+**Meaning:** To move slightly, especially when something or someone is stubborn.  
+ **Usage:**
+
+* *“The door wouldn’t budge.”* (physically stuck)
+
+* *“He wouldn’t budge on his opinion.”* (mentally stuck)
 
 [↑ Back to index](#index)
 
@@ -2755,6 +3268,53 @@ a noise made by air released from the stomach through the mouth; a belch.
 
 [↑ Back to index](#index)
 
+# Bury
+
+verb — literal: to put something in the ground and cover it with earth. Figurative: to suppress or hide something (*bury the lede*); or to be overwhelmed with work (*buried in work*).
+
+**Literal:** "They buried the time capsule under the old oak tree."
+**Figurative:** "He's buried in tickets this sprint." / "The company tried to bury the bad news in a Friday-afternoon release."
+
+[↑ Back to index](#index)
+
+# Busk
+
+**Meaning:** To perform music or art in public for money.  
+ **Example:** *He used to busk on the subway platform.*
+
+[↑ Back to index](#index)
+
+# Buzzing
+
+**Meaning:** Full of excitement or activity.  
+ **Example:** *The café was buzzing with people and music.*
+
+[↑ Back to index](#index)
+
+# Byproduct
+
+**Meaning:** A secondary result produced during another process.  
+ **Figurative meaning:** An unintended consequence.
+
+🗣 *“Stress is a byproduct of ambition.”*  
+ 🗣 *“This discovery was a byproduct of another experiment.”*
+
+[↑ Back to index](#index)
+
+# Cad
+
+* **Literal:** An old-fashioned term for a rude or dishonorable man.
+
+* **Figurative:** A man who behaves badly, especially toward women.
+
+* **Examples:**
+
+  * “He’s such a *cad* — he stood her up twice.”
+
+  * “Only a *cad* would treat someone like that.”
+
+[↑ Back to index](#index)
+
 # Cadence
 
 *Pronunciation:* KAY-duhns
@@ -2883,6 +3443,16 @@ the systematic use of spies to get military or political secrets
 
 [↑ Back to index](#index)
 
+# Canoe
+
+**Literal meaning:** A narrow boat moved with paddles, usually for recreation or travel on water.  
+ **Figurative meaning:** Symbol of self-reliance or personal effort (“paddle your own canoe” \= take responsibility for yourself).
+
+🗣 *“We went canoeing down the river last weekend.”*  
+ 🗣 *“You have to paddle your own canoe in this career — no one’s going to do it for you.”*
+
+[↑ Back to index](#index)
+
 # Canonical
 
 *Pronunciation:* kuh-NON-ih-kuhl
@@ -2921,6 +3491,30 @@ Both might point to the same page, but one is chosen as the **canonical URL**.
 * **standard**  
 * **official**  
 * **accepted version**
+
+[↑ Back to index](#index)
+
+# Canopy
+
+**Literal meaning:** A roof-like covering (of trees, fabric, or structure).  
+ **Figurative meaning:** Protection, shelter, or something overarching.
+
+🗣 *“The forest canopy blocked the sunlight.”*  
+ 🗣 *“We sat under a canopy by the beach.”*  
+ 🗣 *“He felt safe under the canopy of her calm presence.”*
+
+💡 *(Used literally in nature, figuratively in poetic speech.)*
+
+[↑ Back to index](#index)
+
+# Capacity
+
+**Literal meaning:** The maximum amount something can hold.  
+ **Figurative meaning:** Ability or potential to perform, understand, or endure.
+
+🗣 *“The hall is full to capacity.”*  
+ 🗣 *“She has a great capacity for empathy.”*  
+ 🗣 *“I’m working at full mental capacity today.”*
 
 [↑ Back to index](#index)
 
@@ -3176,6 +3770,16 @@ Here are some natural sentences you could use in conversation:
 
 [↑ Back to index](#index)
 
+# Cast
+
+**Literal meaning:** To throw or assign (like casting a net or a role).  
+ **Figurative meaning:** To shape perception or set direction.
+
+🗣 *“They cast her as the lead actress.”*  
+ 🗣 *“The news cast a shadow over the celebrations.”*
+
+[↑ Back to index](#index)
+
 # Catapult
 
 (ka·tuh·puhlt) (ˈकैटपल्‍ट्‌)  
@@ -3211,12 +3815,44 @@ the denouement of a drama, especially a classical tragedy.
 
 [↑ Back to index](#index)
 
+# Catch
+
+**Meaning:** To notice, grab, or understand something.  
+ **Example:** *Did you catch what she said?*
+
+[↑ Back to index](#index)
+
+# Catchy
+
+**Meaning:** Easy to remember, especially because it’s appealing or rhythmic.  
+ **Figurative meaning:** Anything that “sticks” in the mind — idea, slogan, or phrase.
+
+🗣 *“That’s such a catchy song — it’s stuck in my head\!”*  
+ 🗣 *“We need a catchy title for this campaign.”*  
+ 🗣 *“Her smile is catchy — everyone lights up around her.”*
+
+[↑ Back to index](#index)
+
 # Cater
 
 आवश्यकताओं का ध्यान रखना,  
  खान पान का प्रबंध करना, सेवा करना   
 Serve  
 There is also a rural Centre at Mandi village which caters to children of nearby villages.
+
+[↑ Back to index](#index)
+
+# catfish
+
+verb
+
+use a fake profile to pretend to be someone else
+
+Many people are unaware that they are being catfished until it's too late.
+
+lure (someone) into a relationship by means of a fictional online persona
+
+he was being catfished by a cruel prankster
 
 [↑ Back to index](#index)
 
@@ -3244,6 +3880,17 @@ So, a caveat is usually a note of caution or a special condition you should keep
 
 4. “I’ll support the idea, with the caveat that we revisit it in six months.”
 
+**Meaning:** A warning or condition that you should be aware of before proceeding.  
+ **Examples (spoken):**
+
+* “You can take the job — but with one caveat: it requires relocation.”
+
+* “Here’s the caveat — the software isn’t compatible with older systems.”
+
+* “That sounds good, but with a caveat, it’s not guaranteed.”
+
+👉 *Connecting phrase:* “That being said, there’s one caveat…”
+
 [↑ Back to index](#index)
 
 # Cessation
@@ -3266,11 +3913,23 @@ Here are some examples of cessation in a sentence:
 
 [↑ Back to index](#index)
 
-# Chalk out
+# Chameleon
 
-phrasal verb of chalk  
-sketch or plan something.  
-"we have already chalked out the strategy for conducting raids"
+**Literal meaning:** A color-changing reptile.  
+ **Figurative meaning:** A person who adapts easily to different situations.
+
+🗣 *“She’s such a chameleon — fits in anywhere.”*  
+ 🗣 \*“In business, being a chameleon helps you survive
+
+[↑ Back to index](#index)
+
+# Channel
+
+**Literal meaning:** A passage for water or communication.  
+ **Figurative meaning:** To direct emotions, energy, or focus into something.
+
+🗣 *“She channels her creativity through painting.”*  
+ 🗣 *“Try to channel your frustration into action.”*
 
 [↑ Back to index](#index)
 
@@ -3338,6 +3997,14 @@ hold (something) dear.
 
 keep (a hope or ambition) in one's mind.  
 "he had long cherished a secret fantasy about his future"
+
+[↑ Back to index](#index)
+
+# Cherry-pick
+
+verb  
+choose and take only (the most beneficial or profitable items, opportunities, etc.) from what is available.  
+"the company should buy the whole airline and not just cherry-pick its best assets"
 
 [↑ Back to index](#index)
 
@@ -3447,6 +4114,16 @@ noun/verb — noun: a hand tool with a sharp edge, used to cut or shape wood, st
 
 [↑ Back to index](#index)
 
+# Choke
+
+**Literal meaning:** To be unable to breathe or speak.  
+ **Figurative meaning:** To fail under pressure or stress.
+
+🗣 *“He choked during the final round.”*  
+ 🗣 *“Don’t choke — you’ve practiced for this.”*
+
+[↑ Back to index](#index)
+
 # Chomping
 
 verb  
@@ -3460,14 +4137,29 @@ Startled by sudden chomping noise, Bubble had come to check his cake.
 
 [↑ Back to index](#index)
 
-# Churn Out
+# Choppy
 
-phrasal verb of churn  
-produce something routinely or mechanically and in large quantities.  
-"artists continued to churn out uninteresting works"
+**Literal meaning:** Rough, uneven (like waves or video).  
+ **Figurative meaning:** Inconsistent, lacking flow or smoothness.
 
-"Churning out" is an informal phrasal verb that means to produce something quickly and in large quantities, often at the expense of quality. For example, you might say   
-The factory churns out thousands of pairs of these shoes every week. 
+🗣 *“The video call was choppy.”*  
+ 🗣 *“His speech felt choppy and unorganized.”*
+
+[↑ Back to index](#index)
+
+# Chore
+
+**Meaning:** A routine task, often boring or domestic.  
+ **Example:** *Doing the dishes is my least favorite chore.*
+
+[↑ Back to index](#index)
+
+# Chummy
+
+Adjective
+
+on friendly terms; friendly.  
+"she's become rather chummy with Ted recently"
 
 [↑ Back to index](#index)
 
@@ -3512,6 +4204,20 @@ wary and unwilling to take risks.
 
 [↑ Back to index](#index)
 
+# Clad
+
+* **Literal:** Dressed or covered in something.
+
+* **Figurative:** Symbolically covered in emotion, attitude, or purpose.
+
+* **Examples:**
+
+  * “He was *clad* in black leather.”
+
+  * “She was *clad* in confidence and charm.”
+
+[↑ Back to index](#index)
+
 # Claimant
 
 दावेदार, हकदार, वादी, उम्मेदवार, अभियोक्तृ, अधिकार प्रतिपादक, स्वत्व चाहने वाला, 
@@ -3519,6 +4225,20 @@ wary and unwilling to take risks.
 noun  
 a person making a claim, especially in a lawsuit or for a state benefit.  
 "one in four eligible claimants failed to register for a rebate"
+
+[↑ Back to index](#index)
+
+# Clamping
+
+* **Literal:** Holding tightly or fastening something firmly.
+
+* **Figurative:** Controlling or restraining emotions or actions.
+
+* **Examples:**
+
+  * “He *clamped* the lid on the jar.”
+
+  * “She *clamped* her lips shut to keep from arguing.”
 
 [↑ Back to index](#index)
 
@@ -3558,6 +4278,30 @@ In spoken English, **clasp** here often conveys a *gentle but firm* kind of hold
 💡 **Spoken nuance:**  
  When people use **clasp** in everyday conversation, they usually mean *holding someone/something close or tightly*, often with a slightly emotional or protective tone. The fastening-device meaning shows up more when talking about jewelry, bags, or clothes.
 
+* **Literal:** To hold tightly with your hands.
+
+* **Figurative:** To hold emotionally or symbolically (like an idea or memory).
+
+* **Examples:**
+
+  * “She *clasped* his hand tightly.”
+
+  * “He *clasped* the medal to his chest proudly.”
+
+[↑ Back to index](#index)
+
+# Cleft
+
+* **Literal:** A split or indentation (like a chin cleft or a rock crack).
+
+* **Figurative:** A divide or separation, emotional or physical.
+
+* **Examples:**
+
+  * “He had a *cleft* chin.”
+
+  * “A deep *cleft* formed between the two groups.”
+
 [↑ Back to index](#index)
 
 # Clench
@@ -3573,6 +4317,20 @@ Example sentences:
 "As the tension in the room rose, he couldn't help but clench his jaw."
 
 In these examples, "clench" describes the action of forcefully closing or tightening, often as a physical or emotional response to a situation.
+
+[↑ Back to index](#index)
+
+# Clenched
+
+* **Literal:** Closed tightly, usually hands or teeth.
+
+* **Figurative:** Showing suppressed anger or tension.
+
+* **Examples:**
+
+  * “She *clenched* her fists in rage.”
+
+  * “He *clenched* his jaw to keep calm.”
 
 [↑ Back to index](#index)
 
@@ -3625,6 +4383,18 @@ Here are **realistic ways** people use "cliché" in conversations:
 * You can say **"I know it’s a cliché, but..."** to defend using it anyway.
 
 * You can call a **situation, scene, or story** a cliché too, not just words.
+
+[↑ Back to index](#index)
+
+# clickbait
+
+noun
+
+a link designed to entice readers to click, usually leading to dubious content
+
+these recent reports of the show's imminent demise are hyperbolic clickbait
+
+a clickbait article
 
 [↑ Back to index](#index)
 
@@ -3787,6 +4557,16 @@ She clinked glasses with me.
 
 [↑ Back to index](#index)
 
+# Clue
+
+**Literal meaning:** A hint or piece of information that helps solve something.  
+ **Figurative meaning:** Understanding or awareness.
+
+🗣 *“I have no clue where he went.”*  
+ 🗣 *“That clue led the police to the suspect.”*
+
+[↑ Back to index](#index)
+
 # Clumsiness
 
 noun  
@@ -3811,6 +4591,27 @@ The new employee, still unfamiliar with the office layout, moved with a certain 
 Jane's friends found humor in her endearing clumsiness, as she managed to spill her coffee and trip over her own feet in the span of a few minutes.
 
 The ballet instructor worked patiently with the young dancer, helping her overcome her initial clumsiness and develop a more graceful technique.
+
+**Meaning:** Lack of physical grace or coordination.  
+ **Figurative meaning:** Awkwardness in behavior or handling situations.
+
+🗣 *“His clumsiness made everyone laugh.”*  
+ 🗣 *“There was some clumsiness in how the issue was handled.”*
+
+[↑ Back to index](#index)
+
+# Clumsy
+
+**Literal meaning:** Physically awkward or uncoordinated.  
+ **Figurative meaning:**
+
+1. Awkward in handling situations or expressing things.
+
+2. Lacking grace or subtlety.
+
+🗣 *“I’m so clumsy — I dropped my coffee again.”*  
+ 🗣 *“That was a clumsy way to apologize.”*  
+ 🗣 *“He made a clumsy attempt at humor.”*
 
 [↑ Back to index](#index)
 
@@ -3870,6 +4671,17 @@ Here are some sentence examples:
 "Over time, their separate ideas coalesced into a coherent business plan."  
 "The scattered protesters slowly coalesced into an organized group at the city center."  
 "As the evening progressed, several smaller discussions coalesced into one large conversation about climate change."
+
+[↑ Back to index](#index)
+
+# Coarse
+
+**Meaning:** Rough, rude, or lacking refinement.  
+ **Usage:**
+
+* *“His hands were coarse from work.”*
+
+* *“She disliked his coarse language.”*
 
 [↑ Back to index](#index)
 
@@ -4130,6 +4942,11 @@ a state of confused and noisy disturbance.
 civil insurrection.  
 "damage caused by civil commotion"
 
+**Meaning:** Noisy confusion or disorder.
+
+🗣 *“There was a commotion outside the store.”*  
+ 🗣 *“The kids caused quite a commotion.”*
+
 [↑ Back to index](#index)
 
 # Commute
@@ -4157,6 +4974,22 @@ establish the number of.
 "6,079 residents were enumerated in 241 establishments"
 
 "Shades of gray" is an expression that conveys the idea of complexity or ambiguity. It refers to situations or issues that are not black or white, but rather contain various nuances or degrees of interpretation.
+
+**Meaning:** To travel regularly between home and work.  
+ **Example:** *I commute two hours every day.*
+
+**Meaning:** To travel between home and work regularly.  
+ **Example:** *I commute an hour each day.*
+
+[↑ Back to index](#index)
+
+# Compassion
+
+**Meaning:** Deep sympathy and care for someone else’s suffering.  
+ **Figurative sense:** Warmth or emotional understanding.
+
+🗣 *“She treated the patients with great compassion.”*  
+ 🗣 *“A little compassion can go a long way.”*
 
 [↑ Back to index](#index)
 
@@ -4223,6 +5056,17 @@ Attractive
 Irresistible  
 Really, really convincing 
 
+**Meaning:** Strong, convincing, or very interesting.  
+ **Examples (spoken):**
+
+* “That’s a compelling argument.”
+
+* “Her presentation was really compelling.”
+
+* “We need a compelling reason to change the plan.”
+
+👉 *Tip:* Often used in professional or persuasive speech.
+
 [↑ Back to index](#index)
 
 # Compile
@@ -4255,6 +5099,16 @@ adjective — self-satisfied to the point of being unaware of danger or a proble
 
 [↑ Back to index](#index)
 
+# Complex
+
+**Literal meaning:** Something made up of multiple interconnected parts.  
+ **Figurative meaning:** Complicated or hard to understand; also refers to an emotional issue (e.g., “inferiority complex”).
+
+🗣 *“It’s a complex system with many moving parts.”*  
+ 🗣 *“He has a complex about always being perfect.”*
+
+[↑ Back to index](#index)
+
 # Complexion
 
 noun  
@@ -4263,6 +5117,13 @@ noun
 
 2.the general aspect or character of something.  
 "the complexion of the game changed"
+
+[↑ Back to index](#index)
+
+# Comply
+
+**Meaning:** To follow rules or instructions.  
+ **Example:** *All employees must comply with the policy.*
 
 [↑ Back to index](#index)
 
@@ -4602,6 +5463,20 @@ combine (two or more sets of information, texts, ideas, etc.) into one.
 
 [↑ Back to index](#index)
 
+# Conform
+
+**Meaning:** To follow rules or social expectations.  
+ **Example:** *He doesn’t conform to traditional ways of thinking.*
+
+[↑ Back to index](#index)
+
+# Confuse
+
+**Meaning:** To make someone uncertain or puzzled.  
+ **Example:** *His explanation just confused me more.*
+
+[↑ Back to index](#index)
+
 # Conglomerate
 
 *Pronunciation:* kuhn-GLOM-uh-rit
@@ -4664,6 +5539,16 @@ form an opinion or supposition about (something) on the basis of incomplete info
 
 [↑ Back to index](#index)
 
+# Conman
+
+**Meaning:** A person who deceives others for personal gain; short for “confidence man.”  
+ **Figurative meaning:** A smooth talker who manipulates trust.
+
+🗣 *“The conman tricked people into fake investments.”*  
+ 🗣 *“He’s charming, but a total conman underneath.”*
+
+[↑ Back to index](#index)
+
 # Connotation
 
 *Pronunciation:* kon-uh-TAY-shuhn
@@ -4714,6 +5599,16 @@ a person's moral sense of right and wrong, viewed as acting as a guide to one's 
 "he had a guilty conscience about his desires"
 
 conscience is sometimes confused with conscious
+
+**Meaning:** The inner sense of right and wrong.  
+ **Example:** *His conscience wouldn’t let him lie.*
+
+[↑ Back to index](#index)
+
+# Conscientious
+
+**Meaning:** Careful and responsible in doing work.  
+ **Example:** *She’s a conscientious employee—always thorough.*
 
 [↑ Back to index](#index)
 
@@ -5171,6 +6066,13 @@ Here are some examples of contrast in a sentence:
 
 [↑ Back to index](#index)
 
+# Controversial
+
+**Meaning:** Causing public disagreement or debate.  
+ **Example:** *His comments were quite controversial.*
+
+[↑ Back to index](#index)
+
 # Conundrum
 
 *Pronunciation:* kuh-NUN-druhm
@@ -5295,6 +6197,26 @@ Try saying these aloud:
 
 [↑ Back to index](#index)
 
+# Convince
+
+**Meaning:** To make someone believe or accept something as true or worthwhile.  
+ **Figurative meaning:** To inspire or emotionally move someone to change their opinion or decision.
+
+🗣 *“I tried to convince him to join the trip.”*  
+ 🗣 *“You’ll never convince me that pineapple belongs on pizza\!”*  
+ 🗣 *“Her sincerity convinced everyone in the room.”*
+
+[↑ Back to index](#index)
+
+# Convoluted
+
+**Meaning:** Complicated, twisted, or hard to follow.
+
+🗣 *“That plot is so convoluted — I lost track halfway.”*  
+ 🗣 *“The process is needlessly convoluted.”*
+
+[↑ Back to index](#index)
+
 # Cooed
 
 * **Literal:** Made soft, gentle sounds (like a dove or when speaking to a baby).
@@ -5397,7 +6319,39 @@ verb (past tense of *cordon off*) — to enclose or seal off an area with a barr
 
 [↑ Back to index](#index)
 
+# Corduroy
+
+**Literal meaning:** A thick, ridged fabric used in clothing.  
+ **Figurative meaning:** Sometimes symbolizes vintage or retro fashion.
+
+🗣 *“He wore a brown corduroy jacket — very old-school.”*  
+ 🗣 *“Corduroy pants are back in style\!”*
+
+[↑ Back to index](#index)
+
 # Cornerstone
+
+The word **“cornerstone”** has both a **literal meaning** and a **figurative meaning**:
+
+* **Literal meaning**: In old-style architecture, the cornerstone was the first stone set at the corner of a building. All other stones were aligned to it. So it was the foundation or starting point.
+
+* **Figurative meaning**: In everyday English, “cornerstone” means something that is **essential, fundamental, or the basis** of a system, idea, or organization. For example:
+
+  * “Trust is the cornerstone of any good relationship.”
+
+  * “Education is the cornerstone of a successful society.”
+
+👉 Think of it like saying *“the most important foundation piece.”*
+
+### **Phrases you can use in real life:**
+
+1. “Teamwork is really the cornerstone of our success.”
+
+2. “On the other hand, without innovation, our company could lose its cornerstone advantage.”
+
+3. “For example, honesty is the cornerstone of good leadership.”
+
+4. “That being said, communication is also a cornerstone we can’t ignore.”
 
 noun — literal: a stone set at the base of a building, often laid ceremonially to mark its founding. Figurative: a fundamental part on which something essential depends.
 
@@ -5462,6 +6416,13 @@ In these examples, "counterintuitive" is used to highlight situations or concept
 
 [↑ Back to index](#index)
 
+# Counterpart
+
+**Meaning:** A person in a similar position in another place or organization.  
+ **Example:** *I met my counterpart from the London office.*
+
+[↑ Back to index](#index)
+
 # Courageous
 
 adjective — brave; showing courage in the face of danger, difficulty, or fear.
@@ -5502,6 +6463,16 @@ A sneak peek is a brief, exclusive, or illicit opportunity to see or experience 
 
 [↑ Back to index](#index)
 
+# Coward
+
+**Meaning:** Someone who lacks courage.  
+ **Figurative meaning:** A person who avoids responsibility or honesty out of fear.
+
+🗣 *“He ran away — what a coward.”*  
+ 🗣 *“Don’t be a coward; tell her the truth.”*
+
+[↑ Back to index](#index)
+
 # Coxing
 
 verb  
@@ -5514,6 +6485,32 @@ act as a coxswain for (a racing boat or crew).
 # Crabber
 
 : someone who fishes for crabs. The crabber sorts the harvest in his cramped boat.
+
+[↑ Back to index](#index)
+
+# Crackerjack
+
+**Meaning:** Exceptionally skilled or excellent (old-fashioned but still cool).
+
+🗣 *“She’s a crackerjack programmer.”*  
+ 🗣 *“That’s a crackerjack idea\!”*
+
+[↑ Back to index](#index)
+
+# Cram
+
+**Literal meaning:** To stuff or pack things tightly.  
+ **Figurative meaning:**
+
+1. To study intensively before an exam.
+
+2. To overload something or someone with information or tasks.
+
+🗣 *“I had to cram all night for the test.”*  
+ 🗣 *“Don’t cram so much into your schedule.”*  
+ 🗣 *“He crammed his clothes into the suitcase.”*
+
+💡 *(“Cramming” is a universal student phrase — very natural in informal talk.)*
 
 [↑ Back to index](#index)
 
@@ -5556,6 +6553,15 @@ uncomfortably small or restricted.
 
 [↑ Back to index](#index)
 
+# Craving
+
+**Meaning:** A strong desire for something, often food but also emotional.
+
+🗣 *“I’ve got a craving for chocolate.”*  
+ 🗣 *“She’s craving adventure lately.”*
+
+[↑ Back to index](#index)
+
 # Credulity
 
 *Pronunciation:* krih-DOO-lih-tee
@@ -5571,12 +6577,6 @@ Here are some examples of credulity in a sentence:
 "The farfetched plot of that movie strained credulity".  
 "The plot of the novel stretches credulity to the limit".  
 "Her description of the event strains credulity".
-
-[↑ Back to index](#index)
-
-# Creep out
-
-creeped out; creeping out; creeps out. US, informal. : to cause (someone) to have an uncomfortable feeling of nervousness or fear : to give (someone) the creeps. That guy really creeps me out. I felt creeped out being alone in the office at night.
 
 [↑ Back to index](#index)
 
@@ -5597,6 +6597,13 @@ The abandoned house had a creepy atmosphere, making it unsettling to explore.
 His constant staring gave me a creepy feeling.  
 The strange sounds in the dark alley made the place seem creepy.  
 In these examples, "creepy" conveys a sense of unease or discomfort, typically elicited by something that feels eerie, strange, or unsettling. It's a subjective term, and what one person finds creepy might vary from another's perspective.
+
+[↑ Back to index](#index)
+
+# Crew
+
+**Meaning:** A group working together.  
+ **Example:** *The film crew worked overnight.*
 
 [↑ Back to index](#index)
 
@@ -5703,6 +6710,15 @@ You asked **“crouched”** — that’s perfectly fine.
  A very natural way to ask in conversation is:
 
 * **“What does ‘crouched’ mean?”**
+
+[↑ Back to index](#index)
+
+# Crucial
+
+**Meaning:** Extremely important or essential.
+
+🗣 *“It’s crucial that we meet this deadline.”*  
+ 🗣 *“Trust is crucial in any relationship.”*
 
 [↑ Back to index](#index)
 
@@ -5820,6 +6836,19 @@ nounNORTH AMERICAN
 a truck used to transport loggers to and from work.
 
 This phone camera quality is crummy.
+
+adjective (informal) — of poor quality; unpleasant, shabby, or disappointing.
+
+"The hotel room was pretty crummy for the price we paid."
+
+[↑ Back to index](#index)
+
+# Crutch
+
+noun — literal: a support used under the arm to help an injured person walk. Figurative: something relied on excessively, often in an unhealthy way that prevents real growth or improvement.
+
+**Literal:** "He was on crutches for six weeks after the surgery."
+**Figurative:** "Copy-pasting answers became a crutch instead of actually learning the language."
 
 [↑ Back to index](#index)
 
@@ -6168,6 +7197,19 @@ I defy you to find a story problem.
 
 [↑ Back to index](#index)
 
+# Dawn
+
+**Literal meaning:** The first appearance of light in the morning.  
+ **Figurative meaning:** The moment something becomes clear or begins to develop.
+
+🗣 *“We reached the campsite at dawn.”*  
+ 🗣 *“It suddenly dawned on me that I’d left my keys inside.”*  
+ 🗣 *“A new era is dawning in AI technology.”*
+
+💡 *(Used beautifully in reflective or storytelling tones.)*
+
+[↑ Back to index](#index)
+
 # Dazzle
 
 verb  
@@ -6225,6 +7267,17 @@ she debunks all the usual rubbish about acting
 
 [↑ Back to index](#index)
 
+# Debut
+
+**Literal meaning:** A person’s first appearance or performance in a public role.  
+ **Figurative meaning:** The first introduction or launch of anything new — product, idea, or even a style.
+
+🗣 *“The actor made his debut in a Netflix series.”*  
+ 🗣 *“Their new car model will debut next month.”*  
+ 🗣 *“That was my public speaking debut — nerve-wracking but fun.”*
+
+[↑ Back to index](#index)
+
 # Decapitated
 
 verb (past tense of *decapitate*) — literal: to cut off the head of. Figurative: to remove the top leadership or most important part of an organization.
@@ -6256,6 +7309,52 @@ kill, destroy, or remove a large proportion of.
 HISTORICAL  
 kill one in every ten of (a group of people, originally a mutinous Roman legion) as a punishment for the whole group.  
 "the man who is to determine whether it be necessary to decimate a large body of mutineers"
+
+[↑ Back to index](#index)
+
+# Deck
+
+The word **deck** has a few common meanings, depending on context:
+
+1. **Ship/boat** → A flat surface or floor on a ship (e.g., “upper deck”).
+
+2. **Cards** → A full set of playing cards (e.g., “a deck of cards”).
+
+3. **Floor/platform** → A flat, outdoor floor attached to a house (like a wooden patio).
+
+4. **Presentation** → A set of slides (like PowerPoint) used for presenting.
+
+5. **Slang (informal)** → To **knock someone down** with a punch (e.g., “He decked him with one hit”).
+
+### **Usage in sentences (spoken style)**
+
+* **Ship/boat:** “We all gathered on the deck to watch the sunset.”
+
+* **Cards:** “Do you want to play? I’ve got a fresh deck of cards.”
+
+* **House/platform:** “Let’s sit out on the deck and have some coffee.”
+
+* **Presentation:** “I’ll send you the deck before our meeting so you can review it.”
+
+* **Slang:** “He got so angry, he almost decked the guy.”
+
+### **Common spoken phrases**
+
+* “Let’s run through the deck before the client call.” (work/presentation context)
+
+* “For example, the upper deck seats are more expensive.” (stadium/ship context)
+
+* “That being said, I’ll shuffle the deck and deal the cards.” (casual game context)
+
+* “On the other hand, sitting on the deck is nice in the evenings.” (home context)
+
+👉 I’d encourage you to practice saying:
+
+* *“Can you share the deck with me before the meeting?”*
+
+* *“We played cards with a new deck last night.”*
+
+* *“Let’s have dinner on the deck—it’s cooler outside.”*
 
 [↑ Back to index](#index)
 
@@ -6318,6 +7417,20 @@ adjective
 showing defiance
 
 she was in a defiant mood
+
+[↑ Back to index](#index)
+
+# Deflected
+
+* **Literal:** Changed direction after hitting something.
+
+* **Figurative:** Avoided blame or changed the subject smoothly.
+
+* **Examples:**
+
+  * “The ball *deflected* off the wall.”
+
+  * “He *deflected* criticism with a joke.”
 
 [↑ Back to index](#index)
 
@@ -6394,6 +7507,13 @@ nounINFORMAL
 a delicate fabric or garment.  
 "the delicates cycle of a washing machine"
 
+**Meaning:** Fragile, soft, or easily damaged — physically or emotionally.  
+ **Usage:**
+
+* *“The glass is delicate.”*
+
+* *“It’s a delicate topic — be careful how you say it.”*
+
 [↑ Back to index](#index)
 
 # Delinquent
@@ -6438,6 +7558,15 @@ Illusion: Misleading perception of something real. Example: Optical illusions tr
 Delusion: Strong, false belief resistant to evidence. Example: Believing in persecution despite evidence to the contrary.
 
 The terms "illusion" and "delusion" are related but refer to different concepts, particularly in the realms of perception and belief. Here are the key differences:
+
+**Literal meaning:** A false belief held despite evidence to the contrary.  
+ **Figurative meaning:** Self-deception or false confidence — often gently mocking or philosophical.
+
+🗣 *“He lives under the delusion that he’s always right.”*  
+ 🗣 *“Fame can create dangerous delusions.”*  
+ 🗣 *“It’s not confidence — it’s delusion.”*
+
+💡 *(“Delusional” is a sharp adjective for someone out of touch with reality.)*
 
 [↑ Back to index](#index)
 
@@ -6597,6 +7726,13 @@ showing a critical or disrespectful attitude.
 
 [↑ Back to index](#index)
 
+# Descendant
+
+Someone related to an ancestor.  
+ 👉 *“She’s a descendant of a famous king.”*
+
+[↑ Back to index](#index)
+
 # Desist
 
 verb  
@@ -6645,6 +7781,16 @@ lose or be without hope.
 verb  
 feel contempt or a deep repugnance for.  
 "he despised himself for being selfish"
+
+[↑ Back to index](#index)
+
+# despite
+
+preposition
+
+without being affected by; in spite of
+
+he remains a great leader despite age and infirmity
 
 [↑ Back to index](#index)
 
@@ -6840,6 +7986,15 @@ pass into (a different state, especially a worse one); degenerate.
 
 [↑ Back to index](#index)
 
+# Devoted
+
+**Meaning:** Loyal and dedicated.
+
+🗣 *“She’s devoted to her students.”*  
+ 🗣 *“He’s a devoted father.”*
+
+[↑ Back to index](#index)
+
 # Devour
 
 (भकोसना, हड़पना, खा जाना, निगलना, अपनाना, नष्ट करना, समाप्त करना, हत्या करना)
@@ -6992,6 +8147,9 @@ make or become less.
 cause to seem less impressive or valuable.  
 "the trial has aged and diminished him"
 
+**Meaning:** To make or become smaller or weaker.  
+ **Example:** *Don’t let fear diminish your confidence.*
+
 [↑ Back to index](#index)
 
 # Dimple
@@ -7042,6 +8200,23 @@ You wrote **“diple”** first — the correct spelling is **“dimple.”**
 Try this out loud now:
 
 *“For example, when she smiles, her dimples make her look very friendly.”*
+
+[↑ Back to index](#index)
+
+# Dire
+
+adjective
+
+1. extremely serious or urgent.
+
+"misuse of drugs can have dire consequences"
+
+2. informal•British
+
+of a very poor quality.  
+"the concert was dire"
+
+I have some dire news.
 
 [↑ Back to index](#index)
 
@@ -7147,6 +8322,12 @@ an external form, appearance, or manner of presentation, typically concealing th
 (भेष बदलना)  
 ( छिपाना)  
 ( रुप बदलना)
+
+**Literal meaning:** To change appearance to hide identity.  
+ **Figurative meaning:** To conceal true feelings or intentions.
+
+🗣 *“He came to the party in disguise.”*  
+ 🗣 *“She disguised her disappointment with a smile.”*
 
 [↑ Back to index](#index)
 
@@ -7458,6 +8639,20 @@ manage to discern (something barely perceptible).
 
 [↑ Back to index](#index)
 
+# Distorted
+
+* **Literal:** Twisted out of shape.
+
+* **Figurative:** Misrepresented or altered from the truth.
+
+* **Examples:**
+
+  * “The reflection in the water was *distorted*.”
+
+  * “The media *distorted* his statement.”
+
+[↑ Back to index](#index)
+
 # Distraught
 
 adjective  
@@ -7502,6 +8697,21 @@ cause (someone) anxiety, sorrow, or pain.
 give (furniture or clothing) simulated marks of age and wear.  
 "the manner in which leather jackets are industrially distressed"
 
+**Meaning:** Extreme anxiety, sorrow, or pain.
+
+🗣 *“She was in visible distress after the call.”*  
+ 🗣 *“Financial distress hit many small businesses.”*
+
+[↑ Back to index](#index)
+
+# Ditch
+
+**Literal meaning:** A narrow trench or drain.  
+ **Figurative meaning:** To abandon, discard, or get rid of something (or someone).
+
+🗣 *“Let’s ditch the old plan — it’s not working.”*  
+ 🗣 *“He ditched class to hang out with friends.”*
+
 [↑ Back to index](#index)
 
 # Divulge
@@ -7522,6 +8732,18 @@ The word "divulge" can also mean to make something public or proclaim something.
 
 [↑ Back to index](#index)
 
+# DM
+
+verb
+
+organize and oversee a role-playing game, especially Dungeons & Dragons, in particular by narrating the details of the story that are not controlled by the players
+
+he DMed while I played as a solo warrior
+
+I'm lined up to DM a Dungeons & Dragons session
+
+[↑ Back to index](#index)
+
 # Docile (daa·sl)
 
 adjective  
@@ -7535,6 +8757,8 @@ Calm in manner and easy to control
 [↑ Back to index](#index)
 
 # Dogma
+
+*Pronunciation:* DOG-muh
 
 (नीति, हठधर्मिता)
 
@@ -7551,6 +8775,8 @@ a principle or set of principles laid down by an authority as incontrovertibly t
 [↑ Back to index](#index)
 
 # Dogmatic
+
+*Pronunciation:* dawg-MAT-ik
 
 ( हठी, बेअदब,  कट्टर, हठधर्मी)
 
@@ -7613,6 +8839,8 @@ Say this slowly, then naturally:
 [↑ Back to index](#index)
 
 # Domineering
+
+*Pronunciation:* dom-uh-NEER-ing
 
 Opposite: submissive
 
@@ -7721,6 +8949,16 @@ Douche is a vulgar slang term for an unpleasant or contemptible person. It can a
 
 [↑ Back to index](#index)
 
+# douchebag
+
+/ˈduːʃbaɡ/  
+noun  
+1.a small syringe for douching the vagina.
+
+"Douchebag" is a vulgar slang term for a person who is obnoxious, offensive, or disgusting. It can also refer to a bag used for douches. 
+
+[↑ Back to index](#index)
+
 # Downplay
 
 to treat or speak of (something) so as to reduce emphasis on its importance, value, strength, etc.: The press has downplayed the president's role in the negotiations.
@@ -7730,7 +8968,58 @@ Vintage
 
 [↑ Back to index](#index)
 
+# Downside
+
+**Meaning:** The negative aspect of something.  
+ **Example:** *The downside of remote work is isolation.*
+
+[↑ Back to index](#index)
+
+# Downtime
+
+### **Meanings of downtime**
+
+1. **Technical / Work Context**
+
+   * **When a system, service, or machine is not available or not working.**
+
+   * *“The server had two hours of downtime last night.”*
+
+   * *“We need to minimize downtime during deployment.”*
+
+2. **Everyday / Personal Context**
+
+   * **Time when you are not busy, resting, or relaxing.**
+
+   * *“I finally got some downtime over the weekend.”*
+
+   * *“She uses her downtime to read or go for a walk.”*
+
+✅ Sentences to practice:
+
+1. *“We scheduled maintenance to avoid unexpected downtime.”*
+
+2. *“Sorry for the delay, our system had some downtime.”*
+
+3. *“I like to spend my downtime watching movies.”*
+
+4. *“Let’s plan the release in a way that reduces customer downtime.”*
+
+💡 Context of usage:
+
+* **In IT/Cloud/DevOps meetings** → almost always about servers, systems, or services.
+
+* **In casual life** → relaxation time, break, holiday.
+
+👉 In your professional calls, instead of saying *“system not working”*, you can naturally say:
+
+* *“We experienced some downtime due to a configuration issue.”*
+
+[↑ Back to index](#index)
+
 # Doxxing
+
+*Pronunciation:* DOK-sing
 
 (also spelled doxing)
 
@@ -7779,6 +9068,16 @@ let (oneself or a part of one's body) rest somewhere in a casual or relaxed way.
 
 (of fabric) hang in loose, graceful folds.  
 "velvet drapes beautifully"
+
+[↑ Back to index](#index)
+
+# Drawl
+
+**Meaning:** To speak slowly with prolonged vowel sounds (common in some accents, like the Southern U.S.).  
+ **Figurative meaning:** Speech that feels relaxed or lazy.
+
+🗣 *“He speaks with a Texan drawl.”*  
+ 🗣 *“Her slow drawl made every sentence sound dramatic.”*
 
 [↑ Back to index](#index)
 
@@ -7846,6 +9145,11 @@ regarded with awe; greatly revered.
 
 # Dreaded
 
+**Meaning:** Feared or unpleasantly anticipated.
+
+🗣 *“Tomorrow’s dreaded meeting is giving me anxiety.”*  
+ 🗣 *“He finally faced the dreaded dentist appointment.”*
+
 adjective — regarded with great fear or dislike; feared in advance.
 
 खूंखार (fierce/dreaded)
@@ -7884,6 +9188,16 @@ very wet.
 
 [↑ Back to index](#index)
 
+# Drive
+
+**Literal meaning:** To operate a vehicle.  
+ **Figurative meaning:** Motivation, determination, or the force behind actions.
+
+🗣 *“Her drive is what makes the team succeed.”*  
+ 🗣 *“He’s driven to make a difference.”*
+
+[↑ Back to index](#index)
+
 # Dross
 
 noun  
@@ -7893,6 +9207,20 @@ something regarded as worthless; rubbish.
 2\.  
 foreign matter, dregs, or mineral waste, in particular scum formed on the surface of molten metal.  
 "alchemists tried to create gold from dross"
+
+[↑ Back to index](#index)
+
+# Ducked
+
+* **Literal:** Lowered your head or body quickly to avoid something.
+
+* **Figurative:** Avoided a question or responsibility.
+
+* **Examples:**
+
+  * “He *ducked* as the ball flew by.”
+
+  * “She *ducked* the question about her promotion.”
 
 [↑ Back to index](#index)
 
@@ -7914,6 +9242,58 @@ adjective
 greatly astonished or amazed.  
 "he was utterly dumbfounded"  
 Dumbfounded means to be extremely surprised or caught off guard. It's a word that's similar to astonished and gobsmacked. 
+
+[↑ Back to index](#index)
+
+# Dump
+
+### **Main meanings of dump**
+
+1. **To throw away / discard**
+
+   * *“I’m going to dump these old files.”* (throw away)
+
+   * *“They dumped the garbage in the bin.”*
+
+2. **To suddenly unload a lot of things**
+
+   * *“He dumped all his clothes on the bed.”*
+
+   * *“The truck dumped the sand on the road.”*
+
+3. **To suddenly share too much information / emotions**
+
+   * *“She dumped all her problems on me.”* (emotionally unload)
+
+   * *“Don’t dump all this work on me at once.”*
+
+4. **To end a relationship** (casual/slang)
+
+   * *“He dumped his girlfriend last week.”*
+
+5. **Place (noun)**
+
+   * *“This room looks like a dump.”* (messy place)
+
+   * *“We need to go to the dump to throw away this junk.”* (garbage site)
+
+✅ Sentences you can practice:
+
+1. *“Sorry for dumping all this work on you at the last minute.”*
+
+2. *“He dumped a lot of data into the system, and now it’s overloaded.”*
+
+3. *“I don’t want to dump my problems on you.”*
+
+4. *“We need to dump the logs after processing them.”* (useful in tech)
+
+💡 In your work (tech/DevOps/ML context), “dump” is often used for data:
+
+* *“I dumped the database to a file.”*
+
+* *“We can dump the logs for debugging.”*
+
+👉 It means *export or write out the whole content somewhere.*
 
 [↑ Back to index](#index)
 
@@ -7952,6 +9332,8 @@ imprison (someone) in a dungeon.
 
 # duplicitous
 
+*Pronunciation:* doo-PLIS-ih-tuhs
+
 adjective  
 1\.  
 deceitful.  
@@ -7966,6 +9348,8 @@ I refuse to operate in duplicitous matter.
 
 # Duress
 
+*Pronunciation:* doo-RES (also dyoo-RES)
+
 Duress refers to a situation where one person makes unlawful threats or otherwise engages in coercive behavior that causes another person to commit acts that they would otherwise not commit.
 
 **noun**  
@@ -7979,7 +9363,21 @@ forcible restraint or imprisonment.
 
 [↑ Back to index](#index)
 
+# Eager
+
+**Meaning:** Excitedly or impatiently wanting to do something.  
+ **Figurative meaning:** Full of anticipation or enthusiasm.
+
+🗣 *“She’s eager to start her new job.”*  
+ 🗣 *“He listened eagerly to the coach’s advice.”*
+
+💡 *(“Eager” has a positive tone, unlike “desperate.”)*
+
+[↑ Back to index](#index)
+
 # Eavesdropping
+
+*Pronunciation:* EEVZ-drop-ing
 
 Eavesdropping is the act of listening to private conversations or observing private conduct without the consent of the party being watched. It can also be defined as the act of secretly listening to something private. 
 
@@ -7993,7 +9391,17 @@ Example:
 
 [↑ Back to index](#index)
 
+# ecotourism
+
+noun
+
+tourism directed toward exotic, often threatened, natural environments, intended to support conservation efforts and observe wildlife.
+
+[↑ Back to index](#index)
+
 # Ecstatic
+
+*Pronunciation:* ek-STAT-ik
 
 adjective  
 1\.  
@@ -8010,6 +9418,8 @@ a person subject to mystical experiences.
 
 # Eerie
 
+*Pronunciation:* EER-ee
+
 भयानक, घोर
 
 adjective  
@@ -8022,6 +9432,8 @@ Eerie is sometimes confused with aerie
 
 # Effervescent
 
+*Pronunciation:* ef-ur-VES-uhnt
+
 adjective  
 1.(of a liquid) giving off bubbles; fizzy.  
 "an effervescent mixture of cheap wine, fruit flavours, sugar, and carbon dioxide"
@@ -8032,6 +9444,8 @@ adjective
 [↑ Back to index](#index)
 
 # Efficacy
+
+*Pronunciation:* EF-ih-kuh-see
 
 the power to produce a desired result  
 efficacy. noun. ef·​fi·​ca·​cy ˈef-i-kə-sē plural efficacies. : the power to produce a desired result.
@@ -8047,6 +9461,8 @@ Here are some examples of efficacy in a sentence:
 
 # Egalitarianism
 
+*Pronunciation:* ih-gal-ih-TAIR-ee-uh-niz-uhm
+
 समतावाद
 
 noun  
@@ -8055,6 +9471,8 @@ the doctrine that all people are equal and deserve equal rights and opportunitie
 [↑ Back to index](#index)
 
 # Egregious
+
+*Pronunciation:* ih-GREE-juhs
 
 adjective  
 1\.  
@@ -8075,6 +9493,13 @@ ecstatically happy.
 "after the concert, I felt elated"
 
 Elated means extremely happy and excited, often because something has happened or been achieved.
+
+[↑ Back to index](#index)
+
+# Elderly
+
+**Meaning:** Old (used respectfully for people).  
+ **Example:** *She helps elderly neighbors with groceries.*
 
 [↑ Back to index](#index)
 
@@ -8130,6 +9555,8 @@ height above a given level, especially sea level.
 
 # Elicit
 
+*Pronunciation:* ih-LIS-it (careful: not "illicit," which sounds the same but means unlawful)
+
 **Verb   {uh·li·suht}**  
 evoke or draw out (a reaction, answer, or fact) from someone.
 
@@ -8143,6 +9570,8 @@ draw forth (something that is latent or potential) into existence.
 
 # Elucidate
 
+*Pronunciation:* ih-LOO-sih-dayt
+
 ( स्पष्ट करना)  
 ( व्याख्या करना)
 
@@ -8155,6 +9584,8 @@ To make clear
 [↑ Back to index](#index)
 
 # Elude
+
+*Pronunciation:* ih-LOOD
 
 ## **Meaning of elude**
 
@@ -8272,6 +9703,8 @@ To escape from a situation – For example, "Victory eluded the team in the fina
 
 # Elusive
 
+*Pronunciation:* ih-LOO-siv
+
 **"Elusive"** means **difficult to find, catch, achieve, understand, or define**. It's often used when something keeps slipping away—literally or figuratively.
 
 **✅ Common meanings:**
@@ -8303,9 +9736,29 @@ To escape from a situation – For example, "Victory eluded the team in the fina
 
 * "He's an elusive person" – hard to understand or connect with.
 
+The word **“elusive”** is an adjective that means **difficult to find, catch, understand, define, or achieve**.
+
+✅ **Examples in sentences:**
+
+1. *The criminal remained elusive despite the police search.* (hard to catch)
+
+2. *True happiness can be elusive for many people.* (hard to achieve)
+
+3. *The meaning of the poem is somewhat elusive.* (hard to understand/define)
+
+👉 In **spoken English**, people often use it to describe something that always seems just out of reach:
+
+* *Success has been elusive for the team this season.*
+
+* *Sleep was elusive last night—I kept tossing and turning.*
+
+* *He gave me an elusive smile, like he was hiding something.*
+
 [↑ Back to index](#index)
 
 # Emanate
+
+*Pronunciation:* EM-uh-nayt
 
 verb  
 (of a feeling, quality, or sensation) issue or spread out from (a source).  
@@ -8330,6 +9783,8 @@ In these examples, "emanate" is used to convey the idea of something flowing or 
 
 # Emancipation
 
+*Pronunciation:* ih-man-sih-PAY-shuhn
+
 noun  
 the fact or process of being set free from legal, social, or political restrictions; liberation.  
 "the social and political emancipation of women"
@@ -8342,6 +9797,8 @@ If a particular matter or issue is a bone of contention, it is the subject of a 
 [↑ Back to index](#index)
 
 # Emasculating
+
+*Pronunciation:* ih-MAS-kyoo-lay-ting
 
 verb  
 gerund or present participle: emasculating  
@@ -8405,6 +9862,8 @@ As a Christian, Vivek was my choice until he dropped out. He embodies more Chris
 
 # Emboldened
 
+*Pronunciation:* em-BOHL-duhnd
+
 उत्साहित, प्रोत्साहित करना
 
 embolden  
@@ -8429,7 +9888,19 @@ In these instances, "emboldened" suggests that someone's courage or confidence h
 
 [↑ Back to index](#index)
 
+# Embrace
+
+**Literal meaning:** To hug.  
+ **Figurative meaning:** To accept or welcome an idea, change, or situation.
+
+🗣 *“He embraced the new culture quickly.”*  
+ 🗣 *“We need to embrace failure as part of growth.”*
+
+[↑ Back to index](#index)
+
 # Embroil
+
+*Pronunciation:* em-BROYL
 
 verb  
 past tense: **embroiled**; past participle: **embroiled**  
@@ -8444,11 +9915,15 @@ bring into a state of confusion or disorder.
 
 # Emeritus
 
+*Pronunciation:* ih-MER-ih-tuhs
+
 : a person retired from professional life but permitted to retain as an honorary title the rank of the last office held.
 
 [↑ Back to index](#index)
 
 # Eminent
+
+*Pronunciation:* EM-ih-nuhnt
 
 Adjective || **eh·muh·nuhnt**  
 1\.  
@@ -8462,6 +9937,8 @@ Adjective || **eh·muh·nuhnt**
 
 # Empathetic
 
+*Pronunciation:* em-puh-THET-ik
+
  (सहानुभूति) em·puh·theh·tuhk
 
 having the ability to imagine how someone else feels: a kind and empathetic friend.
@@ -8470,11 +9947,24 @@ having the ability to imagine how someone else feels: a kind and empathetic frie
 
 # Empirical
 
+*Pronunciation:* em-PIR-ih-kuhl
+
 I would say, this constitutes a catering crisis.
 
 [↑ Back to index](#index)
 
+# Emulate
+
+**Meaning:** To imitate or match someone’s achievement or qualities, often with admiration.
+
+🗣 *“He tries to emulate his mentor’s work ethic.”*  
+ 🗣 *“Great artists don’t copy — they emulate and evolve.”*
+
+[↑ Back to index](#index)
+
 # en masse
+
+*Pronunciation:* ahn-MAS
 
 adverb  
 in a group; all together.  
@@ -8483,6 +9973,8 @@ in a group; all together.
 [↑ Back to index](#index)
 
 # Enamor
+
+*Pronunciation:* ih-NAM-ur
 
 (आनंदित करना, आकृष्ट करना, आसक्त करना, अनुरक्त करना, प्रेमसक्तत करना. )
 
@@ -8626,6 +10118,8 @@ A virus that first devastated Wuhanand then proceeded to engulf the entire world
 
 # Enigma
 
+*Pronunciation:* ih-NIG-muh
+
 something hard to understand or explain  
 1\. : something hard to understand or explain. 2\. : an inscrutable or mysterious person.
 
@@ -8634,6 +10128,8 @@ Enigma is a noun that means something that is hard to understand or explain. It 
 [↑ Back to index](#index)
 
 # Enigmatic
+
+*Pronunciation:* en-ig-MAT-ik
 
 adjective  
 difficult to interpret or understand; mysterious.  
@@ -8679,6 +10175,8 @@ Here are some natural ways you can use “enlist” in conversations:
 
 # Enormity
 
+*Pronunciation:* ih-NOR-mih-tee
+
 noun  
 1\.  
 the great or extreme scale, seriousness, or extent of something perceived as bad or morally wrong.  
@@ -8686,6 +10184,13 @@ the great or extreme scale, seriousness, or extent of something perceived as bad
 2\.  
 a grave crime or sin.  
 "the enormities of war"
+
+[↑ Back to index](#index)
+
+# Enraged
+
+**Meaning:** Extremely angry.  
+ **Example:** *He was enraged by the unfair treatment.*
 
 [↑ Back to index](#index)
 
@@ -8704,6 +10209,8 @@ the lowest rank of commissioned officer in the US and some other navies, above c
 [↑ Back to index](#index)
 
 # Entail
+
+*Pronunciation:* en-TAYL
 
 verb
 
@@ -8726,6 +10233,8 @@ a limitation of the inheritance of property to certain heirs over a number of ge
 [↑ Back to index](#index)
 
 # Entelechy
+
+*Pronunciation:* en-TEL-uh-kee
 
 Ənˈteləkē
 
@@ -8751,6 +10260,8 @@ means, Instrument, appliance, implement, Intermedium, acquirement, Emolument, pr
 [↑ Back to index](#index)
 
 # Enthrall
+
+*Pronunciation:* en-THRAWL
 
 ग़ुलाम बनाना
 
@@ -8793,6 +10304,8 @@ The aroma of freshly baked cookies entices visitors into the bakery.
 [↑ Back to index](#index)
 
 # Entourage
+
+*Pronunciation:* AHN-too-rahzh
 
 noun  
 a group of people attending or surrounding an important person.  
@@ -8870,6 +10383,12 @@ To announce; proclaim.
 * **Adjective:** enunciative *(rare)*  
    → *"Her enunciative skills improved after training."*
 
+**Meaning:** To pronounce words clearly and distinctly.  
+ **Figurative meaning:** To express ideas with clarity or precision.
+
+🗣 *“Please enunciate — I couldn’t understand you.”*  
+ 🗣 *“He enunciated his vision for the company beautifully.”*
+
 [↑ Back to index](#index)
 
 # Envious
@@ -8896,12 +10415,20 @@ Latter
 
 # Envisage
 
+*Pronunciation:* en-VIZ-ij
+
 verb  
 contemplate or conceive of as a possibility or a desirable future event.  
 "the Rome Treaty envisaged free movement across frontiers"
 
 form a mental picture of (something not yet existing or known).  
 "he knew what he liked but had difficulty envisaging it"
+
+**Meaning:** Imagine or picture something in your mind.  
+ **Usage:**
+
+* *“I can’t envisage a world without music.”*  
+   🟢 Slightly formal, but great for thoughtful speech.
 
 [↑ Back to index](#index)
 
@@ -8920,6 +10447,8 @@ an ephemeral plant.
 [↑ Back to index](#index)
 
 # Epilogue
+
+*Pronunciation:* EP-uh-log
 
 noun  
 a section or speech at the end of a book or play that serves as a comment on or a conclusion to what has happened.  
@@ -8962,9 +10491,16 @@ noun: epiphany; plural noun: epiphanies
 a moment of sudden and great revelation or realization.  
 "a few years ago, I had an epiphany"
 
+**Meaning:** A sudden realization or insight.
+
+🗣 *“I had an epiphany about what I really want in life.”*  
+ 🗣 *“That conversation gave me a huge epiphany.”*
+
 [↑ Back to index](#index)
 
 # Epitome
+
+*Pronunciation:* ih-PIT-uh-mee (four syllables — not "EP-ih-tohm")
 
 uh·pi·tuh·mee
 
@@ -8979,7 +10515,20 @@ a summary of a written work; an abstract.
 
 [↑ Back to index](#index)
 
+# Epitomized
+
+**Meaning:** Represented something perfectly; was the best example of it.  
+ **Usage:**
+
+* *“She epitomized grace and strength.”*
+
+* *“That moment epitomized their teamwork.”*
+
+[↑ Back to index](#index)
+
 # Equitable
+
+*Pronunciation:* EK-wih-tuh-buhl
 
 adjective  
 1\.  
@@ -9019,6 +10568,8 @@ In these sentences, "errand" refers to a short and usually simple task that need
 
 # Erratic
 
+*Pronunciation:* ih-RAT-ik
+
 (अस्थिर, अनियमित, डावांडोल, भ्रमणशील, अनियत, भूला हुआ.)  
 adjective  
 not even or regular in pattern or movement; unpredictable.  
@@ -9032,6 +10583,8 @@ a rock or boulder that differs from the surrounding rock and is believed to have
 [↑ Back to index](#index)
 
 # Erroneous
+
+*Pronunciation:* ih-ROH-nee-uhs
 
 (əˈrōnēəs)
 
@@ -9049,6 +10602,8 @@ erroneous, faulty, Incorrect, Inaccurate, Imperfect
 [↑ Back to index](#index)
 
 # Espouse
+
+*Pronunciation:* ih-SPOWZ
 
 verb  
 1\.  
@@ -9075,7 +10630,16 @@ an extract or concentrate obtained from a plant or other matter and used for fla
 
 [↑ Back to index](#index)
 
+# Estranged
+
+**Meaning:** No longer close or affectionate; separated.  
+**Example:** *He’s estranged from his brother.*
+
+[↑ Back to index](#index)
+
 # Etiquette
+
+*Pronunciation:* ET-ih-kit
 
 ˈedəkət
 
@@ -9084,6 +10648,8 @@ an extract or concentrate obtained from a plant or other matter and used for fla
 [↑ Back to index](#index)
 
 # Euphemism
+
+*Pronunciation:* YOO-fuh-miz-uhm
 
 noun  
 a mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something unpleasant or embarrassing.  
@@ -9100,6 +10666,8 @@ Euphemisms are commonly used in everyday language to avoid causing discomfort or
 [↑ Back to index](#index)
 
 # Euphoria
+
+*Pronunciation:* yoo-FOR-ee-uh
 
 खुशी, उत्साह
 
@@ -9119,6 +10687,8 @@ He will understand eventually
 
 # Exacerbate
 
+*Pronunciation:* ig-ZAS-ur-bayt
+
 ख़राब करना | uhg·za·suh·bayt
 
 **verb**  
@@ -9135,6 +10705,8 @@ make (a problem, bad situation, or negative feeling) worse.
 
 # Exasperate
 
+*Pronunciation:* ig-ZAS-puh-rayt
+
 verb  
 irritate and frustrate (someone) intensely.  
 "this futile process exasperates prison officers"
@@ -9143,6 +10715,17 @@ exasperated
 adjective  
 intensely irritated and frustrated.  
 "an exasperated expression"
+
+[↑ Back to index](#index)
+
+# Exasperated
+
+**Meaning:** Annoyed, irritated, or frustrated after losing patience.  
+ **Usage:**
+
+* *“He sighed, exasperated by her stubbornness.”*
+
+* *“I’m getting exasperated with all these delays.”*
 
 [↑ Back to index](#index)
 
@@ -9177,6 +10760,8 @@ remove from consideration.
 
 # Excruciating
 
+*Pronunciation:* ik-SKROO-shee-ay-ting
+
 adjective  
 intensely painful.  
 "excruciating back pain"
@@ -9201,6 +10786,8 @@ very embarrassing, awkward, or tedious.
 [↑ Back to index](#index)
 
 # Execrable
+
+*Pronunciation:* EK-sih-kruh-buhl
 
 घिनौना
 
@@ -9283,6 +10870,8 @@ It’s formal, often used in speeches or serious conversations.
 
 # Exigency
 
+*Pronunciation:* EK-sih-juhn-see
+
 noun  
 an urgent need or demand.  
 "women worked long hours when the exigencies of the family economy demanded it"
@@ -9290,6 +10879,8 @@ an urgent need or demand.
 [↑ Back to index](#index)
 
 # Exodus
+
+*Pronunciation:* EK-suh-duhs
 
 The word **“Exodus”** means a **mass departure of people** from a place — usually all at once or within a short period.
 
@@ -9329,6 +10920,8 @@ You’ll often hear *exodus* in:
 
 # Exoneration
 
+*Pronunciation:* ig-zon-uh-RAY-shuhn
+
  दोषमुक्ति,  दोष मुक्ति
 
 the condition of being relieved from blame or obligation
@@ -9362,7 +10955,19 @@ The travel brochure promised an exotic getaway to a secluded island paradise.
 
 [↑ Back to index](#index)
 
+# expectations
+
+noun
+
+predictions about the outcome of an event
+
+Young people may feel unreasonable expectations about life if they only follow lifestyle influencers.
+
+[↑ Back to index](#index)
+
 # Expediency
+
+*Pronunciation:* ik-SPEE-dee-uhn-see
 
 Noun मुनाफ़ा, फ़ायदा  
 the quality of being convenient and practical despite possibly being improper or immoral; convenience.  
@@ -9372,6 +10977,8 @@ the quality of being convenient and practical despite possibly being improper or
 
 # Expedite
 
+*Pronunciation:* EK-spih-dyt
+
 speed up  
 : to accelerate the process or progress of : speed up. 2\. : to execute promptly. 3\. : issue, dispatch.
 
@@ -9380,6 +10987,9 @@ verb
 make a process happen more quickly
 
 * he promised to expedite economic reforms
+
+**Meaning:** To speed up a process.  
+ **Example:** *Can you expedite the shipment?*
 
 [↑ Back to index](#index)
 
@@ -9412,6 +11022,8 @@ inquire into or discuss (a subject) in detail.
 
 # Exponent
 
+*Pronunciation:* ik-SPOH-nuhnt
+
 व्याख्याता, प्रतिपादक, प्रवक्ता
 
 1\.  
@@ -9423,7 +11035,17 @@ a quantity representing the power to which a given number or expression is to be
 
 [↑ Back to index](#index)
 
+# Exposure
+
+**Meaning:** The state of being visible or unprotected; also, experience or attention.  
+ **Example:** *Too much sun exposure can damage your skin.*  
+ *The new brand got huge exposure online.*
+
+[↑ Back to index](#index)
+
 # Exquisite
+
+*Pronunciation:* ik-SKWIZ-it (also EK-skwiz-it)
 
 Ek·skvuh·zuht
 
@@ -9509,6 +11131,8 @@ verb (formal) — to praise someone or something enthusiastically.
 
 # Extrapolate
 
+*Pronunciation:* ik-STRAP-uh-layt
+
 ### **Meaning of "Extrapolate / Extrapolation"**
 
 * **Extrapolate (verb):** To predict, estimate, or extend something into the future (or beyond given data) based on known facts, patterns, or evidence.
@@ -9585,6 +11209,8 @@ extravagant claims for its effectiveness
 
 # Extricate
 
+*Pronunciation:* EK-strih-kayt
+
 verb  
 free (someone or something) from a constraint or difficulty.  
 "he was trying to extricate himself from official duties"
@@ -9597,6 +11223,16 @@ free (someone or something) from a constraint or difficulty.
 
 [↑ Back to index](#index)
 
+# Fable
+
+**Meaning:** A short story with a moral lesson, often with animals.  
+ **Figurative meaning:** A symbolic or instructive story.
+
+🗣 *“Aesop’s fables never get old.”*  
+ 🗣 *“His success story is almost a modern fable.”*
+
+[↑ Back to index](#index)
+
 # Facade
 
 (fuh·saad) मोहरा,मुखौटा
@@ -9606,6 +11242,12 @@ N. the way somebody/something appears to be, which is not the way he/she/it real
 Testimony गवाही, साक्ष्य, बयान
 
 His good humor was just a façade.
+
+**Literal meaning:** The front of a building.  
+ **Figurative meaning:** A deceptive outward appearance hiding reality.
+
+🗣 *“The house has a grand facade.”*  
+ 🗣 *“Behind her cheerful facade, she was struggling.”*
 
 [↑ Back to index](#index)
 
@@ -9622,6 +11264,8 @@ a particular aspect or feature of something.
 [↑ Back to index](#index)
 
 # Facilitate
+
+*Pronunciation:* fuh-SIL-ih-tayt
 
 verb  
 make (an action or process) easy or easier.  
@@ -9687,6 +11331,8 @@ Adam feinted with his right and then swung a left
 
 # Fallacy
 
+*Pronunciation:* FAL-uh-see
+
 मिथ्या तर्क, मिथ्या हेतु, हेत्वाभास, तर्काभास, भ्रामकता, धोखा, झूठा तर्क, भुलावा.   
 गलत या भ्रामक धारणा या राय जो गलत तथ्यों या अमान्य तर्क पर आधारित हो
 
@@ -9714,16 +11360,6 @@ Identifying and understanding fallacies is crucial in critical thinking and argu
 
 [↑ Back to index](#index)
 
-# Falling out
-
-**noun**  
-a quarrel or disagreement.  
-"the two of them had a falling-out"
-
-Go out on a limb
-
-[↑ Back to index](#index)
-
 # Fallouts
 
 noun (plural of *fallout*) — 1) literal: radioactive particles that fall after a nuclear explosion. 2) figurative: the unpleasant aftermath or consequences of an event, or a falling-out (disagreement) between people.
@@ -9732,6 +11368,28 @@ noun (plural of *fallout*) — 1) literal: radioactive particles that fall after
 
 **Figurative:** "There were several fallouts between the co-founders after the funding round."
 **Literal:** "Nuclear fallout contaminated the region for decades."
+
+[↑ Back to index](#index)
+
+# Falsify
+
+**Literal meaning:** To alter or forge information so it becomes false.  
+ **Figurative meaning:** To twist or manipulate facts for personal gain.
+
+🗣 *“He was fired for falsifying data.”*  
+ 🗣 *“Someone falsified the records to cover up the mistake.”*  
+ 🗣 *“You can’t falsify truth with clever words.”*
+
+💡 *(Common in legal, academic, or ethical discussions.)*
+
+[↑ Back to index](#index)
+
+# Familiarize
+
+**Meaning:** To learn or get used to something.
+
+🗣 *“Take some time to familiarize yourself with the software.”*  
+ 🗣 *“I need to familiarize myself with the new policies.”*
 
 [↑ Back to index](#index)
 
@@ -9790,6 +11448,8 @@ Very common in everyday conversation to express **doubt** or **skepticism**.
 [↑ Back to index](#index)
 
 # Farcical
+
+*Pronunciation:* FAR-sih-kuhl
 
 adjective  
 relating to or resembling farce, especially because of absurd or ridiculous aspects.  
@@ -9864,6 +11524,8 @@ In both cases, the word "fawn" is used to describe either the behavior of a youn
 
 # Feasibility
 
+*Pronunciation:* fee-zuh-BIL-ih-tee
+
 व्यवहार्यता, संभाव्यता
 
 the possibility, capability, or likelihood
@@ -9883,6 +11545,8 @@ invent (a story or excuse).
 [↑ Back to index](#index)
 
 # Ferocity
+
+*Pronunciation:* fuh-ROS-ih-tee
 
 ( प्रचण्डता)  
 (खूँखारपना)  
@@ -9904,6 +11568,8 @@ very great; extreme.
 [↑ Back to index](#index)
 
 # Fervent
+
+*Pronunciation:* FUR-vuhnt
 
 **Fervent** means **showing very strong feelings, passion, or enthusiasm**, often in a sincere and intense way.
 
@@ -9961,9 +11627,16 @@ Say this sentence aloud twice:
 
 **“I have a fervent desire to explain my ideas more clearly, and over time, I’m getting better at it.”**
 
+**Meaning:** Showing passionate intensity or enthusiasm.
+
+🗣 *“She’s a fervent believer in education.”*  
+ 🗣 *“His fervent speech moved everyone.”*
+
 [↑ Back to index](#index)
 
 # Fervor
+
+*Pronunciation:* FUR-vur
 
 noun  
 उत्साह enthusiasm, zeal,, euphoria, rapture
@@ -10027,6 +11700,8 @@ Try saying these aloud 👇
 [↑ Back to index](#index)
 
 # Fiasco
+
+*Pronunciation:* fee-AS-koh
 
 noun  
 a complete failure, especially a ludicrous or humiliating one.  
@@ -10144,6 +11819,16 @@ Say this sentence **3 times aloud**:
 
 [↑ Back to index](#index)
 
+# Fidelity
+
+**Meaning:** Faithfulness or loyalty to a person, cause, or principle.  
+ **Figurative meaning:** Accuracy or exactness (e.g., “high-fidelity sound”).
+
+🗣 *“Their fidelity to the mission was inspiring.”*  
+ 🗣 *“This speaker has incredible sound fidelity.”*
+
+[↑ Back to index](#index)
+
 # Fidget
 
 verb  
@@ -10212,6 +11897,54 @@ This is **very common feedback** in corporate settings.
 
 [↑ Back to index](#index)
 
+# Field
+
+**Literal meaning:** An open area of land or a specific area of study or work.  
+ **Figurative meaning:** A sphere of activity or expertise; also used to describe taking part in competition or responding to questions.
+
+🗣 *“He works in the field of data science.”*  
+ 🗣 *“She’s one of the best doctors in her field.”*  
+ 🗣 *“The spokesperson fielded all the tough questions.”*
+
+[↑ Back to index](#index)
+
+# Filthy
+
+**Meaning:** Extremely dirty.  
+ **Example:** *The room was filthy after the party.*
+
+[↑ Back to index](#index)
+
+# Fine-tune
+
+verb — to make small, precise adjustments to something in order to improve or optimize it.
+
+"We spent the last sprint fine-tuning the recommendation algorithm."
+
+[↑ Back to index](#index)
+
+# firmly
+
+adverb
+
+with little possibility of movement; securely
+
+the door remained firmly shut
+
+his work is rooted firmly in Chinese culture
+
+I had her wrist grasped firmly in my hand
+
+stop the bleeding by pressing firmly
+
+the council is firmly committed to raising standards in education
+
+I firmly believe that we could do better
+
+his reputation is now firmly established
+
+[↑ Back to index](#index)
+
 # fitting
 
 adjective
@@ -10225,6 +11958,8 @@ it was fitting that he should reply
 [↑ Back to index](#index)
 
 # Flabbergasted
+
+*Pronunciation:* FLAB-ur-gas-tid
 
 हैरत में डाला हुआ  
 adjective
@@ -10336,6 +12071,24 @@ an act of flapping something, typically a wing or arm, up and down or from side 
 
 [↑ Back to index](#index)
 
+# Flashback
+
+noun — a sudden, vivid memory of a past event; also a storytelling technique that cuts back to an earlier scene.
+
+"That old codebase gave me a flashback to my first job."
+
+[↑ Back to index](#index)
+
+# Flashcard
+
+**Literal meaning:** A small card used for learning or memorization.  
+ **Figurative meaning:** A symbol of structured or visual learning.
+
+🗣 *“I use flashcards to memorize vocabulary.”*  
+ 🗣 *“Flashcards make studying less boring.”*
+
+[↑ Back to index](#index)
+
 # Flatter
 
 to try to please by complimentary remarks or attention. to praise or compliment insincerely, effusively, or excessively: She flatters him by constantly praising his books. to represent favorably; gratify by falsification: The portrait flatters her.
@@ -10407,6 +12160,36 @@ If you were to say:
 Say this sentence **slowly and clearly**:
 
 *I believe confidence is good, but flaunting too much can backfire.*
+
+[↑ Back to index](#index)
+
+# Flawless
+
+**Meaning:** Perfect, without any mistakes or defects.  
+ **Figurative meaning:** Exceptionally well done or effortlessly graceful.
+
+🗣 *“Her performance was flawless.”*  
+ 🗣 *“That dress looks flawless on you.”*  
+ 🗣 *“He delivered a flawless pitch to investors.”*
+
+💡 *(Often used in praise — formal or informal.)*
+
+[↑ Back to index](#index)
+
+# fleabag
+
+noun
+
+a shabby and unpleasant motel or hotel
+
+[↑ Back to index](#index)
+
+# Flee
+
+**Meaning:** To run away from danger or escape quickly.
+
+🗣 *“The thief fled the scene.”*  
+ 🗣 *“They had to flee the country during the war.”*
 
 [↑ Back to index](#index)
 
@@ -10495,9 +12278,26 @@ Say this sentence 3 times, slowly, then naturally:
 
 [↑ Back to index](#index)
 
+# Float
+
+**Literal meaning:** To stay on the surface of a liquid or in the air.  
+ **Figurative meaning:** To propose an idea, move smoothly, or exist without firm grounding.
+
+🗣 *“The leaf floated on the water.”*  
+ 🗣 *“He floated the idea of a new design concept.”*
+
+[↑ Back to index](#index)
+
 # Flora and fauna
 
 Flora are all the plants and fauna are all the animals of a given locale.
+
+[↑ Back to index](#index)
+
+# Flour
+
+**Meaning:** Powder made from grains, used in baking.  
+ **Example:** *Add some flour to make the dough.*
 
 [↑ Back to index](#index)
 
@@ -10589,6 +12389,26 @@ Examples of "flout" in spoken sentences:
 
 [↑ Back to index](#index)
 
+# Flow
+
+**Literal meaning:** Smooth, continuous movement.  
+ **Figurative meaning:** A mental state of deep focus and effortlessness.
+
+🗣 *“The river flows calmly.”*  
+ 🗣 *“Once you get in the flow, work feels effortless.”*
+
+[↑ Back to index](#index)
+
+# Fluff
+
+**Literal meaning:** Soft, light material or texture.  
+ **Figurative meaning:** Superficial or meaningless content; lacking substance.
+
+🗣 *“Cut the fluff and get to the point.”*  
+ 🗣 *“That report was full of fluff but no real insight.”*
+
+[↑ Back to index](#index)
+
 # Fluffy
 
 **Fluffy** usually describes something **soft, light, and airy**, but it can also be used **figuratively** for things that are light in tone, superficial, or overly sweet.
@@ -10649,6 +12469,14 @@ In each case, "fluttered" conveys a light and rapid motion or movement, often wi
 
 [↑ Back to index](#index)
 
+# fly-drive
+
+noun
+
+a vacation that includes a flight and car rental.
+
+[↑ Back to index](#index)
+
 # Folklore
 
 noun  
@@ -10690,6 +12518,8 @@ fondling
 [↑ Back to index](#index)
 
 # Foray
+
+*Pronunciation:* FOR-ay
 
 * **Literal:** A sudden attack or raid.
 
@@ -10774,6 +12604,16 @@ we forgo any comparison between the two men.
 
 [↑ Back to index](#index)
 
+# Former
+
+**Meaning:** Refers to something or someone that existed or held a role in the past.  
+ **Figurative meaning:** Often used to contrast with the present self or situation.
+
+🗣 *“He’s a former athlete turned coach.”*  
+ 🗣 *“She’s nothing like her former self — much more confident now.”*
+
+[↑ Back to index](#index)
+
 # Forsake
 
 verbLITERARY  
@@ -10787,6 +12627,8 @@ renounce or give up (something valued or pleasant).
 
 # Fortuitous
 
+*Pronunciation:* for-TOO-ih-tuhs
+
 adjective  
 happening by chance rather than intention.  
 "the similarity between the paintings may not be simply fortuitous"
@@ -10796,7 +12638,19 @@ happening by a lucky chance; fortunate.
 
 [↑ Back to index](#index)
 
+# Fowl
+
+**Literal meaning:** A bird kept for food (like chicken, duck, or turkey).  
+ **Figurative meaning:** Sometimes used metaphorically in idioms (e.g., “foul play” \= suspicious act).
+
+🗣 *“They raise fowls on their farm.”*  
+ 🗣 *“The dish was made with wild fowl.”*
+
+[↑ Back to index](#index)
+
 # Fracas
+
+*Pronunciation:* FRAY-kuhs
 
 noun  
 a noisy disturbance or quarrel.  
@@ -10810,7 +12664,19 @@ honest, sincere, and telling the truth
 
 [↑ Back to index](#index)
 
+# Frat
+
+**Meaning:** Short for *fraternity* — a college social club, usually for men.  
+ **Usage:**
+
+* *“He joined a frat during his first year.”*  
+   🟢 Sometimes used negatively (party culture), sometimes neutrally.
+
+[↑ Back to index](#index)
+
 # Fraternity
+
+*Pronunciation:* fruh-TUR-nih-tee
 
 **noun**  
 1.a group of people sharing a common profession or interests.  
@@ -10818,6 +12684,16 @@ honest, sincere, and telling the truth
 
 2.friendship and mutual support within a group.  
 "the ideals of liberty, equality, and fraternity"
+
+[↑ Back to index](#index)
+
+# Freckle
+
+**Meaning:** Small brownish spots on the skin caused by sunlight.  
+ **Figurative meaning:** A charming mark or unique feature.
+
+🗣 *“She has cute freckles on her nose.”*  
+ 🗣 *“His face was freckled from years in the sun.”*
 
 [↑ Back to index](#index)
 
@@ -10831,9 +12707,28 @@ a person with whom one is friendly despite a fundamental dislike or rivalry.
 
 # Frenetic
 
+*Pronunciation:* fruh-NET-ik
+
 adjective  
 fast and energetic in a rather wild and uncontrolled way.  
 "a frenetic pace of activity"
+
+[↑ Back to index](#index)
+
+# Fringe
+
+**Literal meaning:** The outer edge or border of something (like fabric or area).  
+ **Figurative meaning:**
+
+1. A marginal or unconventional part of a group or society.
+
+2. Non-mainstream or alternative.
+
+🗣 *“They live on the fringe of the city.”*  
+ 🗣 *“That’s a fringe political movement.”*  
+ 🗣 *“Fringe benefits include a gym membership and free meals.”*
+
+💡 *(“Fringe benefits” \= extra perks beyond salary.)*
 
 [↑ Back to index](#index)
 
@@ -10880,6 +12775,8 @@ fast and energetic in a rather wild and uncontrolled way.
 [↑ Back to index](#index)
 
 # Frivolity
+
+*Pronunciation:* frih-VOL-ih-tee
 
 noun  
 lack of seriousness; light-heartedness.  
@@ -10943,7 +12840,23 @@ a facial expression indicating disapproval, displeasure, or concentration, chara
 
 [↑ Back to index](#index)
 
+# Frowned
+
+* **Literal:** Made a facial expression showing disapproval or concern.
+
+* **Figurative:** Disliked or disapproved of something.
+
+* **Examples:**
+
+  * “She *frowned* when she saw the bill.”
+
+  * “Smoking indoors is *frowned upon* here.”
+
+[↑ Back to index](#index)
+
 # Frugal
+
+*Pronunciation:* FROO-guhl
 
 मितव्ययी  
 (frugal, thrifty, economical, economic, inexpensive, prudent)
@@ -10952,7 +12865,19 @@ a facial expression indicating disapproval, displeasure, or concentration, chara
 
 [↑ Back to index](#index)
 
+# Fudge
+
+**Literal meaning:** A sweet, creamy candy.  
+**Figurative meaning:** To distort, hide, or avoid the truth; to be imprecise.
+
+*“He fudged the numbers in his report.”*  
+*“Don’t fudge your excuses — just tell me the truth.”*
+
+[↑ Back to index](#index)
+
 # Fugitive
+
+*Pronunciation:* FYOO-jih-tiv
 
 ( भगोड़ा, शरणार्थी)  
 N. a person who has escaped from captivity or is in hiding.  
@@ -10963,6 +12888,35 @@ N. Example
 
 Adj Example  
 "the fugitive effects of light"
+
+[↑ Back to index](#index)
+
+# Fulfill
+
+**Meaning:** To complete, satisfy, or achieve something.
+
+🗣 *“She finally fulfilled her childhood dream.”*  
+ 🗣 *“Helping others fulfills me more than money ever could.”*
+
+[↑ Back to index](#index)
+
+# Fulfilling
+
+**Meaning:** Giving satisfaction, purpose, or meaning.  
+ **Figurative meaning:** Emotionally or spiritually rewarding.
+
+🗣 *“Teaching is such a fulfilling job.”*  
+ 🗣 *“That hike was exhausting but incredibly fulfilling.”*  
+ 🗣 *“I want work that feels fulfilling, not just well-paid.”*
+
+[↑ Back to index](#index)
+
+# Fulfillment
+
+**Meaning:** A sense of satisfaction or purpose from achieving something meaningful.
+
+🗣 *“Helping others gives me deep fulfillment.”*  
+ 🗣 *“He’s chasing fulfillment, not fame.”*
 
 [↑ Back to index](#index)
 
@@ -10984,6 +12938,16 @@ an act of doing or handling something clumsily.
 TO stop Fumbling
 
 \[slow speaking/ reading/ body \+ mind sync\]
+
+[↑ Back to index](#index)
+
+# furthermore
+
+adverb
+
+​in addition to what has just been stated
+
+this species has a quiet charm and, furthermore, is an easy garden plant
 
 [↑ Back to index](#index)
 
@@ -11040,6 +13004,8 @@ choke or retch.
 
 # Galvanize
 
+*Pronunciation:* GAL-vuh-nyz
+
 he word **“galvanize”** has both a literal and a figurative meaning:
 
 ### **1\. Literal (scientific origin)**
@@ -11075,9 +13041,39 @@ For example:
 
 [↑ Back to index](#index)
 
+# Garrison
+
+**Literal meaning:** A military base or troops stationed somewhere.  
+ **Figurative meaning:** A secure or fortified place — physical or emotional.
+
+🗣 *“The soldiers were ordered back to the garrison.”*  
+ 🗣 *“This office feels like a garrison during crunch time.”*
+
+[↑ Back to index](#index)
+
 # Gaslight
 
 Gaslighting is a form of psychological abuse that involves tricking or controlling someone into believing that their memories or beliefs are wrong. It's a form of psychological manipulation that causes the victim to question their own thoughts, memories, and perception of reality.
+
+[↑ Back to index](#index)
+
+# Gasped
+
+**Meaning:** Took a sharp breath suddenly — from shock, fear, or surprise.  
+ **Usage:**
+
+* *“She gasped when she saw the snake.”*
+
+* *“He gasped in awe at the fireworks.”*
+
+###  **Gasp**
+
+**Meaning:** Breathe in suddenly from surprise, shock, or pain.  
+ **Usage:**
+
+* *“She gasped when the lights went out.”*
+
+  *“He gasped for breath after running.”*
 
 [↑ Back to index](#index)
 
@@ -11099,6 +13095,17 @@ strain to obtain (air) by gasping.
 gasp  
 हांफना  
 gasp, gulp, heave
+
+[↑ Back to index](#index)
+
+# Gauge
+
+**Literal meaning:** To measure or estimate something’s size, capacity, or intensity.  
+ **Figurative meaning:** To assess or judge a situation, mood, or person.
+
+🗣 *“The gauge on the dashboard shows low fuel.”*  
+ 🗣 *“It’s hard to gauge his reaction over text.”*  
+ 🗣 *“She gauged the mood of the room before speaking.”*
 
 [↑ Back to index](#index)
 
@@ -11158,6 +13165,128 @@ Generous means willing and liberal in giving away one's money, time, etc.. It ca
 
 [↑ Back to index](#index)
 
+# Get
+
+## **🧩 1\. “Get” meaning to receive**
+
+Used when someone **receives** or **is given** something.
+
+* I **got** a message from him. → (received)
+
+* She **got** a new job. → (was offered/received)
+
+* Did you **get** my email? → (receive)
+
+## **💰 2\. “Get” meaning to obtain / buy**
+
+Used when you **obtain**, **buy**, or **secure** something.
+
+* I need to **get** some milk. → (buy)
+
+* He **got** a ticket for the concert. → (obtained)
+
+* Can you **get** me a coffee? → (buy or bring)
+
+## **🚶 3\. “Get” meaning to arrive / reach**
+
+Used when you **reach** a place.
+
+* What time did you **get** home? → (arrive)
+
+* We **got** to the station just in time.
+
+* It’s hard to **get** there by bus.
+
+## **🧠 4\. “Get” meaning to understand**
+
+Used when you **understand** something.
+
+* Do you **get** what I mean? → (understand)
+
+* I don’t **get** this joke.
+
+* Finally, I **got** the concept.
+
+## **🔄 5\. “Get” meaning to become / change state**
+
+This is one of the most common uses — **“get \+ adjective”** means **to become** that state.
+
+* It’s **getting** cold. → (becoming cold)
+
+* Don’t **get** angry. → (become angry)
+
+* I **got** tired after work. → (became tired)
+
+## **🧍‍♂️ 6\. “Get” with past participle → passive meaning**
+
+Used to show something **happened to someone**, often unexpectedly.
+
+* He **got hurt** in the accident.
+
+* My phone **got stolen**.
+
+* She **got promoted** last week.
+
+*(It’s similar to “be \+ past participle,” but more informal.)*
+
+## **🧳 7\. “Get” meaning to fetch / bring**
+
+Used when someone **goes and brings** something or someone.
+
+* I’ll **get** the door. → (open it / answer it)
+
+* Can you **get** me my jacket?
+
+* He went to **get** his sister from school.
+
+## **❤️ 8\. “Get” meaning to have the chance to do something**
+
+* I **got** to meet the CEO. → (had the opportunity)
+
+* You’ll **get** to see the Eiffel Tower.
+
+* We **got** to try the new restaurant yesterday.
+
+## **💬 9\. “Get” in phrasal verbs (changes meaning entirely\!)**
+
+Here are some common examples:
+
+| Phrasal Verb | Meaning | Example |
+| ----- | ----- | ----- |
+| **get up** | rise from bed | I **get up** at 7\. |
+| **get along / on** | have a good relationship | We **get along** well. |
+| **get over** | recover | He **got over** the flu. |
+| **get through** | finish / survive | I **got through** the exam. |
+| **get off** | leave a vehicle | We **got off** the train. |
+| **get in** | enter / arrive | The flight **got in** late. |
+| **get away** | escape / take a vacation | We **got away** for the weekend. |
+
+## **💡 10\. “Get” in idioms**
+
+Here are a few common idiomatic uses:
+
+* **get going** → start moving or taking action  
+   *We should get going soon.*
+
+* **get rid of** → remove or throw away  
+   *I need to get rid of old clothes.*
+
+* **get lost** → go away (rude) or lose one’s way  
+   *I got lost in the city.*
+
+* **get into trouble** → face problems or punishment  
+   *He got into trouble at school.*
+
+## **🗣 Bonus: “Get” for emotional reaction or emphasis**
+
+* What’s **got into you**? → (Why are you behaving this way?)
+
+* Don’t **get me wrong**. → (Don’t misunderstand me.)
+
+* It really **gets to me** when people lie. → (It bothers me emotionally.)
+
+[↑ Back to index](#index)
+
 # Get going
 
 ### **Meaning**
@@ -11209,9 +13338,19 @@ informal
 a vacation.  
 "a perfect family getaway", weekend getaway
 
+a popular island getaway
+
 [↑ Back to index](#index)
 
 # Gibberish
+
+**Literal meaning:** Meaningless or unintelligible speech or writing.  
+**Figurative meaning:** Confusing talk, nonsense, or overcomplicated explanation.
+
+🗣 *“That sounded like total gibberish to me.”*  
+ 🗣 *“His emails are full of technical gibberish.”*
+
+*Pronunciation:* JIB-ur-ish
 
 noun  
 unintelligible or meaningless speech or writing; nonsense.  
@@ -11230,6 +13369,17 @@ having a sensation of whirling and a tendency to fall or stagger; dizzy.
 
 **verb**  
 make (someone) feel excited to the point of disorientation.
+
+[↑ Back to index](#index)
+
+# Giggled
+
+**Meaning:** Laughed lightly in a silly or nervous way.  
+ **Usage:**
+
+* *“The children giggled at the joke.”*
+
+* *“She giggled shyly when he complimented her.”*
 
 [↑ Back to index](#index)
 
@@ -11272,10 +13422,57 @@ engage in chat or gossip.
 
 # Giveaway
 
+**Literal meaning:** Something given for free.  
+ **Figurative meanings:**
+
+1. Something that reveals a secret or clue.
+
+2. A clear sign that exposes truth.
+
+🗣 *“The company is hosting a holiday giveaway.”*  
+ 🗣 *“His nervous smile was a dead giveaway that he was lying.”*  
+ 🗣 *“The accent was a giveaway that she wasn’t local.”*
+
 : something given away free. specifically : premium sense 1d. b. : the act of giving something away free. staging a promotional giveaway.
 
 something that unintentionally reveals information  
 He tried to act like he wasn't nervous, but his shaking hands were a dead giveaway.
+
+[↑ Back to index](#index)
+
+# Given
+
+### **1\. As a preposition (meaning "because of / considering")**
+
+👉 Most common in speech.
+
+* *“Given the traffic, we should leave early.”* (Considering the traffic)
+
+* *“Given his experience, he’ll probably get the job.”*
+
+It’s a quick way to say *“because of”* or *“taking into account.”*
+
+### **2\. As an adjective (meaning "particular / fixed")**
+
+* *“On any given day, you’ll find her at the library.”* (on any particular day)
+
+* *“There’s a limit to what you can do in a given situation.”*
+
+This is used when talking about something specific in a context.
+
+### **3\. As a noun (something taken as true / a fact) (less spoken, more academic/formal)**
+
+* *“That’s a given.”* (That’s obvious / certain.)
+
+* *“It’s a given that prices will rise.”*
+
+This is very natural in spoken English when you mean something is obvious.
+
+✅ In everyday spoken English, **\#1 and \#3 are most common**:
+
+* *“Given the time, we should wrap this up.”*
+
+* *“It’s a given that he’ll be late.”*
 
 [↑ Back to index](#index)
 
@@ -11284,6 +13481,16 @@ He tried to act like he wasn't nervous, but his shaking hands were a dead giveaw
 verb  
 make glad.  
 "the high, childish laugh was a sound that gladdened her heart"
+
+[↑ Back to index](#index)
+
+# glamping
+
+noun
+
+a form of camping involving accommodation and facilities more luxurious than those associated with traditional camping
+
+glamping is likely to satisfy any city slicker seeking a little refuge in nature—without foregoing any of life's luxuries
 
 [↑ Back to index](#index)
 
@@ -11358,6 +13565,42 @@ looking or feeling dejected; morose.
 
 [↑ Back to index](#index)
 
+# gnaw
+
+**Literal meaning:** To bite or chew repeatedly.  
+ **Figurative meaning:** To mentally or emotionally trouble someone.
+
+🗣 *“The dog gnawed on a bone.”*  
+ 🗣 *“The guilt gnawed at him for years.”*
+
+💡 *(“Gnawing feeling” \= persistent unease or anxiety.)*
+
+verb
+
+cause persistent and wearing distress or anxiety
+
+the doubts continued to gnaw at me
+
+[↑ Back to index](#index)
+
+# God-awful
+
+**Meaning:** Terrible, extremely bad, or unpleasant (informal).  
+ **Figurative sense:** Used to exaggerate disgust or frustration.
+
+🗣 *“That movie was god-awful\!”*  
+ 🗣 *“The weather’s been god-awful all week.”*
+
+[↑ Back to index](#index)
+
+# Goggles
+
+noun — protective eyewear that fits closely around the eyes, worn for swimming, skiing, lab work, or construction. Literal object, no figurative use.
+
+"Wear your safety goggles before using the drill."
+
+[↑ Back to index](#index)
+
 # Goo
 
 a thick or sticky substance  
@@ -11365,6 +13608,14 @@ a thick or sticky substance
 
 A wet, sticky substance that is often used figuratively  
 An unpleasantly sticky substance
+
+[↑ Back to index](#index)
+
+# Goofy
+
+adjective (informal) — silly, foolish, or awkward in a good-natured, endearing way.
+
+"He has a goofy sense of humor that lightens up tense meetings."
 
 [↑ Back to index](#index)
 
@@ -11376,6 +13627,67 @@ noun (usually plural: *goosebumps*) — small bumps that appear on the skin due 
 
 "The horror movie's ending gave me goosebumps."
 "Her speech was so moving it gave the whole room goosebumps."
+
+[↑ Back to index](#index)
+
+# Goosebumps
+
+**Meaning:** Tiny bumps on skin from fear or excitement.  
+ **Example:** *That song gave me goosebumps.*
+
+[↑ Back to index](#index)
+
+# Gorgeous
+
+**Meaning:** Extremely beautiful or attractive.  
+ **Figurative meaning:** Stunning in quality or impact.
+
+🗣 *“You look gorgeous tonight.”*  
+ 🗣 *“The sunset was absolutely gorgeous.”*
+
+[↑ Back to index](#index)
+
+# Gourmet
+
+### **Meaning**
+
+Something **high-quality, premium, or made with special care**, usually food.
+
+### **Usage & examples**
+
+* *“This is a gourmet restaurant.”*  
+* *“They serve gourmet coffee.”*  
+* *“It’s not fast food—it’s gourmet.”*
+
+**Extended meaning (informal):**  
+ Sometimes used jokingly:
+
+* *“This instant noodles feels gourmet today.”* 😄
+
+🗣️ Pronunciation tip: **GOR-may** (silent “t”).
+
+## **🔗 Useful connecting sentences (very natural speech)**
+
+Try combining phrases like this:
+
+* *“At first, I drifted away, but then I decided to face the problem head on.”*  
+* *“Fear was the enemy within, but I pushed through it.”*  
+* *“That being said, we need to tackle this head on.”*
+
+## **✨ Gentle correction & natural phrasing**
+
+Your question was good 👍  
+ A slightly more natural version would be:
+
+👉 **“Can you explain the meaning and usage of these words?”**
+
+## **🎯 Practice task (important)**
+
+Say these **out loud**:
+
+*“Instead of drifting away, I decided to face the challenge head on and push through.”*
+
+If you want, next time **you explain one of these phrases yourself**, and I’ll give you **feedback on fluency and clarity** 😊
 
 [↑ Back to index](#index)
 
@@ -11393,13 +13705,32 @@ a firm hold or grip.
 
 # Gratification
 
+**Meaning:** Pleasure or satisfaction from fulfilling a desire.
+
+🗣 *“There’s instant gratification in social media likes.”*  
+ 🗣 *“True success comes from delayed gratification.”*
+
+*Pronunciation:* grat-uh-fih-KAY-shuhn
+
 संतुष्टि, आनंद
 
 The desire to hit snooze instead of getting up early to exercise is an example of instant gratification.
 
 [↑ Back to index](#index)
 
+# Graveyard
+
+**Literal meaning:** Cemetery.  
+ **Figurative meaning:** A place where things fail or are forgotten.
+
+🗣 *“This town’s full of old graveyards.”*  
+ 🗣 *“That app idea ended up in the graveyard of forgotten startups.”*
+
+[↑ Back to index](#index)
+
 # Gravitas
+
+*Pronunciation:* GRAV-ih-tas
 
 गंभीरता
 
@@ -11412,6 +13743,8 @@ Dedication, Determination, Endurance, Grit, Moxie, Persistence, Spunk, Stamina.
 [↑ Back to index](#index)
 
 # Gregarious
+
+*Pronunciation:* grih-GAIR-ee-uhs
 
 झुण्ड में रहनेवाला, सुसामाजिक, यूथवासी
 
@@ -11543,6 +13876,13 @@ dazed, weak, or unsteady, especially from illness, intoxication, sleep, or a blo
 
 [↑ Back to index](#index)
 
+# Groom
+
+**Meaning:** To clean or take care of appearance; also to prepare someone for a role.  
+ **Example:** *The horse was well groomed.* / *He’s being groomed for a leadership position.*
+
+[↑ Back to index](#index)
+
 # Grope
 
 verb  
@@ -11560,6 +13900,16 @@ an act of fondling someone for sexual pleasure.
 
 [↑ Back to index](#index)
 
+# Groped
+
+**Meaning:** Touched someone roughly or inappropriately.  
+ **Usage:**
+
+* *“She complained that he groped her in the crowd.”*  
+   🛑 Always negative; used for unwanted or illegal touching.
+
+[↑ Back to index](#index)
+
 # Groundbreaking
 
 "Groundbreaking" is an adjective that describes something innovative, pioneering, or revolutionary. It is often used to characterize ideas, technologies, projects, or events that mark a significant departure from conventional or established practices.
@@ -11573,6 +13923,12 @@ Groundbreaking Technology: An innovative and cutting-edge technology that sets n
 Groundbreaking Ceremony: An event held to commemorate the beginning of a major construction project.
 
 In essence, "groundbreaking" implies that something is breaking new ground or paving the way for new developments and advancements in a particular field.
+
+**Literal meaning:** Something that breaks new ground, literally in construction.  
+ **Figurative meaning:** Innovative, revolutionary, or setting a new standard.
+
+🗣 *“That’s a groundbreaking discovery in medical science.”*  
+ 🗣 *“Their new app is truly groundbreaking — nothing like it exists.”*
 
 [↑ Back to index](#index)
 
@@ -11589,6 +13945,28 @@ a persistent feeling of ill will or resentment resulting from a past insult or i
 verb  
 be resentfully unwilling to give or allow (something).  
 "he grudged the work and time that the meeting involved"
+
+[↑ Back to index](#index)
+
+# Gruesome
+
+**Meaning:** Horrifying, shocking, or extremely unpleasant — especially something bloody or violent.  
+ **Figurative meaning:** Anything that provokes disgust or dread, even emotionally or metaphorically.
+
+🗣 *“It was a gruesome crime scene.”*  
+ 🗣 *“The movie was so gruesome I had to look away.”*  
+ 🗣 *“That’s a gruesome way to end a friendship.”* (figurative)
+
+[↑ Back to index](#index)
+
+# Grumbled
+
+**Meaning:** *Grumbled* means to complain in a low, slightly irritated voice.  
+ **Usage:**
+
+* *“He grumbled about the cold weather.”*
+
+* Used when someone complains softly but clearly shows annoyance.
 
 [↑ Back to index](#index)
 
@@ -11615,6 +13993,8 @@ Close synonyms:
 [↑ Back to index](#index)
 
 # Gullible
+
+*Pronunciation:* GUL-uh-buhl
 
 PR. guh·luh·bl  
 ( भोला भाला, जिसे आसानी से उल्लू बनाया जा सके)
@@ -11676,6 +14056,16 @@ having or showing courage, determination, and spirit.
 
 2\.  
 greedy.
+
+[↑ Back to index](#index)
+
+# Hack
+
+**Literal meaning:** To cut roughly or access data illegally.  
+ **Figurative meaning:** A clever shortcut or trick.
+
+🗣 *“Here’s a neat productivity hack for your workflow.”*  
+ 🗣 *“He hacked his way into the system.”*
 
 [↑ Back to index](#index)
 
@@ -11785,6 +14175,14 @@ Try saying these aloud:
 * “Let’s meet halfway to finalize the deal.”
 
 * “I’m halfway convinced this idea could actually work.”
+
+[↑ Back to index](#index)
+
+# Halo
+
+**Meaning:** A ring of light around a holy figure’s head.  
+ **Figurative:** Pure or saint-like quality.  
+ **Example:** *He acts like he’s got a halo over his head.*
 
 [↑ Back to index](#index)
 
@@ -11925,6 +14323,110 @@ Now try explaining:
 
 [↑ Back to index](#index)
 
+# Handoff
+
+“Handoff” generally means transferring responsibility, control, or information from one person, team, or system to another.
+
+### **Contexts where "handoff" is used:**
+
+1. **Work/Business:** When one team finishes their part of a project and passes it to another.  
+    *Example:* “The design team completed their work and did a handoff to the development team.”
+
+2. **Medical field:** Doctors or nurses handing off a patient’s care to another shift.  
+    *Example:* “During the night shift handoff, the nurse shared all critical updates.”
+
+3. **Technology:** Apple devices use “Handoff” to let you continue an activity seamlessly from iPhone to Mac or iPad.
+
+4. **Sports:** In American football, a handoff is when the quarterback hands the ball to another player.
+
+### **Phrases you can practice:**
+
+* “Let’s do a quick handoff so the next team has all the details.”
+
+* “The project is ready for handoff to the testing phase.”
+
+* “I’ll hand off this responsibility once the documentation is complete.”
+
+* “We had a smooth handoff between shifts, so everything stayed on track.”
+
+**Handoff** means **the transfer of responsibility, work, information, or control from one person/team/system to another.**
+
+In simple words:  
+ 👉 *When one person finishes their part and passes it to someone else, that is a handoff.*
+
+## **🔹 Usage in Different Contexts**
+
+### **1️⃣ In Work / Projects (Very common in tech)**
+
+* “We’ll do a handoff to the DevOps team after development.”
+
+* “There was a communication gap during the handoff.”
+
+* “The handoff between data engineering and ML team needs to be smoother.”
+
+💡 In your MLOps context:  
+ For example, after model training, you might say:
+
+“Once the model is validated, we’ll do a handoff to the deployment team.”
+
+That means responsibility shifts from one team to another.
+
+### **2️⃣ In Healthcare**
+
+When one doctor or nurse transfers patient responsibility to another.
+
+“The night shift handoff was not clear.”
+
+### **3️⃣ In Sports**
+
+In American football, when one player passes the ball to another — that’s also called a handoff.
+
+## **🔹 Spoken English Examples (Natural Phrases)**
+
+Here are 5 natural sentences you can use in meetings:
+
+1. “Let’s make sure the handoff is well documented.”
+
+2. “There seems to be some confusion during the handoff.”
+
+3. “After this phase, we’ll hand it off to the infra team.”
+
+4. “The handoff process needs to be more structured.”
+
+5. “To avoid delays, the handoff should be clearly defined.”
+
+## **🔹 Useful Connecting Phrases You Can Practice**
+
+You can say:
+
+* “For example, during the handoff between teams, clarity is very important.”
+
+* “On the other hand, if the handoff is not smooth, it can cause delays.”
+
+* “That being said, proper documentation can reduce handoff issues.”
+
+* “In my experience, most production issues happen during handoff.”
+
+## **🔹 Small Grammar Tip (for you)**
+
+You wrote:
+
+“handoff meaning and usage in spoken term explain briefly”
+
+More natural way:
+
+👉 “Can you briefly explain the meaning and usage of ‘handoff’ in spoken English?”
+
+Try to use full question structure in formal communication.
+
+Now I want you to practice 👇
+
+Explain this sentence in your own words:
+
+“The handoff between data engineering and MLOps was not clearly defined.”
+
+[↑ Back to index](#index)
+
 # Hard pass
 
 a firm refusal or rejection of
@@ -11992,13 +14494,80 @@ Try saying aloud:
 
 [↑ Back to index](#index)
 
+# Harsh
+
+1. **Unpleasant / severe** – Something that feels too strong, rough, or unfriendly.
+
+   * *“The desert sun is harsh.”*
+
+   * *“That punishment was too harsh.”*
+
+2. **Critical / unkind** – When someone’s words or tone are too direct or unfriendly.
+
+   * *“His feedback was a bit harsh.”*
+
+   * *“She spoke in a harsh tone.”*
+
+3. **Difficult conditions** – When the environment or situation is very tough.
+
+   * *“They survived through a harsh winter.”*
+
+✅ **Spoken practice sentences:**
+
+* “I know my words may sound harsh, but I really want to be honest.”
+
+* “On the other hand, a little harsh feedback can sometimes help us improve.”
+
+* “That being said, we should avoid being unnecessarily harsh with people.”
+
+* “The weather outside is really harsh today—it’s freezing.”
+
+👉 Tip for meetings or casual talk:  
+ Instead of directly saying *“You’re being harsh”*, you can soften it with:
+
+* *“That sounded a bit harsh, maybe we can rephrase it.”*
+
+* *“Your feedback is valid, but it might come across as harsh.”*
+
+[↑ Back to index](#index)
+
+# Harvest
+
+To collect crops or gather results.  
+ 👉 *“Farmers are busy harvesting now.”*
+
+[↑ Back to index](#index)
+
+# Haunted
+
+**Literal meaning:** Inhabited by ghosts.  
+ **Figurative meaning:** Disturbed or troubled by memories or guilt.
+
+🗣 *“That house looks haunted.”*  
+ 🗣 *“He’s haunted by what happened years ago.”*
+
+[↑ Back to index](#index)
+
 # Havoc
+
+*Pronunciation:* HAV-uhk
 
 noun — widespread destruction, damage, or disorder; chaos.
 
 प्रलय, विनाश, सर्वनाश (havoc/destruction)
 
 "The server outage wreaked havoc on the release schedule."
+
+[↑ Back to index](#index)
+
+# Hazy
+
+**Meaning:** Unclear, blurry, or vague — physically or mentally.  
+ **Usage:**
+
+* *“The view was hazy this morning.”*
+
+* *“My memory of that day is hazy.”*
 
 [↑ Back to index](#index)
 
@@ -12234,6 +14803,17 @@ Try saying this aloud:
 
 * **Comedy/performance:** when someone yells out during a live show.
 
+**Meaning:** Interrupting or shouting at a speaker in a rude or mocking way.  
+ **Examples (spoken):**
+
+* “The politician was heckled during the speech.”
+
+* “They kept heckling the comedian.”
+
+* “He handled the heckling with humor.”
+
+👉 *Common in:* Live shows, debates, or political events.
+
 [↑ Back to index](#index)
 
 # Hedge
@@ -12317,6 +14897,8 @@ done with vigour or force.
 
 # Heinous
 
+*Pronunciation:* HAY-nuhs (not "HEE-nee-uhs")
+
 adjective  
 (of a person or wrongful act, especially a crime) utterly odious or wicked.  
 "a battery of heinous crimes"
@@ -12339,7 +14921,32 @@ noun. : armed robbery : holdup. also : theft.
 
 [↑ Back to index](#index)
 
+# Hell-bent
+
+**"Hell-bent"** means being determined to do something, often with an almost reckless level of focus — so determined that you might ignore risks, warnings, or consequences.
+
+**Usage in sentences:**
+
+* *He’s hell-bent on finishing the project, even if it means working all night.*
+
+* *She’s hell-bent on proving everyone wrong.*
+
+It can have a **positive** tone (strong determination) or a **negative** one (stubborn and reckless) depending on context.
+
+[↑ Back to index](#index)
+
+# Helpless
+
+**Meaning:** Unable to act or control a situation.
+
+🗣 *“I felt helpless watching it happen.”*  
+ 🗣 *“He’s not helpless — he just needs direction.”*
+
+[↑ Back to index](#index)
+
 # Helter skelter
+
+*Pronunciation:* HEL-tur SKEL-tur
 
 adjective  
 involving disorderly haste or confusion.  
@@ -12361,6 +14968,8 @@ disorder; confusion.
 
 # Henceforth
 
+*Pronunciation:* hens-FORTH
+
 adverb  
 अब से  
 henceforth, hence, in future, in the future, thenceforth, thenceforward  
@@ -12380,6 +14989,8 @@ The scientific community has adopted a new classification system, and henceforth
 
 # Herald
 
+*Pronunciation:* HER-uhld
+
 हेरल्ड
 
  घोषित करना, संदेशवाहक,  
@@ -12389,7 +15000,19 @@ Foretell, prophesy
 
 [↑ Back to index](#index)
 
+# Hesitant
+
+**Meaning:** Slow to act or unsure; uncertain about making a move.  
+ **Figurative sense:** Can also imply emotional hesitation — fear of commitment or risk.
+
+🗣 *“He looked hesitant to speak his mind.”*  
+ 🗣 *“I was hesitant about joining, but it turned out great.”*
+
+[↑ Back to index](#index)
+
 # Hiatus
+
+*Pronunciation:* hy-AY-tuhs
 
 noun  
 a pause or break in continuity in a sequence or activity.  
@@ -12410,6 +15033,12 @@ irregular verb — the three forms of *hide*: present **hide**, past **hid**, pa
 
 [↑ Back to index](#index)
 
+# Hieroglyph
+
+**Hieroglyph** \= a **picture symbol** used in ancient writing (especially Egyptian) to represent words, sounds, or ideas. ✍️
+
+[↑ Back to index](#index)
+
 # Hinder
 
 (बाधा ड़ालना)  
@@ -12421,107 +15050,34 @@ make it difficult for (someone) to do something or for (something) to happen.
 
 [↑ Back to index](#index)
 
-# Hit up
+# Hinge
 
-**“Hit up”** is an informal phrasal verb. It usually means:
+**Literal meaning:** A pivoting joint on which something swings.  
+ **Figurative meaning:** To depend or revolve around something.
 
-1. **To contact someone** (call, text, message)  
-2. **To ask someone for something**  
-3. Sometimes, **to go to a place**
-
-### **1️⃣ Hit up \= Contact someone**
-
-This is the most common meaning in spoken English.
-
-**Example:**
-
-* “I’ll hit you up later.”  
-   👉 I’ll contact you later.  
-* “Hit me up when you reach home.”  
-   👉 Contact me when you reach home.
-
-This is very casual and mostly used with friends or colleagues (not very formal settings).
-
-### **2️⃣ Hit up \= Ask for something**
-
-* “He hit me up for some money.”  
-   👉 He asked me for money.  
-* “She hit her manager up for a promotion.”  
-   👉 She asked her manager for a promotion.
-
-Here, it slightly implies requesting or seeking help.
-
-### **3️⃣ Hit up \= Go to a place**
-
-* “Let’s hit up that new café.”  
-   👉 Let’s go to that new café.
-
-This is also casual.
-
-## **In professional/meeting context (be careful)**
-
-In client calls or formal meetings (which you often attend as an Architect), avoid using “hit up.”
-
-Instead say:
-
-* “I’ll reach out to you.”  
-* “I’ll get in touch.”  
-* “Let me connect with you offline.”
-
-Because “hit up” sounds too casual for enterprise conversations.
-
-## **Natural Spoken Sentences You Can Practice**
-
-Try speaking these aloud:
-
-1. “I’ll hit you up once I finish this deployment.”  
-2. “If you need anything, just hit me up.”  
-3. “Let’s hit up the DevOps team and clarify the dependency.”  
-4. “I was planning to hit him up regarding the architecture changes.”  
-5. “That being said, I’ll hit you up tomorrow with the updated numbers.”
-
-Notice how I used **“That being said”** to improve flow. 👌
-
-## **Extra Context of Usage**
-
-* Very common in **American English**  
-* Mostly used in **texting, Slack, WhatsApp**  
-* Casual tone  
-* Not recommended in formal emails
-
-Now your turn 🎯
-
-Can you make 2–3 sentences using “hit up” in a technical context (maybe related to MLOps or architecture)?
+🗣 *“Success hinges on good communication.”*  
+ 🗣 *“Everything hinged on that one decision.”*
 
 [↑ Back to index](#index)
 
-# Hold/Held Up
+# Hitched
 
-phrasal verb of hold  
-1\.  
-support and prevent something from falling.  
-"concrete pillars hold up the elevated section of the railway"
+**Meaning:** Connected or attached — also slang for “got married.”  
+ **Usage:**
 
-2\.  
-display something by holding it above one's waist or head.  
-"he held up the book so she could see the cover"
+* *“He hitched the trailer to his truck.”*
 
-## 1\. "Hold up" (Present tense)
+* *“They got hitched last summer.”* (informal for married)
 
-It is used in the present tense.  
-Meanings:  
-**Delay or stop:** "The traffic is holding us up."  
-**Support or lift:** "These pillars hold up the building."  
-**As a question (informal):** "Hold up\! What did you just say?" (meaning: "Wait a moment.")  
-**To endure or remain strong:** "I hope she holds up under the pressure."
+[↑ Back to index](#index)
 
-## 2\. "Held up" (Past tense)
+# Hive
 
-It is the past tense or past participle of "hold up."  
-Meanings:  
-Was delayed or stopped: "The train was held up due to technical issues."  
-Was supported or sustained: "The roof was held up by steel beams."  
-Was robbed (as in a crime): "The bank was held up by two masked men."
+**Literal meaning:** A structure for bees.  
+ **Figurative meaning:** A place buzzing with activity and energy.
+
+🗣 *“The office was a hive of productivity this morning.”*  
+ 🗣 *“That café’s always a hive of chatter.”*
 
 [↑ Back to index](#index)
 
@@ -12549,11 +15105,15 @@ hunger had caused the hollows in their cheeks
 
 # Homicide
 
+*Pronunciation:* HOM-ih-syd
+
 Killing another person on purpose.
 
 [↑ Back to index](#index)
 
 # Honorarium
+
+*Pronunciation:* on-uh-RAIR-ee-uhm
 
 An honorarium is a payment for services that are usually done for free. It's a small fee that's more of a thank you than a paycheck. The word honorarium comes from the Latin word honorary which means "gift". 
 
@@ -12576,18 +15136,15 @@ In recognition of her years of service, the retiring employee received an honora
 
 # Hooliganism
 
+*Pronunciation:* HOO-lih-guhn-iz-uhm
+
 Being violent or aggressive on purpose; often used to describe youth.
 
 [↑ Back to index](#index)
 
-# Hop out
-
-get out of quickly  
-The officer hopped out when he spotted an illegally parked car” synonyms: get off.
-
-[↑ Back to index](#index)
-
 # Horrendous
+
+*Pronunciation:* huh-REN-duhs
 
 adjective  
 extremely unpleasant, horrifying, or terrible.  
@@ -12597,11 +15154,15 @@ extremely unpleasant, horrifying, or terrible.
 
 # Hostile
 
+*Pronunciation:* HOS-tuhl (British), HOS-tyl (American)
+
  शत्रुतापूर्ण,  द्वेषी,विरोधी, शत्रु का,  प्रतिकूल,  शत्रुतापूर्ण, प्रतिकूल
 
 [↑ Back to index](#index)
 
 # Hotchpotch
+
+*Pronunciation:* HOCH-poch
 
 **Hotchpotch** means a **confused or messy mixture of different things**, often without clear order or logic.
 
@@ -12656,6 +15217,16 @@ In meetings or reviews, it’s often used like this:
 
 [↑ Back to index](#index)
 
+# hotspot
+
+noun
+
+a popular place of entertainment
+
+she knew all the Manhattan hotspots for classy blues and retro jazz
+
+[↑ Back to index](#index)
+
 # Hound
 
 noun  
@@ -12680,6 +15251,20 @@ noun
 an act of remaining in the air in one place.  
 "keep the model in a stable hover"
 
+**Meaning:** To stay in one place in the air or nearby.  
+ **Example:** *The helicopter hovered over the city.*
+
+[↑ Back to index](#index)
+
+# Howl
+
+**Meaning:** To make a loud crying or wailing sound (by animals or humans).  
+ **Usage:**
+
+* *“The wolves howled at night.”*
+
+* *“He howled in pain.”* (can also mean crying loudly)
+
 [↑ Back to index](#index)
 
 # Howling
@@ -12696,6 +15281,8 @@ extreme or great.
 [↑ Back to index](#index)
 
 # Hubris
+
+*Pronunciation:* HYOO-bris
 
 noun  
 excessive pride or self-confidence.  
@@ -12775,12 +15362,80 @@ If you want, next we can practice **replacing ‘meeting’ with smarter spoken 
 
 [↑ Back to index](#index)
 
+# Huddled
+
+**Meaning:** Gathered closely together, often for warmth or protection.  
+ **Usage:**
+
+* *“They huddled around the fire.”*
+
+* *“The kids huddled under one umbrella.”*
+
+[↑ Back to index](#index)
+
+# Huffed
+
+**Meaning:** Exhaled loudly or spoke in a slightly annoyed tone.  
+ **Usage:**
+
+* *“She huffed and crossed her arms.”*
+
+* *“‘Fine,’ he huffed, giving up.”*
+
+[↑ Back to index](#index)
+
+# Hum
+
+**Literal meaning:** A low, steady sound.  
+ **Figurative meaning:** To be active, busy, or full of energy.
+
+🗣 *“The fridge is humming again.”*  
+ 🗣 *“The office was humming with excitement before the launch.”*
+
+[↑ Back to index](#index)
+
+# Humble
+
+**Literal meaning:** Modest or unassuming.  
+ **Figurative meaning:**
+
+1. To lower one’s pride.
+
+2. To show gratitude or respect despite success.
+
+🗣 *“Despite his fame, he’s incredibly humble.”*  
+ 🗣 *“Winning that award really humbled her.”*  
+ 🗣 *“He comes from humble beginnings.”*
+
+💡 *(“Humble beginnings” \= modest or simple background.)*
+
+[↑ Back to index](#index)
+
+# Humility
+
+**Meaning:** Being humble; not thinking too highly of oneself.  
+ **Example:** *True strength comes with humility.*
+
+[↑ Back to index](#index)
+
 # Humongous
+
+*Pronunciation:* hyoo-MUNG-guhs
 
 extremely large : huge  
 : extremely large : huge. a humongous building. humongous amounts of money.
 
 Humongous is an informal adjective that means very large or huge. For example, you might describe a building or amount of money as humongous. 
+
+[↑ Back to index](#index)
+
+# Hump
+
+**Meaning:** To lift or carry something heavy; informally — to have sex.  
+ **Usage:**
+
+* *“We had to hump all the boxes upstairs.”* (literal)  
+   🟠 Be cautious — it often has a sexual meaning in casual talk.
 
 [↑ Back to index](#index)
 
@@ -12816,9 +15471,37 @@ Humongous is an informal adjective that means very large or huge. For example, y
 
 * In **figurative speech**: “hurl insults” means speaking very angrily or abusively.
 
+**Meaning:** To throw something with great force — physically or emotionally (like insults).  
+ **Examples (spoken):**
+
+* “He hurled the ball across the field.”
+
+* “She hurled insults at him during the argument.”
+
+* “Someone hurled a stone at the window.”
+
+👉 *Connector idea:* “Out of anger,” “In frustration,” “Without thinking, he hurled…”
+
+**Meaning:** Throw something forcefully — or vomit (informal).  
+**Usage:**
+
+* *“He hurled the ball across the field.”*
+
+* *“I felt so sick I almost hurled.”*
+
+[↑ Back to index](#index)
+
+# Hypocritical
+
+adjective — behaving in a way that contradicts one's own stated beliefs or values; saying one thing and doing another.
+
+"It's hypocritical to preach work-life balance and then email the team at midnight."
+
 [↑ Back to index](#index)
 
 # Hysterical
+
+*Pronunciation:* hi-STER-ih-kuhl
 
  मज़ेदार, उन्मत्त
 
@@ -12835,6 +15518,8 @@ She was in a state of hysterical panic when she couldn't find her phone, only to
 
 # Ignominious
 
+*Pronunciation:* ig-nuh-MIN-ee-uhs
+
 adjective
 
 अपयशपूर्ण, अपमानपूर्ण,  घृणित
@@ -12843,7 +15528,19 @@ hideous, abhorrent, despicable, heinous, repellent, ignominious
 
 [↑ Back to index](#index)
 
+# Ignorance
+
+**Literal meaning:** Lack of knowledge or awareness.  
+ **Figurative meaning:** Willful avoidance of truth or reality.
+
+🗣 *“Ignorance of the law is no excuse.”*  
+ 🗣 *“He’s living in blissful ignorance.”*
+
+[↑ Back to index](#index)
+
 # Illicit
+
+*Pronunciation:* ih-LIS-it (note: sounds like "elicit," but means unlawful)
 
 adjective  
 forbidden by law, rules, or custom.  
@@ -12852,6 +15549,8 @@ forbidden by law, rules, or custom.
 [↑ Back to index](#index)
 
 # Illusion
+
+*Pronunciation:* ih-LOO-zhuhn
 
 Definition: An illusion is a false or misleading perception or misinterpretation of something that is actually present.  
 Nature: Illusions often involve sensory experiences, where the senses mislead the mind into perceiving something that does not correspond to the actual reality.  
@@ -12867,6 +15566,8 @@ In summary, an illusion pertains to misperceptions of sensory input, leading to 
 
 # Imbibe
 
+*Pronunciation:* im-BYB
+
 ( आत्मसात करना, सोखना, पीना, अंतःशोषण)  
 Assimilate, Absorb  
 absorb or assimilate (ideas or knowledge).
@@ -12874,6 +15575,8 @@ absorb or assimilate (ideas or knowledge).
 [↑ Back to index](#index)
 
 # Imbroglio
+
+*Pronunciation:* im-BROHL-yoh
 
 घोटाला, उलझन, गड़बड़, अव्यवस्था, झंझट, झमेला, घबड़ा देने वाली स्थिति, गपला. 
 
@@ -12895,6 +15598,8 @@ The term is typically used to convey a sense of entanglement or confusion, and i
 
 # Immersion
 
+*Pronunciation:* ih-MUR-zhuhn
+
 विसर्जन, डुबाना
 
 Immersion is the act of dipping something in a substance, completely covering it. It might be something physical, such as plunging your body into water, or metaphorical, such as becoming totally immersed in a project.
@@ -12904,6 +15609,12 @@ The act of putting something or someone into a liquid, especially so that they a
 The state of being covered by a liquid. For example, immersion in cold water.  
 Complete involvement. For example, becoming totally immersed in a project.  
 An educational course that teaches a foreign language, and in which the lessons are entirely conducted in the foreign language. 
+
+**Literal meaning:** Deep involvement in an activity or environment.  
+ **Figurative meaning:** Fully engaging your mind and senses in an experience or learning process.
+
+🗣 *“Language immersion helps you learn faster.”*  
+ 🗣 *“He’s in total immersion mode for his new project.”*
 
 [↑ Back to index](#index)
 
@@ -12922,6 +15633,8 @@ Lacklustre
 
 # Imminent
 
+*Pronunciation:* IM-ih-nuhnt (not "eminent" or "immanent")
+
 Adjective || **i·muh·nuhnt**  
 adjective: imminent  
 1\.  
@@ -12939,9 +15652,18 @@ adjective
 about to happen.  
 "they were in imminent danger of being swept away"
 
+**Meaning:** About to happen soon.  
+ **Usage:**
+
+* *“A storm is imminent.”*
+
+* *“The company faces imminent closure.”*
+
 [↑ Back to index](#index)
 
 # Immolate
+
+*Pronunciation:* IM-uh-layt
 
 "Immolate" comes from the Latin word immolō which means "I sacrifice". 
 
@@ -12972,6 +15694,8 @@ good-humored cheerfulness
 
 # Impale
 
+*Pronunciation:* im-PAYL
+
 verb  
 1\.  
 transfix or pierce with a sharp instrument.  
@@ -12985,6 +15709,8 @@ display (a coat of arms) side by side with another on the same shield, separated
 [↑ Back to index](#index)
 
 # Impartial
+
+*Pronunciation:* im-PAR-shuhl
 
 निष्पक्ष  
 fair, impartial, neutral, objective, just, uncorruptible
@@ -13001,6 +15727,8 @@ Cross bench, Impartial
 [↑ Back to index](#index)
 
 # Impeccable
+
+*Pronunciation:* im-PEK-uh-buhl
 
 Adjective  निष्कलंक, त्रुटिहीन  
 1\. in accordance with the highest standards; faultless.  
@@ -13056,6 +15784,8 @@ It’s more common in **formal or professional** situations.
 
 # Impending
 
+*Pronunciation:* im-PEN-ding
+
 adjective  
 (of an event regarded as threatening or significant) about to happen; forthcoming.  
 "the author had returned to his country ahead of the impending war"
@@ -13070,7 +15800,47 @@ upcoming. impending trials.
 
 [↑ Back to index](#index)
 
+# Impersonate
+
+It means **to pretend to be someone else**, usually by copying their voice, behavior, or appearance.
+
+1. **Entertainment/fun:**
+
+   * *“The comedian impersonated the president on stage.”*
+
+   * *“She can impersonate movie stars really well.”*
+
+2. **Serious/negative (fraud, cheating):**
+
+   * *“The hacker impersonated a bank official to steal money.”*
+
+   * *“Someone tried to impersonate me online.”*
+
+✅ **Spoken practice sentences:**
+
+* “He impersonated his teacher so well, everyone laughed.”
+
+* “On the other hand, impersonating someone for fraud is a serious crime.”
+
+* “That being said, in acting, impersonating a character is a real skill.”
+
+* “She’s great at impersonating celebrities.”
+
+👉 **Contexts of usage:**
+
+* **Comedy/acting:** Copying someone for fun.
+
+* **Fraud/security:** Pretending to be someone for dishonest purposes.
+
+* **Casual talk:** *“Don’t impersonate me while I’m not there\!”* (joking with friends).
+
+✨ Small tip: In casual speech, instead of *impersonate*, people often say **“mimic,” “imitate,” or “do an impression of.”**
+
+[↑ Back to index](#index)
+
 # Impetus
+
+*Pronunciation:* IM-pih-tuhs
 
  संवेग,  प्रेरना, गतिबल
 
@@ -13078,7 +15848,21 @@ Energy, momentum, drive, force, impulsion, power
 
 [↑ Back to index](#index)
 
+# Implement
+
+**Literal meaning:** To put a plan, idea, or decision into effect.  
+ **Figurative meaning:** To make something operational or real.
+
+🗣 *“The company will implement new safety measures.”*  
+ 🗣 *“It’s time to implement what we’ve been planning for months.”*
+
+💡 *(Professional and action-oriented word — common in business, tech, and policy talk.)*
+
+[↑ Back to index](#index)
+
 # Implicate
+
+*Pronunciation:* IM-plih-kayt
 
 verb  
 past tense: implicated; past participle: implicated  
@@ -13093,6 +15877,8 @@ past tense: implicated; past participle: implicated
 [↑ Back to index](#index)
 
 # Implore
+
+*Pronunciation:* im-PLOR
 
 Verb याचना करना, प्रार्थना करना  
 past tense: implored; past participle: implored
@@ -13140,9 +15926,17 @@ put bait on (a hook) or in (a trap, net, or fishing area) to entice fish or anim
 
 Unflinching
 
+**Meaning:** To suggest or express something indirectly.  
+ **Figurative meaning:** To communicate meaning subtly through tone or wording.
+
+🗣 *“Are you implying I made a mistake?”*  
+ 🗣 *“Her tone implied she wasn’t happy.”*
+
 [↑ Back to index](#index)
 
 # Importune
+
+*Pronunciation:* im-por-TOON
 
 आग्रह करना, हठ करना, ज़ोर देना, जिद करना, इसरार करना, दृढ़ होना, परेशान करना, दबाना, प्रेरित करना.  
 verb  
@@ -13155,6 +15949,8 @@ approach (someone) to request or offer sexual services, especially as a prostitu
 [↑ Back to index](#index)
 
 # Impromptu
+
+*Pronunciation:* im-PROMP-too
 
 adjective  
 done without being planned, organized, or rehearsed.  
@@ -13170,6 +15966,8 @@ a short piece of instrumental music, especially a solo, that is reminiscent of a
 [↑ Back to index](#index)
 
 # Improvise
+
+*Pronunciation:* IM-pruh-vyz
 
 (ˈइम्‌प्रव़ाइज़्‌) |  (ˈimprəˌvīz)
 
@@ -13218,6 +16016,31 @@ The word **“improvise”** is a **verb** that means **to make or do something 
 
 [↑ Back to index](#index)
 
+# Impulse
+
+**Meaning:** A sudden strong desire or urge to do something.  
+ **Examples (spoken):**
+
+* “I bought it on impulse.”
+
+* “He acted on impulse and later regretted it.”
+
+* “Sometimes it’s hard to resist an impulse purchase.”
+
+👉 *Connector idea:* “Without thinking,” “At that moment.”
+
+[↑ Back to index](#index)
+
+# Impulsive
+
+adjective. 
+
+If you describe someone as impulsive, you mean that they do things suddenly without thinking about them carefully first. He is too impulsive to be a responsible prime minister. Avoid making an impulsive decision. Synonyms: instinctive, emotional, unpredictable, quick
+
+You have Harvey made an impulsive deal which is certainly not working out.
+
+[↑ Back to index](#index)
+
 # Impune
 
 Impune is an adjective that means unpunished or scot-free. It can be used in both masculine and feminine forms.   
@@ -13239,6 +16062,8 @@ in a very brief statement
 
 # Inadmissible
 
+*Pronunciation:* in-ad-MIS-uh-buhl
+
 अस्वीकार्य, 
 
 not deserving to be admitted
@@ -13248,6 +16073,8 @@ The term "inadmissible" is commonly used in legal contexts and refers to evidenc
 [↑ Back to index](#index)
 
 # Inadvertent
+
+*Pronunciation:* in-ad-VUR-tuhnt
 
 adjective  
 not resulting from or achieved through deliberate planning.  
@@ -13273,6 +16100,8 @@ In these examples, "inadvertently" emphasizes the lack of intention or awareness
 
 # Incendiary
 
+*Pronunciation:* in-SEN-dee-er-ee
+
 adjective  
 1\.  
 (of a device or attack) designed to cause fires.  
@@ -13292,6 +16121,8 @@ a person who starts fires.
 [↑ Back to index](#index)
 
 # Incentivize
+
+*Pronunciation:* in-SEN-tih-vyz
 
 verb  
 provide (someone) with an incentive for doing something
@@ -13319,6 +16150,17 @@ an incidental expense, event, etc.
 
 [↑ Back to index](#index)
 
+# Incisive
+
+**Meaning:** Clear, sharp, and intelligent (especially about thinking or speaking).  
+ **Usage:**
+
+* *“Her analysis was incisive and to the point.”*
+
+* *“He’s known for his incisive wit.”*
+
+[↑ Back to index](#index)
+
 # Inclined
 
  इच्छुक, झुका
@@ -13341,7 +16183,67 @@ In each case, "inclined" suggests a leaning or predisposition, whether it's in t
 
 [↑ Back to index](#index)
 
+# incommunicado
+
+adjective
+
+not able, wanting, or allowed to communicate with other people
+
+they were separated and detained incommunicado
+
+[↑ Back to index](#index)
+
+# Incompatible
+
+**Meaning:** Not able to exist or work together harmoniously.
+
+🗣 *“Their personalities were totally incompatible.”*  
+ 🗣 *“That software’s incompatible with my system.”*
+
+[↑ Back to index](#index)
+
+# Inconceivable
+
+The word **“inconceivable”** means *something that is impossible to imagine, understand, or believe*. It describes a situation, event, or idea that feels *beyond what we can think of as possible*.
+
+### **Examples of Spoken Usage:**
+
+1. *“It’s inconceivable that he finished the project in just one day\!”*  
+    (means: hard to believe, almost impossible)
+
+2. *“The amount of data this system can handle is inconceivable.”*  
+    (means: too large to imagine)
+
+3. *“It’s inconceivable to me that she didn’t know about the issue.”*  
+    (means: unbelievable, unimaginable)
+
+### **Common Phrases You Could Use in Conversation:**
+
+* “That’s inconceivable—I never thought it could happen.”
+
+* “It’s almost inconceivable how fast technology is moving.”
+
+* “The idea seemed inconceivable at first, but now it makes sense.”
+
+* “Honestly, it’s inconceivable that they ignored such a big problem.”
+
+👉 Practice tip: When you want to sound natural in a meeting or casual talk, you can replace *“unbelievable”* or *“impossible to imagine”* with **“inconceivable”**.
+
+[↑ Back to index](#index)
+
+# Inconsistency
+
+**Meaning:** Lack of uniformity or reliability; when things don’t align or stay steady.  
+ **Figurative meaning:** Emotional or behavioral unpredictability.
+
+🗣 *“The inconsistency in his statements made me doubt him.”*  
+ 🗣 *“Her performance has been inconsistent lately.”*
+
+[↑ Back to index](#index)
+
 # Incorporate
+
+*Pronunciation:* in-KOR-puh-rayt
 
 (सम्मिलित करना)  
 (समाविष्ट करना)  
@@ -13355,6 +16257,8 @@ include
 
 # Incredulity
 
+*Pronunciation:* in-krih-DOO-lih-tee
+
 noun  
 the state of being unwilling or unable to believe something.  
 "he stared down the street in incredulity"
@@ -13362,6 +16266,8 @@ the state of being unwilling or unable to believe something.
 [↑ Back to index](#index)
 
 # Inculcate
+
+*Pronunciation:* in-KUL-kayt (also IN-kuhl-kayt)
 
 verb  
 मन में बैठाना  
@@ -13392,6 +16298,8 @@ Remember, "inculcate" means to teach or impress something upon someone's mind th
 
 # Incumbent
 
+*Pronunciation:* in-KUM-buhnt
+
 adjective  
 1\.  
 necessary for (someone) as a duty or responsibility.  
@@ -13409,6 +16317,8 @@ the holder of an office or post.
 
 # Indebtedness
 
+*Pronunciation:* in-DET-id-nis
+
 Indebtedness has multiple meanings:  
 The state of owing money or the amount of money owed  
 A feeling of being grateful   
@@ -13420,6 +16330,8 @@ Here are some examples of indebtedness in a sentence:
 
 # Indelible
 
+*Pronunciation:* in-DEL-uh-buhl
+
 Adjective  अमिट  
 1\. (of ink or a pen) making marks that cannot be removed.  
 "an indelible marker pen"
@@ -13430,6 +16342,30 @@ Adjective  अमिट
 adjective  
 (of ink or a pen) making marks that cannot be removed.  
 "an indelible marker pen"
+
+[↑ Back to index](#index)
+
+# Indescribable
+
+* **Literal:** Too extraordinary to describe in words.
+
+* **Figurative:** Beyond expression or imagination.
+
+* **Examples:**
+
+  * “The view from the top was *indescribable*.”
+
+  * “Her joy was *indescribable* when she saw her baby.”
+
+[↑ Back to index](#index)
+
+# Indigenous
+
+**Literal meaning:** Native to a particular region or place.  
+ **Figurative meaning:** Authentic, deeply rooted, original to a culture.
+
+🗣 *“Indigenous art reflects centuries of tradition.”*  
+ 🗣 *“We must preserve indigenous knowledge systems.”*
 
 [↑ Back to index](#index)
 
@@ -13482,7 +16418,31 @@ You can practice saying it like this (for fluency):
 
 [↑ Back to index](#index)
 
+# Indignation
+
+**Meaning:** Anger or annoyance at something unfair or offensive.  
+ **Usage:**
+
+* *“She felt indignation at the way he spoke to her.”*
+
+* Often used in more serious or emotional situations.
+
+[↑ Back to index](#index)
+
+# Indispensable
+
+**Meaning:** Absolutely necessary; can’t do without it.  
+ **Usage:**
+
+* *“Her expertise is indispensable to the team.”*
+
+* *“Water is indispensable for life.”*
+
+[↑ Back to index](#index)
+
 # Indoctrinate
+
+*Pronunciation:* in-DOK-truh-nayt
 
 verb
 
@@ -13500,13 +16460,28 @@ teach or instruct (someone).
 
 # Indomitable
 
+*Pronunciation:* in-DOM-ih-tuh-buhl
+
 adjective  
 impossible to subdue or defeat.  
 "a woman of indomitable spirit"
 
 [↑ Back to index](#index)
 
+# Indulgently
+
+**Meaning:** In a way that is kind, forgiving, or allows pleasure.  
+ **Usage:**
+
+* *“He smiled indulgently at the child’s mischief.”*
+
+* *“She lived indulgently, spending money on luxuries.”*
+
+[↑ Back to index](#index)
+
 # Inept
+
+*Pronunciation:* in-EPT
 
 adjective  
 अयोग्य, मूर्ख, अनाड़ी, अनुपयुक्त  
@@ -13514,7 +16489,18 @@ unfit, unworthy, inept, incapable, undeserving, incompetent, stupid
 
 [↑ Back to index](#index)
 
+# Inert
+
+**Meaning:** Lacking motion or energy; inactive.
+
+🗣 *“The gas is chemically inert.”*  
+ 🗣 *“I felt inert all weekend — couldn’t do a thing.”*
+
+[↑ Back to index](#index)
+
 # Inexplicable
+
+*Pronunciation:* in-ik-SPLIK-uh-buhl
 
 adjective  
 unable to be explained or accounted for.  
@@ -13523,6 +16509,8 @@ unable to be explained or accounted for.
 [↑ Back to index](#index)
 
 # Infallible
+
+*Pronunciation:* in-FAL-uh-buhl
 
 Adjective अचूक, अमोघ  
 incapable of making mistakes or being wrong.  
@@ -13533,7 +16521,17 @@ never failing; always effective.
 
 [↑ Back to index](#index)
 
+# Infamous
+
+adjective — well known for a bad or negative reason; having an unfavorable reputation. (Not the same as "famous," which is neutral/positive.)
+
+"The service is infamous for its confusing checkout flow."
+
+[↑ Back to index](#index)
+
 # Infatuated
+
+*Pronunciation:* in-FACH-oo-ay-tid
 
 मोहित, उत्तेजित, मुग्ध, मूढ़, संगी, प्रेमांध.
 
@@ -13572,6 +16570,8 @@ the presence of an unusually large number of insects or animals in a place, typi
 
 # Infiltrate
 
+*Pronunciation:* IN-fil-trayt (also in-FIL-trayt)
+
 verb  
 1\.  
 enter or gain access to (an organization, place, etc.) surreptitiously and gradually, especially in order to acquire secret information.  
@@ -13601,12 +16601,24 @@ To move into something surreptitiously and gradually, especially with hostile in
 
 # Inflammatory
 
+*Pronunciation:* in-FLAM-uh-tor-ee
+
 1\. : tending to excite anger, disorder, or tumult : seditious. 2\. : tending to inflame or excite the senses.  
 Inflammatory can have multiple meanings:  
 Tending to excite anger  
 Tending to inflame or excite the senses  
 Accompanied by or tending to cause inflammation   
 Inflammation is a response to infection or injury that can cause redness, swelling, heat, pain, and loss of tissue function.
+
+[↑ Back to index](#index)
+
+# Inflection
+
+**Literal meaning:** A change in tone or pitch of the voice.  
+ **Figurative meaning:** A turning point or significant shift.
+
+🗣 *“His voice had a kind inflection.”*  
+ 🗣 *“We’re at an inflection point in our company’s growth.”*
 
 [↑ Back to index](#index)
 
@@ -13780,6 +16792,8 @@ Ingress \= “in”
 
 # Injunction
 
+*Pronunciation:* in-JUNGK-shuhn
+
 noun  
 an authoritative warning or order.
 
@@ -13789,6 +16803,8 @@ a judicial order restraining a person from beginning or continuing an action thr
 [↑ Back to index](#index)
 
 # Innate
+
+*Pronunciation:* ih-NAYT
 
 Adjective
 
@@ -13802,13 +16818,28 @@ originating in the mind.
 
 # Innocuous
 
+*Pronunciation:* ih-NOK-yoo-uhs
+
 Adjective नुकसान न पहुंचानेवाला, अहानिकर  
 not harmful or offensive.  
 "it was an innocuous question"
 
 [↑ Back to index](#index)
 
+# Innuendo
+
+**Meaning:** An indirect or hidden suggestion, often sexual or insulting.  
+ **Usage:**
+
+* *“His comment was full of innuendo.”*
+
+* *“She didn’t appreciate his subtle innuendos.”*
+
+[↑ Back to index](#index)
+
 # Inoculate
+
+*Pronunciation:* ih-NOK-yuh-layt
 
 verb  
 \-immunize (someone) against a disease by introducing infective material, microorganisms, or vaccines into the body.  
@@ -13839,6 +16870,13 @@ make (someone) very angry.
 
 [↑ Back to index](#index)
 
+# Insecurity
+
+**Meaning:** Lack of confidence or self-doubt.  
+ **Example:** *Her insecurity makes her overthink everything.*
+
+[↑ Back to index](#index)
+
 # Inside out
 
 adverb  
@@ -13864,6 +16902,15 @@ having the inner surface turned outwards.
 
 [↑ Back to index](#index)
 
+# Insidious
+
+**Meaning:** Something harmful that spreads subtly or gradually.
+
+🗣 *“It’s an insidious disease — hard to detect early.”*  
+ 🗣 *“Social media addiction can be insidious.”*
+
+[↑ Back to index](#index)
+
 # insinuate
 
 verb  
@@ -13876,7 +16923,34 @@ slide (oneself or a thing) slowly and smoothly into a particular place.
 
 [↑ Back to index](#index)
 
+# Insinuated
+
+The word **“insinuated”** comes from the verb **insinuate**.  
+ It has a few shades of meaning, depending on the context:
+
+### **1\. To suggest indirectly (usually something negative)**
+
+* Similar to *imply* or *hint*, often with a negative or critical undertone.  
+   👉 *He insinuated that I wasn’t qualified for the job.*  
+   (He didn’t say it directly, but hinted at it.)
+
+### **2\. To introduce gradually or subtly**
+
+* To bring something into a situation or conversation in a smooth, indirect way.  
+   👉 *She insinuated herself into the group by being overly friendly.*  
+   (She gradually inserted herself into the group.)
+
+🔑 **Synonyms (for the first sense):**  
+ implied, hinted, suggested, alluded, intimated
+
+🔑 **Synonyms (for the second sense):**  
+ inserted, introduced, ingratiated, wormed in
+
+[↑ Back to index](#index)
+
 # Insolvency
+
+*Pronunciation:* in-SOL-vuhn-see
 
 Insolvency is a state of financial distress where a person or business is unable to pay their debts. It can also refer to a situation where a debtor cannot pay the debts they owe.   
 Insolvency can take two forms: cash-flow insolvency and balance-sheet insolvency.  
@@ -13902,6 +16976,8 @@ verb: instill
 
 # Insurgency
 
+*Pronunciation:* in-SUR-juhn-see
+
 An insurgency is a violent attempt by citizens of a country to oppose their government. It can also be defined as a movement within a country that aims to overthrow the government.
 
 : the quality or state of being insurgent. specifically : a condition of revolt against a government that is less than an organized revolution and that is not recognized as belligerency.
@@ -13909,6 +16985,8 @@ An insurgency is a violent attempt by citizens of a country to oppose their gove
 [↑ Back to index](#index)
 
 # Insurrection
+
+*Pronunciation:* in-suh-REK-shuhn
 
 noun  
 a violent uprising against an authority or government.  
@@ -13932,6 +17010,8 @@ increase the opacity of (a negative) using a chemical.
 
 # Interim
 
+*Pronunciation:* IN-tur-im
+
 \-temporary and intended to be used or accepted until something permanent exists  
 Resurrect
 
@@ -13940,6 +17020,8 @@ The word "resurrect" is a verb that means to bring something back to life or to 
 [↑ Back to index](#index)
 
 # Interject
+
+*Pronunciation:* in-tur-JEKT
 
 verb  
 say (something) abruptly, especially as an aside or interruption.  
@@ -13958,7 +17040,16 @@ a thing occurring or done during an interval.
 
 [↑ Back to index](#index)
 
+# Internalize
+
+**Meaning:** To accept or absorb ideas deeply.  
+ **Example:** *She internalized those harsh comments.*
+
+[↑ Back to index](#index)
+
 # Interpolate
+
+*Pronunciation:* in-TUR-puh-layt
 
 The word **“interpolate”** means **to insert something (like words, data, or ideas) into an existing text, conversation, or sequence.**  
  In simpler terms — it’s when you add something new **in between** what’s already there.
@@ -14005,6 +17096,13 @@ It sounds polite, professional, and fluent.
 
 [↑ Back to index](#index)
 
+# Interrogate
+
+**Meaning:** To question someone thoroughly.  
+ **Example:** *The detective interrogated the witness for hours.*
+
+[↑ Back to index](#index)
+
 # Intolerant
 
 adjective  
@@ -14027,6 +17125,8 @@ adjective
 
 # Intricate
 
+*Pronunciation:* IN-trih-kit
+
 N. (पेचीदा, जटिल)
 
 The word "intricate" is an adjective that describes something that is very complex, detailed, or involved. It refers to things that have many interconnected parts or elements, often requiring careful attention to understand or manage due to their complexity. In the context of the conversation example I provided earlier, when discussing "intricate workflows," it refers to workflows that are composed of multiple detailed and interrelated tasks or steps.
@@ -14038,9 +17138,14 @@ The lacework on the wedding gown was so intricate that it looked like a delicate
 
 N. (पेचीदा)(जटिल)
 
+**Meaning:** Complex and detailed.  
+ **Example:** *The design was so intricate—it must’ve taken days.*
+
 [↑ Back to index](#index)
 
 # Intrigue
+
+*Pronunciation:* noun: IN-treeg — verb: in-TREEG
 
 /ɪnˈtriːɡ/
 
@@ -14060,6 +17165,8 @@ Intriguing
 
 # Intuitive
 
+*Pronunciation:* in-TOO-ih-tiv
+
 able to know or understand something because of feelings rather than facts or proof
 
 based on feelings rather than facts or proof
@@ -14074,6 +17181,8 @@ Most people have an intuitive sense of right and wrong.
 [↑ Back to index](#index)
 
 # Inundate
+
+*Pronunciation:* IN-uhn-dayt
 
  पाटना,  पाट देना,  डुबोना,  जलमग्न कर देना
 
@@ -14103,6 +17212,8 @@ overwhelm or flood with water.
 
 # Invariably
 
+*Pronunciation:* in-VAIR-ee-uh-blee
+
 adverb  
 in every case or on every occasion; always.  
 "ranch meals are invariably big and hearty"
@@ -14121,7 +17232,18 @@ showing creativity or original thought.
 
 [↑ Back to index](#index)
 
+# Investigate
+
+**Meaning:** To examine or look into something carefully.
+
+🗣 *“The police are investigating the matter.”*  
+ 🗣 *“I like to investigate how systems really work.”*
+
+[↑ Back to index](#index)
+
 # invigorate
+
+*Pronunciation:* in-VIG-uh-rayt
 
 इन्ˈव़िगरेट्‌
 
@@ -14148,6 +17270,43 @@ Irk
 
 [↑ Back to index](#index)
 
+# Irony
+
+**Irony** means when something happens in the opposite way of what you expect, often creating humor or pointing out contrast. It’s not the same as *coincidence*—it usually highlights contradiction.
+
+### **Types of Irony (in spoken English)**
+
+1. **Situational irony** – when the result is the opposite of what you’d expect.  
+    *Example*: “A fire station burns down—that’s ironic.”
+
+2. **Verbal irony** – when someone says something but means the opposite (often like sarcasm, but sarcasm is usually sharper or meant to mock).  
+    *Example*: If it’s raining heavily, you say: “Oh, what a beautiful day\!”
+
+3. **Dramatic irony** – more common in stories or movies, where the audience knows something the character doesn’t.  
+    *Example*: In a movie, we know the villain is hiding in the room, but the hero doesn’t.
+
+### **Common spoken usage**
+
+* “That’s ironic, isn’t it?”
+
+* “Kind of ironic that he failed the test he helped design.”
+
+* “It’s ironic—we worked so hard on speed, but now the system runs slower.”
+
+### **Phrases you can practice saying**
+
+1. “It’s funny, or maybe ironic, that we spent months preparing for this and still got surprised.”
+
+2. “That’s a bit ironic, considering he always tells us to be on time and he’s the one who’s late.”
+
+3. “Ironically, the more we tried to fix the issue, the worse it became.”
+
+4. “I can’t help but notice the irony here—it’s almost like the opposite of what we expected.”
+
+👉 Practice these aloud, and try using **“ironically”** as a connector in your speech when showing contrast.
+
+[↑ Back to index](#index)
+
 # Irrational
 
 ( विवेक रहित)  
@@ -14165,7 +17324,19 @@ adjective
 
 [↑ Back to index](#index)
 
+# island-hopping
+
+noun
+
+the activity of traveling from one island to another, especially as a tourist in an area of small islands
+
+seeing the best of what Greece has to offer requires some island-hopping
+
+[↑ Back to index](#index)
+
 # Itinerary
+
+*Pronunciation:* eye-TIN-uh-rer-ee
 
 ai·ti·nr·eh·ree
 
@@ -14179,6 +17350,34 @@ An itinerary is a plan of a journey, including the route and the places that you
 jab, hit, thwack, thump, knock, knuckle under  
 मारना  
 kill, hit, pummel, strike, bludgeon, smite
+
+[↑ Back to index](#index)
+
+# Jam-packed
+
+**Meaning:** Extremely full or crowded.
+
+🗣 *“The train was jam-packed this morning.”*  
+ 🗣 *“My schedule is jam-packed today.”*
+
+[↑ Back to index](#index)
+
+# jaunt
+
+noun
+
+a short excursion or journey for pleasure
+
+her little jaunt in France was over
+
+[↑ Back to index](#index)
+
+# Jaw-dropping
+
+**Meaning:** Extremely impressive or shocking.
+
+🗣 *“The view from the mountain was jaw-dropping.”*  
+ 🗣 *“Her performance was absolutely jaw-dropping.”*
 
 [↑ Back to index](#index)
 
@@ -14208,6 +17407,8 @@ Though “jest” is a bit formal or old-fashioned, it’s still used in modern 
 [↑ Back to index](#index)
 
 # Jingoism
+
+*Pronunciation:* JING-goh-iz-uhm
 
 nounDEROGATORY  
 extreme patriotism, especially in the form of aggressive or warlike foreign policy.  
@@ -14289,7 +17490,27 @@ If you say:
 
 [↑ Back to index](#index)
 
+# journaling
+
+noun (gerund of "journal") — the practice of regularly writing down one's thoughts, experiences, or reflections.
+
+"She started journaling every morning to organize her thoughts before work."
+
+[↑ Back to index](#index)
+
+# Joyride
+
+**Literal meaning:** A ride taken for fun, often recklessly.  
+ **Figurative meaning:** A carefree or adventurous experience.
+
+🗣 *“They took his car for a joyride.”*  
+ 🗣 *“The project started as a joyride but ended in chaos.”*
+
+[↑ Back to index](#index)
+
 # Juncture
+
+*Pronunciation:* JUNGK-chur
 
 noun  
 1\.  
@@ -14304,6 +17525,8 @@ a place where things join.
 
 # Junta
 
+*Pronunciation:* HOON-tah (also JUHN-tuh)
+
 noun  
 1\.  
 a military or political group that rules a country after taking power by force.  
@@ -14315,7 +17538,42 @@ a deliberative or administrative council in Spain or Portugal.
 
 [↑ Back to index](#index)
 
+# Kernel
+
+**Literal meaning:** The central, most important part of something — like the edible part inside a nut or grain.  
+ **Figurative meaning:** The core idea or truth at the heart of something.
+
+🗣 *“A kernel of corn popped right out of the pan.”*  
+ 🗣 *“There’s a kernel of truth in every rumor.”*  
+ 🗣 *“The kernel of his argument was actually quite convincing.”*
+
+[↑ Back to index](#index)
+
+# Kickoff
+
+**Meaning:** to start or initiate a process or workflow. Can be used as a noun or a verb. In MLOps/Databricks contexts, *kickoff* refers to the moment a job or pipeline begins running.
+
+* As a verb: *"We kick off the MLOps pipeline at 9 AM."*
+* As a noun: *"The kickoff of the training job was delayed due to system maintenance."*
+* *"We kick off the MLOps deployment pipeline manually from the Databricks Jobs UI."*
+* *"The scheduled kickoff for our MLOps pipeline is every Monday at 8 AM."*
+
+*Kickoff* is one word when referring to starting something — distinct from *kick in* (two words), which describes something starting to take effect. You generally don't say "kickin" as a standalone word in formal contexts.
+
+[↑ Back to index](#index)
+
+# Kneel
+
+verb — literal: to go down on one's knee or knees, e.g. in prayer, respect, or to reach something low. Figurative: to submit or show deference to pressure.
+
+**Literal:** "He knelt down to tie his shoelace."
+**Figurative:** "The company had to kneel to regulatory pressure and change its policy."
+
+[↑ Back to index](#index)
+
 # Kooky
+
+*Pronunciation:* KOO-kee
 
 adjective (informal) — eccentric, odd, or slightly crazy, usually in a harmless or endearing way.
 
@@ -14323,9 +17581,16 @@ adjective (informal) — eccentric, odd, or slightly crazy, usually in a harmles
 
 "My uncle has some kooky theories about investing, but they somehow keep working out."
 
+**Meaning:** Eccentric, quirky, or weird in a fun way.
+
+🗣 *“She’s a bit kooky but incredibly creative.”*  
+ 🗣 *“His kooky ideas often turn out brilliant.”*
+
 [↑ Back to index](#index)
 
 # Lackadaisical
+
+*Pronunciation:* lak-uh-DAY-zih-kuhl
 
 Adjective  भावुक, नाजुक, छुईमुई  
 lacking enthusiasm and determination; carelessly lazy.  
@@ -14350,6 +17615,8 @@ make (a person or animal) lame.
 
 # Lament
 
+*Pronunciation:* luh-MENT
+
 Verb विलाप  
 gerund or present participle: lamenting  
 1\.  
@@ -14365,6 +17632,8 @@ express regret or disappointment about something.
 [↑ Back to index](#index)
 
 # Languid
+
+*Pronunciation:* LANG-gwid
 
 adjective  
 1\.  
@@ -14470,6 +17739,8 @@ Verb:
 
 # Latent
 
+*Pronunciation:* LAY-tuhnt
+
 adjective  
 (of a quality or state) existing but not yet developed or manifest; hidden or concealed.  
 "they have a huge reserve of latent talent"
@@ -14489,6 +17760,8 @@ Latent means something is present but not visible, apparent, or activated. It al
 [↑ Back to index](#index)
 
 # Latter
+
+*Pronunciation:* LAT-ur (rhymes with "batter" — not "LAY-tur" like "later")
 
 Description:  
 "Latter" is an adjective that is used to refer to the second of two things or items mentioned. It is often paired with "former," which refers to the first of the two.
@@ -14527,6 +17800,23 @@ adjective/verb — adjective: sumptuously rich, elaborate, or generous, often to
 
 [↑ Back to index](#index)
 
+# Lean
+
+**Meaning:** Thin or having little fat; also means efficient with no waste.  
+ **Example:** *He stays lean by running daily.* / *Our team runs lean but productive.*
+
+[↑ Back to index](#index)
+
+# Lecherously
+
+**Meaning:** In a lustful or inappropriate sexual way.  
+ **Usage:**
+
+* *“He smiled lecherously at her.”*  
+   🟠 Negative — often used to describe creepy or vulgar behavior.
+
+[↑ Back to index](#index)
+
 # Ledge
 
 Noun आगे निकला हुआ हिस्सा, किनारा,   
@@ -14538,6 +17828,16 @@ a narrow horizontal surface projecting from a wall, cliff, or other surface.
 2\.  
 an underwater ridge, especially of rocks beneath the sea near the shore.  
 "a reef ledge"
+
+[↑ Back to index](#index)
+
+# Leered
+
+**Meaning:** Looked at someone in a creepy, lustful, or sly way.  
+ **Usage:**
+
+* *“He leered at her across the room.”*  
+   🟠 Always negative — it suggests bad intent or sleaziness.
 
 [↑ Back to index](#index)
 
@@ -14557,6 +17857,8 @@ an underwater ridge, especially of rocks beneath the sea near the shore.
 [↑ Back to index](#index)
 
 # Legion
+
+*Pronunciation:* LEE-juhn
 
 noun  
 1\.  
@@ -14673,6 +17975,8 @@ If you'd like, I can also show the difference between **“at length”**, **“
 
 # Lenient
 
+*Pronunciation:* LEE-nee-uhnt
+
 adjective  
 उदार
 
@@ -14694,6 +17998,8 @@ Opposite:
 [↑ Back to index](#index)
 
 # Lesion
+
+*Pronunciation:* LEE-zhuhn
 
 The word "lesion" refers to any damage, injury, or abnormal change in the tissue of the body, often caused by disease or trauma. It is commonly used in medical contexts.
 
@@ -14749,7 +18055,22 @@ make or become less; diminish.
 
 [↑ Back to index](#index)
 
+# Leverage
+
+**Literal meaning:** Using force to gain advantage.  
+ **Figurative meaning:** To use resources, knowledge, or relationships to achieve something bigger.
+
+🗣 *“We can leverage our network to find investors.”*  
+ 🗣 *“She leveraged her experience to negotiate better pay.”*
+
+**Meaning:** To use something effectively to your advantage.  
+ **Example:** *We can leverage our network to grow faster.*
+
+[↑ Back to index](#index)
+
 # Lewd thoughts
+
+*Pronunciation:* LOOD (thoughts)
 
 **Lewd thoughts** are **sexual or indecent thoughts**, usually considered **inappropriate for public or professional settings**. The word *lewd* has a **stronger, more negative tone** than just “sexual.”
 
@@ -14798,9 +18119,27 @@ More natural:
 
 # Libel
 
+*Pronunciation:* LY-buhl
+
 अपमान लेख असत्य,  मानहानि,  निंदात्मक लेख लिखना,  बदनाम करना
 
 Damaging someone reputation by writing lie about them
+
+[↑ Back to index](#index)
+
+# lighten
+
+verb
+
+make or become lighter in weight, pressure, or severity
+
+efforts to lighten the burden of regulation
+
+the strain had lightened
+
+she attempted a joke to lighten the atmosphere
+
+Robbie felt her spirits lighten a little
 
 [↑ Back to index](#index)
 
@@ -14816,6 +18155,8 @@ adverb — 1) in the same way; similarly. 2) used to say "the same applies to me
 [↑ Back to index](#index)
 
 # Limbo
+
+*Pronunciation:* LIM-boh
 
 noun  
 (in some Christian beliefs) the supposed abode of the souls of unbaptized infants, and of the just who died before Christ's coming.
@@ -14842,7 +18183,19 @@ noun — 1) a line of descent or ancestry. 2) figurative: the history or line of
 
 [↑ Back to index](#index)
 
+# Lisp
+
+**Literal meaning:** A speech disorder where “s” and “z” sounds are pronounced like “th.”  
+ **Figurative meaning:** Sometimes used affectionately or descriptively to show vulnerability or uniqueness in speech.
+
+🗣 *“He used to have a slight lisp as a child.”*  
+ 🗣 *“Her lisp gives her voice a really sweet tone.”*
+
+[↑ Back to index](#index)
+
 # Litterateur
+
+*Pronunciation:* lit-uh-ruh-TUR
 
 noun  
 a person who is interested in and knowledgeable about literature.  
@@ -14854,7 +18207,21 @@ Synonyms of litterateur include writer and novelist.
 
 [↑ Back to index](#index)
 
+# liven
+
+verb
+
+make or become more lively or interesting
+
+liven up bland foods with a touch of mustard
+
+the match didn't liven up until the second half
+
+[↑ Back to index](#index)
+
 # Loathing
+
+*Pronunciation:* LOH-thing
 
 घृणा,  नफ़रत  
 d with disgust
@@ -14941,57 +18308,6 @@ appearing as a vague or shadowy form, especially one that is large or threatenin
 
 [↑ Back to index](#index)
 
-# Looped in
-
-### **Meaning**
-
-“Looped in” means **included in communication**, usually email threads, meetings, or decisions.
-
-Very common in corporate and technical environments.
-
-### **Examples**
-
-* “I’ve looped in the DevOps team.”  
-* “Let’s loop in the security team before finalizing this.”
-
-### **Natural spoken phrases you can use**
-
-Speak these aloud:
-
-* “I’ll loop in the platform team for visibility.”  
-* “Let’s loop them in so everyone stays aligned.”  
-* “I’ve already looped in the stakeholders on this topic.”  
-* “For example, we should loop in the infra team early.”
-
-### **Where else you can use it**
-
-Useful in:
-
-* email discussions  
-* cross-team coordination  
-* escalation scenarios  
-* architecture decisions
-
-## **Quick combined example (very natural in meetings)**
-
-You could say:
-
-“Before we get going, there’s one outstanding question about the deployment strategy. I’ll loop in the infra team so we can resolve it quickly.”
-
-This sounds fluent, structured, and leadership-oriented. 🎯
-
-### **Small improvement suggestion for your message**
-
-You wrote:
-
-get going outstanding question looped in
-
-A more natural request would be:
-
-“Can you explain the phrases ‘get going,’ ‘outstanding question,’ and ‘looped in’?”
-
-[↑ Back to index](#index)
-
 # Lousy
 
  (lau·zee)
@@ -15006,9 +18322,14 @@ The service at that restaurant was lousy; we waited for over an hour for our foo
 
 These sentences showcase various situations in which "lousy" can be used to describe something of poor quality or express disappointment.
 
+**Meaning:** Very bad or unpleasant.  
+ **Example:** *I felt lousy after the argument.*
+
 [↑ Back to index](#index)
 
 # lucrative
+
+*Pronunciation:* LOO-kruh-tiv
 
 adjective
 
@@ -15019,6 +18340,8 @@ a lucrative career as a stand-up comedian
 [↑ Back to index](#index)
 
 # Ludicrous
+
+*Pronunciation:* LOO-dih-kruhs
 
 | ऊटपटांग
 
@@ -15053,7 +18376,21 @@ a person whose job is to cut down trees to be used in building and industry.
 
 [↑ Back to index](#index)
 
+# Luscious
+
+**Meaning:** Rich, sweet, and pleasant to the senses — usually taste, smell, or appearance.  
+ **Usage:**
+
+* *“The cake was absolutely luscious.”*
+
+* *“She had luscious hair that shimmered in the light.”*  
+   🟢 *Tip:* Use it when something feels rich, soft, or luxurious.
+
+[↑ Back to index](#index)
+
 # Lustre
+
+*Pronunciation:* LUS-tur
 
 चमक, आभा  
 shine, glow, glare, glitter, luster, sparkle, luster, tint, splendor, tinge, look, splendour
@@ -15068,7 +18405,17 @@ lacking in vitality, force, or conviction; uninspired or uninspiring.
 
 [↑ Back to index](#index)
 
+# Luxurious
+
+adjective — extremely comfortable, elegant, or expensive; indulgent.
+
+"They stayed in a luxurious hotel overlooking the beach."
+
+[↑ Back to index](#index)
+
 # Maelstrom
+
+*Pronunciation:* MAYL-struhm
 
 भंवर, बवंडर
 
@@ -15081,6 +18428,8 @@ noun
 [↑ Back to index](#index)
 
 # Magnum opus
+
+*Pronunciation:* MAG-nuhm OH-puhs
 
 noun  
 a work of art, music, or literature that is regarded as the most important or best work that an artist, composer, or writer has produced.
@@ -15142,12 +18491,24 @@ The word **“makeshift”** is an **adjective** (sometimes a noun) that means *
 
 # Mammoth
 
+*Pronunciation:* MAM-uhth
+
 **adjective**  
 विशाल, विशालकाय, महाकाय  
 huge, giant, enormous  
 **noun**  
 प्राचीन हाथी  
 mammoth
+
+[↑ Back to index](#index)
+
+# Mandate
+
+**Literal meaning:** An official order or instruction.  
+ **Figurative meaning:** Strong social or moral obligation to act in a certain way.
+
+🗣 *“The government issued a health mandate.”*  
+ 🗣 *“As a doctor, I feel a moral mandate to speak up.”*
 
 [↑ Back to index](#index)
 
@@ -15175,6 +18536,8 @@ It's essential to consider the context in which the word is used to understand i
 [↑ Back to index](#index)
 
 # Manifest & Manifestation
+
+*Pronunciation:* MAN-uh-fest / man-uh-fes-TAY-shuhn
 
 #### **1\. "Manifest" (adjective & verb)**
 
@@ -15220,7 +18583,18 @@ It's essential to consider the context in which the word is used to understand i
 
 [↑ Back to index](#index)
 
+# Manipulator
+
+**Meaning:** A person who skillfully controls or influences others, often unfairly.
+
+🗣 *“He’s a master manipulator — always twisting the truth.”*  
+ 🗣 *“Beware of emotional manipulators who play the victim.”*
+
+[↑ Back to index](#index)
+
 # Mannequin
+
+*Pronunciation:* MAN-ih-kin
 
 पुतला, वस्र पहनानेवाला नौकर
 
@@ -15229,6 +18603,8 @@ A dummy used to display clothes in  a store window
 [↑ Back to index](#index)
 
 # Manslaughter
+
+*Pronunciation:* MAN-slaw-tur
 
 मानवहत्या,   
 Killing someone by accident
@@ -15288,6 +18664,8 @@ apply manure to (land).
 
 # Masquerade
 
+*Pronunciation:* mas-kuh-RAYD
+
 noun  
 a false show or pretence.  
 "I doubt he could have kept up the masquerade for long"
@@ -15298,7 +18676,17 @@ pretend to be someone one is not.
 
 [↑ Back to index](#index)
 
+# Mass
+
+**Meaning:** A large quantity or group.  
+ **Example:** *A mass of people gathered outside.* / *Mass communication.*
+
+[↑ Back to index](#index)
+
 # mate
+
+**Meaning:** Friend or partner (common in British English).  
+ **Example:** *Hey mate, how’s it going?*
 
 noun  
 a friend or companion  
@@ -15309,6 +18697,8 @@ I was with a mate
 [↑ Back to index](#index)
 
 # Matrix/metric
+
+*Pronunciation:* MAY-triks / MET-rik
 
 ## ✅ 1\. Matrix vs. Matrices vs. Metrics — the simplest explanation
 
@@ -15392,6 +18782,8 @@ adjective — stating facts plainly, without emotion, embellishment, or drama.
 
 # Mausoleum
 
+*Pronunciation:* maw-suh-LEE-uhm
+
 noun — a large, stately tomb, or a building housing one.
 
 मक़बरा, कब्र, समाधि (tomb/mausoleum)
@@ -15449,6 +18841,8 @@ It's best not to meddle in delicate situations unless you're directly involved a
 
 # mediocre
 
+*Pronunciation:* mee-dee-OH-kur
+
 adjective
 
 of only moderate quality; not very good
@@ -15485,6 +18879,8 @@ It's important to note that while meekness is often seen as a positive quality, 
 
 # Megalomaniac
 
+*Pronunciation:* meg-uh-loh-MAY-nee-ak
+
 noun/adjective — a person obsessed with their own power, wealth, or importance; someone with delusions of grandeur.
 
 अहंकारोन्मादी (megalomaniac)
@@ -15494,6 +18890,8 @@ noun/adjective — a person obsessed with their own power, wealth, or importance
 [↑ Back to index](#index)
 
 # Melancholy
+
+*Pronunciation:* MEL-uhn-kol-ee
 
  (उदासी, सुस्ती, अवसाद)  
 noun  
@@ -15511,6 +18909,8 @@ She had a melancholy look on her face after hearing the news.
 [↑ Back to index](#index)
 
 # Mellifluous
+
+*Pronunciation:* muh-LIF-loo-uhs
 
 शहद उत्पन्न करनेवाला, मधुर, मृदु
 
@@ -15535,19 +18935,21 @@ make or become mellow.
 
 [↑ Back to index](#index)
 
-# Mellow out
+# Melodramatic
 
-"Mellow out" is an informal phrasal verb that means to become relaxed and calm.   
-For example, 
+**Meaning:** Overly emotional or exaggerated in behavior or speech.  
+ **Figurative meaning:** Used humorously to describe someone reacting too strongly.
 
-"She mellowed out as she grew older". 
+🗣 *“Don’t be so melodramatic — it’s just a scratch.”*  
+ 🗣 *“She tends to get melodramatic over small issues.”*
 
-Here are some other definitions of "mellow out": 
+[↑ Back to index](#index)
 
-- To get rid of nervous tension or anxiety  
-- To enjoy yourself by relaxing and not doing much  
-- To make more relaxed, agreeable, workable, etc.  
-- To soften or smooth
+# meme
+
+noun
+
+an often humorous image, video, etc., passed from one internet user to another
 
 [↑ Back to index](#index)
 
@@ -15570,6 +18972,8 @@ be a threat or possible danger to.
 
 # Mercenary
 
+*Pronunciation:* MUR-suh-ner-ee
+
 adjective  
 primarily concerned with making money at the expense of ethics.  
 "the crime was committed out of mercenary motives"
@@ -15582,6 +18986,8 @@ a professional soldier hired to serve in a foreign army.
 
 # Mesmerize
 
+*Pronunciation:* MEZ-muh-ryz
+
 सम्मोहित, सम्मोहन से अचेतन करना
 
 very attractive, in a mysterious way, making you want to keep looking: He had the most mesmerizing blue eyes. Synonyms. hypnotic. mesmeric literary.
@@ -15592,11 +18998,23 @@ The magician's performance was so captivating, it seemed to mesmerize the entire
 
 # Meticulous
 
+*Pronunciation:* muh-TIK-yoo-luhs
+
 adjective  
 showing great attention to detail; very careful and precise.  
 "the designs are hand-glazed with meticulous care"
 
 Meticulously
+
+[↑ Back to index](#index)
+
+# metrics
+
+noun
+
+a method of measuring something, or the results obtained from this
+
+the report provides various metrics at the class and method level
 
 [↑ Back to index](#index)
 
@@ -15653,6 +19071,40 @@ It's a more **gentle or mild way** of expressing frustration or anger.
 ### **🔹 Tip:**
 
 You’d use **"miffed"** to describe a **mild annoyance**, so it’s less harsh than saying someone is "angry" or "upset." It's more informal and casual.
+
+[↑ Back to index](#index)
+
+# Milestone
+
+A **milestone** is an **important stage, event, or achievement** in a process, project, or someone’s life.  
+ Think of it as a **marker of progress**.
+
+### **Quick Examples**
+
+* *“Finishing this module is a big milestone for the project.”*
+
+* *“Graduation was a major milestone in her life.”*
+
+* *“We reached the milestone of 1 million users.”*
+
+### **Sentences You Can Use**
+
+1. “Completing testing is our next milestone.”
+
+2. “This release marks an important milestone for the team.”
+
+3. “Hitting that sales target was a big milestone.”
+
+👉 Formal alternatives: **achievement, landmark, turning point**.
+
+[↑ Back to index](#index)
+
+# Mimic
+
+**Meaning:** To imitate or copy behavior, sound, or style.
+
+🗣 *“He can mimic accents perfectly.”*  
+ 🗣 *“Children often mimic their parents.”*
 
 [↑ Back to index](#index)
 
@@ -15733,7 +19185,83 @@ Example:
 
 [↑ Back to index](#index)
 
+# Mindset
+
+noun — a person's established set of attitudes, beliefs, or habitual way of thinking.
+
+"A growth mindset helps you treat failure as feedback rather than a verdict."
+
+[↑ Back to index](#index)
+
+# Mingle
+
+**Mingle** means to **move around and talk to different people in a social setting**. It’s about mixing with others and having casual conversations, instead of sticking with just one group.
+
+### **Quick Examples**
+
+* *“At the party, everyone was mingling and chatting.”*
+
+* *“I don’t know many people here, but I’ll try to mingle.”*
+
+* *“She likes to mingle with colleagues after work.”*
+
+### **Sentences You Can Use**
+
+1. “I’ll mingle a bit and then come back.”
+
+2. “He mingled with the guests during the reception.”
+
+3. “It’s a good chance to mingle and make connections.”
+
+4. “I’m not great at mingling, but I’ll give it a try.”
+
+💡 **Context of usage**:
+
+* **Casual/social**: parties, weddings, networking events.
+
+* **Professional**: company gatherings, conferences (often said as *“network and mingle”*).
+
+👉 Formal alternatives: **socialize, network, interact**.
+
+✨ Practice aloud: *“I’ll mingle with the team after the meeting.”*
+
+### **Literal Meanings of *Mingle***
+
+1. **To mix or blend substances**
+
+* *“The smell of coffee mingled with fresh bread.”*
+
+* *“Tears mingled with her laughter.”*
+
+* *“His excitement mingled with nervousness.”* (here it’s feelings, but still a mix)
+
+2. **To join or combine**
+
+* *“Streams mingled as they flowed into the river.”*
+
+* *“The colors mingled beautifully on the canvas.”*
+
+1. “The aroma of spices mingled in the air.”
+
+2. “Rain mingled with dust on the ground.”
+
+3. “Music mingled with laughter during the festival.”
+
+💡 **So, summary**:
+
+* **Social sense** → moving around and mixing with people.
+
+* **Literal sense** → different things (sounds, smells, colors, feelings, objects) mixing together.
+
+👉 Practice aloud: *“The smell of rain mingled with the cool breeze.”*
+
+Do you want me to also give you a few **metaphorical uses** (like “cultures mingling” or “traditions mingling”) that are common in professional or thoughtful discussions?
+
+[↑ Back to index](#index)
+
 # Miniature
+
+*Pronunciation:* MIN-ee-uh-chur (also MIN-uh-chur)
 
 Used to describe something that is a very small copy of something.
 
@@ -15748,6 +19276,20 @@ a thing that is much smaller than normal, especially a small replica or model.
 verbLITERARY  
 represent on a smaller scale.  
 "she saw her own reflection miniatured"
+
+[↑ Back to index](#index)
+
+# Mischievous
+
+**Meaning:** Playfully causing trouble or teasing.  
+ **Example:** *He gave me a mischievous smile before hiding my keys.*
+
+[↑ Back to index](#index)
+
+# Misconception
+
+**Meaning:** A wrong or mistaken belief.  
+ **Example:** *It’s a common misconception that bats are blind.*
 
 [↑ Back to index](#index)
 
@@ -15785,7 +19327,18 @@ express oneself in an insufficiently clear or accurate way.
 
 [↑ Back to index](#index)
 
+# Mockery
+
+**Meaning:** Ridicule or an imitation meant to insult.
+
+🗣 *“They made a mockery of the rules.”*  
+ 🗣 *“The debate turned into a mockery.”*
+
+[↑ Back to index](#index)
+
 # Modality
+
+*Pronunciation:* moh-DAL-ih-tee
 
 ### **✅ Meaning of "Modality":**
 
@@ -15839,7 +19392,77 @@ A strong feeling of shock and anger
 
 [↑ Back to index](#index)
 
+# Molasses
+
+Great word\! **Molasses** is thick, dark syrup that comes from refining sugarcane or sugar beets. It’s sticky, very sweet, and pours very slowly.
+
+### **Meanings & Usage:**
+
+1. **Literal (food)**
+
+   * Used in baking, cooking, or making rum.
+
+   * *“This cake has a rich flavor because of the molasses.”*
+
+2. **Figurative (metaphor)**
+
+   * Because molasses is **slow and heavy**, people use it to describe slowness.
+
+   * *“Traffic is moving like molasses today.”* (very slow)
+
+   * *“My computer runs slower than molasses.”*
+
+3. **Emotional/metaphorical tone**
+
+   * Sometimes it implies heaviness or difficulty.
+
+   * *“Getting him out of bed in the morning is like pulling molasses uphill.”*
+
+✅ Sentences you can practice:
+
+1. *“The project moved forward as slowly as molasses.”*
+
+2. *“After the update, my laptop felt like molasses.”*
+
+3. *“He speaks so slowly, almost like molasses dripping.”*
+
+4. *“This syrup is thick, almost like molasses.”*
+
+👉 Notice how it’s often used in similes: *“like molasses”* to stress slowness.
+
+💡 Context of usage:
+
+* In **casual talk** → slowness (“internet is slower than molasses”).
+
+* In **work talk** → performance issues (“our job execution is crawling like molasses”).
+
+* In **cooking talk** → actual ingredient.
+
+[↑ Back to index](#index)
+
+# Moldable
+
+**Literal meaning:** Can be shaped or formed easily.  
+ **Figurative meaning:** Easily influenced or adaptable, especially in attitude or behavior.
+
+🗣 *“The clay is soft and moldable.”*  
+ 🗣 *“Children’s minds are highly moldable at a young age.”*
+
+[↑ Back to index](#index)
+
+# Monk
+
+**Literal meaning:** A man who lives under religious vows in a monastery.  
+ **Figurative meaning:** A person who lives a simple, disciplined, or solitary life.
+
+🗣 *“He lives like a monk — no luxuries at all.”*  
+ 🗣 *“Monks dedicate their lives to meditation and peace.”*
+
+[↑ Back to index](#index)
+
 # Monotonous
+
+*Pronunciation:* muh-NOT-uh-nuhs
 
 नीरस, उबानेवाला, 
 
@@ -15855,6 +19478,8 @@ sounded or spoken in a tone unvarying in pitch; "the owls faint monotonous hooti
 [↑ Back to index](#index)
 
 # Moot
+
+*Pronunciation:* MOOT
 
 Verb \[बहस करना\]  
 raise (a question or topic) for discussion; suggest (an idea or possibility).  
@@ -15906,7 +19531,16 @@ wander about listlessly and aimlessly because of unhappiness or boredom.
 
 [↑ Back to index](#index)
 
+# Mortar
+
+**Meaning:** A mixture used to hold bricks together.  
+ **Example:** *The wall was built with cement and mortar.*
+
+[↑ Back to index](#index)
+
 # Mortify
+
+*Pronunciation:* MOR-tih-fy
 
 verb  
 past tense: mortified; past participle: mortified; adjective: mortified  
@@ -15930,6 +19564,17 @@ the action of subduing one's bodily desires.
 "mortification of the flesh has a long tradition in some religions"
 
 Flamenco dance
+
+[↑ Back to index](#index)
+
+# Mortifying
+
+**Meaning:** Extremely embarrassing or shameful.  
+ **Usage:**
+
+* *“It was mortifying when I tripped in front of everyone.”*
+
+* Often used when something hurts your pride or dignity.
 
 [↑ Back to index](#index)
 
@@ -15961,12 +19606,6 @@ Flamenco dance
 
 [↑ Back to index](#index)
 
-# Move Over
-
-move in order to make room for someone for something.
-
-[↑ Back to index](#index)
-
 # Muck
 
 noun
@@ -15994,6 +19633,13 @@ A state of mental confusion, or a confused mess
 
 [↑ Back to index](#index)
 
+# Muffled
+
+**Meaning:** Softened sound, unclear or dull.  
+ **Example:** *I heard muffled voices from the next room.*
+
+[↑ Back to index](#index)
+
 # Mugging
 
 लूट मार, 
@@ -16001,6 +19647,13 @@ A state of mental confusion, or a confused mess
 Attacking someone with a plan to rob them
 
 A man is fighting for his life in hospital after a violent mugging.
+
+[↑ Back to index](#index)
+
+# Mumble
+
+Speak unclearly or quietly.  
+ 👉 *“Don’t mumble—speak clearly.”*
 
 [↑ Back to index](#index)
 
@@ -16037,6 +19690,8 @@ noun (informal) — language, ritual, or explanation that is needlessly complica
 
 # Mundane
 
+*Pronunciation:* mun-DAYN
+
 adjective  
 1\.  
 lacking interest or excitement; dull.  
@@ -16044,6 +19699,9 @@ lacking interest or excitement; dull.
 2\.  
 of this earthly world rather than a heavenly or spiritual one. सांसारिक, लौकिक  
 "according to the Shinto doctrine, spirits of the dead can act upon the mundane world"
+
+**Meaning:** Ordinary or boring.  
+ **Example:** *He found his office job too mundane.*
 
 [↑ Back to index](#index)
 
@@ -16090,11 +19748,15 @@ He muttered something about being late and left the room.
 
 # Narcisist
 
+*Pronunciation:* NAR-sih-sist (commonly misspelled — correct spelling is "Narcissist")
+
 Excessive self-focus, lack of empathy, and inflated self-importance.
 
 [↑ Back to index](#index)
 
 # Narcissist
+
+*Pronunciation:* NAR-sih-sist
 
 Excessive self-focus, lack of empathy, and inflated self-importance.  
 noun  
@@ -16105,6 +19767,8 @@ a person who has an excessive interest in or admiration of themselves.
 
 # Narrative
 
+*Pronunciation:* NAR-uh-tiv
+
 ( विवरणात्मक)  
 ( कथा)
 
@@ -16112,7 +19776,16 @@ his narrative was interesting
 
 [↑ Back to index](#index)
 
+# Narrator
+
+**Meaning:** The person who tells the story.  
+ **Example:** *The narrator explains what’s happening in the background.*
+
+[↑ Back to index](#index)
+
 # Nascent
+
+*Pronunciation:* NAY-suhnt
 
 Adjective आरम्भ होता हुआ, होने वाला,   
 (especially of a process or organization) just coming into existence and beginning to display signs of future potential.  
@@ -16130,7 +19803,16 @@ Chemistry
 
 [↑ Back to index](#index)
 
+# Naysayer
+
+**Meaning:** A person who always finds fault or doubts success.  
+ **Example:** *Ignore the naysayers and keep going.*
+
+[↑ Back to index](#index)
+
 # Nebulous
+
+*Pronunciation:* NEB-yuh-luhs
 
 **Nebulous** means **something that is unclear, vague, or not well defined**.  
  If an idea, plan, or explanation is **nebulous**, it means people **cannot clearly understand it** because the details are missing or confusing.
@@ -16274,6 +19956,8 @@ If you'd like, I can also show you **5 powerful words architects use instead of 
 
 # Necessity
 
+*Pronunciation:* nuh-SES-ih-tee
+
 **Necessity** means something that is **essential, required, or cannot be avoided**.
 
 In simple words:  
@@ -16339,6 +20023,16 @@ More natural ways to ask:
 
 [↑ Back to index](#index)
 
+# Necking
+
+**Meaning:** Kissing or making out passionately.  
+ **Usage:**
+
+* *“They were necking in the car.”*  
+   🟠 Informal; mildly romantic or suggestive.
+
+[↑ Back to index](#index)
+
 # Nefarious
 
 Pr. (nuh·feh·ree·uhs)  
@@ -16363,6 +20057,8 @@ make (a clause, sentence, or proposition) negative in meaning.
 [↑ Back to index](#index)
 
 # Nerve-wracking
+
+*Pronunciation:* NURV-RAK-ing
 
 👉 It means **extremely stressful, tense, or anxiety-inducing**—something that really puts your nerves under pressure.
 
@@ -16460,6 +20156,8 @@ place (something) in a niche or recess.
 
 # Niggling
 
+*Pronunciation:* NIG-ling
+
 adjective  
 तुच्छ, नगण्य  
 insignificant
@@ -16470,6 +20168,80 @@ insignificant
 2. His perfectionist tendencies led him to focus on even the smallest niggling details of his project.  
 3. The constant niggling of her younger sibling was starting to wear on her patience.  
 4. Despite his best efforts, a niggling feeling of doubt lingered in the back of his mind, casting a shadow over his confidence.
+
+[↑ Back to index](#index)
+
+# Nimble
+
+**Literal meaning:** Quick and light in movement.  
+ **Figurative meaning:** Quick-witted, adaptable, or mentally sharp.
+
+🗣 *“The gymnast was incredibly nimble.”*  
+ 🗣 *“In business, you have to stay nimble.”*
+
+💡 *(Used often to describe flexible organizations or thinkers.)*
+
+[↑ Back to index](#index)
+
+# Nip
+
+### **1\. To bite, pinch, or squeeze lightly**
+
+* *“The dog nipped my hand.”* (bit lightly)
+
+* *“The baby kept nipping my arm.”* (pinching playfully)
+
+### **2\. To cut off or stop something quickly (often in the phrase *“nip in the bud”*)**
+
+👉 *“Nip in the bud”* means to stop a problem early before it grows bigger.
+
+* *“We need to nip this bug in the bud before it affects production.”*
+
+* *“If you see negativity in the team, nip it in the bud.”*
+
+### **3\. To go quickly (British informal)**
+
+* *“I’ll just nip to the store.”* (I’ll quickly go to the store)
+
+* *“She nipped out for a coffee.”*
+
+### **4\. A small amount of alcohol (informal)**
+
+* *“He had a quick nip of whiskey.”*
+
+### **Spoken Sentences You Can Use**
+
+1. “We should nip this issue in the bud before it spreads.”
+
+2. “I’m going to nip out for five minutes.”
+
+3. “The dog nipped my finger, but it wasn’t serious.”
+
+4. “Let’s nip that rumor in the bud before it gets out of hand.”
+
+💡 **Context of usage**:
+
+* In **professional meetings**, you’ll mainly hear *“nip it in the bud”*.
+
+* In **casual British English**, “nip out” or “nip to” is very common for quick errands.
+
+* “Nip” for biting or drinking is usually casual/personal.
+
+[↑ Back to index](#index)
+
+# Nitty-gritty
+
+**Meaning:** The most essential or practical details of a topic.
+
+🗣 *“Let’s get down to the nitty-gritty of the plan.”*  
+ 🗣 *“Once you understand the nitty-gritty, the rest is easy.”*
+
+[↑ Back to index](#index)
+
+# Non-Negotiable
+
+**Meaning:** Not open to discussion or compromise.  
+ **Example:** *Honesty is non-negotiable for me.*
 
 [↑ Back to index](#index)
 
@@ -16539,6 +20311,8 @@ Repeat it slowly once, then again at normal speed. This will help your fluency i
 
 # Nonchalant
 
+*Pronunciation:* non-shuh-LAHNT
+
 * **Literal:** Calm, casual, and seemingly unconcerned.
 
 * **Figurative:** Cool and unaffected, even when something serious happens.
@@ -16553,10 +20327,22 @@ Repeat it slowly once, then again at normal speed. This will help your fluency i
 
 # Nonchalantly
 
+*Pronunciation:* non-shuh-LAHNT-lee
+
 adverb  
 in a casually calm and relaxed manner.
 
 "she nonchalantly walked out of the police station"
+
+[↑ Back to index](#index)
+
+# Nonsense
+
+**Meaning:** Something absurd or meaningless.  
+ **Figurative meaning:** Used to dismiss foolish talk or behavior.
+
+🗣 *“That’s absolute nonsense — don’t believe it.”*  
+ 🗣 *“Stop talking nonsense and focus.”*
 
 [↑ Back to index](#index)
 
@@ -16585,6 +20371,17 @@ nosedive, dive, plant out
 
 [↑ Back to index](#index)
 
+# Notorious
+
+**Meaning:** Famous for something bad or undesirable.  
+ **Figurative meaning:** Infamous, but often used playfully or ironically too.
+
+🗣 *“That street is notorious for traffic jams.”*  
+ 🗣 *“He’s notorious for arriving late.”*  
+ 🗣 *“The place serves the city’s notorious chili wings.”*
+
+[↑ Back to index](#index)
+
 # noun(informal)
 
 1. a substance which is considered unpleasant or disgusting, typically because of its dirtiness.
@@ -16593,6 +20390,66 @@ nosedive, dive, plant out
 
 2. Nonsense.  
    "the usual crud that passes itself off as a smart twenty-something comedy"
+
+[↑ Back to index](#index)
+
+# Novice
+
+**Meaning:** A beginner.  
+ **Example:** *I’m a novice at photography.*
+
+[↑ Back to index](#index)
+
+# Nowhere
+
+* **Basic meaning:** *not in or to any place*.  
+   Example: *“I looked for my keys everywhere, but they were nowhere to be found.”*
+
+* **Figurative meaning:** *no progress / no importance / no chance*.  
+   Example: *“This project is going nowhere.”*
+
+### **Phrase: nowhere close to**
+
+This means *“not at all near to”* or *“far from being”*.
+
+* *“That explanation is nowhere close to correct.”* (It’s totally wrong.)
+
+* *“We’re nowhere close to finishing the work.”* (We still have a long way to go.)
+
+It’s often used for **emphasis** when something is very far from the truth, a goal, or an expectation.
+
+### **Similar words/phrases and usage**
+
+1. **Far from**
+
+   * *“This solution is far from perfect.”*  
+      (Meaning: it’s not perfect at all.)
+
+2. **Not even near**
+
+   * *“The quality is not even near what we expected.”*
+
+3. **Nowhere near**
+
+   * This is almost the same as “nowhere close to.”
+
+   * *“The stadium was nowhere near full.”*
+
+4. **Miles away from** *(informal)*
+
+   * *“Your guess is miles away from the real answer.”*
+
+### **Common spoken sentences you can practice:**
+
+1. *“We’re nowhere close to finishing this project.”*
+
+2. *“That’s nowhere near what I meant.”*
+
+3. *“Your estimate is far from accurate.”*
+
+4. *“The result is not even close to what we expected.”*
+
+👉 Try saying them aloud slowly, then a bit faster, to get the rhythm.
 
 [↑ Back to index](#index)
 
@@ -16620,6 +20477,8 @@ amiss, awful, baleful, Caitiff, dauby, noxious
 
 # Nuance
 
+*Pronunciation:* NOO-ahns
+
 noun  
 अति सूक्ष्म अंतर  
 nuance, shading  
@@ -16627,6 +20486,14 @@ nuance, shading
 nuance  
 (अर्थ, भाव, मत, रंग आदि में) अंतर या भेद  
 nuance
+
+[↑ Back to index](#index)
+
+# Nuanced
+
+adjective — showing subtle shades of meaning, attitude, or expression; not simplistic or black-and-white.
+
+"Her explanation of the tradeoffs was nuanced, acknowledging both the risks and the benefits."
 
 [↑ Back to index](#index)
 
@@ -16689,6 +20556,8 @@ These examples illustrate how "nugget" can be used in various contexts, ranging 
 [↑ Back to index](#index)
 
 # Nuisance
+
+*Pronunciation:* NOO-suhns
 
 मुसीबत, बाधा, स्र्कावट, चिढ़  
 noun  
@@ -16835,6 +20704,35 @@ Stipulate.
 
 "Obnoxious" is an adjective used to describe someone or something that is extremely unpleasant, offensive, or irritating. An obnoxious person may behave in a way that is offensive to others, or they may have annoying habits or attitudes. This term is often used to express strong disapproval of behavior that is disruptive, rude, or inconsiderate. An obnoxious odor or sound, for example, would be one that is highly offensive or annoying.
 
+The word **“obnoxious”** is an **adjective** used to describe someone or something that is **very unpleasant, annoying, or offensive**. It’s stronger than just “annoying” — it carries the sense of being irritating in a loud or rude way.
+
+### **🔹 Examples in sentences**
+
+* *He’s so obnoxious when he brags about his achievements.*
+
+* *The party guests were being loud and obnoxious all night.*
+
+* *That obnoxious smell made it hard to stay in the room.*
+
+👉 In **spoken English**, it’s often used casually to complain about behavior:
+
+* *Stop being so obnoxious—you’re embarrassing me\!*
+
+* *Her laugh is kind of obnoxious, but funny at the same time.*
+
+* *I can’t stand his obnoxious attitude.*
+
+[↑ Back to index](#index)
+
+# Obscene
+
+**Meaning:** Offensive, vulgar, or sexually explicit.  
+ **Usage:**
+
+* *“He made an obscene gesture.”*
+
+* *“The prices were obscene.”* (figurative — ridiculously high)
+
 [↑ Back to index](#index)
 
 # Obsequious
@@ -16893,6 +20791,13 @@ cause (a product or idea) to become obsolete by replacing it with something new.
 
 [↑ Back to index](#index)
 
+# Obstacle
+
+**Meaning:** Something that blocks your way or progress.  
+ **Example:** *Fear is the biggest obstacle to success.*
+
+[↑ Back to index](#index)
+
 # Obstinate
 
 ( ज़िद्दी,  हठी, बेअदब)
@@ -16922,6 +20827,12 @@ Unfavorable Circumstances or Challenges:
 Example: "**He succeeded against all odds**."  
 (He succeeded despite facing many challenges.)
 
+**Literal meaning:** Probability, chances.  
+ **Figurative meaning:** The balance of chances for or against success.
+
+🗣 *“The odds are against us, but let’s give it a shot.”*  
+ 🗣 *“He beat the odds and made it big.”*
+
 [↑ Back to index](#index)
 
 # Odious
@@ -16929,6 +20840,32 @@ Example: "**He succeeded against all odds**."
 adjective  
 extremely unpleasant; repulsive.  
 "a pretty odious character"
+
+[↑ Back to index](#index)
+
+# Off-putting
+
+“Off-putting” means something that makes you feel uncomfortable, unpleasant, or discouraged. It’s usually used to describe behavior, appearance, tone, or situations that give you a negative impression.
+
+For example:
+
+* A strong unpleasant smell can be *off-putting*.
+
+* If someone speaks very rudely in a meeting, their attitude might feel *off-putting*.
+
+* Complicated instructions in a tool could be *off-putting* for new users.
+
+### **Common spoken sentences:**
+
+1. “I found his tone quite off-putting, to be honest.”
+
+2. “The smell in the room was a bit off-putting.”
+
+3. “Her comment was off-putting, but I tried not to take it personally.”
+
+4. “The user interface looks off-putting at first, but it gets easier once you try it.”
+
+👉 You can use “off-putting” in both formal (work, presentations) and informal (casual chat) settings.
 
 [↑ Back to index](#index)
 
@@ -16952,6 +20889,19 @@ In **defense or military terminology**, an **"off-ramp"** refers to a **diplomat
 During a tense standoff, a country might offer humanitarian talks or partial troop withdrawal as an *off-ramp* to allow the other side to disengage without appearing weak.
 
 Would you like an example of a real-world situation where an off-ramp was used or proposed?
+
+[↑ Back to index](#index)
+
+# Offering
+
+**Literal meaning:** Something presented or given (to someone, to God, etc.).  
+ **Figurative meaning:** A product, service, or creative work made available to others.
+
+🗣 *“The villagers left offerings at the temple.”*  
+ 🗣 *“Our latest software offering is focused on security.”*  
+ 🗣 *“Her art is her offering to the world.”*
+
+💡 *(Sounds respectful and purposeful — often used in creative or business settings.)*
 
 [↑ Back to index](#index)
 
@@ -17217,6 +21167,13 @@ Those are **recurring**, not one-off.
 
 [↑ Back to index](#index)
 
+# One-Size-Fits-All
+
+**Meaning:** Suitable for everyone (often said sarcastically).  
+ **Example:** *There’s no one-size-fits-all solution to learning.*
+
+[↑ Back to index](#index)
+
 # Ooze
 
 verb  
@@ -17309,6 +21266,22 @@ In spoken English, it’s useful to pair "orientation" with adjectives to clarif
 
 * "Goal orientation" (focused on achieving goals)
 
+**Literal meaning:** The process of becoming familiar with a new environment or system.  
+ **Figurative meaning:** A general direction or perspective (e.g., political or moral orientation).
+
+🗣 *“We had our company orientation last week.”*  
+ 🗣 *“Her orientation toward ethics makes her stand out.”*
+
+[↑ Back to index](#index)
+
+# Orphanage
+
+**Literal meaning:** A home for children without parents.  
+ **Figurative meaning:** Sometimes used to describe a place or system neglected or abandoned.
+
+🗣 *“She volunteered at an orphanage during her summer break.”*  
+ 🗣 *“That old library feels like an orphanage of forgotten books.”*
+
 [↑ Back to index](#index)
 
 # Ostensible
@@ -17344,6 +21317,14 @@ take away (a court's jurisdiction) in a matter.
 
 [↑ Back to index](#index)
 
+# Outcome
+
+noun — the way a thing turns out; a result or consequence.
+
+"The outcome of the A/B test surprised everyone on the team."
+
+[↑ Back to index](#index)
+
 # Outlay
 
 The word **“outlay”** generally means **the amount of money you spend** on something, especially as an investment or expense.
@@ -17370,6 +21351,13 @@ The word **“outlay”** generally means **the amount of money you spend** on s
 
 go, rise, or improve faster than.  
 "he outpaced all six defenders"
+
+[↑ Back to index](#index)
+
+# Outrageous
+
+**Meaning:** Shockingly bad or surprisingly good (depending on tone).  
+ **Example:** *The prices were outrageous\!* / *That joke was outrageous but funny.*
 
 [↑ Back to index](#index)
 
@@ -17436,6 +21424,13 @@ be heavier, greater, or more significant than.
 adjective  
 comprehensive or all-embracing.  
 "a single overarching principle"
+
+[↑ Back to index](#index)
+
+# Overcome
+
+**Meaning:** To defeat or successfully deal with something.  
+ **Example:** *She overcame her fear of public speaking.*
 
 [↑ Back to index](#index)
 
@@ -17741,7 +21736,39 @@ You didn't see or notice something — usually by mistake.
 
 [↑ Back to index](#index)
 
+# Overpacker
+
+**Meaning:** Someone who packs too much for a trip.
+
+🗣 *“I’m such an overpacker — I bring clothes I never wear.”*  
+ 🗣 *“She’s a classic overpacker; her suitcase won’t even close.”*
+
+[↑ Back to index](#index)
+
+# Overrated
+
+**Meaning:** Not as good as people say.  
+ **Example:** *That movie was so overrated.*
+
+[↑ Back to index](#index)
+
 # Oversee
+
+The verb **“oversee”** means:
+
+👉 *to supervise, manage, or watch over something to make sure it is done correctly.*
+
+It comes from “over” (above) \+ “see” (to look), so it literally means *“to look over from above.”*
+
+### **Usage examples**
+
+1. *“The manager will oversee the project to ensure everything runs smoothly.”*
+
+2. *“Teachers oversee students during examinations to prevent cheating.”*
+
+3. *“She was hired to oversee the daily operations of the company.”*
+
+🔹 **Synonyms:** supervise, manage, monitor, direct, administer, control.
 
 verb  
 supervise (a person or their work), especially in an official capacity.  
@@ -17885,6 +21912,84 @@ very great in amount.
 
 [↑ Back to index](#index)
 
+# Oxymoron
+
+**Meaning:** A figure of speech combining contradictory terms (e.g., *bittersweet*, *deafening silence*).  
+ **Figurative meaning:** A paradoxical combination in real life.
+
+🗣 *“‘Act naturally’ is such a classic oxymoron.”*  
+ 🗣 *“Working vacation — talk about an oxymoron.”*
+
+[↑ Back to index](#index)
+
+# Pace
+
+/peɪs/  
+verb  
+gerund or present participle: **pacing**  
+1\. walk at a steady speed, especially without a particular destination and as an expression of anxiety or annoyance.  
+"we paced up and down in exasperation"
+
+2\. move or develop (something) at a particular rate or speed.  
+"the action is paced to the beat of a perky march"
+
+[↑ Back to index](#index)
+
+# Paddle
+
+* **Literal:** To move through water using paddles.
+
+* **Figurative:** To move about casually or playfully, especially in shallow water.
+
+* **Examples:**
+
+  * “They *paddled* across the lake.”
+
+  * “The kids were *paddling* in the stream.”
+
+[↑ Back to index](#index)
+
+# Pail
+
+**Literal meaning:** A bucket, typically used to carry liquids or small items.  
+ **Figurative meaning:** Rarely figurative, but used in phrases like “beyond the pale” (meaning beyond acceptable limits).
+
+🗣 *“She filled the pail with water from the well.”*  
+ 🗣 *“That kind of behavior is beyond the pale.”*
+
+[↑ Back to index](#index)
+
+# Palate
+
+**Literal meaning:** The roof of the mouth or sense of taste.  
+ **Figurative meaning:** One’s taste or preference in food or art.
+
+🗣 *“That dessert really suits my palate.”*  
+ 🗣 *“He has a refined palate for wine.”*
+
+[↑ Back to index](#index)
+
+# Palpable
+
+**Meaning:** So strong you can almost feel it physically.  
+**Usage:**
+
+* *“The tension in the room was palpable.”*
+
+* *“There was palpable excitement in the air.”*
+
+[↑ Back to index](#index)
+
+# Panhandle
+
+**Literal meaning:** To beg for money in public.  
+ **Figurative meaning:** To repeatedly ask for something — money, help, or attention — often in a needy or shameless way.
+
+🗣 *“You’ll find people panhandling near the station.”*  
+ 🗣 *“He’s been panhandling for sponsorships all week.”*
+
+[↑ Back to index](#index)
+
 # Panting
 
 ## **🔹 Meaning of panting**
@@ -17969,6 +22074,28 @@ a freelance photographer who pursues celebrities to get photographs of them.
 Noun (moral story)  
 a simple story used to illustrate a moral or spiritual lesson, as told by Jesus in the Gospels.  
 "the parable of the blind men and the elephant"
+
+[↑ Back to index](#index)
+
+# Paradigm
+
+**Meaning:** A model or pattern of something.  
+ **Example:** *We need a new paradigm for education.*
+
+[↑ Back to index](#index)
+
+# Paradoxically
+
+**Meaning:** In a way that seems contradictory but is actually true.  
+ **Examples (spoken):**
+
+* “Paradoxically, working less helped me become more productive.”
+
+* “He was shy but, paradoxically, loved public speaking.”
+
+* “Paradoxically, the company grew after cutting costs.”
+
+👉 *Connector tip:* Use it to introduce contrast or irony — “Interestingly,” “Strangely enough.”
 
 [↑ Back to index](#index)
 
@@ -18241,6 +22368,16 @@ Synonyms:
 
 [↑ Back to index](#index)
 
+# Pattern
+
+**Meaning:** A repeated form or trend.  
+ **Figurative meaning:** A consistent way of behaving or occurring.
+
+🗣 *“There’s a pattern in his mistakes.”*  
+ 🗣 *“Fashion trends always follow a cycle — it’s a pattern.”*
+
+[↑ Back to index](#index)
+
 # Paucity
 
 noun  
@@ -18267,6 +22404,31 @@ cover (a piece of ground) with flat stones or bricks; lay paving over.
 (toom)
 
 मकबरे, समाधि grave
+
+[↑ Back to index](#index)
+
+# Peeked
+
+**Meaning:** Took a quick, secret look.  
+ **Usage:**
+
+* *“You peeked at the gift, didn’t you?”*
+
+* *“He peeked through the door.”*  
+   🟢 Implies curiosity or playfulness.
+
+[↑ Back to index](#index)
+
+# Peer
+
+**Literal meaning:** A person who is equal in age, status, or ability.  
+ **Figurative meaning:** Someone in the same social, professional, or academic group.
+
+🗣 *“Students learn a lot from their peers.”*  
+ 🗣 *“He’s highly respected among his peers.”*  
+ 🗣 *“Peer pressure can influence decisions.”*
+
+💡 *(Professional tone: “peer review,” “peer network.” Informal tone: “my peers at work.”)*
 
 [↑ Back to index](#index)
 
@@ -18337,19 +22499,55 @@ Try explaining this aloud in one sentence:
 
 [↑ Back to index](#index)
 
-# Pent up
+# Pensive
 
-(मन में दबा हुआ, छिपा हुआ, नियंत्रित किया हुआ)
+* **Literal:** Deeply thoughtful, often in a serious or sad way.
 
-adjective  
-1\.  
-(of emotions, energy, etc.) unable to be expressed or released.  
-"pent-up frustrations"  
-2\.  
-closely confined or held back.  
-"a surge of pent-up water"
+* **Figurative:** Lost in reflective or emotional thought.
 
-Take out your pent up feelings.
+* **Examples:**
+
+  * “He sat by the window, *pensive* and quiet.”
+
+  * “She grew *pensive* thinking about her past.”
+
+[↑ Back to index](#index)
+
+# Pent-up
+
+**Pent-up** describes **feelings, energy, or emotions** that have been **kept inside or restrained for a long time**, often building pressure until they are released.
+
+### **🔸 Definition:**
+
+Stored or suppressed over time, unable to be freely expressed.
+
+### **🔸 Examples:**
+
+1. **Emotions**
+
+   * *"She finally let out her pent-up frustration."*
+
+   * *"Years of pent-up anger exploded in that moment."*
+
+2. **Energy / Urges**
+
+   * *"The kids had a lot of pent-up energy after being indoors all day."*
+
+   * *"He released his pent-up creativity through painting."*
+
+### **🔸 Synonyms:**
+
+* Repressed
+
+* Bottled-up
+
+* Suppressed
+
+* Held back
+
+💡 Often used with **anger**, **frustration**, **energy**, **demand**, or **emotion**.
+
+Think of it like a **pressure cooker** — the more it’s held in, the stronger the release.
 
 [↑ Back to index](#index)
 
@@ -18381,6 +22579,31 @@ become aware or conscious of (something); come to realize or understand.
 2\. interpret or regard (someone or something) in a particular way.  
 "if Guy does not perceive himself as disabled, nobody else should"  
 I could perceive the ship coming over the horizon.
+
+[↑ Back to index](#index)
+
+# perception
+
+noun — 1) the way something is understood, interpreted, or regarded by others. 2) the ability to notice or become aware of something through the senses.
+
+"Public perception of the brand improved after the refund policy changed."
+
+[↑ Back to index](#index)
+
+# Perceptive
+
+**Meaning:** Able to notice or understand things quickly and deeply.  
+ **Usage:**
+
+* *“That was a very perceptive observation.”*  
+   🟢 A compliment — means you notice subtle details.
+
+[↑ Back to index](#index)
+
+# Perform
+
+**Meaning:** To act, sing, or do a task.  
+ **Example:** *She performed beautifully on stage.*
 
 [↑ Back to index](#index)
 
@@ -18434,6 +22657,18 @@ die, especially in a violent or sudden way.
 झूठी गवाही,  कूट साक्ष्य,  मिथ्या शपथ,  नमकहरामी
 
 Lying in court, while under oath
+
+[↑ Back to index](#index)
+
+# perk
+
+verb
+
+become or make more cheerful, lively, or interesting
+
+she'd been depressed, but she seemed to perk up last week
+
+the coffee had perked him up long enough to tackle the reviews
 
 [↑ Back to index](#index)
 
@@ -18521,6 +22756,11 @@ make (something) continue indefinitely.
 
 Perpetuated means to allow something to continue into the future or to keep it alive. It is often used in reference to something that is harmful or false. For example, "Social media played a significant role in perpetuating political divisions".
 
+**Meaning:** To cause something (often negative) to continue indefinitely.
+
+🗣 *“That stereotype perpetuates gender bias.”*  
+ 🗣 *“We shouldn’t perpetuate myths without proof.”*
+
 [↑ Back to index](#index)
 
 # Perpetuated
@@ -18602,6 +22842,19 @@ Persecute is sometimes confused with prosecute
 
 [↑ Back to index](#index)
 
+# Persevere
+
+**Meaning:** To continue doing something despite difficulties or obstacles.  
+ **Figurative meaning:** To stay committed through hardship.
+
+🗣 *“She persevered through years of training to become a doctor.”*  
+ 🗣 *“If you persevere long enough, success will follow.”*  
+ 🗣 *“He’s not the smartest, but he perseveres.”*
+
+💡 *(Closely linked to “resilience” and “determination.”)*
+
+[↑ Back to index](#index)
+
 # Persistent
 
 ज़िद्दी, हठी, दृढ़
@@ -18611,6 +22864,18 @@ Persistent means continuing, existing, or acting for a long or longer than usual
 "Persistent heavy rain held up work on the bridge for more than a week".  
 "He has been fighting a persistent cold/infection".  
 "Flooding has been a persistent problem in the area this year".
+
+[↑ Back to index](#index)
+
+# perspective
+
+noun
+
+a particular attitude toward or way of regarding something; a point of view
+
+most guidebook history is written from the editor's perspective
+
+we must keep a sense of perspective about what he's done
 
 [↑ Back to index](#index)
 
@@ -18799,6 +23064,29 @@ so frightened that one is unable to move; terrified.
 
 [↑ Back to index](#index)
 
+# Phenomenon
+
+noun — a fact, occurrence, or situation that is observed, especially one that is remarkable or notable; also, a remarkably talented person or thing.
+
+"Viral marketing is a fascinating phenomenon to study."
+"He's a phenomenon on the basketball court."
+
+[↑ Back to index](#index)
+
+# Phony
+
+**Meaning:** Fake or insincere.  
+ **Example:** *He sounded friendly, but it felt phony.*
+
+[↑ Back to index](#index)
+
+# Pick-Me-Up
+
+**Meaning:** Something that boosts your mood or energy.  
+**Example:** *Coffee is my morning pick-me-up.*
+
+[↑ Back to index](#index)
+
 # Picturesque
 
 प्रकृतिमनोहर, सुरम्य, अनोखा
@@ -18809,6 +23097,12 @@ adjective
 
 (of language) unusual and vivid.  
 "the salad has no regional or picturesque name"
+
+**Literal meaning:** Beautiful like a painting.  
+ **Figurative meaning:** Perfectly charming, idealized, or visually delightful.
+
+🗣 *“The village looked absolutely picturesque.”*  
+ 🗣 *“It was a picturesque evening by the lake.”*
 
 [↑ Back to index](#index)
 
@@ -19101,15 +23395,6 @@ I’m not sympathetic about your plight.
 
 [↑ Back to index](#index)
 
-# Plowed ahead
-
-**"Plowed ahead"**(go ahead) is a verb that means to continue doing something despite problems or opposition:   
-"The city is plowing ahead with plans to demolish the building".   
-"Buster plowed ahead with the laptop rollout, ignoring the protests of the workers".  
-He knew it, yet he plowed ahead.
-
-[↑ Back to index](#index)
-
 # Plummet
 
 **verb**  
@@ -19177,6 +23462,84 @@ noun/adjective — a person who knows and can use several languages.
 
 [↑ Back to index](#index)
 
+# pontificate
+
+verb
+
+express one's opinions in a way considered annoyingly pompous and dogmatic
+
+he was pontificating about art and history
+
+[↑ Back to index](#index)
+
+# Pontification
+
+### **Meaning of pontification**
+
+**Pontification** means **speaking in a way that sounds too serious, too confident, or like you believe you are always right—often without inviting discussion**.
+
+It sometimes has a slightly **negative tone**, especially in meetings or technical discussions.
+
+**Simple explanation:**  
+ When someone talks as if they are the final authority and doesn’t consider other opinions, they are *pontificating*.
+
+**Example:**
+
+He kept pontificating about architecture decisions without listening to the team.
+
+In workplace settings (especially architecture or MLOps discussions), this word is useful when describing communication style.
+
+### **Where you can use it (technical context) 💻**
+
+As a Cloud Architect or MLOps Engineer, you might use it when discussing collaboration styles:
+
+* design reviews  
+* architecture meetings  
+* stakeholder discussions  
+* leadership communication feedback
+
+Instead of pontificating, we should open this for discussion across teams.
+
+This sounds mature and diplomatic.
+
+### **Natural spoken sentences you can use 🎯**
+
+Practice saying these aloud:
+
+1. “I don’t want to sound like I’m pontificating, but I think we should reconsider this approach.”  
+2. “Sometimes in architecture meetings, people start pontificating instead of collaborating.”  
+3. “That being said, let’s avoid pontificating and gather feedback from the team.”  
+4. “For example, we can present options instead of pontificating about a single solution.”  
+5. “On the other hand, a little confidence is good—as long as it doesn’t become pontification.”
+
+### **Related useful alternatives (more common in meetings)**
+
+These sound more natural in everyday corporate conversation:
+
+* “being too opinionated”  
+* “speaking authoritatively”  
+* “talking at people instead of with people”  
+* “pushing a viewpoint strongly”
+
+I don’t want to be too opinionated here, but this architecture might not scale well.
+
+### **Gentle correction of your word ✏️**
+
+You wrote: **ponitification**  
+ Correct spelling: **pontification**
+
+A natural way to ask your question would be:
+
+What does pontification mean, and how do we use it in conversation?
+
+Try speaking one sentence aloud now:
+
+“I don’t want to sound like I’m pontificating, but here’s my perspective.”
+
+If you'd like, I can also show **polite ways to disagree in meetings without sounding like you’re pontificating**—very useful for architecture discussions.
+
+[↑ Back to index](#index)
+
 # Populous
 
 adjective  
@@ -19198,6 +23561,15 @@ populous is sometimes confused with populace
   * “Sweat dripped from every *pore* on his face.”
 
   * “She *pored over* the documents for hours.” *(← note: here “pored” means studied deeply)*
+
+[↑ Back to index](#index)
+
+# Posturing
+
+**Meaning:** Behavior intended to impress or mislead; showing off rather than being genuine.
+
+🗣 *“All that talk was just political posturing.”*  
+ 🗣 *“He’s posturing for attention instead of solving the problem.”*
 
 [↑ Back to index](#index)
 
@@ -19860,6 +24232,15 @@ A **barter transaction** is the exchange of goods or services between two or mor
 
 [↑ Back to index](#index)
 
+# Proactive
+
+**Meaning:** Taking initiative instead of waiting for things to happen.
+
+🗣 *“Be proactive — don’t wait for instructions.”*  
+ 🗣 *“She’s one of the most proactive managers I’ve met.”*
+
+[↑ Back to index](#index)
+
 # Probity
 
  ईमानदारी, सत्यनिष्ठा
@@ -19867,6 +24248,23 @@ A **barter transaction** is the exchange of goods or services between two or mor
 nounFORMAL  
 the quality of having strong moral principles; honesty and decency.  
 "financial probity"
+
+[↑ Back to index](#index)
+
+# Process
+
+**Literal meaning:** A series of steps or actions to achieve a result.  
+ **Figurative meaning:**
+
+1. To mentally digest or come to terms with something.
+
+2. To work through emotions or ideas internally.
+
+🗣 *“Let’s go over the process again.”*  
+ 🗣 *“I need some time to process what just happened.”*  
+ 🗣 *“She’s still processing the loss.”*
+
+💡 *(“Processing” emotions is very common in empathetic, conversational English.)*
 
 [↑ Back to index](#index)
 
@@ -19912,6 +24310,16 @@ poke with a finger, foot, or pointed object.
 
 stimulate or persuade (someone who is reluctant or slow) to do something.  
 "they attempted to prod the central bank into cutting interest rates"
+
+[↑ Back to index](#index)
+
+# Profanities
+
+**Meaning:** Swear words or offensive language.  
+ **Usage:**
+
+* *“He shouted profanities at the driver.”*  
+   🟠 Used to refer to cursing without repeating the bad words.
 
 [↑ Back to index](#index)
 
@@ -20183,6 +24591,15 @@ prospective is sometimes confused with perspective
 
 [↑ Back to index](#index)
 
+# Prosperous
+
+**Meaning:** Successful and wealthy; thriving.
+
+🗣 *“They live a prosperous life.”*  
+ 🗣 *“Hard work leads to a prosperous future.”*
+
+[↑ Back to index](#index)
+
 # Protagonist
 
 नायक, 
@@ -20199,6 +24616,12 @@ n.
 1\. the leading character of a drama or other literary work.  
 2\. a chief proponent or leader of a movement, cause, etc.  
 3\. (in ancient Greek drama) the actor who played the main role and other roles as well.
+
+**Literal meaning:** The main character or hero in a story, movie, or play.  
+ **Figurative meaning:** The central or leading figure in any real-life situation — the one driving events or change.
+
+🗣 *“In our startup journey, she’s definitely the protagonist — always pushing things forward.”*  
+ 🗣 *“Every story needs a strong protagonist, whether it’s fiction or real life.”*
 
 [↑ Back to index](#index)
 
@@ -20229,6 +24652,27 @@ Examples of protrusion in a sentence:
 "Bony protrusions on the outside of the elbow".   
 "A roof with many protrusions".   
 "A rectangular protrusion on the laptop's base to make room for new vapor chambers".
+
+[↑ Back to index](#index)
+
+# protégé
+
+/ˈprɒtɪʒeɪ/  
+noun  
+a person who is guided and supported by an older and more experienced or influential person.  
+"Ruskin submitted his protégé's name for election"
+
+If I'm a dirty lawyer then you are looking into the mirror.
+
+[↑ Back to index](#index)
+
+# Prove
+
+verb
+
+demonstrate the truth or existence of (something) by evidence or argument
+
+the concept is difficult to prove
 
 [↑ Back to index](#index)
 
@@ -20339,6 +24783,20 @@ convey or grant (an estate) by will or lease.
 Verb (प्राय / प्राइ)  
 inquire too closely into a person's private affairs.  
 "sorry, I didn't mean to pry"
+
+[↑ Back to index](#index)
+
+# Puckered
+
+**Meaning:** Wrinkled or tightened — especially lips or fabric.
+
+(especially with reference to a person's face) tightly gather or contract into wrinkles or small folds.
+
+ **Usage:**
+
+* *“He puckered his lips for a kiss.”*
+
+* *“The fabric puckered around the edges.”*
 
 [↑ Back to index](#index)
 
@@ -20478,6 +24936,13 @@ insert punctuation marks in (text).
 
 [↑ Back to index](#index)
 
+# Pungent
+
+**Meaning:** Strong, sharp smell or taste.  
+ **Example:** *The cheese was too pungent for me.*
+
+[↑ Back to index](#index)
+
 # Punitive
 
 adjective  
@@ -20614,6 +25079,26 @@ Synonyms
 
 [↑ Back to index](#index)
 
+# Purred
+
+**Meaning:** Literally — the sound a cat makes. 
+
+Figuratively — to speak in a smooth, soft, or seductive tone.  
+**Usage:**
+
+* *“The cat purred on my lap.”*
+
+* *“‘You missed me, didn’t you?’ she purred.”*
+
+[↑ Back to index](#index)
+
+# Pursuit
+
+**Meaning:** The act of chasing or striving for something.  
+ **Example:** *He’s in pursuit of excellence.*
+
+[↑ Back to index](#index)
+
 # Pushes you off the cliff
 
 means to force someone into a very dangerous or precarious situation, essentially putting them in a position where they are likely to fail or experience significant harm, like being pushed over the edge of a cliff; it's a metaphor signifying extreme pressure or a deliberate act to destabilize someone completely.
@@ -20626,15 +25111,10 @@ means to force someone into a very dangerous or precarious situation, essentiall
 
 [↑ Back to index](#index)
 
-# Put out
+# Quay
 
-phrasal verb — 1) to extinguish (a fire, cigarette). 2) to inconvenience or annoy someone (usually passive: "be put out"). 3) to publish or release (a statement, an album).
-
-बुझाना, बाहर निकालना (to extinguish/put out)
-
-**Literal:** "Firefighters put out the blaze within an hour."
-**Figurative (annoyed):** "She was put out that no one told her about the schedule change."
-**Figurative (release):** "The company put out a statement addressing the outage."
+**Meaning:** A platform along the edge of a harbor for loading ships.  
+ **Example:** *The ship docked at the quay.*
 
 [↑ Back to index](#index)
 
@@ -20656,6 +25136,18 @@ Quiescent means being at rest, inactive, or motionless. It can also mean quiet o
 सर्वोत्कृष्ट(representing the mpst perfect or most typical example of something)
 
 Similar: excellent, praiseworthy, commendable
+
+[↑ Back to index](#index)
+
+# Quip
+
+**Meaning:** A clever or witty remark, often funny or sarcastic.  
+ **Usage:**
+
+* *“He made a quick quip about my cooking.”*
+
+* *“Her quip lightened the mood.”*  
+   🟢 It’s short, humorous, and usually spontaneous.
 
 [↑ Back to index](#index)
 
@@ -20731,6 +25223,17 @@ Imagine a situation:
 
 [↑ Back to index](#index)
 
+# Ram
+
+**Literal meaning:** To hit or push something hard, especially with force.  
+ **Figurative meaning:** To impose or force an idea or rule aggressively.
+
+🗣 *“The car rammed into the wall.”*  
+ 🗣 *“They tried to ram their policy through without discussion.”*  
+ 🗣 *“Don’t ram your opinions down people’s throats.”*
+
+[↑ Back to index](#index)
+
 # Ramification
 
 "Ramification" refers to the consequences, outcomes, or branches that result from a particular action, decision, or event. It indicates the complex and varied effects that can arise from a single cause, leading to a network of developments or implications.
@@ -20764,6 +25267,15 @@ drive up the price of (a company's shares) in order to gain a financial advantag
 
 [↑ Back to index](#index)
 
+# Rancher
+
+**Meaning:** A person who owns or works on a ranch (a large farm for animals).  
+ **Usage:**
+
+* *“He’s a cattle rancher from Texas.”*
+
+[↑ Back to index](#index)
+
 # Rant
 
 शेख़ी
@@ -20784,6 +25296,28 @@ a spell of ranting; a tirade.
 noun  
 a close and harmonious relationship in which the people or groups concerned understand each other's feelings or ideas and communicate well.  
 "she was able to establish a good rapport with the children"
+
+[↑ Back to index](#index)
+
+# Raspiness
+
+**Raspiness** is a **noun** that describes a **rough, harsh, or scratchy quality in a sound**, most often referring to a **voice**. It comes from the word **raspy**, which suggests a grating or coarse sound (like rubbing sandpaper).
+
+### **🔹 Examples in sentences**
+
+* *His voice had a raspiness after shouting at the concert.*
+
+* *The raspiness in her singing gave it a unique charm.*
+
+* *Cold weather often brings raspiness to my throat.*
+
+👉 In **spoken English**, people usually use it when talking about voices:
+
+* *I like the raspiness in his voice—it makes the song more emotional.*
+
+* *After a long day of talking, I noticed some raspiness in my throat.*
+
+* *That old actor’s raspiness makes him sound so intense.*
 
 [↑ Back to index](#index)
 
@@ -20824,17 +25358,6 @@ Based on clear thought and reason
 noun  
 a set of reasons or a logical basis for a course of action or belief.  
 "he explained the rationale behind the change"
-
-[↑ Back to index](#index)
-
-# Ratting on
-
-"Ratting on" is a phrasal verb that means to betray someone's trust by giving away secret information about them, or to fail to do something that you said you would do: 
-
-"He ratted on us"   
-"They ratted on the deal"   
-"Someone ratted us out to the police"   
-"The college was ratting out students for music piracy"
 
 [↑ Back to index](#index)
 
@@ -21099,6 +25622,11 @@ In these examples, "reciprocate" emphasizes the idea of responding in a similar 
 
 # reckless
 
+**Meaning:** Careless, irresponsible, or without regard for consequences.
+
+🗣 *“That was a reckless decision.”*  
+ 🗣 *“He’s brave but sometimes reckless.”*
+
 adjective
 
 (of a person or their actions) without thinking or caring about the consequences of an action
@@ -21139,6 +25667,20 @@ avoiding the company of other people; solitary.
 
 [↑ Back to index](#index)
 
+# Recompense
+
+* **Literal:** Compensation or reward for loss or effort.
+
+* **Figurative:** Making up for something — emotionally or financially.
+
+* **Examples:**
+
+  * “She received *recompense* for the damage.”
+
+  * “A sincere apology can be a kind of *recompense*.”
+
+[↑ Back to index](#index)
+
 # Recon
 
 (टोह)  
@@ -21151,6 +25693,26 @@ reconciled the factions. b. : settle, resolve. reconcile differences.
 [↑ Back to index](#index)
 
 # Reconcile
+
+verb
+
+restore friendly relations between
+
+she wanted to be reconciled with her father
+
+the news reconciled us
+
+a landscape in which inner and outer vision were reconciled
+
+you may have to adjust your ideal to reconcile it with reality
+
+it is not necessary to reconcile the cost accounts to the financial accounts
+
+advice on how to reconcile the conflict
+
+he could not reconcile himself to the thought of his mother stocking shelves
+
+he was reconciled to leaving
 
 (to restore to friendship or harmony)  
 समाधान करना, मेल-मिलाप कराना
@@ -21177,6 +25739,64 @@ Well to celebrate this reconciliation, let's all share a milkshake.
 
 [↑ Back to index](#index)
 
+# Rectify
+
+Meaning of "Rectify / Rectification"
+
+* **Rectify (verb):** to correct something, to make it right, or to fix an error.
+
+* **Rectification (noun):** the act of correcting, adjusting, or making something right.
+
+Think of it as *"turning something wrong into right."*
+
+Different Contexts Where It’s Used
+
+1. **General / Everyday use**
+
+   * Correcting mistakes, misunderstandings, or errors.
+
+   * Example: *“I sent the wrong file yesterday, but I rectified it by sending the updated one today.”*
+
+   * Here, **rectify** \= *fix a mistake*.
+
+2. **Technical / Engineering**
+
+   * In electrical engineering, *rectification* means **converting AC (alternating current) to DC (direct current)** using devices like rectifiers.
+
+   * Example: *“This circuit uses a diode for rectification.”*
+
+3. **Law / Formal Documents**
+
+   * Rectification means **correcting an error in a contract or legal document** so it reflects what was actually intended.
+
+   * Example: *“The court ordered rectification of the agreement due to a drafting mistake.”*
+
+4. **Medical / Professional**
+
+   * Rectify \= correct a condition, imbalance, or issue.
+
+   * Example: *“The doctor suggested exercises to rectify my posture.”*
+
+5. **Spiritual / Astrological**
+
+   * In astrology, rectification means **adjusting a birth chart** when the exact birth time isn’t known, by analyzing life events.
+
+   * Example: *“He did a rectification of my horoscope to find my accurate ascendant.”*
+
+Spoken Sentences You Can Use
+
+* “I’ll rectify the issue as soon as possible.”
+
+* “Thanks for pointing it out; I’ll make the rectification right away.”
+
+* “On the other hand, if the document isn’t clear, rectification might be needed.”
+
+* “That being said, once it’s rectified, we shouldn’t face the same problem again.”
+
+👉 A tip: *“Rectify” sounds a bit formal*, so in casual talk you’d more often hear *“fix,” “correct,” or “sort out.”* Use “rectify” in professional or technical contexts.
+
+[↑ Back to index](#index)
+
 # Recuperate
 
 verb  
@@ -21189,6 +25809,21 @@ recover from illness or exertion.
 
 2\. recover or regain (something lost or taken).  
 "they will seek to recuperate the returns that go with investment"
+
+[↑ Back to index](#index)
+
+# Recuperating
+
+**Meaning:** Recovering from illness, stress, or exhaustion.  
+ **Examples (spoken):**
+
+* “I’m still recuperating from the flu.”
+
+* “She’s been resting at home, recuperating after surgery.”
+
+* “After that long project, I need a few days to recuperate.”
+
+👉 *Common phrase:* “Recuperating at home” or “Recuperating from an injury.”
 
 [↑ Back to index](#index)
 
@@ -21229,6 +25864,24 @@ prove that (someone) is wrong.
 "his voice challenging his audience to rise and refute him"  
 deny or contradict (a statement or accusation).  
 "a spokesman totally refuted the allegation of bias"
+
+[↑ Back to index](#index)
+
+# regard
+
+verb
+
+consider or think of (someone or something) in a specified way
+
+she regarded Omaha as her base
+
+he was highly regarded by senators of both parties
+
+Professor Ryker regarded him with a faint smile
+
+if these things regarded only myself, I could stand it with composure
+
+he talked very wisely, but I regarded him not
 
 [↑ Back to index](#index)
 
@@ -21354,6 +26007,48 @@ noun
 
 [↑ Back to index](#index)
 
+# Relish
+
+**Literal meaning:** A sauce or condiment.  
+ **Figurative meaning:** To deeply enjoy or take pleasure in something.
+
+🗣 *“He relished every bite of the meal.”*  
+ 🗣 *“She relished the challenge of solving that problem.”*
+
+[↑ Back to index](#index)
+
+# Remark
+
+The word **“remark”** can be used both as a **noun** and a **verb**.
+
+### **🔹 As a noun → a comment or statement**
+
+* *She made a funny remark during the meeting.*
+
+* *His remark offended some people in the audience.*
+
+* *The teacher’s remark encouraged the student.*
+
+### **🔹 As a verb → to say or comment**
+
+* *He remarked that the weather was unusually hot.*
+
+* *“That’s interesting,” she remarked thoughtfully.*
+
+* *The judge remarked on the importance of honesty.*
+
+👉 In **spoken English**, “remark” is a bit **formal**, so in casual talk, people more often say **“comment,” “say,” “point out,”** or just speak directly.
+
+**Spoken-style examples:**
+
+* *The manager remarked that we need to be more efficient.*
+
+* *I just wanted to remark on how well you did today.*
+
+* *She remarked that the food was excellent.*
+
+[↑ Back to index](#index)
+
 # Reminisce
 
 think back to, look back to 
@@ -21364,6 +26059,25 @@ indulge in enjoyable recollection of past events.
 I reminisced about my childhood experience.
 
 A reminiscent smile is a smile that shows you are remembering something from the past, usually with pleasure. It can also be described as a look that shows you are remembering something from the past. 
+
+**Meaning:** To recall past events fondly.
+
+🗣 *“We reminisced about our school days.”*  
+ 🗣 *“Old songs make me reminisce about my childhood.”*
+
+[↑ Back to index](#index)
+
+# Remnants
+
+* **Literal:** Small remaining parts of something that existed before.
+
+* **Figurative:** Emotional traces or leftovers of an experience.
+
+* **Examples:**
+
+  * “The *remnants* of dinner were still on the table.”
+
+  * “He felt the *remnants* of guilt even years later.”
 
 [↑ Back to index](#index)
 
@@ -21814,6 +26528,15 @@ Make restitution: To provide compensation for loss, damage, or injur
 
 [↑ Back to index](#index)
 
+# Restless
+
+**Meaning:** Unable to relax or stay still due to worry or excitement.
+
+🗣 *“I’ve been feeling restless lately — like I need a change.”*  
+ 🗣 *“The audience grew restless during the delay.”*
+
+[↑ Back to index](#index)
+
 # Resurgent
 
 rising again  
@@ -21852,6 +26575,20 @@ repay (an insult or injury).
 noun  
 a sharp, angry, or witty reply.  
 "she opened her mouth to make a suitably cutting retort"
+
+[↑ Back to index](#index)
+
+# Retorted
+
+* **Literal:** Replied sharply or angrily.
+
+* **Figurative:** Responded quickly with wit or irritation.
+
+* **Examples:**
+
+  * “She *retorted*, ‘I don’t need your help\!’”
+
+  * “He *retorted* before she could even finish.”
 
 [↑ Back to index](#index)
 
@@ -22046,6 +26783,18 @@ the divine or supernatural disclosure to humans of something relating to human e
 
 [↑ Back to index](#index)
 
+# Revelling
+
+**Meaning:** Enjoying something very much, often with enthusiasm or pleasure.  
+ **Usage:**
+
+* *“They were revelling in the victory.”*
+
+* *“She revelled in the attention.”*  
+   🟢 It means to *fully enjoy* a moment.
+
+[↑ Back to index](#index)
+
 # Reverence
 
 | श्रद्धा
@@ -22187,6 +26936,13 @@ Try saying these aloud for fluency:
 
 [↑ Back to index](#index)
 
+# Righteousness
+
+**Meaning:** Moral correctness or virtue.  
+ **Example:** *He spoke with a sense of righteousness.*
+
+[↑ Back to index](#index)
+
 # Risible
 
 ( हास्यास्पद, मनोरंजक)
@@ -22238,171 +26994,6 @@ noun
 **verb**  
 clothe in a robe or long, loose outer garment.  
 "the Chamberlain robed the king on coronation day"
-
-[↑ Back to index](#index)
-
-# Rolling up
-
-“Rolling up” is a **phrasal verb**, and its meaning depends on the context. Let’s break it down clearly.
-
-## **1️⃣ Rolling up \= Arriving somewhere (informal)**
-
-👉 Very common in casual spoken English.
-
-It means **to arrive**, usually in a relaxed or confident way.
-
-**Examples:**
-
-* “He rolled up to the meeting 10 minutes late.”  
-* “She rolled up in a brand-new car.”
-
-💡 It often suggests *style, attitude, or confidence*.
-
-## **2️⃣ Rolling up \= Gathering / combining into one (technical usage)**
-
-In business, data engineering, or reporting:
-
-It means **to aggregate or summarize data**.
-
-For example (relevant to you as an MLOps / data engineer):
-
-* “We roll up the daily metrics into a monthly dashboard.”  
-* “Let’s roll up the logs at the service level.”
-
-Here, it means:  
- 👉 Combine smaller units into a higher-level summary.
-
-## **3️⃣ Rolling up \= Physically folding something**
-
-* “She rolled up her sleeves before starting the work.”  
-* “He rolled up the carpet.”
-
-In spoken English, **“roll up your sleeves”** also means:  
- 👉 Prepare to work hard.
-
-## **How You Can Use It in Meetings**
-
-Since you work in architecture and MLOps, you might say:
-
-* “We’re rolling up the batch results into a consolidated report.”  
-* “Once the jobs finish, we roll up the metrics at the cluster level.”  
-* “He rolled up to the call without context.” 😄
-
-## **🔥 Spoken Sentences You Can Practice**
-
-Try saying these aloud:
-
-1. “We can roll up the metrics at a higher level for better visibility.”  
-2. “He just rolled up to the meeting without any background.”  
-3. “Let’s roll up the daily numbers into a weekly summary.”  
-4. “Alright, let’s roll up our sleeves and fix this issue.”
-
-Notice how I’m using connectors:
-
-* “For example…”  
-* “On the other hand…”  
-* “That being said…”
-
-Try adding them like this:
-
-“We can roll up the logs at the service level. That being said, we still need raw data for debugging.”
-
-## **Small Correction (if you were speaking)**
-
-You wrote: **“rolling up”**
-
-In real conversation, you would naturally ask:
-
-* “What does ‘rolling up’ mean?”  
-* Or “How do we use ‘rolling up’ in spoken English?”
-
-That sounds more natural and complete.
-
-## **Quick Practice for You 🎤**
-
-Explain in your own words:
-
-👉 What does “rolling up metrics” mean in a data pipeline?
-
-Try to answer in 3–4 sentences. I’ll give you feedback on clarity, structure, and flow.
-
-And yes — please say it aloud while practicing. That’s how you build fluency.
-
-You said:
-
-**“Any other I have seen it used in case of car window”**
-
-A more natural way to say it would be:
-
-* **“I’ve also seen it used in the context of a car window.”**  
-* Or: **“I’ve seen it used when talking about car windows.”**
-
-Now let’s explain clearly.
-
-## **🚗 Rolling up (Car Window Context)**
-
-Yes — when we say **“roll up the window”**, it means:
-
-👉 **Close the window by moving the glass upward.**
-
-This comes from old cars where you had to literally rotate (roll) a handle.
-
-Even though modern cars use buttons, we still say:
-
-* “Roll up the window.”  
-* “Can you roll the window up?”
-
-### **Opposite: Roll down**
-
-* “Roll down the window.”  
-* “Can you roll it down? It’s too hot.”
-
-## **Why do we still say “roll” if it’s a button?**
-
-Good question.
-
-Because language keeps old habits.  
- Even though the mechanism changed, the expression stayed.
-
-For example:
-
-* We still say “dial a number” even though we don’t rotate a dial.  
-* We say “hang up the phone” even though we don’t physically hang it.
-
-Language is conservative 😊
-
-## **🗣 Natural Spoken Sentences You Can Practice**
-
-Say these aloud:
-
-1. “Can you roll up the window? It’s getting noisy outside.”  
-2. “I rolled down the window to get some fresh air.”  
-3. “Back in the day, you actually had to roll the window manually.”  
-4. “That being said, most modern cars use automatic controls now.”
-
-Notice how I added a connector:
-
-* **“Back in the day…”**  
-* **“That being said…”**
-
-These make your speech flow naturally.
-
-## **🧠 Other Contexts Where “Roll Up” Is Used**
-
-Just so you sound more natural in conversation:
-
-* **Arriving:** “He rolled up late.”  
-* **Data aggregation:** “We roll up metrics at the service level.”  
-* **Sleeves (prepare to work):** “Let’s roll up our sleeves.”  
-* **Car window:** “Roll up the window.”
-
-## **🎤 Speaking Practice for You**
-
-Explain this in 3–4 sentences:
-
-👉 Why do we still say “roll up the window” even though modern cars use buttons?
-
-Use at least one connector like:
 
 [↑ Back to index](#index)
 
@@ -22669,6 +27260,18 @@ be affected with rust.
 
 [↑ Back to index](#index)
 
+# RV
+
+**Literal meaning:** Short for *recreational vehicle* — a large motor vehicle with living space, used for travel and camping.  
+ **Figurative meaning:** Sometimes used symbolically to represent freedom, adventure, or a nomadic lifestyle.
+
+🗣 *“We’re renting an RV and doing a road trip across the country.”*  
+ 🗣 *“He quit his job, bought an RV, and just took off to live freely.”*
+
+💡 *(Used a lot in American casual speech — “RV life” \= minimal, travel-based living.)*
+
+[↑ Back to index](#index)
+
 # Sabbatical
 
 विश्राम, विश्राम-काल  
@@ -22682,6 +27285,23 @@ relating to a sabbatical.
 2\.  
 ARCHAIC  
 of or appropriate to the sabbath.
+
+[↑ Back to index](#index)
+
+# Saber-rattling
+
+**"Saber-rattling"** means threatening or showing aggression — especially in a political or military context — to intimidate or warn others, often without actually taking action.
+
+**Examples:**
+
+* *The country’s recent missile tests are seen as saber-rattling.*
+
+* *His speech was full of saber-rattling but no real plan for war.*
+
+**Origin:**  
+ It comes from the image of soldiers shaking or rattling their **sabers** (swords) to show they’re ready to fight — more about intimidation than actual combat.
+
+It’s almost always used in a **figurative sense** today, usually for governments, leaders, or powerful groups making threats.
 
 [↑ Back to index](#index)
 
@@ -22763,6 +27383,13 @@ The word **“sagging”** generally refers to something that is **drooping, han
 * “Over time, these shelves start sagging if you overload them.”
 
 You can **practice saying these aloud** and imagine the drooping or declining action, which helps connect the word to its meaning.
+
+**Meaning:** Drooping or hanging down loosely.  
+ **Usage:**
+
+* *“The old couch was sagging in the middle.”*
+
+* *“His shoulders were sagging with exhaustion.”*
 
 [↑ Back to index](#index)
 
@@ -22846,6 +27473,15 @@ the action or practice of acting as if one were morally superior to other people
 
 [↑ Back to index](#index)
 
+# Sandbox
+
+noun/verb — literal: a box filled with sand for children to play in. Figurative (common in tech): an isolated testing environment where changes can be made safely without affecting production.
+
+**Literal:** "The kids were playing in the sandbox."
+**Figurative:** "Test the new integration in the sandbox environment before deploying to production."
+
+[↑ Back to index](#index)
+
 # Sapling
 
 पौधा  
@@ -22904,6 +27540,13 @@ The comedian's jokes were so savage that the audience couldn't stop laughing.
 When he saw the mess in the kitchen, his reaction was pure savage frustration.
 
 What do you expect ? They are savages. (असभ्य, वहशी, दैत्य)
+
+[↑ Back to index](#index)
+
+# Savor
+
+**Meaning:** To enjoy something fully and slowly.  
+ **Example:** *Savor every moment of your vacation.*
 
 [↑ Back to index](#index)
 
@@ -23055,6 +27698,52 @@ Try saying this aloud:
 
 [↑ Back to index](#index)
 
+# Scam
+
+**Meaning:** A dishonest scheme or fraud.
+
+🗣 *“That investment offer was a total scam.”*  
+ 🗣 *“He fell for an online scam.”*
+
+[↑ Back to index](#index)
+
+# Scamper
+
+**Meaning:** To run quickly and lightly (often used for kids or animals).  
+ **Example:** *The kids scampered across the playground.*
+
+[↑ Back to index](#index)
+
+# Scapegoat
+
+A **scapegoat** is a person who is unfairly **blamed for something** that was not really their fault.
+
+* Example: *“When the project failed, the manager made me the scapegoat.”*
+
+* Example: *“Politicians sometimes use others as scapegoats to cover their own mistakes.”*
+
+👉 It comes from an old tradition where a goat was symbolically burdened with people’s sins and sent away. That’s why today it means blaming someone unfairly.
+
+✅ **Spoken practice sentences:**
+
+* “He became the scapegoat for the company’s failures.”
+
+* “On the other hand, sometimes leaders need to take responsibility instead of finding a scapegoat.”
+
+* “That being said, people often look for a scapegoat when things go wrong.”
+
+* “I don’t want to be the scapegoat for someone else’s mistake.”
+
+👉 **Context of usage:**
+
+* **Workplace:** *“They blamed the intern—it felt like he was made the scapegoat.”*
+
+* **Politics:** *“The opposition is using him as a scapegoat for the crisis.”*
+
+* **Casual talk:** *“Don’t make me the scapegoat for this\!”* (light or joking way).
+
+[↑ Back to index](#index)
+
 # Scarce
 
 adjective — insufficient to meet demand; rare or hard to find.
@@ -23149,6 +27838,17 @@ Try saying aloud:
 
 [↑ Back to index](#index)
 
+# Scoffed
+
+**Meaning:** Mocked or laughed at something disrespectfully.  
+ **Usage:**
+
+* *“He scoffed at my idea.”*
+
+* *“‘You? A singer?’ she scoffed.”*
+
+[↑ Back to index](#index)
+
 # Scoot
 
 Verb informal  
@@ -23163,11 +27863,43 @@ slide in a sitting position.
 
 [↑ Back to index](#index)
 
+# Scooted
+
+* **Literal:** Moved quickly or slid a short distance.
+
+* **Figurative:** Left or moved aside in a hurry.
+
+* **Examples:**
+
+  * “He *scooted* over to make space.”
+
+  * “She *scooted* out the door as soon as it ended.”
+
+[↑ Back to index](#index)
+
+# Scope
+
+**Meaning:** Range, extent, or area of something.
+
+🗣 *“The project’s scope is too broad.”*  
+ 🗣 *“There’s huge scope for innovation here.”*
+
+[↑ Back to index](#index)
+
 # Scornful
 
 (तिरस्कारपूर्ण)
 
 I wanted to talk to her but she gave me scornful look.
+
+[↑ Back to index](#index)
+
+# Scoundrel
+
+**Meaning:** A dishonest or wicked person (often used humorously).
+
+🗣 *“You scoundrel\! You ate my dessert.”*  
+ 🗣 *“He played the charming scoundrel in the movie.”*
 
 [↑ Back to index](#index)
 
@@ -23337,6 +28069,13 @@ prevent from working or succeeding; thwart.
 
 [↑ Back to index](#index)
 
+# Scurry
+
+**Meaning:** To move quickly with small steps.  
+**Example:** *The mice scurried across the floor.*
+
+[↑ Back to index](#index)
+
 # Scuttle
 
 verb  
@@ -23467,6 +28206,14 @@ Sectarianism is a term that refers to a strong attachment to a particular sect o
 
 [↑ Back to index](#index)
 
+# Seductive
+
+adjective — literal: sexually attractive or tempting. Figurative: very appealing or tempting in a way that might lead you astray, e.g. a "seductive but risky" idea.
+
+"The idea of a quick fix was seductive, but we knew it would pile up tech debt."
+
+[↑ Back to index](#index)
+
 # Seemingly
 
 "Seemingly" means **apparently** or **as it appears**, but it doesn’t always mean that the appearance is the truth.  
@@ -23528,6 +28275,25 @@ The quaint little bookstore was tucked away in a corner of the city, so it was s
 
 [↑ Back to index](#index)
 
+# Self-conscious
+
+**Meaning:** Uncomfortably aware of how one appears to others.
+
+🗣 *“I felt so self-conscious giving that speech.”*  
+ 🗣 *“He’s too self-conscious to dance in public.”*
+
+[↑ Back to index](#index)
+
+# Self-supplied
+
+**Literal meaning:** Providing for oneself.  
+ **Figurative meaning:** Independent, self-reliant, not dependent on others.
+
+🗣 *“He’s entirely self-supplied — grows his own vegetables.”*  
+ 🗣 *“She’s self-supplied emotionally — doesn’t rely on others for validation.”*
+
+[↑ Back to index](#index)
+
 # Semitism
 
 noun  
@@ -23580,6 +28346,13 @@ Outside religion, **sermon** can mean a **long, moralizing lecture**.
 
 [↑ Back to index](#index)
 
+# Shadowing
+
+**Meaning:** Observing someone closely to learn.  
+ **Example:** *I’m shadowing my manager to learn the ropes.*
+
+[↑ Back to index](#index)
+
 # shag
 
 /ʃaɡ/  
@@ -23589,6 +28362,13 @@ chase or catch (fly balls) for practice.
 "you run down to the field and hit a few baseballs and shag a few fly balls"
 
 "Shag" is a vulgar British slang term that means to have sexual intercourse with someone. As a noun, it can also refer to the act of sexual intercourse or a sexual partner. For example, "He was caught shagging his friend's sister". 
+
+[↑ Back to index](#index)
+
+# Shameless
+
+**Meaning:** Showing no embarrassment or guilt.  
+ **Example:** *He made a shameless attempt to take all the credit.*
 
 [↑ Back to index](#index)
 
@@ -23620,6 +28400,17 @@ a very fine or diaphanous fabric or article.
 
 # Shelved
 
+**Meaning:** To postpone, cancel, or set something aside temporarily.  
+ **Examples (spoken):**
+
+* “The project has been shelved for now.”
+
+* “We had to shelve our plans due to budget cuts.”
+
+* “Let’s not shelve it completely; we might revisit it later.”
+
+👉 *Common phrase:* “Put on the shelf” or “shelved indefinitely.”
+
 verb  
 past tense: shelved; past participle: shelved  
 1\.  
@@ -23646,9 +28437,26 @@ The shiftless man spent most of his day sleeping on the couch.
 
 # Shimmering
 
+**Meaning:** Shining softly with a wavering light.  
+ **Example:** *The lake looked beautiful, shimmering under the sun.*
+
 adjective  
 shining with a soft, slightly wavering light.  
 "the shimmering waters of Lake Como"
+
+[↑ Back to index](#index)
+
+# Shimmied
+
+* **Literal:** Moved or shook the body in a playful or dancing way.
+
+* **Figurative:** Moved skillfully or smoothly into or out of something.
+
+* **Examples:**
+
+  * “She *shimmied* across the dance floor.”
+
+  * “He *shimmied* out of his jacket quickly.”
 
 [↑ Back to index](#index)
 
@@ -23664,9 +28472,26 @@ move effortlessly; glide with a swaying motion.
 
 [↑ Back to index](#index)
 
+# Shit
+
+**Literal meaning:** Slang for feces.  
+ **Figurative meaning (slang):** Used casually for emphasis — frustration, disbelief, or excitement (⚠️ informal, use only in relaxed settings).
+
+🗣 *“Oh shit, I forgot my wallet\!”*  
+ 🗣 *“That movie scared the shit out of me.”*
+
+[↑ Back to index](#index)
+
 # Shived
 
 I can believe you shoved me.
+
+[↑ Back to index](#index)
+
+# Shoot
+
+**Meaning:** To fire a gun; also casually means to film or take a photo, or to say something quickly.  
+ **Example:** *Let’s shoot a quick video.* / *Shoot\! I forgot my keys\!* (used as an exclamation)
 
 [↑ Back to index](#index)
 
@@ -23692,12 +28517,6 @@ Example sentences:
 "The crowded subway made it difficult to move without accidentally shoving into someone."  
 "During the argument, he lost his temper and shoved the table out of the way."  
 In these examples, "shove" is used to convey the idea of a strong, often abrupt, and forceful push. It can be both a physical action and a metaphor for forcefully moving or pushing something aside.
-
-[↑ Back to index](#index)
-
-# Shove up
-
-: **to move over to make room for someone else**. Shove up so that I can sit down, too.
 
 [↑ Back to index](#index)
 
@@ -23732,6 +28551,20 @@ having or showing sharp powers of judgement; astute.
 archaic  
 (especially of weather) piercingly cold.  
 "a shrewd east wind"
+
+[↑ Back to index](#index)
+
+# shrink
+
+verb
+
+move back or away, especially because of fear or disgust
+
+she shrank away from him, covering her face
+
+he shrank back against the wall
+
+I don't shrink from my responsibilities
 
 [↑ Back to index](#index)
 
@@ -23776,6 +28609,16 @@ Feeling nervous or uncomfortable meeting or talking to other people
 
 [↑ Back to index](#index)
 
+# Sick
+
+**Literal meaning:** Ill or unwell.  
+ **Figurative meaning (slang):** Awesome, impressive, or cool.
+
+🗣 *“I’m feeling a bit sick today.”*  
+ 🗣 *“That new track is sick\!”*
+
+[↑ Back to index](#index)
+
 # sightseeing
 
 noun
@@ -23800,6 +28643,9 @@ a title or form of address used of or to an Italian-speaking man, corresponding 
  नादान, मूर्ख, अल्पबुद्दि,  नासमझ
 
 appearing ridiculous, so that people will laugh,not showing thought or understanding; foolish
+
+**Meaning:** Not serious; playful or foolish.  
+ **Example:** *Don’t be silly—it’s just a joke.*
 
 [↑ Back to index](#index)
 
@@ -23839,6 +28685,17 @@ appearing ridiculous, so that people will laugh,not showing thought or understan
 
 [↑ Back to index](#index)
 
+# Simmered
+
+**Meaning:** Literally — to cook gently just below boiling. Figuratively — to stay quietly angry or emotional.  
+**Usage:**
+
+* *“The soup simmered on the stove.”*
+
+* *“He simmered with anger but didn’t say a word.”*
+
+[↑ Back to index](#index)
+
 # Sincere
 
  ईमानदार,  निष्कपट, सच्चा,  हार्दिक
@@ -23869,6 +28726,15 @@ draw off or convey (liquid) by means of a siphon.
 "a piece of tubing was used to siphon petrol"  
 draw off or transfer over a period of time, especially illegally or unfairly.  
 "he's been siphoning money off the firm"
+
+[↑ Back to index](#index)
+
+# Sitcom
+
+**Meaning:** Short for “situational comedy” — a funny TV show about everyday life.
+
+🗣 *“Friends is my favorite sitcom of all time.”*  
+ 🗣 *“That sitcom always lifts my mood.”*
 
 [↑ Back to index](#index)
 
@@ -24078,6 +28944,14 @@ adjective
 2\.  
 dated  
 (of textiles and clothing) flimsy.
+
+**Meaning:** Morally dirty, cheap, or disreputable — often used for people or places.  
+ **Usage:**
+
+* *“It was a sleazy bar downtown.”*
+
+* *“He’s such a sleazy politician.”*  
+   🟠 Used for behavior or things that feel low-class or corrupt.
 
 [↑ Back to index](#index)
 
@@ -24486,7 +29360,8 @@ Here are some examples of slumber in a sentence:
 Slumber can also be used as a noun, meaning "sleep". For example, "The small town slumbered in the moonlight".   
 Slumber can also refer to the snooze button on an alarm clock. 
 
-Literary
+* *“She fell into a deep slumber.”*  
+   🟢 Sounds a bit poetic or literary.
 
 verb  
 sleep.  
@@ -24494,6 +29369,9 @@ sleep.
 noun  
 a sleep.  
 "scaring folk from their slumbers"
+
+**Meaning:** Sleep — usually deep or peaceful.  
+ **Usage:**
 
 [↑ Back to index](#index)
 
@@ -24545,6 +29423,16 @@ in a cunning and deceitful or manipulative manner.
 "they slyly manipulate situations to their own favour"  
 in a way that suggests some secret knowledge that may be harmful or embarrassing; knowingly.  
 "he smiled slyly, unable to mask a look of triumph"
+
+[↑ Back to index](#index)
+
+# Smashing
+
+**Literal meaning:** Breaking something forcefully.  
+ **Figurative meaning (British slang):** Excellent, wonderful, or successful.
+
+🗣 *“They threw a smashing party last night.”*  
+ 🗣 *“That was a smashing idea, really\!”*
 
 [↑ Back to index](#index)
 
@@ -24785,6 +29673,20 @@ Behaving in secret and dishonest way.
 
 [↑ Back to index](#index)
 
+# Sniggering
+
+* **Literal:** Laughing quietly, often mockingly.
+
+* **Figurative:** Laughing behind someone’s back.
+
+* **Examples:**
+
+  * “The kids were *sniggering* during the teacher’s speech.”
+
+  * “They *sniggered* when I mispronounced the word.”
+
+[↑ Back to index](#index)
+
 # Snoop
 
 INFORMAL  
@@ -24844,6 +29746,16 @@ verb
 past tense: snuggled; past participle: snuggled  
 settle or move into a warm, comfortable position.  
 "I snuggled down in my sleeping bag"
+
+[↑ Back to index](#index)
+
+# Soar
+
+**Literal meaning:** To fly or rise high in the air.  
+ **Figurative meaning:** To increase, succeed, or elevate emotionally.
+
+🗣 *“Eagles soar above the mountains.”*  
+ 🗣 *“Her confidence soared after the promotion.”*
 
 [↑ Back to index](#index)
 
@@ -24945,6 +29857,21 @@ In general, "sophisticated" implies a level of complexity, refinement, or advanc
 
 [↑ Back to index](#index)
 
+# Sore
+
+**Meaning:** Painful or tender to touch.  
+ **Figurative:** Upset or annoyed.  
+ **Example:** *My legs are sore after the workout.* / *He’s still sore about losing the game.*
+
+[↑ Back to index](#index)
+
+# Sorrow
+
+**Meaning:** Deep sadness.  
+ **Example:** *Her eyes reflected sorrow.*
+
+[↑ Back to index](#index)
+
 # Souvenir
 
 Soo·vuh·neeuh यादगार
@@ -25029,6 +29956,12 @@ The past tense of **spay**, meaning to sterilize a female animal through surgery
 reiterate  
 to say something again, once or several times: The government has reiterated its refusal to compromise with terrorists. \[ \+ that \] She reiterated that she had never seen him before. Synonyms. repeat.
 
+verb
+
+lead or initiate a project, task, or initiative with enthusiasm and determination, taking a prominent role in driving its success
+
+Sarah was chosen to spearhead the company's sustainability initiative and develop strategies to reduce carbon emissions.
+
 [↑ Back to index](#index)
 
 # Spectacular
@@ -25051,12 +29984,95 @@ a person who spends money in an extravagant, irresponsible way.
 
 [↑ Back to index](#index)
 
+# Spice
+
+**Literal meaning:** A seasoning or flavor enhancer.  
+ **Figurative meaning:** Something that adds excitement or interest.
+
+🗣 *“Add some spice to your dish.”*  
+ 🗣 *“Her humor adds spice to every conversation.”*
+
+[↑ Back to index](#index)
+
 # Spike
 
 V. to push a sharp point into something or someone: She got badly spiked when one of the runners trod on her heel.
 
 N.  
 a thin object with a sharp point, especially a pointed piece of metal, wood, etc. a row of iron spikes on a wall.
+
+[↑ Back to index](#index)
+
+# Spillover
+
+### **Literal meaning**
+
+When something physically flows over the edge because there’s too much.
+
+* *“The tea caused a **spillover** on the table.”*
+
+* *“The dam couldn’t hold the water, so there was a spillover.”*
+
+### **Figurative meaning (much more common in spoken/work settings)**
+
+It means **an effect or result that spreads into another area, often unintentionally.**
+
+Examples in spoken English:
+
+* **Work-life balance:**  
+   *“Sometimes stress at work has a **spillover** into family life.”*
+
+* **Economics/Business:**  
+   *“The slowdown in China created a **spillover effect** on global markets.”*
+
+* **General situations:**  
+   *“The excitement from the festival had a positive **spillover** into the nearby towns.”*  
+   *“Arguments at home can cause a **spillover** at school for kids.”*
+
+✅ **In everyday speech**, “spillover” is often paired with **“effect”** → *“spillover effect.”*  
+ It sounds a bit formal, but it’s common in discussions about work, economics, psychology, or social life.
+
+The phrase **“spill over”** means something that **extends beyond its normal limits** — like when water spills over the edge of a glass. In spoken English, we often use it metaphorically to describe when **one thing starts affecting another area**.
+
+### **💡 Common meanings and examples:**
+
+1. **To overflow or go beyond boundaries (literal)**
+
+   * “The coffee **spilled over** the cup.”  
+      *(It literally went over the edge.)*
+
+2. **To extend into another area or situation (figurative)**
+
+   * “The meeting **spilled over** into lunch time.”  
+      *(It continued longer than planned.)*
+
+   * “His frustration at work **spilled over** into his personal life.”  
+      *(His emotions carried into another part of his life.)*
+
+3. **To have consequences beyond the original situation**
+
+   * “The conflict in one region **spilled over** into neighboring countries.”  
+      *(The effects spread to nearby areas.)*
+
+### **🗣️ Useful spoken phrases**
+
+* “Sorry, our discussion kind of **spilled over** into the next meeting slot.”
+
+* “I didn’t mean to let my stress **spill over** into our conversation.”
+
+* “The workload from last week **spilled over** into this week.”
+
+* “The excitement **spilled over** into the entire team.”
+
+* “We need to manage this before it **spills over** to other projects.”
+
+### **🔗 Connecting phrases you can use with it:**
+
+* “As a result, it **spilled over** into…”
+
+* “On the other hand, we can’t let this issue **spill over** into production.”
+
+* “For example, if testing is delayed, it might **spill over** to deployment.”
 
 [↑ Back to index](#index)
 
@@ -25248,6 +30264,28 @@ I’ll correct you gently and help you refine it 😊
 
 शेख़ी, मूसलधार बारिश, डींग, 
 
+verb
+
+spend (money) freely or extravagantly
+
+I'd splurged about $2,500 on clothes
+
+we splurged on T-bone steaks
+
+[↑ Back to index](#index)
+
+# Spluttering
+
+* **Literal:** Making spitting or choking sounds while speaking or reacting.
+
+* **Figurative:** Speaking angrily or in shock, struggling to form words.
+
+* **Examples:**
+
+  * “He was *spluttering* after swallowing water.”
+
+  * “She was *spluttering* with rage at his comment.”
+
 [↑ Back to index](#index)
 
 # Spoiler
@@ -25272,6 +30310,74 @@ sinister or ghostly in a way that causes fear and unease.
 North American  
 easily frightened; nervous.  
 "some horses are more spooky by nature than others"
+
+[↑ Back to index](#index)
+
+# Spooning
+
+* **Literal:** Lying closely with someone facing the same direction, like two spoons.
+
+* **Figurative:** Being physically close or affectionate.
+
+* **Examples:**
+
+  * “They were *spooning* under the blanket.”
+
+  * “I love *spooning* on a lazy Sunday morning.”
+
+[↑ Back to index](#index)
+
+# Spot
+
+1. **Noun – a place or location**
+
+   * *“This is a nice spot for lunch.”* (place)
+
+   * *“He found a quiet spot to read.”*
+
+2. **Noun – a mark or stain**
+
+   * *“There’s a spot on your shirt.”*
+
+3. **Verb – to notice or recognize**
+
+   * *“I spotted him in the crowd.”* (noticed/recognized)
+
+   * *“Can you spot the difference between these two pictures?”*
+
+4. **Noun – a short amount of time / opportunity**
+
+   * *“She got a spot on the TV show.”* (opportunity, position)
+
+   * *“Can I have a spot of your time?”* (a little time – more British usage)
+
+5. **Noun – a minor role or turn**
+
+   * *“He did a comedy spot at the event.”* (performance slot)
+
+1. **“On the spot”** → immediately
+
+   * *“They hired me on the spot.”*
+
+   * *“He had to answer on the spot.”*
+
+2. **“Put someone on the spot”** → make them feel pressured or awkward
+
+   * *“I don’t want to put you on the spot, but can you explain this now?”*
+
+3. **“Sweet spot”** → the perfect position or best point
+
+   * *“We finally hit the sweet spot in our pricing.”*
+
+1. **“I spotted a mistake in the report.”**
+
+2. **“We found a great spot for our weekend trip.”**
+
+3. **“She answered the question on the spot.”**
+
+4. **“For example, during meetings, managers sometimes put people on the spot with sudden questions.”**
+
+5. **“That being said, every team has its sweet spot where things just click.”**
 
 [↑ Back to index](#index)
 
@@ -25413,6 +30519,44 @@ verb
 
 [↑ Back to index](#index)
 
+# Squatted
+
+**Meaning:** Sat low with knees bent and feet flat on the ground.  
+ **Usage:**
+
+* *“She squatted to tie her shoelaces.”*  
+   🟢 Neutral, but in stories it can describe posture or movement.
+
+[↑ Back to index](#index)
+
+# Squawk
+
+* **Literal:** A loud, harsh cry (like a bird).
+
+* **Figurative:** Complain loudly or protest.
+
+* **Examples:**
+
+  * “The parrot *squawked* when I approached.”
+
+  * “He *squawked* about the extra workload.”
+
+[↑ Back to index](#index)
+
+# Squeaking
+
+* **Literal:** Making a short, high-pitched sound.
+
+* **Figurative:** Speaking in a nervous or excited voice.
+
+* **Examples:**
+
+  * “The door *squeaked* open slowly.”
+
+  * “She *squeaked* with excitement when she saw the gift.”
+
+[↑ Back to index](#index)
+
 # Squeal
 
 verb  
@@ -25448,6 +30592,30 @@ an act of squeezing something.
 2\.  
 a strong financial demand or pressure, typically a restriction on borrowing, spending, or investment in a financial crisis.  
 "industry faced higher costs and a squeeze on profits"
+
+[↑ Back to index](#index)
+
+# Squelchy
+
+**Literal meaning:** Making a wet, sucking sound.  
+ **Figurative meaning:** Describing something messy or unpleasantly damp.
+
+🗣 *“My shoes went all squelchy in the mud.”*  
+ 🗣 *“That handshake felt squelchy — gross\!”*
+
+[↑ Back to index](#index)
+
+# Squinted
+
+* **Literal:** Narrowed the eyes to see better.
+
+* **Figurative:** Looked closely or suspiciously.
+
+* **Examples:**
+
+  * “He *squinted* at the tiny text.”
+
+  * “She *squinted* at him, not sure she believed his story.”
 
 [↑ Back to index](#index)
 
@@ -25501,6 +30669,20 @@ Try speaking these aloud:
 * “My son always **squirms** when I comb his hair.”
 
 * “He **squirmed** with embarrassment when his mom showed his baby photos.”
+
+[↑ Back to index](#index)
+
+# Squirmed
+
+* **Literal:** Wriggled or twisted the body in discomfort.
+
+* **Figurative:** Felt embarrassed or uneasy.
+
+* **Examples:**
+
+  * “The child *squirmed* in his chair.”
+
+  * “He *squirmed* when she brought up his mistake.”
 
 [↑ Back to index](#index)
 
@@ -25606,6 +30788,76 @@ Blood stain
 
 [↑ Back to index](#index)
 
+# Stalk
+
+**Verb**
+
+* **To follow or pursue stealthily** (animal/hunter): *The tiger stalked its prey.*
+
+* **To follow someone obsessively or harass them** (criminal/online): *He was arrested for stalking his ex.*
+
+* **To walk away angrily or with purpose** (phrasal: *stalk off / stalk out*): *She stalked out of the meeting.*
+
+**Noun**
+
+* **The main stem of a plant** (or petiole): *The celery stalk.*
+
+* **A period or instance of following/harassing someone**: *There were several stalks reported.* (less common)
+
+**Pronunciation**
+
+* Roughly: **stawk** — IPA: **/stɔːk/** (similar in US/UK). One-syllable, final /k/ pronounced.
+
+**Usage notes**
+
+* When used about people, **“stalk” has a strongly negative, often criminal sense** (real-world/online stalking). Use carefully.
+
+* As a plant-term it’s neutral and common in everyday English.
+
+* “Stalk off” / “stalk out” \= leave angrily; informal but common.
+
+**Examples**
+
+* Animal/hunting: *The cougar stalked the deer for hours before pouncing.*
+
+* Harassment: *She changed her number after discovering someone was stalking her online.*
+
+* Angry exit: *After the argument he stalked out of the room.*
+
+* Plant: *Trim the outer stalks before cooking.*
+
+**Collocations (common pairs)**
+
+* **stalk someone / stalk someone online / stalk an ex**
+
+* **stalk prey**
+
+* **stalk off / stalk out**
+
+* **celery stalk / flower stalk / stalk of a plant**
+
+**Synonyms & antonyms**
+
+* Synonyms (follow/harass sense): **trail, shadow, pursue, harass**
+
+* Antonyms (leave angrily sense): **linger, remain** (not exact opposites)
+
+* For plant sense: **stem, petiole**
+
+**Warning / safety note**
+
+If **you or someone is being stalked**, take it seriously: save evidence (messages/screenshots), block the person, tell trusted people, and contact local authorities or support services.
+
+**Quick practice (say aloud)**
+
+1. “The fox stalked the henhouse at night.”
+
+2. “He kept calling and following her — that’s stalking.”
+
+3. “Fed up with the meeting, she stalked off.”
+
+[↑ Back to index](#index)
+
 # stammer
 
 verb  
@@ -25683,19 +30935,6 @@ This helps you add connecting phrases smoothly.
 
 [↑ Back to index](#index)
 
-# start off
-
-phrasal verb of start
-
-begin to travel or move.  
-"we started off on our journey"  
-begin to operate or do something or to happen.  
-"treatment should start off with attention to diet"  
-cause someone or something to begin to operate or do something.  
-"What started you off on this search?"
-
-[↑ Back to index](#index)
-
 # Startle
 
 verb
@@ -25755,6 +30994,14 @@ where do you stay?
 
 [↑ Back to index](#index)
 
+# staycation
+
+noun
+
+a vacation spent in one's home country rather than abroad, or one spent at home and involving day trips to local attractions.
+
+[↑ Back to index](#index)
+
 # Steadfast
 
 **adjective**  
@@ -25778,6 +31025,12 @@ resolutely or dutifully firm and unwavering.
 [↑ Back to index](#index)
 
 # Stench
+
+**Literal meaning:** A strong, unpleasant smell.  
+ **Figurative meaning:** Something morally offensive or corrupt.
+
+🗣 *“The stench from the garbage was unbearable.”*  
+ 🗣 *“There’s a stench of dishonesty in that deal.”*
 
 noun  
 a strong and very unpleasant smell.  
@@ -25818,6 +31071,13 @@ adjective
 (of competition or opposition) putting someone or something under extreme pressure.  
 "the past year has been a stern test of the ability of British industry"
 
+**Meaning:** Serious, strict, or firm in expression or manner.  
+ **Usage:**
+
+* *“The teacher gave him a stern warning.”*
+
+* *“Her face was stern but kind.”*
+
 [↑ Back to index](#index)
 
 # Sternly
@@ -25837,7 +31097,43 @@ a woman employed to look after the passengers on a ship or aircraft.
 
 [↑ Back to index](#index)
 
+# Stick
+
+**Literal meaning:** A thin piece of wood.  
+ **Figurative meanings:**
+
+1. *To remain or continue* (e.g., “stick with it”).
+
+2. *To attach emotionally or mentally* (“that memory stuck with me”).
+
+🗣 *“Stick to your plan — it’ll work.”*  
+ 🗣 *“That advice really stuck with me.”*
+
+[↑ Back to index](#index)
+
+# Stiffened
+
+**Meaning:** Became tense, rigid, or suddenly still — often due to emotion.  
+ **Usage:**
+
+* *“She stiffened when he touched her shoulder.”*
+
+* *“He stiffened with anger.”*  
+   🟢 Used for physical or emotional reactions.
+
+[↑ Back to index](#index)
+
 # Stifle
+
+* **Literal:** To hold back or suppress (breath, sound, emotion).
+
+* **Figurative:** To prevent growth, creativity, or freedom.
+
+* **Examples:**
+
+  * “She *stifled* a laugh during the meeting.”
+
+  * “Strict rules can *stifle* innovation.”
 
 verb  
 1\.  
@@ -25850,6 +31146,20 @@ restrain (a reaction) or stop oneself acting on (an emotion).
 
 [↑ Back to index](#index)
 
+# Stifling
+
+* **Literal:** Hot and airless; difficult to breathe in.
+
+* **Figurative:** Oppressively restrictive or suffocating emotionally.
+
+* **Examples:**
+
+  * “The room was *stifling* in the heat.”
+
+  * “The office culture felt *stifling* — no room for creativity.”
+
+[↑ Back to index](#index)
+
 # Stillborn
 
 adjective  
@@ -25857,6 +31167,20 @@ adjective
 "a stillborn baby"  
 (of a proposal or plan) having failed to develop or be realized.  
 "the proposed wealth tax was stillborn"
+
+[↑ Back to index](#index)
+
+# Sting
+
+* **Literal:** A sharp pain caused by a bite, needle, or emotion.
+
+* **Figurative:** Emotional pain caused by insult or betrayal.
+
+* **Examples:**
+
+  * “The bee *stung* me on the arm.”
+
+  * “His harsh words really *stung*.”
 
 [↑ Back to index](#index)
 
@@ -25969,6 +31293,16 @@ Emotional or dramatic when used figuratively.
 
 [↑ Back to index](#index)
 
+# Stockholder
+
+**Meaning:** Someone who owns shares in a company.  
+ **Figurative meaning:** Stakeholder, someone with a vested interest.
+
+🗣 *“Stockholders voted to approve the merger.”*  
+ 🗣 *“As a stockholder, you’re entitled to annual reports.”*
+
+[↑ Back to index](#index)
+
 # Stodgy
 
 फूला हुआ, परिपूर्ण, न पचनेवाला, गरिष्ठ, भारी पेटभराऊ
@@ -26023,20 +31357,6 @@ Noun informal
 adjective  
 (of popular music) having a fast tempo and a heavy beat.  
 "I needed a really stomping guitar line"
-
-[↑ Back to index](#index)
-
-# Stomping around
-
-"Stomping around" means to walk with heavy steps, often in anger or to make a loud noise: 
-
-* The children were stomping around noisily.  
-* I could hear my mother stomping around in the other room.  
-* She stomped up the stairs and slammed her bedroom door.
-
-"Stomp" can also mean to put your foot down on the ground quickly and hard, often to show anger. For example, 
-
-* The little boy was stomping his foot and refusing to take his medicine.
 
 [↑ Back to index](#index)
 
@@ -26151,6 +31471,16 @@ In both cases, "strategize" implies the deliberate and thoughtful planning of ac
 
 [↑ Back to index](#index)
 
+# Straw
+
+**Literal meaning:** A thin tube for drinking or the dried stalk of grain.  
+ **Figurative meaning:** Used in idioms like “the last straw” (final limit of patience).
+
+🗣 *“He drank his soda through a straw.”*  
+ 🗣 *“That rude comment was the last straw — I’m done\!”*
+
+[↑ Back to index](#index)
+
 # Strident
 
 adjective  
@@ -26174,7 +31504,20 @@ harsh, rigid, drastic, stiff, stringent, tough
 
 [↑ Back to index](#index)
 
+# Strip
+
+**Meaning:** To remove clothing or layers.  
+ **Figurative:** To remove something completely.  
+ **Example:** *He stripped off his jacket.* / *The company stripped away unnecessary rules.*
+
+[↑ Back to index](#index)
+
 # Strive
+
+**Meaning:** To make a great effort to achieve something.
+
+🗣 *“We should always strive for excellence, not perfection.”*  
+ 🗣 *“He’s been striving to make his business profitable.”*
 
 verb  
 make great efforts to achieve or obtain something.  
@@ -26198,6 +31541,13 @@ struggle or fight vigorously.
 "we took a stroll in the garden"
 
 2.a victory or objective that is easily achieved.
+
+[↑ Back to index](#index)
+
+# Struggle
+
+**Meaning:** To try hard despite difficulty.  
+ **Example:** *She’s struggling to balance work and family.*
 
 [↑ Back to index](#index)
 
@@ -26564,6 +31914,16 @@ include or absorb (something) in something else.
 
 [↑ Back to index](#index)
 
+# Subtle
+
+**Meaning:** Delicate, not obvious, or hard to notice.  
+ **Figurative meaning:** Nuanced or skillfully understated.
+
+🗣 *“There’s a subtle difference between sarcasm and humor.”*  
+ 🗣 *“Her perfume was subtle but lovely.”*
+
+[↑ Back to index](#index)
+
 # Succeed
 
 verb  
@@ -26703,6 +32063,15 @@ All my attempts to amuse the children were met with sullen scowls.
 
 [↑ Back to index](#index)
 
+# Superficial
+
+**Meaning:** Shallow, lacking depth (in thought, emotion, or detail).
+
+🗣 *“Don’t judge people based on superficial appearances.”*  
+ 🗣 *“Her analysis was too superficial — it missed the real issue.”*
+
+[↑ Back to index](#index)
+
 # Supple
 
 **adjective**  
@@ -26711,6 +32080,55 @@ bending and moving easily and gracefully; flexible.
 
 **verb**  
 make more flexible.
+
+[↑ Back to index](#index)
+
+# Supplier
+
+**Literal meaning:** A person or company that provides goods or services.  
+ **Figurative meaning:** Any source that provides something of value (even non-material).
+
+🗣 *“We’re negotiating prices with our main supplier.”*  
+ 🗣 *“Water suppliers are facing high demand this summer.”*  
+ 🗣 *“Books are a supplier of wisdom.”* (figurative)
+
+[↑ Back to index](#index)
+
+# Supply
+
+1. **As a verb (to provide / give something):**
+
+   * *“The company supplies water to the city.”*
+
+   * *“We need to supply enough data for the analysis.”*
+
+2. **As a noun (the amount of something available):**
+
+   * *“The food supply is running low.”*
+
+   * *“There’s a high demand but limited supply of skilled workers.”*
+
+3. **In business/economics:**
+
+   * “Supply and demand” – the balance between how much is available and how much people want.
+
+✅ **Spoken practice sentences:**
+
+* “We need to supply more details before the client meeting.”
+
+* “On the other hand, our current supply of resources is limited.”
+
+* “That being said, if demand decreases, supply won’t be an issue.”
+
+* “The hospital received a new supply of medicines yesterday.”
+
+👉 **Contexts of usage:**
+
+* **Workplace:** *“Can you supply me with the latest reports?”*
+
+* **Casual:** *“We need to buy a new supply of groceries.”*
+
+* **Technical/Business:** *“The supply chain has been disrupted.”*
 
 [↑ Back to index](#index)
 
@@ -26724,6 +32142,14 @@ make more flexible.
 "The leaked documents reportedly contain information about the purportedly secret government project."
 
 Please note that the use of "purportedly" indicates that the information being presented is claimed or said to be true by some source, but there might be doubts or skepticism surrounding its accuracy.
+
+[↑ Back to index](#index)
+
+# Surgical
+
+**Meaning:** Precise, careful, or accurate (not only medical).
+
+**Example:** *His approach to problem-solving is almost surgical.*
 
 [↑ Back to index](#index)
 
@@ -26745,6 +32171,26 @@ a surreal mix of fact and fantasy
 
 [↑ Back to index](#index)
 
+# Suspend
+
+**Literal meaning:** To temporarily stop or hang.  
+ **Figurative meaning:** To pause judgment or delay action.
+
+🗣 *“The service was suspended due to weather.”*  
+ 🗣 *“Let’s suspend disbelief and enjoy the story.”*
+
+[↑ Back to index](#index)
+
+# Swarm
+
+**Literal meaning:** A large group of insects (like bees) moving together.  
+ **Figurative meaning:** A crowd or rush of people or things moving in unison.
+
+🗣 *“Bees swarmed around the hive.”*  
+ 🗣 *“Fans swarmed the stage after the concert.”*
+
+[↑ Back to index](#index)
+
 # Swashbuckling
 
 adjective  
@@ -26759,6 +32205,17 @@ Swashbuckling means behaving in a brave and exciting way, especially like a figh
 
 Swashbuckling can also describe something that is set in the past and full of action, adventure, and sword fighting. For example, you might describe a movie as a swashbuckling tale of adventure on the high seas.   
 Synonyms of swashbuckling include dashing, spirited, bold, and flamboyant. 
+
+[↑ Back to index](#index)
+
+# Swatted
+
+**Meaning:** Hit or pushed something away quickly, often with your hand.  
+ **Usage:**
+
+* *“He swatted the mosquito.”*
+
+* *“She swatted my hand playfully.”*
 
 [↑ Back to index](#index)
 
@@ -26876,6 +32333,16 @@ a large gulp of drink.
 
 [↑ Back to index](#index)
 
+# Swing
+
+**Literal meaning:** Move back and forth.  
+ **Figurative meaning:** Shift suddenly or dramatically.
+
+🗣 *“Her mood swings a lot.”*  
+ 🗣 *“The market could swing either way.”*
+
+[↑ Back to index](#index)
+
 # Swirl
 
 **verb**  
@@ -26920,7 +32387,68 @@ The devastation caused by the earthquake was very sympathetic.
 
 [↑ Back to index](#index)
 
+# Synergy
+
+**Literal meaning:** The combined power of two or more elements that is greater than their individual effects.  
+ **Figurative meaning:** A smooth, powerful collaboration between people or systems.
+
+🗣 *“There’s great synergy between our design and engineering teams.”*  
+ 🗣 *“When you find synergy in a partnership, things just flow.”*
+
+[↑ Back to index](#index)
+
+# Table
+
+The verb "table" has multiple meanings, including to put something aside, to submit something for consideration, or to enter something into a list.   
+To put something aside   
+To set something aside indefinitely  
+To postpone or suspend consideration of something  
+To leave something for discussion at a later time  
+To submit something for consideration   
+To present something formally for discussion  
+To submit a bill for consideration by a legislative body
+
+To Postpone or Delay (Verb – Common in American English):  
+To table something means to set it aside for discussion or action at a later time.  
+Example: "The committee decided to table the proposal until next month."
+
+To Present or Submit for Discussion (Verb – Common in British English):  
+To table something means to formally bring it up for discussion or consideration.  
+Example: "The new policy was tabled in the meeting."
+
+A Systematic Arrangement of Data (Noun – Contextual Use):  
+A table can refer to an organized display of information, often in rows and columns.  
+Example: "The results were summarized in a table."
+
+Mathematical Context:  
+A table can mean a set of values or a computational tool, like multiplication tables or truth tables.
+
+[↑ Back to index](#index)
+
 # Taint
+
+/teɪnt/  
+verb  
+past tense: tainted; past participle: tainted
+
+contaminate or pollute (something).  
+"the air was tainted by fumes from the cars"
+
+affect with a bad or undesirable quality.  
+"his reputation was tainted by scandal"
+
+archaic  
+(of food or water) become contaminated or polluted.  
+"the rennet should be soaked in water containing sufficient salt to keep it from tainting"
+
+The term "taint" is vulgar slang for the perineum, which is the area between the anus and the genitals.   
+"Taint" can also be used as a verb or a noun to describe something that harms the reputation of a person or thing:   
+Verb  
+When a person or thing is tainted by something bad, their reputation is harmed. For example, "Opposition leaders said that the elections had been tainted by corruption".  
+Noun  
+An undesirable quality that spoils the reputation of someone or something. For example, "Her government never really shook off the taint of corruption".  
+Synonyms of "taint" include disgrace, shame, dishonor, and stigma.   
+The term "taint" has been used in comedic shows, including Saturday Night Live and The Daily Show. 
 
 **Taint** means to **spoil, damage, or pollute** the quality, reputation, or purity of something.  
  It can refer to both **literal contamination** and **figurative corruption**.
@@ -26952,18 +32480,6 @@ The devastation caused by the earthquake was very sympathetic.
 * Contaminate
 
 💡 **Tone note**: *Taint* usually implies **permanent or hard-to-remove damage**, whether physical or moral.
-
-[↑ Back to index](#index)
-
-# take on
-
-phrasal verb of take  
-1\.  
-engage an employee.  
-"he took me on as an apprentice"  
-2\.  
-be willing or ready to meet an adversary or opponent.  
-"a group of villagers has taken on the planners"
 
 [↑ Back to index](#index)
 
@@ -27100,6 +32616,17 @@ Try saying these aloud naturally:
 
 * **General:** “The sound of laughter tapered off as people left.”
 
+**Meaning:** To gradually decrease or reduce in size, strength, or amount.  
+ **Examples (spoken):**
+
+* “The pain will taper off over time.”
+
+* “They’re tapering production to control costs.”
+
+* “Rainfall will taper towards the weekend.”
+
+👉 *Common phrase:* “Taper off” \= to slowly end.
+
 [↑ Back to index](#index)
 
 # Tarnish
@@ -27126,6 +32653,31 @@ His reputation was tarnished by misdeed.
 
 noun informal•North American  
 a tarpaulin sheet or cover.
+
+[↑ Back to index](#index)
+
+# Taxing
+
+**Meaning:** Physically or mentally exhausting.
+
+🗣 *“That presentation was mentally taxing.”*  
+ 🗣 *“It’s a taxing job, but rewarding.”*
+
+[↑ Back to index](#index)
+
+# Tease
+
+**Meaning:** To playfully make fun of someone.  
+**Example:** *Don’t tease him about his accent.*
+
+[↑ Back to index](#index)
+
+# Tech-savvy
+
+**Meaning:** Skilled and comfortable using technology.
+
+🗣 *“He’s pretty tech-savvy — he fixed my phone in minutes.”*  
+ 🗣 *“We need more tech-savvy people in the team.”*
 
 [↑ Back to index](#index)
 
@@ -27233,6 +32785,22 @@ adjective — 1) literal: (of a liquid) only slightly warm; lukewarm. 2) figurat
 
 [↑ Back to index](#index)
 
+# Terrain
+
+**Meaning:** Type of land or ground.  
+ **Figurative:** Used for a situation or field of activity.  
+ **Example:** *The terrain was rocky.* / *He’s exploring new business terrain.*
+
+[↑ Back to index](#index)
+
+# Thick-skinned
+
+adjective  
+insensitive to criticism or insults.  
+"I suppose you have to be pretty thick-skinned to be an MP"
+
+[↑ Back to index](#index)
+
 # Thrash
 
 ### **✅ Meaning of "Thrash":**
@@ -27288,6 +32856,24 @@ adjective — 1) literal: (of a liquid) only slightly warm; lukewarm. 2) figurat
 ### **🔹 Spoken Tip:**
 
 * **"Thrash"** often implies **violence** or **intensity**, whether it’s physical beating, strong movement, or an overwhelming defeat.
+
+[↑ Back to index](#index)
+
+# Threat
+
+**Literal meaning:** A danger or expression of intent to harm.  
+ **Figurative meaning:** Anything that poses risk or challenge.
+
+🗣 *“Cybersecurity threats are increasing.”*  
+ 🗣 *“She’s a real threat to her competitors.”*  
+ 🗣 *“They didn’t realize how serious the threat was.”*
+
+[↑ Back to index](#index)
+
+# Thrilled
+
+**Meaning:** Extremely happy or excited.  
+**Example:** *I’m thrilled to be part of this project\!*
 
 [↑ Back to index](#index)
 
@@ -27488,6 +33074,15 @@ Would you like me to suggest a few **advanced architecture-meeting phrases simil
 
 [↑ Back to index](#index)
 
+# Timeless
+
+**Meaning:** Not affected by time; always relevant or beautiful.
+
+🗣 *“That song is absolutely timeless.”*  
+ 🗣 *“Her elegance is timeless.”*
+
+[↑ Back to index](#index)
+
 # Timid
 
 (डरपोक,  घबराने वाला )
@@ -27589,6 +33184,27 @@ exhausting, tiresome, tiring, fatiguing, bothersome
 
 The journey through the dense forest was toilsome, requiring hours of strenuous effort to navigate the rough terrain.  
 Despite the toilsome task ahead, she remained determined to complete the project on time.
+
+[↑ Back to index](#index)
+
+# Toned-down
+
+adjective  
+altered so as to be less extreme or intense.  
+"a toned-down version of the report was published"
+
+to make something less forceful or offensive, usually a piece of writing or a speech: language is toned down Some of the language in the original play has been toned down for the television version.
+
+[↑ Back to index](#index)
+
+# Topping
+
+**Literal meaning:** A layer of food placed on top of something, like pizza or cake.  
+ **Figurative meaning:** Something extra or special added to enhance a situation; also used to describe excellence (“top-notch”).
+
+🗣 *“What toppings do you want on your pizza?”*  
+ 🗣 *“Her performance was the topping on an already perfect evening.”*  
+ 🗣 *“He’s a topping student — always at the top of his class.”*
 
 [↑ Back to index](#index)
 
@@ -27826,6 +33442,15 @@ Practice this sentence aloud:
 
 [↑ Back to index](#index)
 
+# Trade-off
+
+Meaning: To exchange or sacrifice one thing for another.
+
+* Example 1: We need to trade off short-term profits for long-term sustainability.  
+* Example 2: There’s always a trade-off between quality and cost.
+
+[↑ Back to index](#index)
+
 # Trailblazer
 
 The first person to do something or go somewhere, who shows that it's also possible for other people
@@ -27852,6 +33477,24 @@ a person who makes a new track through a wild country.
 
 A trailblazer is someone who is the first to do something, or who makes something new and popular. For example, a trailblazer could be someone who discovers a cure for cancer or marks a new path through the woods.   
 A trailblazer can also be someone who blazes a trail for others to follow through unsettled country or wilderness. For example, The Beatles are considered trailblazers of rock music. 
+
+The word **“trailblazer”** is a **noun** that means someone who is the **first to do something** or who **leads the way** in a new field, making it easier for others to follow. It comes from the literal idea of blazing a trail through a forest so others can walk behind you. 🌲✨
+
+✅ **Examples:**
+
+* *Marie Curie was a trailblazer in the field of science.*
+
+* *As the first woman CEO of the company, she was a real trailblazer.*
+
+* *He’s considered a trailblazer in modern architecture.*
+
+👉 In **spoken English**, it’s often used to **praise someone’s courage or innovation**:
+
+* *She’s a trailblazer—always trying new ideas.*
+
+* *That startup was a trailblazer in the electric vehicle market.*
+
+* *He’s not just successful, he’s a trailblazer for future entrepreneurs.*
 
 [↑ Back to index](#index)
 
@@ -28116,6 +33759,32 @@ Synonyms of tumultuous include: Uproarious, Turbulent, Violent, Boisterous.
 
 [↑ Back to index](#index)
 
+# Turgid
+
+**Meaning:** Swollen, inflated, or overly fancy in language.  
+ **Usage:**
+
+* *“His turgid speech bored everyone.”*
+
+* *“The river was turgid after the rain.”*  
+   🟢 Can describe both language and physical swelling.
+
+[↑ Back to index](#index)
+
+# Tush
+
+* **Literal:** Slang for buttocks (informal and playful).
+
+* **Figurative:** Used humorously for someone’s backside.
+
+* **Examples:**
+
+  * “Sit your *tush* down and relax.”
+
+  * “He fell right on his *tush*\! It was hilarious.”
+
+[↑ Back to index](#index)
+
 # Tuxedo
 
 noun(North American)
@@ -28124,6 +33793,16 @@ a man's dinner jacket.
        Similar: formal wear, penguin suit, monkey suit, tux
 
 a suit of formal evening clothes including a tuxedo.
+
+[↑ Back to index](#index)
+
+# Twig
+
+**Literal meaning:** A small, thin branch.  
+ **Figurative meaning (slang):** To suddenly understand or notice something.
+
+🗣 *“He finally twigged that she was lying.”*  
+ 🗣 *“It took me a second to twig what he meant.”*
 
 [↑ Back to index](#index)
 
@@ -28150,6 +33829,13 @@ Something wound around
 
 [↑ Back to index](#index)
 
+# Twist
+
+**Meaning:** Unexpected change or turn in events.  
+ **Example:** *The story had an amazing twist at the end.*
+
+[↑ Back to index](#index)
+
 # Tyrant
 
 noun  
@@ -28170,6 +33856,9 @@ adjective
 present, appearing, or found everywhere.  
 "his ubiquitous influence was felt by all the family"
 
+**Meaning:** Everywhere; very common.  
+ **Example:** *Smartphones are ubiquitous these days.*
+
 [↑ Back to index](#index)
 
 # Unassuming
@@ -28181,6 +33870,12 @@ present, appearing, or found everywhere.
 [↑ Back to index](#index)
 
 # Uncanny
+
+**Meaning:** Strange, mysterious, or hard to explain — often because it feels eerily familiar or “too accurate.”
+
+🗣 *“She has an uncanny ability to read people’s emotions.”*  
+ 🗣 *“It’s uncanny how much that actor looks like my brother.”*  
+ 🗣 *“There’s something uncanny about this silence.”*
 
 adjective — strange or mysterious in a way that is slightly unsettling; also used for a remarkably close resemblance or skill.
 
@@ -28210,6 +33905,14 @@ so as to be concealed by something else.
 noun  
 the part or side of something facing towards the ground; the underside.  
 "a wart on the underneath of his foot"
+
+[↑ Back to index](#index)
+
+# Undoubtedly
+
+adverb — without doubt; certainly.
+
+"This is undoubtedly the strongest proposal we've received this quarter."
 
 [↑ Back to index](#index)
 
@@ -28253,6 +33956,13 @@ not affected or disturbed by something surprising, difficult, or shocking.
 
 Try saying them aloud — it helps with natural rhythm and confidence.
 
+**Meaning:** Not surprised, disturbed, or affected.  
+ **Usage:**
+
+* *“Everyone was shocked, but I was unfazed by her appearance.”*
+
+* Shows calmness or emotional stability.
+
 [↑ Back to index](#index)
 
 # Unfettered
@@ -28268,6 +33978,34 @@ Poets are unfettered by the normal rules of sentence structure.
 
 [↑ Back to index](#index)
 
+# Unfold
+
+The word **“unfold”** can be used both **literally** and **figuratively**.
+
+### **🔹 Literal meaning → to open up something that was folded**
+
+* *She unfolded the letter and began to read.*
+
+* *He unfolded the map to check the route.*
+
+### **🔹 Figurative meaning → to develop gradually, to reveal, to happen step by step**
+
+* *As the story unfolded, we learned the truth about her past.*
+
+* *The mystery slowly unfolded before the detective’s eyes.*
+
+* *His career is still unfolding—he has so much potential ahead.*
+
+👉 In **spoken English**, it’s often used for **situations, events, or stories** that reveal themselves over time:
+
+* *Let’s wait and see how things unfold.*
+
+* *The evening unfolded better than I expected.*
+
+* *History is unfolding right in front of us.*
+
+[↑ Back to index](#index)
+
 # Unfurl
 
 verb  
@@ -28278,6 +34016,20 @@ make or become spread out from a rolled or folded state, especially in order to 
 Some synonyms of "unfurl" include:   
 Expand, Extend, Unfold, Open, Spread, Outspread, Stretch, Flare.   
 "Unfurl" can also mean to turn out, evolve, or progress.
+
+[↑ Back to index](#index)
+
+# Unkempt
+
+* **Literal:** Untidy or messy in appearance.
+
+* **Figurative:** Careless or disorganized in attitude or manner.
+
+* **Examples:**
+
+  * “His hair was *unkempt* and wild.”
+
+  * “The garden looked *unkempt* after the storm.”
 
 [↑ Back to index](#index)
 
@@ -28421,6 +34173,23 @@ Say this sentence **out loud** slowly, then faster:
 
 [↑ Back to index](#index)
 
+# Unload
+
+**Meaning:** To remove goods from a vehicle; also means to express feelings.  
+ **Example:** *They unloaded the boxes from the truck.* / *She finally unloaded her worries on a friend.*
+
+[↑ Back to index](#index)
+
+# Unobstructed
+
+**Meaning:** Clear, without blockage or obstacle.  
+ **Usage:**
+
+* *“The view from the balcony was unobstructed.”*  
+   🟢 Often used for vision, sound, or movement.
+
+[↑ Back to index](#index)
+
 # Unorthodox
 
 * **Literal:** Not following traditional or normal ways.
@@ -28526,6 +34295,25 @@ investigate and solve or explain (something complicated or puzzling).
 
 [↑ Back to index](#index)
 
+# unrealistic
+
+adjective
+
+not attainable
+
+Social media is often accused of setting unrealistic beauty standards.
+
+[↑ Back to index](#index)
+
+# Unsubstantiated
+
+Adjective
+
+not supported or proven by evidence.  
+"unsubstantiated claims"
+
+[↑ Back to index](#index)
+
 # Untidy
 
 लापरवाह, गन्दा, ढीला, असावधान
@@ -28549,6 +34337,46 @@ Untoward means something is marked by trouble or unhappiness, or is not favorabl
 
 # Unwind
 
+“Unwind” basically means **to relax after being stressed, busy, or tired**.  
+ Think of it like loosening a tightly wound spring — you release the tension.
+
+Usage in spoken English:
+
+* After a long day at work:  
+   *“I just want to unwind with a good movie.”*
+
+* Talking to friends:  
+   *“Let’s go out this weekend and unwind a little.”*
+
+* In casual advice:  
+   *“You should take a walk to unwind.”*
+
+### **Common contexts:**
+
+* Work/life balance conversations: *“I usually unwind by listening to music.”*
+
+* Vacation or free time: *“That trip really helped me unwind.”*
+
+* Even in team meetings (light tone): *“After finishing this sprint, we all need some time to unwind.”*
+
+### **Sentences you can practice saying aloud:**
+
+1. *“After a busy day, I like to unwind with some music.”*
+
+2. *“On the other hand, some people unwind by exercising instead of resting.”*
+
+3. *“That being said, I personally prefer to unwind by spending time with my family.”*
+
+4. *“For example, yesterday I unwound by cooking a nice meal.”*
+
+👉 Try speaking these out loud and notice how “unwind” gives a relaxed, easy-going feeling.
+
+**Meaning:** To relax or release tension.  
+ **Figurative meaning:** To mentally or emotionally reset.
+
+🗣 *“I like to unwind with a cup of tea after work.”*  
+ 🗣 *“The weekend is the perfect time to unwind.”*
+
 verb  
 1\.  
 undo or be undone after winding or being wound.  
@@ -28566,6 +34394,18 @@ noun
 Adjective informal उत्साहित  
 cheerful; optimistic.  
 "he was upbeat about the company's future"
+
+[↑ Back to index](#index)
+
+# upmarket
+
+adjective
+
+relatively expensive and designed to appeal to affluent consumers
+
+an upmarket ski resort
+
+upmarket boutiques
 
 [↑ Back to index](#index)
 
@@ -28677,6 +34517,16 @@ I utterly failed.
 
 [↑ Back to index](#index)
 
+# vacationer
+
+noun
+
+a person on vacation away from home.
+
+vacationers have been enjoying brilliant blue skies
+
+[↑ Back to index](#index)
+
 # Vague
 
 **adjective**  
@@ -28689,6 +34539,9 @@ of uncertain, indefinite, or unclear character or meaning.
 
 thinking or communicating in an unfocused or imprecise way.  
 "he had been very vague about his activities"
+
+**Meaning:** Not clear or specific.  
+ **Example:** *Her answer was too vague to understand.*
 
 [↑ Back to index](#index)
 
@@ -28738,6 +34591,27 @@ A vassal state is any state that has a mutual obligation to a superior state or 
 
 [↑ Back to index](#index)
 
+# Vastness
+
+**Meaning:** Immense size, space, or extent.  
+ **Figurative meaning:** Boundless scale — physical, emotional, or intellectual.
+
+🗣 *“We were awed by the vastness of the desert.”*  
+ 🗣 *“The vastness of human knowledge is humbling.”*
+
+[↑ Back to index](#index)
+
+# Velcro
+
+**Literal meaning:** A type of fastener made of tiny hooks and loops that stick together.  
+ **Figurative meaning:** Something (or someone) that clings tightly or is inseparable.
+
+🗣 *“This bag has a Velcro strap.”*  
+ 🗣 *“Those two kids are like Velcro — always stuck together.”*  
+ 🗣 *“He’s a bit too Velcro for me — I need space.”* (informal humor)
+
+[↑ Back to index](#index)
+
 # Vendetta
 
 noun  
@@ -28747,11 +34621,34 @@ a prolonged bitter quarrel with or campaign against someone.
 
 [↑ Back to index](#index)
 
+# Venerable
+
+**Meaning:** Worthy of respect due to age, wisdom, or character.  
+ **Figurative meaning:** Can describe institutions, traditions, or even objects admired for longevity or legacy.
+
+🗣 *“He’s a venerable professor, respected by all.”*  
+ 🗣 *“The venerable oak tree stood for centuries.”*
+
+[↑ Back to index](#index)
+
 # Vengeance
+
+Strong desire for revenge.  
+ 👉 *“He acted out of vengeance.”*
 
  बदला,  प्रतिशोध
 
 vengeance, retaliation, revenge, vendetta
+
+[↑ Back to index](#index)
+
+# Venison
+
+**Literal meaning:** Meat from a deer.  
+ **Figurative use:** Rare — mostly used literally, but sometimes symbolically to imply something luxurious or rustic.
+
+🗣 *“We had roasted venison at the lodge last winter.”*  
+ 🗣 *“He served venison to show off his hunting skills.”*
 
 [↑ Back to index](#index)
 
@@ -28824,6 +34721,12 @@ In both cases, the word "venture" is associated with the idea of taking risks, e
 ### **🔹 Spoken Tip:**
 
 * **"Venture"** often implies **stepping outside your comfort zone** or doing something new, and it can be used for both **business** and **adventures**.
+
+**Literal meaning:** A risky journey or business enterprise.  
+ **Figurative meaning:** To dare to do something new or uncertain.
+
+🗣 *“They’re venturing into the renewable energy market.”*  
+ 🗣 *“I wouldn’t venture to guess how much that costs.”*
 
 [↑ Back to index](#index)
 
@@ -29015,6 +34918,13 @@ strength, energy, or enthusiasm: They set about their work with youthful vigour 
 
 [↑ Back to index](#index)
 
+# Villain
+
+**Meaning:** The bad character in a story.  
+ **Example:** *The movie’s villain was unforgettable.*
+
+[↑ Back to index](#index)
+
 # vintage
 
 adjective (FROM THE PAST)  
@@ -29023,6 +34933,16 @@ that is not new, especially when it is a good example of a style from the past: 
 Old, recognized, and enduring: Something that is classic and dates from the past. For example, "vintage films".  
 High-quality and lasting value: Something that is used but of good quality, or shows the best and most typical characteristics of a particular type of thing.  
 Fermented juice: Especially of grapes. For example, "vintage wine".
+
+[↑ Back to index](#index)
+
+# Virtue
+
+**Literal meaning:** Moral excellence or goodness.  
+ **Figurative meaning:** A positive trait or strength.
+
+🗣 *“Patience is a great virtue.”*  
+ 🗣 *“He turned his weakness into a virtue.”*
 
 [↑ Back to index](#index)
 
@@ -29107,6 +35027,18 @@ The voice of the people \[is\] the voice of the gods
 
 [↑ Back to index](#index)
 
+# Voyage
+
+**Literal meaning:** A long journey, especially by sea or space.  
+ **Figurative meaning:** A significant personal or spiritual journey.
+
+🗣 *“Their voyage across the Atlantic took months.”*  
+ 🗣 *“Life itself is a voyage of discovery.”*
+
+💡 *(More poetic than “trip” or “journey.”)*
+
+[↑ Back to index](#index)
+
 # Vulgar
 
 अभद्र, अश्लील,  अशिष्ट 
@@ -29131,14 +35063,10 @@ It's his vulgarity that I can't take.
 1.1 I think it's a very vulgar house.   
 1.2 The film is tasteless, vulgar and even badly shot.
 
-\=========================
-
 I hate the vulgarity of this room. \[+ of\]   
 \==========================  
 \[disapproval\]  
 The women laughed coarsely at some vulgar jokes. 
-
-\==========================
 
 [↑ Back to index](#index)
 
@@ -29334,21 +35262,6 @@ stop or interrupt (someone) and detain them in conversation or trouble them in s
 
 [↑ Back to index](#index)
 
-# Weaned off
-
-"Weaned off" is a phrasal verb that means to gradually stop doing or using something:   
-"I'm gradually weaning myself off cigarettes".   
-"The doctor tried to wean her off sleeping pills".   
-"It's difficult to wean addicts off cocaine once they're hooked". 
-
-"Efforts to wean the country from its dependence on foreign oil".   
-"Updated bilateral trade pacts focused on sectors that China dominates—such as critical minerals and pharmaceutical supply chains—would also wean Washington and its partners off the Chinese market".   
-"European countries moved to wean themselves off Russian energy sources". 
-
-Deviousness
-
-[↑ Back to index](#index)
-
 # Weasel
 
 noun  
@@ -29361,6 +35274,20 @@ a deceitful or treacherous person.
 verb  
 achieve something by use of cunning or deceit.  
 "she suspects me of trying to weasel my way into his affections"
+
+[↑ Back to index](#index)
+
+# Weathering
+
+* **Literal:** Being worn down by weather or natural forces.
+
+* **Figurative:** Enduring difficult times or challenges.
+
+* **Examples:**
+
+  * “The rocks were *weathered* by years of rain.”
+
+  * “They’re *weathering* the crisis together.”
 
 [↑ Back to index](#index)
 
@@ -29396,17 +35323,6 @@ Sad and crying or feeling ready to start crying, liable to weep easily
 
 [↑ Back to index](#index)
 
-# Weigh in
-
-**Weighing a contestant**  
-The act of weighing an athlete, such as a boxer or jockey, before a competition. For example, "The boxers arrived for the pre-fight weigh-in".   
-**Contributing to a discussion**  
-To join a discussion, argument, or activity by saying something important, persuading someone, or doing something to help. For example, "We all weighed in with our suggestions".   
-**Bringing weight or influence to bear**  
-To bring one's weight or influence to bear, especially as a participant, contributor, or mediator. For example, "He weighed in with a few sharp comments"
-
-[↑ Back to index](#index)
-
 # well
 
 adverb
@@ -29434,6 +35350,22 @@ she would marry well or not at all
 they lived well and were generous with their money
 
 hail fellow, well met
+
+[↑ Back to index](#index)
+
+# whether
+
+conjunction
+
+expressing a doubt or choice between alternatives
+
+he seemed undecided whether to go or stay
+
+it is still not clear whether or not he realizes
+
+I'll see whether she's at home
+
+I'm going whether you like it or not
 
 [↑ Back to index](#index)
 
@@ -29487,6 +35419,16 @@ noun: whodunit
 a story or play about a murder in which the identity of the murderer is not revealed until the end.
 
 "Whodunit" is a type of detective fiction that focuses on the mystery of who committed a crime. It's a complex, plot-driven story that involves the audience in the same process of deduction as the protagonist. 
+
+[↑ Back to index](#index)
+
+# Wholeheartedly
+
+**Meaning:** With complete sincerity and enthusiasm.  
+ **Figurative meaning:** Fully committed emotionally or mentally.
+
+🗣 *“I agree with you wholeheartedly.”*  
+ 🗣 *“She supported the idea wholeheartedly.”*
 
 [↑ Back to index](#index)
 
@@ -29581,6 +35523,37 @@ It can describe both **physical movement** or **adjusting something in a flexibl
 
 [↑ Back to index](#index)
 
+# Wilderness
+
+**Meaning:** A wild, natural area with no people or buildings.  
+ **Figurative:** A confusing or unorganized place/situation.  
+ **Example:** *They camped in the wilderness for a week.* / *After the breakup, he felt lost in an emotional wilderness.*
+
+[↑ Back to index](#index)
+
+# Willful
+
+**Meaning:** Intentional, deliberate, or stubbornly determined.  
+ **Figurative meaning:** Can imply both strength of character or defiance.
+
+🗣 *“That was a willful act of disobedience.”*  
+ 🗣 *“She’s willful, but that’s what makes her a great leader.”*
+
+[↑ Back to index](#index)
+
+# Willingness
+
+**Meaning:** The readiness or desire to do something.  
+ **Figurative meaning:** Openness, cooperative attitude, or positive intention.
+
+🗣 *“I really appreciate your willingness to help.”*  
+ 🗣 *“His willingness to learn sets him apart.”*  
+ 🗣 *“There’s a willingness in the team to try new ideas.”*
+
+💡 *(Used to praise attitude rather than skill — “willingness” shows humility and motivation.)*
+
+[↑ Back to index](#index)
+
 # Wind whispering
 
 "Wind whispering" refers to the soft, gentle sound the wind makes as it moves through trees, grass, or other objects. It creates a hushed, almost spoken-like noise, often associated with a peaceful or mysterious atmosphere.
@@ -29657,6 +35630,16 @@ adjective/verb — (of a plant) shriveled or dried up from loss of moisture. Fig
 
 [↑ Back to index](#index)
 
+# Witness
+
+**Literal meaning:** To see an event happen.  
+ **Figurative meaning:** To experience or be part of something significant.
+
+🗣 *“I witnessed the accident.”*  
+ 🗣 *“We’re witnessing history in the making.”*
+
+[↑ Back to index](#index)
+
 # Witty
 
 हाजिर जवाब,  
@@ -29665,6 +35648,23 @@ adjective/verb — (of a plant) shriveled or dried up from loss of moisture. Fig
 
 Too clever or intelligent  
 combining clever conception and facetious expression; "his sermons were unpredictably witty and satirical as well as eloquent"
+
+[↑ Back to index](#index)
+
+# Wound
+
+**Meaning:** An injury or cut.  
+ **Figurative:** Emotional hurt.  
+ **Example:** *He had a deep wound on his arm.* / *Her words left an emotional wound.*
+
+[↑ Back to index](#index)
+
+# Wrangle
+
+verb — literal: to herd or manage livestock (as in "cattle wrangler"). Figurative: to argue persistently, especially over a decision or issue; or to manage something with effort/difficulty.
+
+**Literal:** "The cowboys wrangled the cattle back into the pen."
+**Figurative:** "The two teams wrangled over ownership of the shared library for weeks."
 
 [↑ Back to index](#index)
 
@@ -29753,6 +35753,50 @@ a weak or ineffectual person (often used as a general term of abuse).
 verb  
 fail to do or complete something as a result of fear or lack of confidence.  
 "she'll probably wuss out because she fears my mighty bowling prowess"
+
+[↑ Back to index](#index)
+
+# Yearning
+
+**Meaning:** Deep, emotional longing or desire.  
+ **Usage:**
+
+* *“She felt a yearning to return home.”*
+
+* *“His eyes showed a quiet yearning.”*
+
+[↑ Back to index](#index)
+
+# Yelped
+
+* **Literal:** Gave a short, sharp cry (from pain or surprise).
+
+* **Figurative:** Reacted quickly or emotionally to something shocking.
+
+* **Examples:**
+
+  * “The dog *yelped* when stepped on.”
+
+[↑ Back to index](#index)
+
+# Zeitgeist
+
+**Meaning:** The defining spirit or mood of a particular time in history, especially shown in art, culture, or trends.
+
+🗣 *“That movie perfectly captures the zeitgeist of the 90s.”*  
+ 🗣 *“AI is the zeitgeist of our generation.”*
+
+💡 *(Elegant and intellectual — literally means “time spirit” in German.)*
+
+[↑ Back to index](#index)
+
+# Zip
+
+noun/verb — noun: a fastener (zipper); informally, "nothing/zero" ("we got zip"). verb: to move very fast, or to close something with a zipper.
+
+"He zipped up his jacket." (verb, literal)
+"We got zip for a response from the vendor." (noun, informal — nothing)
+"She zipped through the code review in ten minutes." (verb, figurative — fast)
 
 [↑ Back to index](#index)
 
