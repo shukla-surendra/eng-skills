@@ -258,6 +258,58 @@ problems above.
       (80 total, 78 resolved here) — negligible, re-check next time
       `dedupe.py` runs across both files.
 
+### Phase 3c — Restructure `technical-english.md` into canonical form ✅ (done 2026-07-16)
+`technical-english.md` was the last file still in its raw, unconverted
+shape: numbered-list items (`N. **Word** — meaning.`) instead of `# Title`
+headings, no A–Z index/back-links, ~23 internal "already used earlier,
+skipping" placeholder lines instead of real dedup, and ~368 phrasal verbs
+sitting in a file meant for single technical verbs.
+
+- [x] Built `scripts/reorganize_technical_english.py`, reusing
+      `dedupe.py`'s `Entry`/`merge_bodies`/`dedupe_entries`/`render_index_doc`
+      rather than reinventing merge logic. Parses every
+      `N. **Term** — meaning.` line in the whole document (ignoring the
+      doc's own — unreliable — section boundaries: e.g. "Roll back" sat in
+      the single-verb list but is phrasal-shaped), drops the 23 "used
+      before/earlier, skipping" placeholder lines, and classifies each
+      remaining term by shape: 2–3 words ending in a common particle or
+      preposition (up/out/.../to/for/with/against/toward/between/from) →
+      phrasal verb → routed to `phrasal-verbs.md`; everything else stays.
+      A 12-entry manual override list caught verb+particle+object
+      collocations (`"Set up alerts"`, `"Scale out training"`, …) that are
+      genuine technical phrases, not clean phrasal-verb headwords, plus
+      `"Dry run"` (noun phrase, not a verb form — same call as `"Inside
+      out"` in Phase 3b) — found by reading the full 43-entry multi-word
+      "staying" bucket by hand before finalizing.
+- [x] The four separate "practice sentences" sections (identical purpose,
+      different example sets) were consolidated into one entry —
+      `Practice Sentences (Technical & Architectural English)` — instead
+      of creating four near-duplicate `P`-heading index entries.
+- [x] Dry-ran first: 661 real term lines (684 raw − 23 placeholders) →
+      293 verb-shaped stay in `technical-english.md` (+1 consolidated
+      practice entry = 294 total), 368 phrasal-shaped route to
+      `phrasal-verbs.md`.
+- [x] Applied: `technical-english.md` 11 sections → 294 A–Z entries with
+      index + back-links, matching every other word bank's format.
+      `phrasal-verbs.md` 834 → 1065 entries (368 routed in, 107 merged
+      title collisions via the existing dedupe machinery).
+- [x] Verified: `scripts/check_links.py` passes (94 files, all relative
+      links resolve), `mkdocs build` succeeds with no warnings, heading
+      counts match entry counts reported by the script exactly.
+      `README.md`'s file table updated (phrasal-verbs ~834→~1,065,
+      technical-english ~11 sections→~294 entries).
+- [x] `technical-english.md` gap-filling (2026-07-16, same day as the
+      structural pass, once the user asked for it directly): all 293
+      entries were terse one-liners with no example sentence. Added a
+      `Meaning:` line (lightly polished from the original) plus one
+      natural, workplace-register `Example:` sentence per entry, in 6
+      alphabetical batches of ~50 via `scripts/apply_enrich.py`, verifying
+      `grep -c "^# "` was unchanged (295) after every batch. Verified: 0
+      of the 293 entries lack both `Meaning:` and `Example:`,
+      `check_links.py` and `mkdocs build` still pass. Unlike
+      `vocab.md`/`phrasal-verbs.md`/`idioms.md` below, this file is now
+      fully gap-filled — no further Phase 4 tiers pending for it.
+
 ### Phase 4 — Fill missing explanations (definition / PoS / example / figurative vs literal)
 Multi-session grind, one file and one severity tier at a time. Never run a
 regex substitution that spans from one heading to "the next occurrence of the
@@ -416,4 +468,7 @@ draft `%%TITLE%%/%%PRON%%/%%END%%` entries, apply with
 | check_links.py | validate relative links | done |
 | dedupe.py | merge duplicate entries | done |
 | route.py | classify + route blocks to canonical files | **Phase 3** |
+| route_glossary_usage.py | classify + route glossary-usage.md into vocab/phrasal/idioms | done |
+| route_vocab_phrasal.py | reclassify misfiled entries between vocab.md/phrasal-verbs.md | done |
+| reorganize_technical_english.py | convert technical-english.md to canonical form + route its phrasal verbs | done |
 | export_cards.py | flash-card export | **Phase 5** |

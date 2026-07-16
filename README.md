@@ -9,11 +9,11 @@ Each file opens with a clickable **A–Z index** — tap a word to jump to it, a
 | File | What's in it | Entries |
 |------|--------------|--------:|
 | [Vocabulary](vocab.md) | Single words, with meanings, examples, and spoken usage | ~1,906 |
-| [Phrasal Verbs](phrasal-verbs.md) | Two/three-word verbs (*get off*, *push back*, …) | ~834 |
+| [Phrasal Verbs](phrasal-verbs.md) | Two/three-word verbs (*get off*, *push back*, …) | ~1,065 |
 | [Idioms](idioms.md) | Idiomatic expressions and how to use them | ~292 |
 | [Grammar Notes](grammar-notes.md) | Articles, until/by, frequency adverbs, used to, has/have had, question forms | ~10 |
 | [Speaking Toolkit](speaking-toolkit.md) | How to explain, frame sentences, use analogies, go deeper without losing the thread, plus connecting/meeting phrases | ~10 |
-| [Technical & Architectural English](technical-english.md) | Technical/architectural verbs and architect-style phrasal verbs | ~11 sections |
+| [Technical & Architectural English](technical-english.md) | Technical/architectural verbs and phrases, A–Z | ~294 |
 | [Business Communication](business-communication.md) | Business and meeting idioms, diplomatic phrasing | ~117 |
 | [Mental Models & Thinking Frameworks](mental-models.md) | Operating principles, decision frameworks, and habits for engineering judgment and leadership | 11 sections |
 | [Reference Tables](reference-tables.md) | Quick phrase → one-line meaning lookup tables | 2 tables |
