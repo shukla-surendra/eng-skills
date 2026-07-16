@@ -1,6 +1,6 @@
 # Phrasal Verbs
 
-> 822 entries · restructured 2026-07-16 · sorted A–Z
+> 834 entries · restructured 2026-07-16 · sorted A–Z
 
 ## Index
 
@@ -22,7 +22,7 @@
 
 **D**
 
-[day in and day out](#day-in-and-day-out) · [day tripper](#day-tripper) · [Dazzle me](#dazzle-me) · [Dedicate oneself to](#dedicate-oneself-to) · [Devious glances](#devious-glances) · [Did not see that coming](#did-not-see-that-coming) · [Die Down](#die-down) · [Disheveled | dishevel](#disheveled--dishevel) · [Dive into](#dive-into) · [Dolled up](#dolled-up) · [draw attention to](#draw-attention-to) · [Draw your attention](#draw-your-attention) · [Drift away](#drift-away) · [Drifted apart](#drifted-apart) · [Drifted off](#drifted-off) · [Drifted off to sleep](#drifted-off-to-sleep) · [Drill down into](#drill-down-into) · [Drop By](#drop-by) · [Drop out (of)](#drop-out-of) · [due diligence](#due-diligence)
+[day in and day out](#day-in-and-day-out) · [day tripper](#day-tripper) · [Dazzle me](#dazzle-me) · [Dedicate oneself to](#dedicate-oneself-to) · [Devious glances](#devious-glances) · [Did not see that coming](#did-not-see-that-coming) · [Die Down](#die-down) · [Disheveled | dishevel](#disheveled--dishevel) · [Dive into](#dive-into) · [Dolled up](#dolled-up) · [double down](#double-down) · [draw attention to](#draw-attention-to) · [Draw your attention](#draw-your-attention) · [Drift away](#drift-away) · [Drifted apart](#drifted-apart) · [Drifted off](#drifted-off) · [Drifted off to sleep](#drifted-off-to-sleep) · [Drill down into](#drill-down-into) · [Drop By](#drop-by) · [Drop out (of)](#drop-out-of) · [due diligence](#due-diligence)
 
 **E**
 
@@ -46,7 +46,7 @@
 
 **J**
 
-[Jerk around](#jerk-around) · [Jigsaw puzzle](#jigsaw-puzzle) · [Joint venture](#joint-venture) · [Jump at an opportunity](#jump-at-an-opportunity) · [Jump on the bandwagon](#jump-on-the-bandwagon) · [jump the gun](#jump-the-gun)
+[Jerk around](#jerk-around) · [Jigsaw puzzle](#jigsaw-puzzle) · [Joint venture](#joint-venture) · [Jump at an opportunity](#jump-at-an-opportunity) · [Jump on the bandwagon](#jump-on-the-bandwagon) · [Jump over](#jump-over) · [jump the gun](#jump-the-gun)
 
 **K**
 
@@ -54,11 +54,11 @@
 
 **L**
 
-[Lagging behind](#lagging-behind) · [lash out](#lash-out) · [Lay behind](#lay-behind) · [Lay bricks](#lay-bricks) · [Lay Down](#lay-down) · [Lay eyes on](#lay-eyes-on) · [Lay off](#lay-off) · [Lay Out / Laid Out](#lay-out--laid-out) · [Lean into](#lean-into) · [Leaped up](#leaped-up) · [Leave it off](#leave-it-off) · [Leave work to go home](#leave-work-to-go-home) · [Left and right](#left-and-right) · [Left off](#left-off) · [Left out](#left-out) · [Let Alone](#let-alone) · [let out](#let-out) · [Let Someone In](#let-someone-in) · [Let the cat out of the bag](#let-the-cat-out-of-the-bag) · [level with](#level-with) · [Life Won’t Spare You](#life-wont-spare-you) · [lift a finger](#lift-a-finger) · [listen up](#listen-up) · [Little by Little](#little-by-little) · [Lock in](#lock-in) · [Look after](#look-after) · [Look after/out](#look-afterout) · [Look down upon](#look-down-upon) · [Look for](#look-for) · [Look forward to](#look-forward-to) · [Look into](#look-into) · [Look on](#look-on) · [Look This Over and Sign This](#look-this-over-and-sign-this) · [Look Through](#look-through) · [Look up](#look-up) · [Look up to](#look-up-to) · [Loop back](#loop-back) · [loop in](#loop-in) · [Looped in](#looped-in) · [loosen up](#loosen-up) · [Lose Touch With](#lose-touch-with) · [lurking behind](#lurking-behind)
+[Lagging behind](#lagging-behind) · [lash out](#lash-out) · [Lay behind](#lay-behind) · [Lay bricks](#lay-bricks) · [Lay Down](#lay-down) · [Lay eyes on](#lay-eyes-on) · [Lay off](#lay-off) · [Lay Out / Laid Out](#lay-out--laid-out) · [Lean into](#lean-into) · [Leaped up](#leaped-up) · [Leave it off](#leave-it-off) · [Leave work to go home](#leave-work-to-go-home) · [Left and right](#left-and-right) · [Left off](#left-off) · [Left out](#left-out) · [Let Alone](#let-alone) · [let out](#let-out) · [Let Someone In](#let-someone-in) · [Let the cat out of the bag](#let-the-cat-out-of-the-bag) · [level with](#level-with) · [Life Won’t Spare You](#life-wont-spare-you) · [lift a finger](#lift-a-finger) · [line up](#line-up) · [listen up](#listen-up) · [Little by Little](#little-by-little) · [Lock in](#lock-in) · [Look after](#look-after) · [Look after/out](#look-afterout) · [Look down upon](#look-down-upon) · [Look for](#look-for) · [Look forward to](#look-forward-to) · [Look into](#look-into) · [Look on](#look-on) · [Look This Over and Sign This](#look-this-over-and-sign-this) · [Look Through](#look-through) · [Look up](#look-up) · [Look up to](#look-up-to) · [Loop back](#loop-back) · [loop in](#loop-in) · [Looped in](#looped-in) · [loosen up](#loosen-up) · [Lose Touch With](#lose-touch-with) · [lurking behind](#lurking-behind)
 
 **M**
 
-[Make a 180 Degree Turn](#make-a-180-degree-turn) · [Make an impression on](#make-an-impression-on) · [Make berth](#make-berth) · [Make It](#make-it) · [Make Oneself Useful](#make-oneself-useful) · [Make out](#make-out) · [make the most of](#make-the-most-of) · [Make up](#make-up) · [Mark of Somebody](#mark-of-somebody) · [Mash up](#mash-up) · [Mellow out](#mellow-out) · [Messed up](#messed-up) · [Mix up](#mix-up) · [Modable (Moldable)](#modable-moldable) · [Model after](#model-after) · [Moment of Truth](#moment-of-truth) · [Mood Swings](#mood-swings) · [Mote of dust](#mote-of-dust) · [Move Around](#move-around) · [Move Over](#move-over) · [Move past it](#move-past-it) · [moving forward](#moving-forward) · [Mutton chops](#mutton-chops)
+[Make a 180 Degree Turn](#make-a-180-degree-turn) · [Make an impression on](#make-an-impression-on) · [Make berth](#make-berth) · [Make It](#make-it) · [Make Oneself Useful](#make-oneself-useful) · [Make out](#make-out) · [make the most of](#make-the-most-of) · [Make up](#make-up) · [Mark of Somebody](#mark-of-somebody) · [Mash up](#mash-up) · [Mellow out](#mellow-out) · [Messed up](#messed-up) · [Mix up](#mix-up) · [Modable (Moldable)](#modable-moldable) · [Model after](#model-after) · [Moment of Truth](#moment-of-truth) · [Mood Swings](#mood-swings) · [Mote of dust](#mote-of-dust) · [Move Around](#move-around) · [Move Over](#move-over) · [Move past it](#move-past-it) · [moving forward](#moving-forward) · [Mugging up](#mugging-up) · [Mutton chops](#mutton-chops)
 
 **N**
 
@@ -70,7 +70,7 @@
 
 **P**
 
-[paint the picture](#paint-the-picture) · [Paint the town red](#paint-the-town-red) · [Pan out](#pan-out) · [Paradigm shift](#paradigm-shift) · [Pass on](#pass-on) · [Pave the Way](#pave-the-way) · [Pay homage](#pay-homage) · [Pay off](#pay-off) · [Pent up](#pent-up) · [Perked up](#perked-up) · [Personal best](#personal-best) · [Phase in](#phase-in) · [Phase out](#phase-out) · [Pick up](#pick-up) · [pipe dream](#pipe-dream) · [Pique Curiosity](#pique-curiosity) · [Pivot away](#pivot-away) · [Play around](#play-around) · [Play it By Ear](#play-it-by-ear) · [Plowed ahead](#plowed-ahead) · [point of view](#point-of-view) · [Point out](#point-out) · [Pop into one’s head](#pop-into-ones-head) · [Pop up](#pop-up) · [Potty mouth](#potty-mouth) · [Pound into](#pound-into) · [Practice makes perfect](#practice-makes-perfect) · [Prima Donna](#prima-donna) · [Pull (something) off](#pull-something-off) · [Pull a 180](#pull-a-180) · [Pull over](#pull-over) · [Pull Up](#pull-up) · [Pulled up](#pulled-up) · [Pulling things out of thin air](#pulling-things-out-of-thin-air) · [Pulls up](#pulls-up) · [Pumped up](#pumped-up) · [Punch a hole](#punch-a-hole) · [Push back](#push-back) · [Push through](#push-through) · [Put down](#put-down) · [Put forward](#put-forward) · [Put off](#put-off) · [Put on](#put-on) · [Put one's finger on the pulse of](#put-ones-finger-on-the-pulse-of) · [Put One’s Business in the Street](#put-ones-business-in-the-street) · [Put one’s money where one’s mouth is](#put-ones-money-where-ones-mouth-is) · [Put out](#put-out) · [Put out/off](#put-outoff) · [Put through](#put-through) · [Put two and two together](#put-two-and-two-together) · [Put Up](#put-up) · [Put up a fight](#put-up-a-fight) · [Put up with](#put-up-with) · [Put up with slackness](#put-up-with-slackness)
+[paint the picture](#paint-the-picture) · [Paint the town red](#paint-the-town-red) · [Pan out](#pan-out) · [Paradigm shift](#paradigm-shift) · [Pass on](#pass-on) · [Pave the Way](#pave-the-way) · [Pay homage](#pay-homage) · [Pay off](#pay-off) · [Pent up](#pent-up) · [Perked up](#perked-up) · [Personal best](#personal-best) · [Phase in](#phase-in) · [Phase out](#phase-out) · [Pick up](#pick-up) · [pipe dream](#pipe-dream) · [Pique Curiosity](#pique-curiosity) · [Pivot away](#pivot-away) · [Play around](#play-around) · [Play it By Ear](#play-it-by-ear) · [Plowed ahead](#plowed-ahead) · [point of view](#point-of-view) · [Point out](#point-out) · [Pop into one’s head](#pop-into-ones-head) · [Pop up](#pop-up) · [Potty mouth](#potty-mouth) · [Pound into](#pound-into) · [Practice makes perfect](#practice-makes-perfect) · [Prima Donna](#prima-donna) · [Pull (something) off](#pull-something-off) · [Pull a 180](#pull-a-180) · [Pull over](#pull-over) · [Pull Up](#pull-up) · [Pulled up](#pulled-up) · [Pulling things out of thin air](#pulling-things-out-of-thin-air) · [Pulls up](#pulls-up) · [Pumped up](#pumped-up) · [Punch a hole](#punch-a-hole) · [Push back](#push-back) · [Push through](#push-through) · [put across](#put-across) · [Put down](#put-down) · [Put forward](#put-forward) · [Put off](#put-off) · [Put on](#put-on) · [Put one's finger on the pulse of](#put-ones-finger-on-the-pulse-of) · [Put One’s Business in the Street](#put-ones-business-in-the-street) · [Put one’s money where one’s mouth is](#put-ones-money-where-ones-mouth-is) · [Put out](#put-out) · [Put out/off](#put-outoff) · [Put through](#put-through) · [Put two and two together](#put-two-and-two-together) · [Put Up](#put-up) · [Put up a fight](#put-up-a-fight) · [Put up with](#put-up-with) · [Put up with slackness](#put-up-with-slackness)
 
 **Q**
 
@@ -78,15 +78,15 @@
 
 **R**
 
-[R & R](#r--r) · [Rake up](#rake-up) · [Ramp up](#ramp-up) · [Rapid Fire](#rapid-fire) · [Rat race](#rat-race) · [Ratchet up](#ratchet-up) · [Ratting on](#ratting-on) · [Reach out](#reach-out) · [Read out](#read-out) · [Really coming along](#really-coming-along) · [Reminiscent smile](#reminiscent-smile) · [Resonate With](#resonate-with) · [Rest assured](#rest-assured) · [Rip apart](#rip-apart) · [Road Rage](#road-rage) · [Roll off](#roll-off) · [Roll up one’s sleeves](#roll-up-ones-sleeves) · [Roller coaster](#roller-coaster) · [Rolling up](#rolling-up) · [rough it](#rough-it) · [Rubbed me the wrong way](#rubbed-me-the-wrong-way) · [Rule of Thumb](#rule-of-thumb) · [Rule out](#rule-out) · [Run After](#run-after) · [Run Away/off](#run-awayoff) · [Run Down](#run-down) · [Run into](#run-into) · [Run into Rough weather](#run-into-rough-weather) · [Run out (of time)](#run-out-of-time) · [Run out of](#run-out-of) · [Run Out For](#run-out-for) · [Run Over](#run-over) · [Run past](#run-past) · [Run past someone](#run-past-someone) · [Run with something](#run-with-something)
+[R & R](#r--r) · [Rake up](#rake-up) · [Ramp up](#ramp-up) · [Rapid Fire](#rapid-fire) · [Rat race](#rat-race) · [Ratchet up](#ratchet-up) · [Ratting on](#ratting-on) · [Reach out](#reach-out) · [Read out](#read-out) · [Really coming along](#really-coming-along) · [Reminiscent smile](#reminiscent-smile) · [Resonate With](#resonate-with) · [Rest assured](#rest-assured) · [Rip apart](#rip-apart) · [Road Rage](#road-rage) · [Roll off](#roll-off) · [Roll up one’s sleeves](#roll-up-ones-sleeves) · [Roller coaster](#roller-coaster) · [Rolling up](#rolling-up) · [rough it](#rough-it) · [Rubbed me the wrong way](#rubbed-me-the-wrong-way) · [Rule of Thumb](#rule-of-thumb) · [Rule out](#rule-out) · [Run After](#run-after) · [Run Away/off](#run-awayoff) · [Run Down](#run-down) · [Run into](#run-into) · [Run into Rough weather](#run-into-rough-weather) · [Run out (of time)](#run-out-of-time) · [Run Out For](#run-out-for) · [Run out of](#run-out-of) · [Run Over](#run-over) · [Run past](#run-past) · [Run past someone](#run-past-someone) · [Run with something](#run-with-something)
 
 **S**
 
-[Salad Dressing](#salad-dressing) · [Save up (for)](#save-up-for) · [Scrape by](#scrape-by) · [Scrape up](#scrape-up) · [Scratch your own itch](#scratch-your-own-itch) · [Self fulfilling prophecy](#self-fulfilling-prophecy) · [Self-Inflicted Wound](#self-inflicted-wound) · [Sell me out](#sell-me-out) · [Sell out](#sell-out) · [Serenity Prayer](#serenity-prayer) · [Set Aside](#set-aside) · [Set it and forget it](#set-it-and-forget-it) · [Set off](#set-off) · [Set out](#set-out) · [Set up](#set-up) · [Settle for](#settle-for) · [Settle in](#settle-in) · [Shackles are off](#shackles-are-off) · [Shake up](#shake-up) · [Shard of Glass](#shard-of-glass) · [Sharpen One’s Ears](#sharpen-ones-ears) · [Shimmied out](#shimmied-out) · [Shoot me now](#shoot-me-now) · [Shop around](#shop-around) · [Shove up](#shove-up) · [Show Off](#show-off) · [Show up](#show-up) · [Shrieked indignantly](#shrieked-indignantly) · [Shut down](#shut-down) · [Shut the hell up](#shut-the-hell-up) · [Shut up](#shut-up) · [Sign language](#sign-language) · [Sign up](#sign-up) · [silver lining](#silver-lining) · [Simple Technical Example](#simple-technical-example) · [Siphoning of funds](#siphoning-of-funds) · [Sit in](#sit-in) · [Sit Tight](#sit-tight) · [Size out](#size-out) · [Sizzle out](#sizzle-out) · [Skirted past](#skirted-past) · [Slip in](#slip-in) · [Slipped off](#slipped-off) · [Slumped down](#slumped-down) · [Slumped Over](#slumped-over) · [Small English Improvement](#small-english-improvement) · [Sneak out](#sneak-out) · [Sneak up on](#sneak-up-on) · [Sneaking around](#sneaking-around) · [Snowball Effect](#snowball-effect) · [Snuggle up](#snuggle-up) · [Snuggled closer](#snuggled-closer) · [So be it](#so-be-it) · [Soak up some sun](#soak-up-some-sun) · [Something or other](#something-or-other) · [Something was clogging my throat](#something-was-clogging-my-throat) · [Sort of](#sort-of) · [Sort out](#sort-out) · [Sound like a broken record](#sound-like-a-broken-record) · [Space out](#space-out) · [Spark of](#spark-of) · [Speak up](#speak-up) · [Speak volumes](#speak-volumes) · [Sped down](#sped-down) · [Speed up](#speed-up) · [Spiral down](#spiral-down) · [Spit in someone’s face](#spit-in-someones-face) · [Sponge up](#sponge-up) · [Spot on](#spot-on) · [Sprinkle them in](#sprinkle-them-in) · [Stand out](#stand-out) · [start off](#start-off) · [Start off (start (something) off)](#start-off-start-something-off) · [stay ahead of the curve](#stay-ahead-of-the-curve) · [steeper/steep learning curve](#steepersteep-learning-curve) · [stems from](#stems-from) · [Step down](#step-down) · [Sticking point](#sticking-point) · [Stinky response](#stinky-response) · [Stomping around](#stomping-around) · [stop short of](#stop-short-of) · [stop short of doing](#stop-short-of-doing) · [Stress Out](#stress-out) · [Strew across](#strew-across) · [Strewn || strew || strewed || strewn / strewed](#strewn--strew--strewed--strewn--strewed) · [Strike a chord](#strike-a-chord) · [Strike up a conversation](#strike-up-a-conversation) · [Stumble across](#stumble-across) · [Stumble into](#stumble-into) · [Stumble upon](#stumble-upon) · [Sugar Rush](#sugar-rush) · [Sum up](#sum-up) · [Synonymous With](#synonymous-with)
+[Salad Dressing](#salad-dressing) · [Save up (for)](#save-up-for) · [Scrape by](#scrape-by) · [Scrape up](#scrape-up) · [Scratch your own itch](#scratch-your-own-itch) · [Self fulfilling prophecy](#self-fulfilling-prophecy) · [Self-Inflicted Wound](#self-inflicted-wound) · [Sell me out](#sell-me-out) · [Sell out](#sell-out) · [Serenity Prayer](#serenity-prayer) · [Set Aside](#set-aside) · [Set it and forget it](#set-it-and-forget-it) · [Set off](#set-off) · [Set out](#set-out) · [Set up](#set-up) · [Settle for](#settle-for) · [Settle in](#settle-in) · [Shackles are off](#shackles-are-off) · [Shake up](#shake-up) · [Shard of Glass](#shard-of-glass) · [Sharpen One’s Ears](#sharpen-ones-ears) · [shed light on](#shed-light-on) · [Shimmied out](#shimmied-out) · [Shoot me now](#shoot-me-now) · [Shop around](#shop-around) · [Shove up](#shove-up) · [Show Off](#show-off) · [Show up](#show-up) · [Shrieked indignantly](#shrieked-indignantly) · [Shut down](#shut-down) · [Shut the hell up](#shut-the-hell-up) · [Shut up](#shut-up) · [Sign language](#sign-language) · [Sign up](#sign-up) · [silver lining](#silver-lining) · [Simple Technical Example](#simple-technical-example) · [Siphoning of funds](#siphoning-of-funds) · [Sit in](#sit-in) · [Sit Tight](#sit-tight) · [Size out](#size-out) · [Sizzle out](#sizzle-out) · [skim through](#skim-through) · [SKIMMED (THROUGH)](#skimmed-through) · [Skirted past](#skirted-past) · [Slip in](#slip-in) · [Slipped off](#slipped-off) · [Slumped down](#slumped-down) · [Slumped Over](#slumped-over) · [Small English Improvement](#small-english-improvement) · [Sneak out](#sneak-out) · [Sneak up on](#sneak-up-on) · [Sneaking around](#sneaking-around) · [Snowball Effect](#snowball-effect) · [Snuggle up](#snuggle-up) · [Snuggled closer](#snuggled-closer) · [So be it](#so-be-it) · [Soak up some sun](#soak-up-some-sun) · [Something or other](#something-or-other) · [Something was clogging my throat](#something-was-clogging-my-throat) · [Sort of](#sort-of) · [Sort out](#sort-out) · [Sound like a broken record](#sound-like-a-broken-record) · [Space out](#space-out) · [Spark of](#spark-of) · [Speak up](#speak-up) · [Speak volumes](#speak-volumes) · [Sped down](#sped-down) · [Speed up](#speed-up) · [Spiral down](#spiral-down) · [Spit in someone’s face](#spit-in-someones-face) · [Sponge up](#sponge-up) · [Spot on](#spot-on) · [Sprinkle them in](#sprinkle-them-in) · [Stand out](#stand-out) · [start off](#start-off) · [Start off (start (something) off)](#start-off-start-something-off) · [stay ahead of the curve](#stay-ahead-of-the-curve) · [steeper/steep learning curve](#steepersteep-learning-curve) · [stems from](#stems-from) · [Step down](#step-down) · [Sticking point](#sticking-point) · [Stinky response](#stinky-response) · [Stomping around](#stomping-around) · [stop short of](#stop-short-of) · [stop short of doing](#stop-short-of-doing) · [Stress Out](#stress-out) · [Strew across](#strew-across) · [Strewn || strew || strewed || strewn / strewed](#strewn--strew--strewed--strewn--strewed) · [Strike a chord](#strike-a-chord) · [Strike up a conversation](#strike-up-a-conversation) · [Stumble across](#stumble-across) · [Stumble into](#stumble-into) · [Stumble upon](#stumble-upon) · [Sugar Rush](#sugar-rush) · [Sum up](#sum-up) · [Synonymous With](#synonymous-with)
 
 **T**
 
-[Take a step back](#take-a-step-back) · [Take away](#take-away) · [Take care of](#take-care-of) · [Take hold of](#take-hold-of) · [Take It Slow](#take-it-slow) · [Take note of something](#take-note-of-something) · [Take off](#take-off) · [Take on](#take-on) · [Take out to dinner](#take-out-to-dinner) · [Take over](#take-over) · [Take someone down](#take-someone-down) · [Take someone’s word for it](#take-someones-word-for-it) · [Take the Leap](#take-the-leap) · [Take up](#take-up) · [Take your mind off](#take-your-mind-off) · [Talk in circles](#talk-in-circles) · [Talk to vs Talk with](#talk-to-vs-talk-with) · [Tap into](#tap-into) · [Tapped Out / Tap Out](#tapped-out--tap-out) · [Team up](#team-up) · [Tempest [Noun]](#tempest-noun) · [Test the waters](#test-the-waters) · [That was a stall](#that-was-a-stall) · [The hours dragged on](#the-hours-dragged-on) · [The limelight](#the-limelight) · [The real deal](#the-real-deal) · [There is no finish line](#there-is-no-finish-line) · [Think for oneself](#think-for-oneself) · [Think of](#think-of) · [Think outside of box](#think-outside-of-box) · [This is my call](#this-is-my-call) · [This just in](#this-just-in) · [Thrift shop](#thrift-shop) · [Throw In](#throw-in) · [Throw someone off](#throw-someone-off) · [thrust upon us](#thrust-upon-us) · [Tickle One’s Curiosity](#tickle-ones-curiosity) · [Ties back](#ties-back) · [Time to turn the page](#time-to-turn-the-page) · [Tip of the Iceberg](#tip-of-the-iceberg) · [to a certain extent](#to-a-certain-extent) · [To anchor this idea](#to-anchor-this-idea) · [To each their own](#to-each-their-own) · [To go out with someone](#to-go-out-with-someone) · [To make time for something (by adjusting other activities)](#to-make-time-for-something-by-adjusting-other-activities) · [To put away](#to-put-away) · [To vent at someone](#to-vent-at-someone) · [totes inappropes](#totes-inappropes) · [Touch base](#touch-base) · [Touch point](#touch-point) · [Touch upon](#touch-upon) · [tourist trap](#tourist-trap) · [Tousle vs Unkempt](#tousle-vs-unkempt) · [Tousled || Tousle](#tousled--tousle) · [Trailed off](#trailed-off) · [Traipsing out](#traipsing-out) · [Trample (on/over) somebody/something](#trample-onover-somebodysomething) · [Trudged / trudge](#trudged--trudge) · [Truth hurts](#truth-hurts) · [tumble down](#tumble-down) · [Turn Around](#turn-around) · [Turn Down](#turn-down) · [Turn On](#turn-on) · [Turn one’s back](#turn-ones-back) · [Turn Out](#turn-out) · [Turn Over](#turn-over) · [Turn the Tide (in Battlefield)](#turn-the-tide-in-battlefield) · [Turn Upside Down](#turn-upside-down) · [Turned on me](#turned-on-me) · [Two slides of the same coin](#two-slides-of-the-same-coin)
+[Take a step back](#take-a-step-back) · [Take away](#take-away) · [Take care of](#take-care-of) · [Take hold of](#take-hold-of) · [Take It Slow](#take-it-slow) · [Take note of something](#take-note-of-something) · [Take off](#take-off) · [Take on](#take-on) · [Take out to dinner](#take-out-to-dinner) · [Take over](#take-over) · [Take someone down](#take-someone-down) · [Take someone’s word for it](#take-someones-word-for-it) · [Take the Leap](#take-the-leap) · [Take up](#take-up) · [Take your mind off](#take-your-mind-off) · [Talk in circles](#talk-in-circles) · [Talk to vs Talk with](#talk-to-vs-talk-with) · [Tap into](#tap-into) · [taper off](#taper-off) · [Tapped Out / Tap Out](#tapped-out--tap-out) · [Team up](#team-up) · [Tempest [Noun]](#tempest-noun) · [Test the waters](#test-the-waters) · [That was a stall](#that-was-a-stall) · [The hours dragged on](#the-hours-dragged-on) · [The limelight](#the-limelight) · [The real deal](#the-real-deal) · [There is no finish line](#there-is-no-finish-line) · [Think for oneself](#think-for-oneself) · [Think of](#think-of) · [Think outside of box](#think-outside-of-box) · [Think through](#think-through) · [This is my call](#this-is-my-call) · [This just in](#this-just-in) · [Thrift shop](#thrift-shop) · [Throw In](#throw-in) · [Throw someone off](#throw-someone-off) · [thrust upon us](#thrust-upon-us) · [Tickle One’s Curiosity](#tickle-ones-curiosity) · [Ties back](#ties-back) · [Time to turn the page](#time-to-turn-the-page) · [Tip of the Iceberg](#tip-of-the-iceberg) · [to a certain extent](#to-a-certain-extent) · [To anchor this idea](#to-anchor-this-idea) · [To each their own](#to-each-their-own) · [To go out with someone](#to-go-out-with-someone) · [To make time for something (by adjusting other activities)](#to-make-time-for-something-by-adjusting-other-activities) · [To put away](#to-put-away) · [To vent at someone](#to-vent-at-someone) · [totes inappropes](#totes-inappropes) · [Touch base](#touch-base) · [Touch point](#touch-point) · [Touch upon](#touch-upon) · [tourist trap](#tourist-trap) · [Tousle vs Unkempt](#tousle-vs-unkempt) · [Tousled || Tousle](#tousled--tousle) · [Trailed off](#trailed-off) · [Traipsing out](#traipsing-out) · [Trample (on/over) somebody/something](#trample-onover-somebodysomething) · [Trudged / trudge](#trudged--trudge) · [Truth hurts](#truth-hurts) · [Try out](#try-out) · [tumble down](#tumble-down) · [Turn Around](#turn-around) · [Turn Down](#turn-down) · [Turn On](#turn-on) · [Turn one’s back](#turn-ones-back) · [Turn Out](#turn-out) · [Turn Over](#turn-over) · [Turn the Tide (in Battlefield)](#turn-the-tide-in-battlefield) · [Turn Upside Down](#turn-upside-down) · [Turned on me](#turned-on-me) · [Two slides of the same coin](#two-slides-of-the-same-coin)
 
 **U**
 
@@ -94,7 +94,7 @@
 
 **W**
 
-[Waded into](#waded-into) · [Wait out](#wait-out) · [Walk and talk](#walk-and-talk) · [Walk around](#walk-around) · [Walk away](#walk-away) · [Walk through](#walk-through) · [Walked past me](#walked-past-me) · [was not the thing yet](#was-not-the-thing-yet) · [wash up](#wash-up) · [Watered down](#watered-down) · [way out](#way-out) · [Weaned off](#weaned-off) · [Weigh In](#weigh-in) · [weigh on](#weigh-on) · [Wet Work](#wet-work) · [What are you so bouncy about ?](#what-are-you-so-bouncy-about-) · [What’re you up to](#whatre-you-up-to) · [Where rubber meets the road](#where-rubber-meets-the-road) · [Whether This Is the End of the Road](#whether-this-is-the-end-of-the-road) · [whip up](#whip-up) · [Who to turn to](#who-to-turn-to) · [Wild west](#wild-west) · [Wind up](#wind-up) · [With the end in mind](#with-the-end-in-mind) · [Withdraw from](#withdraw-from) · [Without fail](#without-fail) · [Work on](#work-on) · [Work Oneself to the Bone](#work-oneself-to-the-bone) · [Work out](#work-out) · [Work up](#work-up) · [Wrap Up](#wrap-up) · [Write off](#write-off) · [Write Off / written off](#write-off--written-off) · [Wrong someone](#wrong-someone)
+[Waded into](#waded-into) · [Wait out](#wait-out) · [Walk and talk](#walk-and-talk) · [Walk around](#walk-around) · [Walk away](#walk-away) · [Walk through](#walk-through) · [Walked past me](#walked-past-me) · [was not the thing yet](#was-not-the-thing-yet) · [wash up](#wash-up) · [Watered down](#watered-down) · [way out](#way-out) · [Wean off](#wean-off) · [Weaned off](#weaned-off) · [Weigh In](#weigh-in) · [weigh on](#weigh-on) · [Wet Work](#wet-work) · [What are you so bouncy about ?](#what-are-you-so-bouncy-about-) · [What’re you up to](#whatre-you-up-to) · [Where rubber meets the road](#where-rubber-meets-the-road) · [Whether This Is the End of the Road](#whether-this-is-the-end-of-the-road) · [whip up](#whip-up) · [Who to turn to](#who-to-turn-to) · [Wild west](#wild-west) · [Wind up](#wind-up) · [With the end in mind](#with-the-end-in-mind) · [Withdraw from](#withdraw-from) · [Without fail](#without-fail) · [Work on](#work-on) · [Work Oneself to the Bone](#work-oneself-to-the-bone) · [Work out](#work-out) · [Work up](#work-up) · [Wrap Up](#wrap-up) · [Write off](#write-off) · [Write Off / written off](#write-off--written-off) · [Wrong someone](#wrong-someone)
 
 **Y**
 
@@ -379,12 +379,16 @@ To adhere the rules
 We must abide by the company policy.  
 ---
 
+To follow rules or laws.
+
 [↑ Back to index](#index)
 
 # Act upon
 
 To follow  
 Ram always acts upon my advice.
+
+To take action based on something.
 
 [↑ Back to index](#index)
 
@@ -570,6 +574,8 @@ idiom (informal) — will not be accepted, approved, or believed; won't work.
 3. Indicating the end of something.  
 4. Feeling overwhelmed or sore.  
 5. Excessive focus or attention.
+
+Everywhere; also used to mean something is finished.
 
 [↑ Back to index](#index)
 
@@ -1507,8 +1513,7 @@ It’s often used in the context of relationships, friendships, or even work sit
 
 1. **Enter suddenly and energetically**
 
-   * Example: *He blasted into the meeting room without knocking.*  
-      (Meaning: He entered very forcefully and energetically.)
+**Enter suddenly and energetically** Example: *He blasted into the meeting room without knocking.*  (Meaning: He entered very forcefully and energetically.)
 
 2. **Start doing something suddenly and with energy**
 
@@ -1672,6 +1677,8 @@ adjective phrase — extremely obvious; impossible to miss, deny, or misundersta
 
 "Blend them together" means to mix two or more things thoroughly, combining them so completely that the separate parts can no longer be easily distinguished; essentially, to create a smooth, unified mixture by combining them fully.
 
+Combine two or more elements smoothly.
+
 [↑ Back to index](#index)
 
 # Blink of an eye
@@ -1704,6 +1711,10 @@ It refers to a **very short amount of time**, often emphasizing how fast or unex
 
 # blow away
 
+**Meaning:** To impress strongly or be very surprised.  
+**Example:** The performance blew me away.  
+**Context:** Impressed.
+
 verb
 
 impress someone greatly
@@ -1714,7 +1725,7 @@ I'm blown away by his new poem
 
 # Blow out
 
-To extinguish 
+To extinguish; also means to defeat easily in sports.
 
 He blew out the candle.  
 ---
@@ -1831,6 +1842,10 @@ Since you're an architect and engineer, you might say:
 
 # bowl over
 
+**Meaning:** To surprise or impress someone greatly.  
+**Example:** His kindness bowled me over.  
+**Context:** Surprise.
+
 verb
 
 knock someone down
@@ -1881,6 +1896,8 @@ Meaning: To expand or extend one’s interests.
 * Example 1: I’m leaving the company to branch out on my own.  
 * Example 2: The company is planning to branch out into new international markets.
 
+To expand into new areas or markets.
+
 [↑ Back to index](#index)
 
 # bread and butter
@@ -1922,6 +1939,12 @@ To collapse
 
 All the poorly constructed houses broke down.
 
+To stop functioning; emotionally collapse; or analyze into smaller parts.
+
+Repeated: To stop working, collapse, or analyze.
+
+Repeated: To stop working or decompose.
+
 [↑ Back to index](#index)
 
 # Break into
@@ -1930,6 +1953,8 @@ Meaning: To enter or gain access to a new market or industry.
 
 * Example 1: The company aims to break into the international market next year.  
 * Example 2: They broke into the tech industry with their groundbreaking software.
+
+To enter by force; or start doing something suddenly.
 
 [↑ Back to index](#index)
 
@@ -1963,6 +1988,8 @@ Meaning: To end a relationship or partnership.
 
 I broke off with her.
 
+To end suddenly (talks, engagement).
+
 [↑ Back to index](#index)
 
 # Break out
@@ -1975,11 +2002,13 @@ To spread
 
 The disease has broken out in the city.
 
+To escape or start suddenly (war, fire, disease).
+
 [↑ Back to index](#index)
 
 # Break up
 
-To end a relationship
+To end a relationship; or disperse.
 
 I broak up with her.
 
@@ -2000,6 +2029,8 @@ Meaning: To cause or initiate a change or result.
 * Example 1: The new management team aims to bring about positive changes in the company.  
 * Example 2: His ideas brought about a revolutionary shift in the industry.
 
+To cause something to happen.
+
 [↑ Back to index](#index)
 
 # Bring in
@@ -2008,6 +2039,8 @@ Meaning: To introduce or implement something new.
 
 * Example 1: The company plans to bring in a new sales strategy next quarter.  
 * Example 2: The manager brought in an external consultant to improve team performance.
+
+To introduce (new law, idea, person).
 
 [↑ Back to index](#index)
 
@@ -2028,6 +2061,8 @@ To foster
 They brought me up.  
 I was brought up in Dehradun  
 ---
+
+To mention; or to raise a child.
 
 [↑ Back to index](#index)
 
@@ -2215,6 +2250,8 @@ I bumped into her on the way back from the hospital.
 🗣 *“I bumped into my old teacher at the mall.”*  
  🗣 *“We bumped into each other after years — such a coincidence\!”*
 
+To meet someone by chance.
+
 [↑ Back to index](#index)
 
 # By leaps and bounds
@@ -2238,6 +2275,10 @@ To cancels
 I was calling off the meeting  
 ---
 
+To cancel something.
+
+Repeated: To cancel.
+
 [↑ Back to index](#index)
 
 # Call on
@@ -2246,6 +2287,8 @@ Meaning: To visit or request someone to do something.
 
 * Example 1: The client called on us to present our proposal.  
 * Example 2: The teacher called on her to answer the question.
+
+To request someone to speak or act.
 
 [↑ Back to index](#index)
 
@@ -2399,6 +2442,8 @@ The phrase **"call upon"** has several meanings depending on the context. Here a
 
    * *They called upon God for help.*
 
+To formally ask someone to do something.
+
 [↑ Back to index](#index)
 
 # Calm down
@@ -2457,6 +2502,8 @@ Meaning: To continue or proceed with an activity.
 He could not carry on his project due to not having enough money.  
 ---
 
+Repeated: To continue.
+
 [↑ Back to index](#index)
 
 # Carry out
@@ -2465,6 +2512,8 @@ Meaning: To perform or complete a task or action.
 
 * Example 1: We need to carry out market research before launching the new product.  
 * Example 2: The scientists carried out an important experiment to test their hypothesis.
+
+To perform or execute a task.
 
 [↑ Back to index](#index)
 
@@ -2561,6 +2610,8 @@ Meaning: To profit or benefit from a situation or opportunity.
 * Example 1: The company was able to cash in on the growing demand for eco-friendly products.  
 * Example 2: She cashed in her shares at the peak of the market.
 
+To convert to money; to take advantage of something.
+
 [↑ Back to index](#index)
 
 # Cast off
@@ -2569,6 +2620,8 @@ To abandon
 
 Snake casts off the outer skin.  
 ---
+
+To discard or get rid of.
 
 [↑ Back to index](#index)
 
@@ -2615,6 +2668,8 @@ Meaning: To update or complete something that was missed or delayed.
 
 * Example 1: I need to catch up on my emails after being out of the office.  
 * Example 2: He spent the weekend catching up on his reading assignments.
+
+To make up for lost progress.
 
 [↑ Back to index](#index)
 
@@ -2698,6 +2753,8 @@ Meaning: To register or report arrival at a place.
 
 **Check in** – To register at a hotel or airport.  
  We checked in at 3 PM.
+
+To register at a hotel or airport; or touch base.
 
 [↑ Back to index](#index)
 
@@ -2822,6 +2879,8 @@ To **interrupt or join in** a discussion, usually to offer your thoughts or agre
 
 * *Add your two cents* (informal opinion)
 
+To interrupt or join a conversation with a comment.
+
 [↑ Back to index](#index)
 
 # Chip In
@@ -2847,6 +2906,8 @@ join or interrupt a conversation by making a remark.
 **Ideas or Suggestions:**  
 "Feel free to chip in if you have any suggestions for the new design."  
 "During the discussion, she chipped in with a brilliant idea."
+
+To contribute money or effort collectively.
 
 [↑ Back to index](#index)
 
@@ -2879,6 +2940,10 @@ It suggests that even small, consistent actions can lead to big results over tim
 [↑ Back to index](#index)
 
 # choke back
+
+**Meaning:** To hold back tears or emotions.  
+**Example:** She choked back her tears during the speech.  
+**Context:** Emotions.
 
 verb
 
@@ -2943,6 +3008,8 @@ increase the level or standard
 
 the restaurant raised the bar for contemporary Scottish cuisine in the capital
 
+Return to a topic or person later.
+
 [↑ Back to index](#index)
 
 # Clap back
@@ -2952,9 +3019,15 @@ informal•US
 respond quickly to critical remarks or unfair treatment.  
 "she is not afraid to clap back at the haters when they use homophobic slurs"
 
+To respond sharply or insultingly to criticism.
+
 [↑ Back to index](#index)
 
 # clean up
+
+**Meaning:** To tidy or make a place clean; also, to fix or improve a situation.  
+**Example:** We need to clean up this mess before the guests arrive.  
+**Context:** Housekeeping, fixing problems.
 
 verb
 
@@ -3084,6 +3157,8 @@ Meaning: To stop operating.
 * Example 1: The firm has decided to close down its Chicago branch.  
 * Example 2: Many small businesses were forced to close down due to the pandemic.
 
+To permanently shut a business.
+
 [↑ Back to index](#index)
 
 # Clouding judgment
@@ -3114,6 +3189,8 @@ meet or find someone or something by chance
 I came across these old photos recently
 
 during one of his trips he came across an old friend
+
+To appear a certain way; or to find unexpectedly.
 
 [↑ Back to index](#index)
 
@@ -3172,6 +3249,8 @@ To pass
 
 He just came by me but i ignored
 
+To obtain something; or visit briefly.
+
 [↑ Back to index](#index)
 
 # Come down
@@ -3179,6 +3258,8 @@ He just came by me but i ignored
 Decrease in the price
 
 Prices are coming down
+
+To decline, fall, or decrease.
 
 [↑ Back to index](#index)
 
@@ -3236,6 +3317,10 @@ I hope the list key is going to surface again
 Come on over, spend a weekend and discover some Texan hospitality\!"
 
 In order to survive and complete my mission, I would have to somehow fit in with the human life form.
+
+**Meaning:** To invite someone to visit.  
+ **Example:** Why don’t you come on over this evening?  
+ **Context:** Invitation.
 
 [↑ Back to index](#index)
 
@@ -3383,6 +3468,8 @@ Increase in the price
 
 Price are coming up.
 
+To arise or occur unexpectedly.
+
 [↑ Back to index](#index)
 
 # Come up with
@@ -3510,6 +3597,10 @@ For example:
 
 # crack up
 
+**Meaning:** To laugh uncontrollably or to become mentally ill.  
+**Example:** The comedian cracked us up.  
+**Context:** Humor, mental health.
+
 verb
 
 burst into laughter
@@ -3612,11 +3703,13 @@ Meaning: To reduce or decrease something, such as expenses or staff.
 * Example 1: Due to budget constraints, we had to cut back on marketing expenses.  
 * Example 2: The company decided to cut back on unnecessary meetings to save time.
 
+To reduce (expenses, activities).
+
 [↑ Back to index](#index)
 
 # Cut down
 
-To reduce
+Repeated: To reduce.
 
 Prices are cut down by a great extent  
 ---
@@ -3631,6 +3724,8 @@ Meaning:
 * To decrease consumption.  
 * Example 1: "I'm cutting down on sugar to improve my health."  
 * Example 2: "They need to cut down on expenses to save more money."
+
+To reduce something (like expenses, sugar).
 
 [↑ Back to index](#index)
 
@@ -3655,6 +3750,10 @@ To end
 
 He cut off the phone  
 ---
+
+To disconnect (call, utilities); or isolate.
+
+Repeated: To stop supply or communication.
 
 [↑ Back to index](#index)
 
@@ -3832,6 +3931,14 @@ Dressed up to the nines, Spiffed up, Spruced up, Togged up, Glam up, and Pretty 
 
 Dressed or fixed up smartly and, often, ostentatiously, usually for a special occasion. For example, There's no need to get all dolled up—it's just a picnic , or They dolled up the classroom for parents' night . This expression alludes to a person or object being as attractive as a pretty doll.
 
+Dressed nicely or glamorously.
+
+[↑ Back to index](#index)
+
+# double down
+
+*(no definition captured in original notes — flagged for manual fill)*
+
 [↑ Back to index](#index)
 
 # draw attention to
@@ -3896,6 +4003,8 @@ To **slowly lose focus, interest, or connection**, without realizing it.
 When you drift off, you fall asleep gradually and peacefully. If you woke up early this morning, you may drift off as you lounge on the couch watching TV tonight. To drift off is to be taken and carried into sleep, the way a boat might drift away on the water.  
 "Drifted off" is an informal phrasal verb that means to gradually fall asleep. For example, you might drift off while watching TV or listening to a boring lecture. 
 
+To fall asleep gradually.
+
 [↑ Back to index](#index)
 
 # Drifted off to sleep
@@ -3914,6 +4023,8 @@ When you drift off, you fall asleep gradually and peacefully. If you woke up ear
 idiom
 
 examine or investigate something in detail
+
+Explore deeper or analyze in detail.
 
 [↑ Back to index](#index)
 
@@ -4006,6 +4117,10 @@ Meaning: To be overwhelmed or consumed by a feeling or thought.
 Example:  
 "Guilt was eating him up inside."  
 "The suspense is eating me up—I can’t wait to know what happens next."
+
+**Meaning:** Consuming something rapidly or using resources quickly.  
+ **Example:** The project is eating up all our budget.  
+ **Context:** Usage.
 
 [↑ Back to index](#index)
 
@@ -4258,6 +4373,8 @@ idiom (British, informal) — "Would you like a cup of tea?" Here, *fancy* means
 
 “Far from over” means there is still much more to be done or resolved before something is completed. It is often a response to a situation that is still in progress and apparently certain, but not “done and dusted” or completed.
 
+Something is not near completion; more to come.
+
 [↑ Back to index](#index)
 
 # Fend off
@@ -4382,6 +4499,8 @@ Meaning: To provide information or substitute for someone temporarily.
 * Example 1: Can you fill in for me while I’m on vacation?  
 * Example 2: Please fill in the blanks to complete the form.
 
+To complete; or substitute temporarily.
+
 [↑ Back to index](#index)
 
 # Fill in for
@@ -4412,6 +4531,8 @@ Meaning: To reach maximum capacity or occupancy.
 * Example 1: The conference room filled up quickly, so we had to find an alternative space.  
 * Example 2: The parking lot filled up within minutes of opening.
 
+To make full.
+
 [↑ Back to index](#index)
 
 # Find One’s Bearing
@@ -4425,6 +4546,8 @@ Meaning: To reach maximum capacity or occupancy.
 
 **Find out** – To discover information.  
  I found out the truth yesterday.
+
+To discover or learn something new.
 
 [↑ Back to index](#index)
 
@@ -4484,6 +4607,8 @@ Example: "Her tennis coach advised her to improve her follow-through for a more 
 
 Meaning: To make sure that all necessary steps are taken to achieve a desired outcome.  
 Example: "He will follow through with the project to ensure its success."
+
+To complete an action or fulfill a commitment.
 
 [↑ Back to index](#index)
 
@@ -4703,9 +4828,15 @@ Meaning: To prepare or get ready for something.
 * Example 1: The team is gearing up for the product launch next week.  
 * Example 2: We’re gearing up for the annual conference.
 
+To get ready or prepare.
+
 [↑ Back to index](#index)
 
 # get across
+
+**Meaning:** To successfully communicate or explain.  
+**Example:** He got his point across during the meeting.  
+**Context:** Communication.
 
 verb
 
@@ -4767,6 +4898,15 @@ he does not get along with his son
 
 # get around
 
+**Meaning:** To travel or move from place to place.  
+**Example:** It’s easy to get around the city by bike.  
+**Context:** Transportation.
+
+Also a phrasal verb of *get*, with two further senses:
+
+1. To coax or persuade someone to do or allow something that they initially do not want to. "You're not getting round me that easily."
+2. To deal successfully with a problem.
+
 Verb छुटकारा पाना
 
 go places, especially by some kind of transportation
@@ -4796,6 +4936,10 @@ used to express disbelief or scepticism
 “I am Spanish.” “Get away.” “I am. I can prove it.”
 
 “It's all true\!” “ Get away with you. It's all rubbish made up by the newspapers.”
+
+**Meaning:** To escape or take a vacation.  
+**Example:** We need to get away for a few days.  
+**Context:** Travel, escape.
 
 [↑ Back to index](#index)
 
@@ -4964,6 +5108,8 @@ British
 have a harmonious or friendly relationship.  
 "they seem to get on pretty well"
 
+To board a vehicle; also means to have a good relationship.
+
 [↑ Back to index](#index)
 
 # Get on to
@@ -5007,6 +5153,10 @@ get your feet wet
 
 # get out
 
+**Meaning:** To leave or escape from somewhere.  
+**Example:** Get out of the house quickly!  
+**Context:** Emergency, leaving.
+
 verb
 
 (of something previously secret) become known
@@ -5034,6 +5184,10 @@ the trip will help him get over Sal's death
 she is currently seeing a psychiatrist to get over her fear of answering the door
 
 he struggles to get over her
+
+**Meaning:** To recover from something (illness, disappointment).  
+**Example:** It took her months to get over the breakup.  
+**Context:** Recovery.
 
 [↑ Back to index](#index)
 
@@ -5191,7 +5345,9 @@ taking a specific fact into account
 
 verb
 
-take great pride or pleasure in
+**Meaning:** To take great pride or pleasure in something.  
+**Example:** She glories in her children’s success.  
+**Context:** Pride, happiness.
 
 they were individuals who gloried in their independence
 
@@ -5247,6 +5403,10 @@ He goes against everything that I put forward.
 
 # Go ahead
 
+**Meaning:** To proceed with an action or plan.  
+**Example:** You can go ahead and submit the report.  
+**Context:** Permission, decision-making.
+
 To start
 
 Here is the money as your demand. Now, you can go ahead.
@@ -5254,6 +5414,10 @@ Here is the money as your demand. Now, you can go ahead.
 [↑ Back to index](#index)
 
 # Go around
+
+**Meaning:** To circulate or spread (news, rumors, or things).  
+ **Example:** There’s a rumor going around about the new manager.  
+ **Context:** Informal, social settings, discussions.
 
 In an affair
 
@@ -5265,6 +5429,8 @@ Priya is going around with him.
 
 To depart  
 Just go away from my life
+
+To leave or travel elsewhere.
 
 [↑ Back to index](#index)
 
@@ -5311,6 +5477,8 @@ He went dark on Tuesday. He didn't answer any of my messages.
 Decrease in the price
 
 Prices of mobiles are going down day by day.
+
+To happen; to decrease; or to be received in a certain way.
 
 [↑ Back to index](#index)
 
@@ -5370,9 +5538,11 @@ phrasal verb of go
 continue or persevere.  
 "I can't go on protecting you"
 
-To continue
+To continue; to happen; or to encourage someone to proceed.
 
 Go on with your story please
+
+To continue; also means to happen.
 
 [↑ Back to index](#index)
 
@@ -5388,6 +5558,8 @@ I hardly ever go out
 
 **Go out** – To leave home for social activities.  
  We went out for dinner.
+
+To leave home socially; to date; or to stop functioning (lights/fire).
 
 [↑ Back to index](#index)
 
@@ -5450,6 +5622,12 @@ I have gone through this book many a time.
 To Face  
 He had to go through such a trouble.
 
+**Meaning:** To experience or endure something difficult or to examine something carefully.  
+**Example:** She went through a tough time after the accident.  
+**Context:** Emotional challenges, reviews, inspections.
+
+Experience something (often difficult); also means to examine carefully.
+
 [↑ Back to index](#index)
 
 # Go through the motions
@@ -5475,6 +5653,10 @@ The phrase **“go through the motions”** means to **do something in a mechani
 [↑ Back to index](#index)
 
 # Go Up
+
+**Meaning:** To rise or increase (price, level, number).  
+**Example:** The prices went up after the new tax law.  
+**Context:** Economics, markets.
 
 Increase in price
 
@@ -5552,6 +5734,8 @@ It’s a polite and forward-looking phrase, often replacing “from now on” or
 idiom
 
 refers to the future or the time ahead
+
+From now on; in the future.
 
 [↑ Back to index](#index)
 
@@ -5687,6 +5871,8 @@ phrasal verb — 1) to become too big for something, especially clothes. 2) to s
 * To pass around something.  
 * Example 1: "The teacher handed out the test papers to all students."  
 * Example 2: "Volunteers handed out food and water to those in need."
+
+To distribute.
 
 [↑ Back to index](#index)
 
@@ -6329,6 +6515,8 @@ he hit up some family members
 
 if you have a serious band and would like to play some music, hit me up
 
+(Informal) To contact someone; also to ask for something.
+
 [↑ Back to index](#index)
 
 # Hold back
@@ -6419,6 +6607,8 @@ Meaning: To wait or remain in a position.
 * Example 1: Please hold on while I transfer your call to the appropriate department.  
 * Example 2: Hold on a second—I’ll grab my notebook and join you.
 
+To wait; also means to grip tightly.
+
 [↑ Back to index](#index)
 
 # Hold up
@@ -6484,6 +6674,8 @@ I’m holding up → I’m managing / I’m okay
 🗣 *“Traffic held us up for an hour.”*  
  🗣 *“How are you holding up after the exam?”*  
  🗣 *“That theory doesn’t hold up under scrutiny.”*
+
+To delay; also means to rob someone (armed); or to remain strong.
 
 [↑ Back to index](#index)
 
@@ -6659,6 +6851,8 @@ Try these out loud to get the feel:
 * “We hooked up with some old friends from college last weekend.”
 
 * “I need to hook up my laptop to the projector.”
+
+To connect (devices); slang for starting a romantic/sexual relationship.
 
 [↑ Back to index](#index)
 
@@ -6996,6 +7190,8 @@ phrasal verb of iron
 solve or settle difficulties or problems.  
 "they had ironed out their differences"
 
+To resolve or smooth out problems or differences.
+
 [↑ Back to index](#index)
 
 # It is imperative
@@ -7149,6 +7345,12 @@ a commercial enterprise undertaken jointly by two or more parties which otherwis
 
 [↑ Back to index](#index)
 
+# Jump over
+
+jump over to topic, screen, webpage
+
+[↑ Back to index](#index)
+
 # jump the gun
 
 idiom. to do something too soon, especially without thinking carefully about it: 
@@ -7216,7 +7418,11 @@ move or progress at the same rate as someone or something else.
 continue a course of action.  
 "keep up the good work"
 
-To continue
+**Meaning:** To continue; to maintain.  
+ **Example:** Keep up the good work!  
+ **Context:** Encouragement.
+
+To maintain pace or level.
 
 [↑ Back to index](#index)
 
@@ -7465,6 +7671,8 @@ The soldiers were ordered to lay down their weapons.
 
 After a long day, he decided to lay down for a quick nap.
 
+To establish rules; also means to lie flat.
+
 [↑ Back to index](#index)
 
 # Lay eyes on
@@ -7522,6 +7730,10 @@ Meaning: To dismiss or terminate employees due to economic reasons.
 * To stop bothering or criticizing someone.  
 * Example 1: "The company had to lay off 100 employees due to budget cuts."  
 * Example 2: "Lay off him\! He’s already doing his best."
+
+To terminate from a job; also to stop doing something.
+
+Repeated: To dismiss from a job.
 
 [↑ Back to index](#index)
 
@@ -7611,6 +7823,8 @@ Synonyms for "leaped up":
 bound, bounce, hop, rise, rocket, skip, soar, surge, and vault.
 
 to make a large jump or sudden movement, usually from one place to another: He leaped out of his car and ran towards the house. I leaped up to answer the phone. The dog leaped over the gate into the field.
+
+Jumped quickly; also used for sudden rise (prices, emotions).
 
 [↑ Back to index](#index)
 
@@ -7790,6 +8004,15 @@ Or more casual:
 
 **“I was there, but I felt out of place.”**
 
+phrasal verb of *leave*
+
+adjective: **left out** — fail to include someone or something. "It seemed unkind to leave Daisy out, so she was invited too." Also used as an adjective meaning excluded: "Not knowing the language I felt really left out."
+
+Senses:
+- Excluded or omitted: for example, you might proofread carefully to catch left-out quotation marks or parentheses. You might also feel left out if you don't know the language and are excluded from something.
+- Remaining behind in a visible place: for example, raccoons might eat pet food that's been left out.
+- Unhappy because not included: for example, you might feel left out if your friends talk about sports and you're not included.
+
 [↑ Back to index](#index)
 
 # Let Alone
@@ -7816,6 +8039,8 @@ phrasal verb of let
 
 2.release someone from obligation or suspicion.  
 "they've started looking for motives—that lets me out"
+
+To release or allow to exit; also to make a sound (sigh, scream).
 
 [↑ Back to index](#index)
 
@@ -7871,6 +8096,15 @@ he never once lifted a finger to get Jimmy released from prison
 
 [↑ Back to index](#index)
 
+# line up
+
+phrasal verb of *line*
+
+1. Arrange a number of people or things in a straight row. "An officer lined them up and gave them a short speech."
+2. Have someone or something ready or prepared. "Have you got any work lined up?"
+
+[↑ Back to index](#index)
+
 # listen up
 
 : to listen closely to what is being said. usually used as a command. Everybody listen up\! I have something to say.
@@ -7878,6 +8112,10 @@ he never once lifted a finger to get Jimmy released from prison
 Rocky Relation
 
 A "rocky" relationship means your partnership is currently facing significant challenges, experiencing frequent conflict, a lack of communication, or a general feeling of instability, potentially impacting your connection and happiness with your partner; 
+
+**Meaning:** Pay attention.  
+ **Example:** Listen up, everyone! Important announcement.  
+ **Context:** Command.
 
 [↑ Back to index](#index)
 
@@ -7942,6 +8180,8 @@ To treat someone nothing
 Don’t look down upon the poor  
 ---
 
+To consider inferior.
+
 [↑ Back to index](#index)
 
 # Look for
@@ -7991,6 +8231,8 @@ Meaning: To investigate or examine a situation or problem.
 To investigate  
 Police is looking into the matter  
 ---
+
+Repeated: To investigate.
 
 [↑ Back to index](#index)
 
@@ -8157,6 +8399,8 @@ Im looking up a word in the dictionary
 
 * *“Our monitoring pipeline includes a lookup step that enriches alerts with metadata from the CMDB.”*
 
+To search for information; also means things improving.
+
 [↑ Back to index](#index)
 
 # Look up to
@@ -8186,6 +8430,8 @@ inform someone about a particular matter
 all they knew when police looped them in was that a traveling salesman had been robbed
 
 no one looped me in on anything
+
+To include someone in communication or updates.
 
 [↑ Back to index](#index)
 
@@ -8251,6 +8497,10 @@ arrive early to loosen up and hit some practice shots
 they taught me to have fun and loosen up
 
 beer relaxes certain parts of your brain and loosens you up
+
+**Meaning:** To relax or become less stiff.  
+**Example:** Let’s loosen up before the game.  
+**Context:** Physical, mental relaxation.
 
 [↑ Back to index](#index)
 
@@ -8552,6 +8802,8 @@ It usually carries a sense of pressure and finality—where preparation ends, an
 * **Example**: Can we move around the meeting to a later time?  
 * **Example**: My plans keep moving around because of last-minute work changes.
 
+To change position frequently or travel from place to place.
+
 [↑ Back to index](#index)
 
 # Move Over
@@ -8612,6 +8864,12 @@ That sentence is understandable but **not natural**.
 4. “For example, if this happens again moving forward, we’ll be prepared.”
 
 5. “So, moving forward, let’s make sure we’re aligned on this.”
+
+[↑ Back to index](#index)
+
+# Mugging up
+
+"Mugging up" is an informal British term that means to study something intensively, especially for an exam. For example, "I need to mug up on my history before tomorrow's exam".  Synonyms of "mugging up":  bone up, **cram**, drum, grind away, swot, and swot up.
 
 [↑ Back to index](#index)
 
@@ -8752,6 +9010,8 @@ Meaning: To write something down.
 
 * Example 1: Her answers were noted down on the chart.  
 * Example 2: He quickly noted down the key points from the meeting.
+
+To write something for later reference.
 
 [↑ Back to index](#index)
 
@@ -9353,6 +9613,8 @@ Meaning: To decline or reject an offer or opportunity.
 * Example 1: After careful consideration, I decided to pass on the investment opportunity.  
 * Example 2: He passed on the promotion to focus on his family life.
 
+To decline; to transmit; or to die (euphemism).
+
 [↑ Back to index](#index)
 
 # Pave the Way
@@ -9460,6 +9722,8 @@ Meaning: To introduce or implement something gradually.
 * Example 1: The new policy will be phased in over the next few months.  
 * Example 2: They plan to phase in the new training program by next year.
 
+To introduce gradually.
+
 [↑ Back to index](#index)
 
 # Phase out
@@ -9468,6 +9732,8 @@ Meaning: To gradually discontinue or replace something.
 
 * Example 1: The company plans to phase out the outdated software system.  
 * Example 2: Single-use plastics are being phased out in many countries.
+
+To gradually eliminate.
 
 [↑ Back to index](#index)
 
@@ -9562,6 +9828,8 @@ behave in a casual, foolish, or irresponsible way.
 informal  
 engage in sexual activity with someone other than one's spouse or partner.  
 "was her husband playing around?"
+
+To behave casually or experiment; sometimes implies romantic/sexual activity.
 
 [↑ Back to index](#index)
 
@@ -9748,6 +10016,8 @@ phrasal verb of pull
 
 (of the police) cause a driver to move to the side of the road to be charged for a traffic offense.  
 "he was pulled over for speeding"
+
+To move a vehicle to the roadside.
 
 [↑ Back to index](#index)
 
@@ -9959,6 +10229,8 @@ For example:
 
 Think of it like having a burst of energy or excitement, like you're ready to take on anything\!
 
+Excited or energized; inflated (physically or emotionally).
+
 [↑ Back to index](#index)
 
 # Punch a hole
@@ -10114,7 +10386,17 @@ To **continue despite difficulty, fatigue, or obstacles**.
 
 [↑ Back to index](#index)
 
+# put across
+
+communicate something effectively.
+
+[↑ Back to index](#index)
+
 # Put down
+
+**Meaning:** To insult or criticize; to place something on a surface.  
+**Example:** She was put down by her classmates for her ideas.  
+**Context:** Social interactions, physical action.
 
 To write
 
@@ -10124,7 +10406,9 @@ All the students are requested to put down their ideas.
 
 # Put forward
 
-Meaning:
+**Meaning:** To suggest or propose an idea.  
+**Example:** He put forward a plan to improve sales.  
+**Context:** Meetings, discussions.
 
 * To suggest or propose an idea or plan.  
 * To present something for consideration.  
@@ -10168,6 +10452,8 @@ The phrasal verb **“put off”** is very common in spoken English, and it has 
 To delay or postpone.  
 We put off the trip due to bad weather.
 
+To postpone; also can mean to discourage or repel.
+
 [↑ Back to index](#index)
 
 # Put on
@@ -10186,6 +10472,10 @@ verb
 **Put on** – To gain weight/ mass
 
 * I have put on 10 Kgs in just 10 days.
+
+**Meaning:** To wear clothing; to organize or perform (an event).  
+**Example:** She put on her jacket. / The theater company put on a great show.  
+**Context:** Clothing, events.
 
 [↑ Back to index](#index)
 
@@ -10276,6 +10566,10 @@ If you hear "put out," think about the context to understand which meaning fits\
 [↑ Back to index](#index)
 
 # Put through
+
+**Meaning:** To connect someone by phone; to cause someone to undergo something.  
+**Example:** Please put me through to the manager. / She was put through a tough training program.  
+**Context:** Telephony, experience.
 
 To transfer the call / to pass the phone to someone else
 
@@ -10445,6 +10739,12 @@ As an Architect or MLOps Engineer, you can use “put up” like this:
 To live  
 I put up in delhi.
 
+**Meaning:** To provide accommodation; also, to tolerate something unpleasant.  
+**Example:** They put us up for the night. / I can’t put up with the noise anymore.  
+**Context:** Hospitality, tolerance.
+
+To tolerate; to hang/display (e.g., posters); or to provide (e.g., money/shelter).
+
 [↑ Back to index](#index)
 
 # Put up a fight
@@ -10498,6 +10798,8 @@ abbreviation for "rest and relaxation" (or "rest and recreation") — time off t
 phrasal verb of rake  
 revive the memory of an incident or period that is best forgotten.  
 "I don't see the point in raking up the past"
+
+To bring up unpleasant past events; also literally to gather with a rake.
 
 [↑ Back to index](#index)
 
@@ -10625,6 +10927,8 @@ There’s also **"ratchet down"**, which means to decrease something gradually.
 🗣 *“Feel free to reach out if you need anything.”*  
  🗣 *“He reached out to reconcile after years of silence.”*
 
+Interact, contact, keep in touch
+
 [↑ Back to index](#index)
 
 # Read out
@@ -10642,6 +10946,8 @@ There’s also **"ratchet down"**, which means to decrease something gradually.
 
 If something is coming along, it is developing or improving: Hassan's English is really coming along.   
 Well you are really coming along.
+
+Progressing or improving well.
 
 [↑ Back to index](#index)
 
@@ -11053,6 +11359,8 @@ Meaning: To exclude or eliminate something as a possibility.
 * Example 1: After careful analysis, we can rule out that option as not feasible.  
 * Example 2: The doctors ruled out any serious medical condition after the tests.
 
+To eliminate a possibility.
+
 [↑ Back to index](#index)
 
 # Run After
@@ -11078,6 +11386,8 @@ I ran away from there, the moment I saw him.
 To feel weakness in body  
 I'm run down in health today.
 
+To lose power (battery); or to criticize.
+
 [↑ Back to index](#index)
 
 # Run into
@@ -11086,6 +11396,8 @@ Meaning: To encounter or meet someone unexpectedly.
 
 * Example 1: I ran into my former colleague at a business conference.  
 * Example 2: They ran into financial difficulties while setting up the business.
+
+To meet unexpectedly; or face a problem.
 
 [↑ Back to index](#index)
 
@@ -11114,6 +11426,13 @@ Metaphorical:
 
 [↑ Back to index](#index)
 
+# Run Out For
+
+**Meaning:** To quickly go somewhere to get something.  
+ **Example:** *I’ll run out for some milk.*
+
+[↑ Back to index](#index)
+
 # Run out of
 
 To have no more of something left; to exhaust or deplete the supply of something.
@@ -11121,13 +11440,6 @@ To have no more of something left; to exhaust or deplete the supply of something
 * "We ran out of milk."
 * "We ran out of stock due to unexpected high demand."
 * "The car ran out of fuel in the middle of the journey."
-
-[↑ Back to index](#index)
-
-# Run Out For
-
-**Meaning:** To quickly go somewhere to get something.  
- **Example:** *I’ll run out for some milk.*
 
 [↑ Back to index](#index)
 
@@ -11141,6 +11453,8 @@ TO knock down
 
 He ran over the defending champion(past year winner)  
 ---
+
+To hit with a vehicle; or review quickly.
 
 [↑ Back to index](#index)
 
@@ -11331,6 +11645,8 @@ A **self-fulfilling prophecy** is when a belief or expectation (about yourself, 
 "The band sold out its faithful followers, abandoning its edgy style for a more commercial sound".   
 "French farmers feel they've been sold out by their government in the negotiations". 
 
+To betray me for personal gain or safety.
+
 [↑ Back to index](#index)
 
 # Sell out
@@ -11342,6 +11658,8 @@ Meaning: To completely sell all available stock or tickets.
 
 1️⃣ To sell all items. 2️⃣ To betray one’s values for money.  
  👉 *“The tickets sold out in minutes.” / “He sold out for fame.”*
+
+To compromise values for gain; or to have no stock left.
 
 [↑ Back to index](#index)
 
@@ -11380,13 +11698,15 @@ begin a journey.
 cause someone to start doing something, especially laughing or talking.  
 "anything will set him off laughing"
 
+To begin a journey; or to trigger something (e.g., alarms, reactions).
+
 [↑ Back to index](#index)
 
 # Set out
 
 **verb**
 
-begin a journey
+To begin a journey or task, often with purpose or planning.
 
 we set out from New York on Friday for Egypt
 
@@ -11403,6 +11723,10 @@ Meaning: To establish or create something.
 
 **Set up** – To arrange or prepare something.  
  They set up a meeting for Friday.
+
+To establish something (a business, event); also can mean to trick someone.
+
+Repeated: To arrange, establish, or frame someone.
 
 [↑ Back to index](#index)
 
@@ -11422,6 +11746,8 @@ Meaning: To become familiar and comfortable in a new environment.
 * Example 1: It took some time to settle in the new office space.  
 * Example 2: He settled in quickly and made new friends in the neighborhood.
 
+To become comfortable in a new place or situation.
+
 [↑ Back to index](#index)
 
 # Shackles are off
@@ -11439,6 +11765,8 @@ Meaning: To make significant changes or reforms in an organization.
 
 * Example 1: The new CEO plans to shake up the company’s structure for better efficiency.  
 * Example 2: The government announced plans to shake up the healthcare system.
+
+To reorganize drastically; to shock.
 
 [↑ Back to index](#index)
 
@@ -11467,6 +11795,15 @@ In movies, "shard of glass" can also refer to a horrible truth, a blind spot, or
 
 **Meaning:** To listen carefully.  
  **Example:** *Sharpen your ears—the announcement’s coming.*
+
+[↑ Back to index](#index)
+
+# shed light on
+
+To provide information about something or to make something easier to understand.
+
+"I'm glad I could shed light on its capabilities for you."
+"Tracking technologies have shed light on the birds' social nature."
 
 [↑ Back to index](#index)
 
@@ -11514,6 +11851,8 @@ The phrase "shoot me now" is a humorous or exaggerated way of expressing frustra
 
 **Show up** – To arrive or appear.  
 He didn’t show up to the meeting.
+
+To arrive; also means to embarrass someone by outshining them.
 
 [↑ Back to index](#index)
 
@@ -11663,6 +12002,20 @@ phrasal verb — to gradually lose energy, momentum, or interest and fade away, 
 
 [↑ Back to index](#index)
 
+# skim through
+
+to read or consider something quickly in order to understand the main points, without studying it in detail: I've only skimmed (through/over) his letter; I haven't read it carefully yet.
+
+[↑ Back to index](#index)
+
+# SKIMMED (THROUGH)
+
+Synonyms: thumbed (through), scanned, inspected, perused, looked (into), surfed, dug (into), studied, cruised, browsed.
+
+To read or consider something quickly in order to understand the main points, without studying it in detail. "I've only skimmed (through/over) his letter; I haven't read it carefully yet."
+
+[↑ Back to index](#index)
+
 # Skirted past
 
 * **Literal:** Went around the edge of something.
@@ -11807,6 +12160,8 @@ Try speaking these aloud a few times:
 "What are you doing sneaking around in here?".  
 "He was sneaking around the back of the house".
 
+To act secretly, often implying deceit (e.g., cheating, hiding something).
+
 [↑ Back to index](#index)
 
 # Snowball Effect
@@ -11940,6 +12295,8 @@ Meaning: To resolve or organize a problem or situation.
 
 * Example 1: Let’s have a meeting to sort out the issues raised by the client.  
 * Example 2: We need to sort out the logistics before the event.
+
+To resolve or organize something.
 
 [↑ Back to index](#index)
 
@@ -12437,6 +12794,8 @@ Meaning: To resign or leave a position or role.
 * Example 1: The CEO decided to step down after serving the company for 20 years.  
 * Example 2: She stepped down from her role to focus on personal projects.
 
+To resign from a position.
+
 [↑ Back to index](#index)
 
 # Sticking point
@@ -12615,6 +12974,8 @@ Examples:
 "The researchers stumbled upon a new species of insect during their expedition".   
 "They stumbled upon a hidden treasure while digging in their backyard". 
 
+To find something by accident.
+
 [↑ Back to index](#index)
 
 # Sugar Rush
@@ -12779,6 +13140,8 @@ Take off the dirty clothes and put on the clean ones
 **Take off** – To remove clothing or leave the ground (for planes).  
  He took off his jacket.
 
+To become successful; or to remove clothing; or to depart (flight).
+
 [↑ Back to index](#index)
 
 # Take on
@@ -12795,6 +13158,8 @@ engage an employee.
 2\.  
 be willing or ready to meet an adversary or opponent.  
 "a group of villagers has taken on the planners"
+
+To accept a challenge or responsibility.
 
 [↑ Back to index](#index)
 
@@ -12888,6 +13253,8 @@ Meaning: To assume control or responsibility for something.
 
 **Take over** – To assume control or responsibility.  
  She took over the project after John left.
+
+To gain control or responsibility.
 
 [↑ Back to index](#index)
 
@@ -12984,6 +13351,10 @@ Meaning: To start or begin an activity or hobby.
 To start a new hobby or activity.  
  I’ve taken up yoga recently.
 
+To begin a new activity or responsibility; also means to occupy space or time.
+
+Repeated: Start doing; or occupy space/time.
+
 [↑ Back to index](#index)
 
 # Take your mind off
@@ -13076,6 +13447,14 @@ Or:
 🗣 *“We need to tap into our creative potential.”*  
  🗣 *“She tapped into her past experiences to write that book.”*
 
+To access or utilize a resource or idea.
+
+[↑ Back to index](#index)
+
+# taper off
+
+**Activities or events** → "The rain tapered off by evening." **Processes** → "The production will taper off after the peak season." **Medications** → "You should taper off the dosage rather than stop abruptly." **Synonyms** (context-dependent): Gradually decrease, Dwindle, Subside, Die down, Ease off, Wind down, Let up **Taper off** → focuses on something *gradually reducing* in amount, intensity, or frequency. It’s broader and can be used for anything — weather, work, noise, activity, medicine dosage, etc.
+
 [↑ Back to index](#index)
 
 # Tapped Out / Tap Out
@@ -13099,6 +13478,8 @@ Meaning: To collaborate or join forces with others.
 
 * Example 1: The two companies decided to team up to launch a new product line.  
 * Example 2: We need to team up to tackle this challenging project.
+
+To collaborate.
 
 [↑ Back to index](#index)
 
@@ -13224,6 +13605,16 @@ The phrase **“think outside the box”** means to think creatively, in an unco
 4. “That being said, thinking outside the box works best when combined with practical execution.”
 
 👉 When you practice, try saying it with energy and emphasis, because in real meetings people often stress this phrase to inspire creativity.
+
+[↑ Back to index](#index)
+
+# Think through
+
+"Think through" is a phrasal verb that means to carefully consider all the parts or effects of something over a period of time, especially to understand or make a decision. For example, "I need some time to think it through - I don't want to make any sudden decisions."
+
+Related adjectives: calculated, considered, designed, planned, prepared, thoughtful.
+
+To think about all the different parts or effects of (something) for a period of time, especially in an effort to understand or make a decision about it. "I need time to think this through." "We have thought through the matter and have come to a decision."
 
 [↑ Back to index](#index)
 
@@ -13431,6 +13822,8 @@ The phrase **"to put away"** has multiple meanings depending on the context. Her
 
 If you'd like, I can provide more examples or help you practice using it in sentences\!
 
+To store; to imprison; or to consume (e.g., food or alcohol).
+
 [↑ Back to index](#index)
 
 # To vent at someone
@@ -13614,6 +14007,12 @@ to ignore someone's feelings or rights and treat them as if they are not importa
 
 [↑ Back to index](#index)
 
+# Try out
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
 # tumble down
 
 phrasal verb — literal: to fall down suddenly and in an uncontrolled way. Figurative: to collapse or decline rapidly (e.g. numbers, prices, a structure).
@@ -13727,6 +14126,8 @@ Example:
 
 To avoid confusion, make sure you're using the correct preposition ("on" vs. "by") depending on which meaning you intend to convey.
 
+To activate; to betray (hostile context); or to arouse (sexual context).
+
 [↑ Back to index](#index)
 
 # Turn one’s back
@@ -13772,6 +14173,18 @@ To avoid confusion, make sure you're using the correct preposition ("on" vs. "by
 [↑ Back to index](#index)
 
 # Turn Out
+
+To end up or result in a particular way; also means people attending an event.
+
+Also a phrasal verb of *turn*, with these senses:
+
+1. Prove to be the case. "The job turned out to be beyond his rather limited abilities."
+2. Extinguish a light. "He turned out the light and groped his way through the doorway to the bed."
+3. To result or conclude in a certain way — show a final result that might be different from what was expected. "The weather turned out to be better than predicted."
+4. To attend or participate in an event — appear or show up for an occasion. "Many people turned out for the concert."
+5. To produce or manufacture — make or generate something. "The factory turns out thousands of cars every month."
+6. To switch something off — stop a device or appliance from working. "Don't forget to turn out the lights before you leave."
+7. To get rid of or clean out — empty or clear a space. "She turned out her closet and donated the clothes."
 
 **"Turn out"** means:
 
@@ -14007,6 +14420,8 @@ Figuratively, got involved in something difficult or messy.
 
 "Walk around" means to move casually or aimlessly in an area, often exploring or inspecting it. It differs from "walk," which simply means to move on foot in a general sense, without implying exploration or a lack of direction.
 
+To move casually on foot without a fixed direction.
+
 [↑ Back to index](#index)
 
 # Walk away
@@ -14037,6 +14452,10 @@ Simply walking through an area without stopping.
 Example: "He walked through the park on his way home."
 
 Let me know which context you’d like more details or examples for\!
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+Explain or demonstrate something step by step.
 
 [↑ Back to index](#index)
 
@@ -14128,6 +14547,8 @@ I cook for him, but he must wash up
 
 wash up the teacups
 
+To clean oneself; or arrive ashore (also metaphorical for winding up somewhere).
+
 [↑ Back to index](#index)
 
 # Watered down
@@ -14156,6 +14577,12 @@ Learning new skills seemed like a way out of his stagnant career.
 4\. Metaphorical Usage  
 Joining the community center gave him a sense of purpose—it was a way out of his loneliness.  
 For many, education is a way out of poverty.
+
+[↑ Back to index](#index)
+
+# Wean off
+
+**Wean off** → specifically means *gradually reducing dependence on* something, often so you can stop using it completely. It’s common for **habits, substances, or dependencies** (e.g., caffeine, social media, medication).
 
 [↑ Back to index](#index)
 
@@ -14210,6 +14637,10 @@ To bring one's weight or influence to bear, especially as a participant, contrib
 [↑ Back to index](#index)
 
 # weigh on
+
+**Meaning:** To cause worry or stress.  
+ **Example:** The decision weighs heavily on him.  
+ **Context:** Emotions, stress.
 
 verb
 
@@ -14272,6 +14703,10 @@ idiom (also "where the rubber meets the road") — the point where a theory, pla
 [↑ Back to index](#index)
 
 # whip up
+
+**Meaning:** To quickly prepare food or create something.  
+**Example:** She whipped up a delicious dinner.  
+**Context:** Cooking, creating.
 
 verb
 
@@ -14440,6 +14875,10 @@ Meaning: To solve or resolve a problem or issue.
 **Work out** – To resolve or exercise.  
  We worked out our differences.
 
+To exercise; to find a solution; or to turn out well.
+
+Repeated: Exercise or solve a problem.
+
 [↑ Back to index](#index)
 
 # Work up
@@ -14448,6 +14887,8 @@ Meaning: To gradually develop or build up something.
 
 * Example 1: He worked up his skills and eventually became a successful entrepreneur.  
 * Example 2: She worked up the courage to speak at the meeting.
+
+To develop gradually (courage, appetite).
 
 [↑ Back to index](#index)
 
@@ -14464,6 +14905,8 @@ Meaning: To consider something as a loss or failure.
 
 * Example 1: The company had to write off a significant amount of bad debt.  
 * Example 2: They wrote off the damaged inventory as a loss.
+
+To cancel a debt; or to regard as a loss/failure.
 
 [↑ Back to index](#index)
 

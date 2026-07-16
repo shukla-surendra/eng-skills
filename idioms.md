@@ -1,78 +1,201 @@
 # Idioms
 
-> 53 entries · restructured 2026-07-16 · sorted A–Z
+> 292 entries · restructured 2026-07-16 · sorted A–Z
 
 ## Index
 
+**L**
+
+["Left over"](#left-over)
+
 **A**
 
-[At your disposal](#at-your-disposal)
+[A new lease of life](#a-new-lease-of-life) · [Abstract & Descriptive Adjectives (sinful, surreal, compelling...)](#abstract--descriptive-adjectives-sinful-surreal-compelling) · [Action point](#action-point) · [adhoc/unplanned way](#adhocunplanned-way) · [Aim At](#aim-at) · [all in all](#all-in-all) · [All spheres of life](#all-spheres-of-life) · [All the way](#all-the-way) · [Ancillary (an·si·luh·ree)](#ancillary-ansiluhree) · [Apart from that](#apart-from-that) · [As far as sb is concerned](#as-far-as-sb-is-concerned) · [As of yet](#as-of-yet) · [At your disposal](#at-your-disposal) · [at/in the back of your mind](#atin-the-back-of-your-mind)
 
 **B**
 
-[Beating around the bush](#beating-around-the-bush) · [being objective](#being-objective) · [Blessing in disguise](#blessing-in-disguise) · [Bridging the gap](#bridging-the-gap) · [Burning the candle at both ends](#burning-the-candle-at-both-ends)
+[Back out of](#back-out-of) · [Back to square one](#back-to-square-one) · [Back up](#back-up) · [Bad Food](#bad-food) · [Bare metal](#bare-metal) · [Be just the thing](#be-just-the-thing) · [Be noticeable](#be-noticeable) · [Beat the shit outta you](#beat-the-shit-outta-you) · [Beating around the bush](#beating-around-the-bush) · [Begin to do something](#begin-to-do-something) · [being objective](#being-objective) · [Below the belt](#below-the-belt) · [Bend over backward](#bend-over-backward) · [Bend the knee](#bend-the-knee) · [Best strategy on governance](#best-strategy-on-governance) · [Biased Toward / Biased Against](#biased-toward--biased-against) · [Bird Eye approach](#bird-eye-approach) · [Bit off more than I can chew](#bit-off-more-than-i-can-chew) · [Blessing in disguise](#blessing-in-disguise) · [Blink of an eye](#blink-of-an-eye) · [Break into (vs. break through)](#break-into-vs-break-through) · [Break with](#break-with) · [Bridging the gap](#bridging-the-gap) · [Burning the candle at both ends](#burning-the-candle-at-both-ends)
 
 **C**
 
-[chickens come home to roost](#chickens-come-home-to-roost) · [Completely unrelated note](#completely-unrelated-note)
+[Call out/in](#call-outin) · [Character Traits & Descriptions (defiant, enduring, extravagant...)](#character-traits--descriptions-defiant-enduring-extravagant) · [Charity begins at home](#charity-begins-at-home) · [chickens come home to roost](#chickens-come-home-to-roost) · [Chipping away / Chip away](#chipping-away--chip-away) · [Cling (on) to](#cling-on-to) · [Clouding judgment](#clouding-judgment) · [Come from](#come-from) · [Come through / Came through](#come-through--came-through) · [Come to](#come-to) · [Come to grief](#come-to-grief) · [Come up with](#come-up-with) · [Coming back to my earlier point](#coming-back-to-my-earlier-point) · [Completely unrelated note](#completely-unrelated-note) · [contrast thoughts, contrasting thoughts](#contrast-thoughts-contrasting-thoughts) · [Course correct](#course-correct) · [Crashing a wedding](#crashing-a-wedding) · [Cry Loudly (Weeping) vs. Cry Out](#cry-loudly-weeping-vs-cry-out) · [Cry out / Cry loud](#cry-out--cry-loud) · [Cusp of change](#cusp-of-change) · [cut corner](#cut-corner) · [Cut loose](#cut-loose) · [Cut to the chase](#cut-to-the-chase)
 
 **D**
 
-[Deserve an asterisk](#deserve-an-asterisk) · [Down the Road](#down-the-road) · [Down the Street](#down-the-street) · [Draw a line](#draw-a-line) · [Drawing a parallel](#drawing-a-parallel)
+[Day tripper](#day-tripper) · [Dazzle me](#dazzle-me) · [Describing a Person Positively (Alternatives to "Nice")](#describing-a-person-positively-alternatives-to-nice) · [Deserve an asterisk](#deserve-an-asterisk) · [Don't trample me](#dont-trample-me) · [Down the Road](#down-the-road) · [Down the Street](#down-the-street) · [Draw a line](#draw-a-line) · [Draw attention to](#draw-attention-to) · [Draw your attention](#draw-your-attention) · [Drawing a parallel](#drawing-a-parallel) · [Due diligence](#due-diligence)
+
+**E**
+
+[Elbow room](#elbow-room) · [Escape blame/punishment](#escape-blamepunishment) · [Ever since](#ever-since) · [Everyday Vocabulary (sightseeing, stay, mate, abrupt, ample...)](#everyday-vocabulary-sightseeing-stay-mate-abrupt-ample) · [Examples in daily use](#examples-in-daily-use) · [Examples of "Cry out" (Speaking/Shouting Loudly)](#examples-of-cry-out-speakingshouting-loudly)
 
 **F**
 
-[Faint Smile](#faint-smile) · [flourish like anything](#flourish-like-anything) · [Fly under the radar](#fly-under-the-radar)
+[Faint Smile](#faint-smile) · [Fall behind](#fall-behind) · [Fill in for](#fill-in-for) · [Finger crossed](#finger-crossed) · [flourish like anything](#flourish-like-anything) · [Fly under the radar](#fly-under-the-radar) · [from nowhere](#from-nowhere) · [Fussy Eater](#fussy-eater)
 
 **G**
 
-[get the ball rolling](#get-the-ball-rolling) · [Get under the skin](#get-under-the-skin)
+[General Purpose](#general-purpose) · [Get along / Get along with](#get-along--get-along-with) · [Get at](#get-at) · [Get away with](#get-away-with) · [Get cracking](#get-cracking) · [Get going](#get-going) · [Get in / Get on](#get-in--get-on) · [Get off / Get down](#get-off--get-down) · [Get on to](#get-on-to) · [Get one's feet wet](#get-ones-feet-wet) · [Get out of](#get-out-of) · [Get over it](#get-over-it) · [Get rid of](#get-rid-of) · [get the ball rolling](#get-the-ball-rolling) · [Get the hang of](#get-the-hang-of) · [Get through to](#get-through-to) · [Get under the skin](#get-under-the-skin) · [Get up to](#get-up-to) · [Get your shit together](#get-your-shit-together) · [Give something a miss](#give-something-a-miss) · [Given that](#given-that) · [Go after/ went after MLOPS](#go-after-went-after-mlops) · [Go against](#go-against) · [Go bankrupt](#go-bankrupt) · [Go cold turkey](#go-cold-turkey) · [Go dark](#go-dark) · [Go off / Went off](#go-off--went-off) · [Go the extra mile](#go-the-extra-mile) · [Go viral](#go-viral)
 
 **H**
 
-[Halfway across the world](#halfway-across-the-world) · [hamstring someone](#hamstring-someone)
+[Halfway across the world](#halfway-across-the-world) · [hamstring someone](#hamstring-someone) · [Have elbow room](#have-elbow-room) · [Have had](#have-had) · [Haven’t given a thought over it.](#havent-given-a-thought-over-it) · [headless chicken](#headless-chicken) · [Hit the nail on the head](#hit-the-nail-on-the-head) · [Holistic approach](#holistic-approach) · [How so](#how-so)
 
 **I**
 
-[I got your back](#i-got-your-back) · [I have a lot of runway](#i-have-a-lot-of-runway) · [In a funk](#in-a-funk) · [I’m always on the edge](#im-always-on-the-edge)
+[I got your back](#i-got-your-back) · [I have a lot of runway](#i-have-a-lot-of-runway) · [I haven't thought it through](#i-havent-thought-it-through) · [I stand by this](#i-stand-by-this) · [I want off this case](#i-want-off-this-case) · [If time permits/allows](#if-time-permitsallows) · [In a funk](#in-a-funk) · [In order to](#in-order-to) · [In terms of](#in-terms-of) · [In the interest of time](#in-the-interest-of-time) · [In vain](#in-vain) · [Interesting Sentences (Vocabulary in Context)](#interesting-sentences-vocabulary-in-context) · [It’s a half measure](#its-a-half-measure) · [I’m always on the edge](#im-always-on-the-edge) · [I’m cross with you](#im-cross-with-you) · [I’m over him / I’m over it / Get over it](#im-over-him--im-over-it--get-over-it) · [I’m so turned on](#im-so-turned-on)
+
+**J**
+
+[Joint venture](#joint-venture) · [Jump the gun](#jump-the-gun)
+
+**K**
+
+[Keep someone posted](#keep-someone-posted) · [Keep up with](#keep-up-with) · [Key takeaway](#key-takeaway)
 
 **L**
 
-[Let that sink in](#let-that-sink-in) · [Like Anything](#like-anything) · [Look down upon](#look-down-upon) · [look up to](#look-up-to)
+[Lay out / Laid out](#lay-out--laid-out) · [Leave work to go home](#leave-work-to-go-home) · [Let that sink in](#let-that-sink-in) · [Let X comeback](#let-x-comeback) · [Let's say](#lets-say) · [Level with](#level-with) · [Lift a finger](#lift-a-finger) · [Lift and shift](#lift-and-shift) · [Like Anything](#like-anything) · [Long before](#long-before) · [Look after](#look-after) · [Look after/out](#look-afterout) · [Look down upon](#look-down-upon) · [Look for](#look-for) · [Look forward to](#look-forward-to) · [look up to](#look-up-to)
+
+**M**
+
+[Make the most of](#make-the-most-of) · [Meaning / Usage in Sentences / Common Contexts](#meaning--usage-in-sentences--common-contexts) · [meant to be](#meant-to-be) · [Miscellaneous Notes (Uncategorized)](#miscellaneous-notes-uncategorized) · [More General Phrases](#more-general-phrases) · [More or less](#more-or-less) · [More Useful Words (lucrative, prestigious, reckless...)](#more-useful-words-lucrative-prestigious-reckless) · [Move past it](#move-past-it)
 
 **N**
 
-[Needle in a haystack](#needle-in-a-haystack) · [Not budge an inch](#not-budge-an-inch) · [nowhere to be seen](#nowhere-to-be-seen) · [Nuts and bolts](#nuts-and-bolts)
+[Needle in a haystack](#needle-in-a-haystack) · [Nitty Gritty](#nitty-gritty) · [No doubt](#no-doubt) · [No strings attached](#no-strings-attached) · [Not budge an inch](#not-budge-an-inch) · [Nothing short of](#nothing-short-of) · [Nothing short of extraordinary](#nothing-short-of-extraordinary) · [nowhere to be seen](#nowhere-to-be-seen) · [Nuts and bolts](#nuts-and-bolts)
+
+**O**
+
+[Off the hook](#off-the-hook) · [Off the radar](#off-the-radar) · [On paper](#on-paper) · [On par with](#on-par-with) · [On the flip side](#on-the-flip-side) · [On the mend](#on-the-mend) · [On the one hand](#on-the-one-hand) · [On the up](#on-the-up) · [Opinion/Views](#opinionviews) · [Out of no where](#out-of-no-where) · [Out of the way](#out-of-the-way) · [outright reject](#outright-reject) · [Over here](#over-here) · [Over the top](#over-the-top)
 
 **P**
 
-[Playing Devil’s Advocate](#playing-devils-advocate) · [put me on edge](#put-me-on-edge) · [Put something on ice](#put-something-on-ice)
+[per se](#per-se) · [Play it by ear](#play-it-by-ear) · [Playing Devil’s Advocate](#playing-devils-advocate) · [Point of view](#point-of-view) · [Praising an Essay (Examiner Feedback Phrases)](#praising-an-essay-examiner-feedback-phrases) · [Pulling things out of thin air](#pulling-things-out-of-thin-air) · [Put forth](#put-forth) · [put me on edge](#put-me-on-edge) · [Put out / Put off](#put-out--put-off) · [Put something on ice](#put-something-on-ice) · [Put up with](#put-up-with)
+
+**Q**
+
+[quid pro quo](#quid-pro-quo)
 
 **R**
 
-[Rough around the edges](#rough-around-the-edges)
+[Reminiscent smile](#reminiscent-smile) · [ripple effect](#ripple-effect) · [rote learning](#rote-learning) · [Rough around the edges](#rough-around-the-edges) · [Rough it](#rough-it) · [Run After](#run-after) · [Run Away/off](#run-awayoff) · [Run into rough weather](#run-into-rough-weather) · [Run out (of time)](#run-out-of-time) · [Run out of](#run-out-of)
 
 **S**
 
-[Sitcom](#sitcom) · [So on and so forth](#so-on-and-so-forth) · [So to say](#so-to-say) · [so to say / so to speak](#so-to-say--so-to-speak) · [Stay ahead of the curve](#stay-ahead-of-the-curve) · [Suffice to say](#suffice-to-say)
+[seasoned professionals](#seasoned-professionals) · [Settle for](#settle-for) · [Shackles are off](#shackles-are-off) · [Shard of glass](#shard-of-glass) · [Shoot me now](#shoot-me-now) · [Shut the hell up](#shut-the-hell-up) · [Silver lining](#silver-lining) · [Siphoning of funds](#siphoning-of-funds) · [Sit tight](#sit-tight) · [Sitcom](#sitcom) · [Sneak Peek](#sneak-peek) · [so much so that](#so-much-so-that) · [So on and so forth](#so-on-and-so-forth) · [So that is how it is?](#so-that-is-how-it-is) · [So to say](#so-to-say) · [so to say / so to speak](#so-to-say--so-to-speak) · [Something or other](#something-or-other) · [Sort of](#sort-of) · [state of the art](#state-of-the-art) · [Stay ahead of the curve](#stay-ahead-of-the-curve) · [Steeper / Steep learning curve](#steeper--steep-learning-curve) · [Stems from](#stems-from) · [Stop short of](#stop-short-of) · [Stop short of doing](#stop-short-of-doing) · [Suffice to say](#suffice-to-say) · [Surprisingly Happy](#surprisingly-happy)
 
 **T**
 
-[take something forward](#take-something-forward) · [Tear someone limb from limb](#tear-someone-limb-from-limb) · [The other way around](#the-other-way-around)
+[Take care of](#take-care-of) · [take something forward](#take-something-forward) · [Take your mind off](#take-your-mind-off) · [Talk in circles](#talk-in-circles) · [Tapped Out / Tap Out](#tapped-out--tap-out) · [Tear someone limb from limb](#tear-someone-limb-from-limb) · [That was a stall](#that-was-a-stall) · [The final nail in the coffin](#the-final-nail-in-the-coffin) · [The other way around](#the-other-way-around) · [There is no finish line](#there-is-no-finish-line) · [Think of](#think-of) · [This is my call](#this-is-my-call) · [Thrust upon us](#thrust-upon-us) · [Time to turn the page](#time-to-turn-the-page) · [To a certain extent](#to-a-certain-extent) · [To anchor this idea](#to-anchor-this-idea) · [to surround encircle](#to-surround-encircle) · [To vent at someone](#to-vent-at-someone) · [Totes inappropes](#totes-inappropes) · [Touch base](#touch-base) · [Tourist trap](#tourist-trap) · [Trample (on/over) somebody/something](#trample-onover-somebodysomething) · [Travel & Leisure Terms](#travel--leisure-terms) · [Turned on me](#turned-on-me)
+
+**U**
+
+[Under advisement](#under-advisement) · [Under the hood](#under-the-hood) · [Unique selling point (USP)](#unique-selling-point-usp) · [Until afterwards](#until-afterwards) · [Up to date](#up-to-date) · [Up until this point / Up until now](#up-until-this-point--up-until-now)
 
 **V**
 
-[Voilà](#voilà)
+[Value Proposition](#value-proposition) · [Verbs & Adjectives (beat, borrow, lend, well...)](#verbs--adjectives-beat-borrow-lend-well) · [Voilà](#voilà)
 
 **W**
 
-[Water under the bridge](#water-under-the-bridge) · [Wean Away](#wean-away) · [where the rubber meets the road](#where-the-rubber-meets-the-road) · [Without further ado](#without-further-ado)
+[Water under the bridge](#water-under-the-bridge) · [Way out](#way-out) · [Wean Away](#wean-away) · [Wet work](#wet-work) · [What are you so bouncy about?](#what-are-you-so-bouncy-about) · [where the rubber meets the road](#where-the-rubber-meets-the-road) · [Wild west](#wild-west) · [Withdraw from](#withdraw-from) · [Without further ado](#without-further-ado) · [Write off / written off](#write-off--written-off) · [WSR( Weekly Status Report)](#wsr-weekly-status-report)
 
 **Y**
 
-[You had it coming](#you-had-it-coming) · [You just hit the tip of the iceberg](#you-just-hit-the-tip-of-the-iceberg) · [you're preaching to the converted](#youre-preaching-to-the-converted)
+[You are way out of line](#you-are-way-out-of-line) · [You had it coming](#you-had-it-coming) · [You just hit the tip of the iceberg](#you-just-hit-the-tip-of-the-iceberg) · [you're preaching to the converted](#youre-preaching-to-the-converted)
+
+**Z**
+
+[Zero-sum game](#zero-sum-game)
 
 ---
+
+# "Left over"
+
+A phrase that means something remains after the rest has been used or gone.
+
+"So much income is devoted to monthly mortgage payments that nothing is left over."
+"A large bucket of cut flowers left over from the wedding."
+"Leftover food served at a later meal."
+
+Also used as an adjective/noun (**leftover**, usually plural: *leftovers*): something that remains unused or unconsumed — especially leftover food served at a later meal.
+
+[↑ Back to index](#index)
+
+# A new lease of life
+
+(Repeat) Renewed vitality or opportunity.
+
+A renewed sense of energy or purpose.
+
+[↑ Back to index](#index)
+
+# Abstract & Descriptive Adjectives (sinful, surreal, compelling...)
+
+
+[↑ Back to index](#index)
+
+# Action point
+
+Specific task assigned to be done.
+
+[↑ Back to index](#index)
+
+# adhoc/unplanned way
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
+# Aim At
+
+Traffic rules aim at reducing accident ratio  Everyone knows that he is a bad egg
+
+[↑ Back to index](#index)
+
+# all in all
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
+# All spheres of life
+
+All areas or aspects of life (e.g., personal, professional, social).
+
+[↑ Back to index](#index)
+
+# All the way
+
+Completely; to the fullest extent.
+
+[↑ Back to index](#index)
+
+# Ancillary (an·si·luh·ree)
+
+1\. : subordinate, subsidiary. the main factory and its ancillary plants.   2\. : auxiliary, supplementary.
+
+[↑ Back to index](#index)
+
+# Apart from that
+
+Synonyms/equivalents: other than, besides, except for.
+
+[↑ Back to index](#index)
+
+# As far as sb is concerned
+
+**Meaning:** Regarding someone’s opinion or perspective.  
+ **Example:** As far as I’m concerned, the meeting is unnecessary.  
+ **Context:** Opinions, views.
+
+[↑ Back to index](#index)
+
+# As of yet
+
+Until now; so far (usually with something pending).
+
+[↑ Back to index](#index)
 
 # At your disposal
 
@@ -116,6 +239,64 @@ When something or someone is **"at your disposal"**, it means you have full acce
 
 [↑ Back to index](#index)
 
+# at/in the back of your mind
+
+If something is at/in the back of your mind, you intend to do it, but are not actively thinking about it.
+
+"It's been at the back of my mind to call José for several days now, but I haven't got round to it yet."
+
+[↑ Back to index](#index)
+
+# Back out of
+
+To withdraw from an agreement.
+
+[↑ Back to index](#index)
+
+# Back to square one
+
+**Meaning:** To start over.  
+ **Example:** The deal fell through, so it’s back to square one.  
+ **Context:** Restart.
+
+[↑ Back to index](#index)
+
+# Back up
+
+To support; or to make a data copy; or reverse a vehicle.
+
+[↑ Back to index](#index)
+
+# Bad Food
+
+When describing bad food, you can use words like: spoiled, rotten, rancid, stale, off, unpalatable, distasteful, bland, watery, soggy, tough, chewy, overcooked, burnt, wilted, bruised, lumpy, curdled, bitter, tart, greasy, unappetizing, and unsavory;
+
+[↑ Back to index](#index)
+
+# Bare metal
+
+Refers to physical hardware without software layers; often used in IT or cloud computing.
+
+[↑ Back to index](#index)
+
+# Be just the thing
+
+Be exactly what’s needed or perfect for the situation.
+
+[↑ Back to index](#index)
+
+# Be noticeable
+
+To stand out or be visible.
+
+[↑ Back to index](#index)
+
+# Beat the shit outta you
+
+(Profane) To violently attack someone; also used metaphorically.
+
+[↑ Back to index](#index)
+
 # Beating around the bush
 
 The idiom "beating around the bush" means to avoid talking about a topic directly, or to speak indirectly to avoid getting to the point. It can also mean to stall or waste time. For example, "If you want to ask me, just ask; don't beat around the bush".
@@ -124,6 +305,14 @@ The idiom "beating around the bush" means to avoid talking about a topic directl
 "She was beating around the bush because she didn't want to tell him that she wasn't really interested in him".   
 "Don't beat around the bush \- get to the point\!".   
 "Quit beating around the bush and say what's on your mind". 
+
+Avoiding the main topic or issue; speaking indirectly.
+
+[↑ Back to index](#index)
+
+# Begin to do something
+
+To start an action.
 
 [↑ Back to index](#index)
 
@@ -162,6 +351,56 @@ So, if someone says: *“You are being objective,”* they mean:
 
 [↑ Back to index](#index)
 
+# Below the belt
+
+Unfair or personally hurtful, often in arguments.
+
+[↑ Back to index](#index)
+
+# Bend over backward
+
+To make a great effort to help or accommodate someone.
+
+[↑ Back to index](#index)
+
+# Bend the knee
+
+To submit or show deference, especially to authority.
+
+[↑ Back to index](#index)
+
+# Best strategy on governance
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+Related terms noted alongside this one (no definitions captured): Call out, Suffice, List out, Compile, Upcert, "While this is updating, I will show you another flow," One shop/stop solution, Offshore model, Voice over, Spun off, Just in time, Intricacies.
+
+[↑ Back to index](#index)
+
+# Biased Toward / Biased Against
+
+The phrases **"biased toward"** (or "biased to") and **"biased against"** both describe prejudiced or unfair inclinations, but in opposite directions.
+
+**Biased toward / biased to** — favoring, having a positive bias for something or someone. *"The teacher was biased toward the top-performing students."* ("Biased to" is less common; "biased toward" is more standard.)
+
+**Biased against** — prejudiced against, a negative bias toward something or someone. *"The hiring manager was biased against older candidates."*
+
+[↑ Back to index](#index)
+
+# Bird Eye approach
+
+Bird's Eye View, also known as a top-down view or overhead view, is a representation of the environment from an elevated perspective.
+
+[↑ Back to index](#index)
+
+# Bit off more than I can chew
+
+**Meaning:** To take on more responsibility than one can manage.  
+ **Example:** I bit off more than I can chew with this project.  
+ **Context:** Overcommitment.
+
+[↑ Back to index](#index)
+
 # Blessing in disguise
 
 **Blessing in disguise** means **something that seems bad or unlucky at first, but later turns out to be good or beneficial**.
@@ -185,6 +424,25 @@ So, if someone says: *“You are being objective,”* they mean:
 * Used when **hindsight** reveals the hidden benefit.
 
 * Often said in a slightly **comforting or optimistic tone**.
+
+[↑ Back to index](#index)
+
+# Blink of an eye
+
+A very brief moment; happens extremely fast.
+
+[↑ Back to index](#index)
+
+# Break into (vs. break through)
+
+**Break into**: Enter by force (a building); start doing something suddenly.  
+ **Break through**: Forcefully make a way through a barrier or difficulty.
+
+[↑ Back to index](#index)
+
+# Break with
+
+To end association or tradition.
 
 [↑ Back to index](#index)
 
@@ -226,6 +484,23 @@ You’re putting a **bridge** over a **distance** — making two ends meet.
 
 [↑ Back to index](#index)
 
+# Call out/in
+
+To publicly criticize / to summon for duty.
+
+[↑ Back to index](#index)
+
+# Character Traits & Descriptions (defiant, enduring, extravagant...)
+
+
+[↑ Back to index](#index)
+
+# Charity begins at home
+
+Take care of your own family and responsibilities before helping others.
+
+[↑ Back to index](#index)
+
 # chickens come home to roost
 
 The phrase you’re thinking of is **"chickens come home to roost"** (sometimes said as *your chickens have come home to roost*).
@@ -246,6 +521,71 @@ It’s basically saying, *“What you sow, you reap.”*
 
 [↑ Back to index](#index)
 
+# Chipping away / Chip away
+
+Gradually reduce or weaken something (e.g., "chipping away at a problem").
+
+[↑ Back to index](#index)
+
+# Cling (on) to
+
+**Meaning:** To hold tightly to something or someone.  
+**Example:** The child clung to his mother.  
+**Context:** Physical or emotional attachment.
+
+[↑ Back to index](#index)
+
+# Clouding judgment
+
+Obstructing or distorting clear thinking or decision-making.
+
+[↑ Back to index](#index)
+
+# Come from
+
+To originate in place, background, or context.
+
+[↑ Back to index](#index)
+
+# Come through / Came through
+
+**Meaning:** To succeed or survive a difficult situation.  
+ **Example:** He came through the surgery successfully.  
+ **Context:** Survival, success.
+
+[↑ Back to index](#index)
+
+# Come to
+
+To regain consciousness; also used for arriving at decisions or conclusions.
+
+[↑ Back to index](#index)
+
+# Come to grief
+
+Experience failure, hardship, or injury.
+
+[↑ Back to index](#index)
+
+# Come up with
+
+To think of (an idea, plan, solution, etc.).
+
+To invent or produce an idea or solution.
+
+Repeated: To think of an idea or plan.
+
+[↑ Back to index](#index)
+
+# Coming back to my earlier point
+
+A transition phrase for returning to something said earlier in a conversation or meeting, after a detour or interruption. Swap "point" for "decision," "topic," or "question" depending on what you're returning to.
+
+"Coming back to my earlier point — I still think we should delay the release."
+"Coming back to the decision we made last week, has anything changed?"
+
+[↑ Back to index](#index)
+
 # Completely unrelated note
 
 "Completely unrelated note" means that the speaker is about to share a piece of information or comment that has absolutely no connection to the current topic of discussion, essentially introducing a side thought or digression. 
@@ -254,9 +594,105 @@ It’s basically saying, *“What you sow, you reap.”*
 
 [↑ Back to index](#index)
 
+# contrast thoughts, contrasting thoughts
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
+# Course correct
+
+To adjust your strategy or direction to get back on track.
+
+[↑ Back to index](#index)
+
+# Crashing a wedding
+
+"Crashing a wedding" means attending a wedding without an invitation. This is considered rude and disrespectful.
+
+Signs someone might be a wedding crasher: the crasher is dancing with your grandma; the crasher's stories keep changing; the crasher's personality is larger-than-life; the crasher came in late or pushed through the receiving line; the crasher is a great faker.
+
+[↑ Back to index](#index)
+
+# Cry Loudly (Weeping) vs. Cry Out
+
+**Cry loudly** = weep intensely; **Cry out** = yell or scream, usually briefly.
+
+[↑ Back to index](#index)
+
+# Cry out / Cry loud
+
+**Cry out**: Shout loudly due to pain, fear, or urgency.  
+ **Cry loud**: Can mean shouting or weeping loudly, context matters.
+
+[↑ Back to index](#index)
+
+# Cusp of change
+
+The phrase "cusp of change" means the point at which something is about to change into something else. For example, "Our nation is on the cusp of a new era".
+
+[↑ Back to index](#index)
+
+# cut corner
+
+"To cut corners" means to do something in the easiest or quickest way, often sacrificing quality or thoroughness in the process. It implies taking a shortcut to save time, money, or effort, potentially at the expense of a complete or satisfactory result.
+
+[↑ Back to index](#index)
+
+# Cut loose
+
+**Meaning:** To relax and enjoy oneself freely.  
+ **Example:** It’s time to cut loose and have fun!  
+ **Context:** Relaxation.
+
+[↑ Back to index](#index)
+
+# Cut to the chase
+
+**Meaning:** To get to the point without wasting time.  
+ **Example:** Let’s cut to the chase and discuss the budget.  
+ **Context:** Efficiency.
+
+[↑ Back to index](#index)
+
+# Day tripper
+
+Someone who goes on short trips and returns the same day.
+
+[↑ Back to index](#index)
+
+# Dazzle me
+
+Impress me greatly with brilliance or charm.
+
+[↑ Back to index](#index)
+
+# Describing a Person Positively (Alternatives to "Nice")
+
+Instead of the generic "nice," use a more specific cluster of adjectives:
+
+* **Warm and friendly:** Welcoming, Kind-hearted, Friendly, Approachable, Good-natured
+* **Helpful and supportive:** Thoughtful, Considerate, Supportive, Generous, Reliable
+* **Pleasant and easy to be around:** Charming, Easygoing, Pleasant, Agreeable, Amicable
+* **Respectful and polite:** Respectful, Courteous, Polite, Well-mannered, Gracious
+* **Fun and engaging:** Lively, Cheerful, Fun-loving, Sociable, Engaging
+* **Trustworthy and dependable:** Trustworthy, Dependable, Honest, Upstanding, Respectable
+
+Examples in context: instead of "My neighbours are nice people," say "My neighbors are incredibly warm and welcoming." Instead of "They're really nice," say "They're thoughtful and always willing to lend a hand."
+
+[↑ Back to index](#index)
+
 # Deserve an asterisk
 
 The phrase "deserve an asterisk" means something is less impressive or important than it would otherwise be due to a limiting factor or consideration. For example, you might say that an athlete or team deserves an asterisk next to their accomplishment if there was a controversial decision that affected them. 
+
+To have a condition or exception noted (often due to special circumstances).
+
+[↑ Back to index](#index)
+
+# Don't trample me
+
+Don’t treat me as unimportant or disregard me.
 
 [↑ Back to index](#index)
 
@@ -395,9 +831,64 @@ To establish a firm boundary between what's acceptable and what isn't. Usually u
 
 [↑ Back to index](#index)
 
+# Draw attention to
+
+**Meaning:** To make someone notice something.  
+**Example:** The report draws attention to important safety issues.  
+**Context:** Highlighting.
+
+[↑ Back to index](#index)
+
+# Draw your attention
+
+To point something out or highlight it for notice.
+
+[↑ Back to index](#index)
+
 # Drawing a parallel
 
 "Drawing a parallel" means to make a comparison between two different things to highlight their similarities. It's about identifying and showing how two distinct ideas, concepts, or situations are analogous. 
+
+[↑ Back to index](#index)
+
+# Due diligence
+
+Careful investigation before making decisions (often in business).
+
+[↑ Back to index](#index)
+
+# Elbow room
+
+(Repeat) Space or freedom to act.
+
+[↑ Back to index](#index)
+
+# Escape blame/punishment
+
+To avoid being held responsible.
+
+[↑ Back to index](#index)
+
+# Ever since
+
+From a specific time in the past until now.
+
+[↑ Back to index](#index)
+
+# Everyday Vocabulary (sightseeing, stay, mate, abrupt, ample...)
+
+
+[↑ Back to index](#index)
+
+# Examples in daily use
+
+(E.g., “We should get going before traffic hits.”)
+
+[↑ Back to index](#index)
+
+# Examples of "Cry out" (Speaking/Shouting Loudly)
+
+E.g., "She cried out in fear when the lights went off."
 
 [↑ Back to index](#index)
 
@@ -414,6 +905,26 @@ Examples of "faint" in a sentence:
 * "There's not the faintest hope of ever finding him".  
 * "She bears a faint resemblance to my sister".  
 * "I have a faint suspicion that you may be right\!".
+
+[↑ Back to index](#index)
+
+# Fall behind
+
+**Meaning:** To fail to keep up.  
+ **Example:** He fell behind in his studies.  
+ **Context:** Progress.
+
+[↑ Back to index](#index)
+
+# Fill in for
+
+To substitute for someone temporarily.
+
+[↑ Back to index](#index)
+
+# Finger crossed
+
+To hope that nothing will happen to bring bad luck or to ruin one's plans: “Helen will soon find out whether she got into law school; in the meantime, she is keeping her fingers crossed.”
 
 [↑ Back to index](#index)
 
@@ -465,12 +976,139 @@ The phrase **"flourish like anything"** is an informal or poetic way of saying t
 
 [↑ Back to index](#index)
 
+# from nowhere
+
+phrase of nowhere appearing or happening suddenly and unexpectedly. "they came from nowhere to win in the last three strokes of the race"
+
+[↑ Back to index](#index)
+
+# Fussy Eater
+
+A fussy eater is a child who is picky about their food, refusing to try new foods or rejecting certain foods. It's also known as picky or choosy eating.
+
+[↑ Back to index](#index)
+
+# General Purpose
+
+Used for broad, versatile uses (general utility), not a phrasal verb.
+
+[↑ Back to index](#index)
+
+# Get along / Get along with
+
+**Meaning:**
+
+1. To have a good relationship with someone.  
+2. To manage or survive despite difficulties.
+
+**Example:**
+
+* They get along well.
+
+* She gets along fine despite her injury.
+
+**Context:** Relationships, coping.
+
+[↑ Back to index](#index)
+
+# Get at
+
+**Meaning:** To imply or suggest something indirectly.  
+**Example:** What are you trying to get at?  
+**Context:** Communication.
+
+[↑ Back to index](#index)
+
+# Get away with
+
+**Meaning:** To do something wrong without being punished.  
+**Example:** He got away with cheating on the test.  
+**Context:** Rules, punishment.
+
+[↑ Back to index](#index)
+
+# Get cracking
+
+(Informal) Start working quickly or energetically.
+
+[↑ Back to index](#index)
+
+# Get going
+
+To begin moving or start an activity.
+
+[↑ Back to index](#index)
+
+# Get in / Get on
+
+**Meaning:** To enter a vehicle or a place.  
+**Example:** Get in the car. / Get on the bus.  
+**Context:** Transportation.
+
+[↑ Back to index](#index)
+
+# Get off / Get down
+
+**Meaning:** To leave a vehicle or surface.  
+**Example:** Get off the bus at the next stop.  
+**Context:** Transportation.
+
+[↑ Back to index](#index)
+
+# Get on to
+
+To start dealing with something; or suspect someone.
+
+[↑ Back to index](#index)
+
+# Get one's feet wet
+
+To try something for the first time, often to gain initial experience.
+
+[↑ Back to index](#index)
+
+# Get out of
+
+**Meaning:** To avoid doing something.  
+**Example:** He tried to get out of doing his homework.  
+**Context:** Avoidance.
+
+[↑ Back to index](#index)
+
+# Get over it
+
+Recover emotionally from something unpleasant or unfair.
+
+[↑ Back to index](#index)
+
+# Get rid of
+
+**Meaning:** To eliminate or remove something.  
+**Example:** I need to get rid of old clothes.  
+**Context:** Cleaning, problem solving.
+
+[↑ Back to index](#index)
+
 # get the ball rolling
 
 phrase of ball
 
 set an activity in motion; make a start.  
 "to get the ball rolling, the government was asked to contribute a million dollars to the fund"
+
+[↑ Back to index](#index)
+
+# Get the hang of
+
+To become familiar or skilled at something.
+
+[↑ Back to index](#index)
+
+# Get through to
+
+**Meaning:** To reach or make someone understand.  
+**Example:** I couldn’t get through to him about the importance of safety.  
+**Context:** Communication.
 
 [↑ Back to index](#index)
 
@@ -490,6 +1128,86 @@ Speaking tip: *"One thing that really gets under my skin is when people ignore a
 
 [↑ Back to index](#index)
 
+# Get up to
+
+**Meaning:** To do something (often mischievous).  
+**Example:** What did the kids get up to while we were away?  
+**Context:** Behavior.
+
+[↑ Back to index](#index)
+
+# Get your shit together
+
+(Informal) Organize yourself; stop being chaotic or careless.
+
+[↑ Back to index](#index)
+
+# Give something a miss
+
+To choose not to do something (British informal).
+
+[↑ Back to index](#index)
+
+# Given that
+
+**Meaning:** Considering that; because.  
+**Example:** Given that it’s late, we should go home.  
+**Context:** Reasoning.
+
+[↑ Back to index](#index)
+
+# Go after/ went after MLOPS
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
+# Go against
+
+**Meaning:** To oppose or conflict with someone or something.  
+ **Example:** His decision goes against company policy.  
+ **Context:** Conflicts, rules, opinions.
+
+[↑ Back to index](#index)
+
+# Go bankrupt
+
+To run out of money and close a business.
+
+[↑ Back to index](#index)
+
+# Go cold turkey
+
+To suddenly stop a habit (especially drugs or smoking).
+
+[↑ Back to index](#index)
+
+# Go dark
+
+To stop all communication or visibility (esp. sudden or secretive).
+
+[↑ Back to index](#index)
+
+# Go off / Went off
+
+To explode (literal or emotional); to get angry; or to begin (alarm/event).
+
+[↑ Back to index](#index)
+
+# Go the extra mile
+
+**Meaning:** To do more than what is expected.  
+ **Example:** She always goes the extra mile for her clients.  
+ **Context:** Effort.
+
+[↑ Back to index](#index)
+
+# Go viral
+
+To spread rapidly across the internet.
+
+[↑ Back to index](#index)
+
 # Halfway across the world
 
 "Halfway across the world" means a very long distance away, essentially indicating a location that is roughly in the middle of the globe from where you are, signifying a significant geographical separation. 
@@ -501,6 +1219,50 @@ Speaking tip: *"One thing that really gets under my skin is when people ignore a
 …that hamstring me.
 
 If you hamstring someone, you make it very difficult for them to take any action. If he becomes the major opposition leader, he could hamstring a conservative-led coalition. \[ VERB noun\] Synonyms: thwart, stop, block, prevent
+
+[↑ Back to index](#index)
+
+# Have elbow room
+
+Have enough space or freedom to act comfortably.
+
+[↑ Back to index](#index)
+
+# Have had
+
+Used for present perfect (I’ve had enough = I can't tolerate more); implies experience or completion.
+
+[↑ Back to index](#index)
+
+# Haven’t given a thought over it.
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
+# headless chicken
+
+In an uncontrolled or disorganized way, and not calmly or logically.
+
+"Instead of running around like a headless chicken you're using your efforts in a more productive way, more efficiently."
+
+[↑ Back to index](#index)
+
+# Hit the nail on the head
+
+To be exactly right or accurate.
+
+[↑ Back to index](#index)
+
+# Holistic approach
+
+Considering the whole system rather than individual parts.
+
+[↑ Back to index](#index)
+
+# How so
+
+A way to ask someone to explain or clarify.
 
 [↑ Back to index](#index)
 
@@ -571,11 +1333,159 @@ Used more metaphorically to mean:
 
 [↑ Back to index](#index)
 
+# I haven't thought it through
+
+I didn’t plan or consider it carefully.
+
+[↑ Back to index](#index)
+
+# I stand by this
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+Related phrases noted alongside this one (no definitions captured): "My way or highway," "Reap out of it."
+
+[↑ Back to index](#index)
+
+# I want off this case
+
+I want to be removed or excused from this assignment or responsibility.
+
+[↑ Back to index](#index)
+
+# If time permits/allows
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
 # In a funk
 
 "In a funk" is an idiom that means feeling sad, unhappy, or without hope. For example, you might be in a funk after a breakup, the loss of a loved one, or a bad streak of luck. 
 
 If you're in a funk, it means that you've been feeling sad. You might be in a serious funk after your best friend moves across the country. One way to use funk is to mean "blues" or "depression." Everyone's in a funk sometimes — for some people, the shorter, darker winter days automatically put them in a bit of a funk.
+
+[↑ Back to index](#index)
+
+# In order to
+
+Equivalents/synonyms: to, for the purpose of, with the aim of, so that, to achieve.
+
+Original: I went to the store in order to buy some groceries. Revised: I went to the store to buy some groceries.
+Original: She visited the library in order to research her paper. Revised: She visited the library for the purpose of researching her paper.
+Original: He worked late in order to meet the deadline. Revised: He worked late with the aim of meeting the deadline.
+Original: I set an alarm in order to wake up early. Revised: I set an alarm so that I could wake up early.
+Original: The team collaborated in order to achieve their common goal. Revised: The team collaborated to achieve their common goal.
+
+[↑ Back to index](#index)
+
+# In terms of
+
+**Meaning:** Regarding or with respect to something.  
+**Example:** In terms of cost, this option is better.  
+**Context:** Discussion, comparison.
+
+[↑ Back to index](#index)
+
+# In the interest of time
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
+# In vain
+
+Without success or result.
+
+[↑ Back to index](#index)
+
+# Interesting Sentences (Vocabulary in Context)
+
+A loose collection of vocabulary-rich example sentences kept for reference — not a single topic, just sentences and fragments worth remembering the shape of. Kept complete rather than trimmed, since these are scratch notes rather than a polished lesson.
+
+As soon as the doors to the Black Friday sale opened, a stampede broke out, with hundreds of shoppers rushing in, pushing and shoving to grab the best deals. Security guards shouted for order, but the crowd was unstoppable.
+
+First and foremost, I want to thank everyone for their support in making this event a success.
+
+Hang your keys on the hook by the door, so you don't lose them. / I installed a hook by the door for my umbrella.
+
+His love was so intense, it felt like he wanted to **devour you** with his gaze. In the business world, if you're not careful, the competition will devour you alive. If you let fear control you, it will **devour you** from the inside.
+
+The bomb **obliterated** the building.
+
+I wanted to talk with you. / I pour my heart and mind into everything I work on. / He lived in disguise. / Over here. / Let me come back to the moot point.
+
+Minimize the likelihood of total catastrophe. / We are on the cusp of the Quantum age.
+
+By 12 years old, he'd mastered how to cope with bullies twice his size, turning their taunts into fuel for his wild, unbreakable spirit.
+
+Learning to drive was terrifying - I kept mixing up the brake and accelerator, but once I got the hang of it, it felt as natural as walking.
+
+Over time, their separate ideas **coalesced** into a coherent business plan. The scattered protesters slowly coalesced into an organised group at the city centre.
+
+Ever since I decided to refuse to settle, my life has been on a path of unstoppable growth and transformation.
+
+This task will be handled by the ABC team. Assigning it to X, who can prioritize it and delegate it further as per her convenience.
+
+When my friend asked for movie recommendations, I gave a few names off the top of my head without thinking much.
+
+The 2004 Indian Ocean tsunami was a **catastrophe** that affected millions of lives, leaving **devastation** across several countries.
+
+The magician's performance was so **captivating**, it seemed to **mesmerize** the entire audience, leaving them in a **trance**.
+
+The sudden news of the layoffs filled the employees with **dismay**. He watched in dismay as his carefully built sandcastle was washed away by the waves.
+
+The old bridge was **crumbling** under the weight of time, a silent reminder of neglect. She was **miffed** by his lack of decency when he interrupted her speech with rude comments.
+
+I had a headache, but it wasn't from lack of sleep. / I had a headache even though I wasn't sleep-deprived.
+
+They asked me to lead the project, but I haven't had any training in project management.
+
+By the time he was 12 years old, he had already outsmarted the village elders, tamed a wild wolf, and carved his name into the trunk of the oldest tree in the forest.
+
+At just 12 years old, he defied the storm, rescued a sinking boat, and became the youngest legend the seaside town would ever know.
+
+In the blink of an eye, the world shifted beneath her feet, unveiling a hidden realm where every shadow whispered secrets of forgotten magic.
+
+If Sam has a crush on Jason, but Jason does not **reciprocate** his feelings, it means Jason doesn't have romantic feelings for Sam in return. (Same pattern: if Michael considers Jason his best friend, but Jason doesn't reciprocate, Jason doesn't view Michael as his best friend in return.)
+
+While typing, why do I sometimes mix up characters — typing later characters earlier, and earlier characters later?
+
+I'm joined by Dr. Lee, who is an expert in neuroscience. / In staging, it had some data.
+
+Ways to ask which ticket a change belongs to: "These changes you're making — which ticket are they part of?" / "Which ticket is this change associated with?" / "Can you clarify which ticket these changes are linked to?"
+
+"You know what I mean?" is overused as a filler check for understanding. Better alternatives: "Does that make sense?" / "Let me clarify." / "What are your thoughts?" / "Are we aligned on this?" / "Do you see the concern here?"
+
+"What's that thing called? It's on the tip of my tongue" — used when you temporarily can't recall a word.
+
+Person → people. Woman → women. News (always plural, no "a") — "any news," "the news." I work in a company. How many did you say there were? It takes you over. But deep down, I knew he was lying. The company's profits are at an all-time high. I'm walking away from you now. This is absurd. What exactly does that mean?
+
+A couple of friends goofing around. / You know the drill.
+
+Yes. Why does that seem to **flabbergast** everybody? No, no, no, I'm not flabbergasted. I'm puzzled.
+
+Please try to avoid wasting her time with female gibber-gabber. / I didn't mind. Those are your clues. / She let me. / You are so naïve.
+
+Until we register the model in the model registry, we cannot run an inference.
+
+My yoghurt leaked all over. / Instead of dwelling on negativity. / Little clingy. / I'm going to **admonish** you. / Vigorously? / Did he Purell? / Stirred up? / You are pretty delicate. / I don't like when you imitate me. / Revamped my profile. / He is kind of a bummer.
+
+Your inference is justified. / I would have preferred to have you there with me. / I just feel like everything is falling apart. / So, you picked my name — now get over it!
+
+I'm a little **strapped for cash** this year.
+
+She is **scrupulous** about checking every detail in the report. He's a scrupulous businessman who never cheats his clients.
+
+Sender may not be who they claim to be.
+
+Prevalent, gauge, deem.
+
+[↑ Back to index](#index)
+
+# It’s a half measure
+
+An incomplete or insufficient effort.
 
 [↑ Back to index](#index)
 
@@ -640,6 +1550,76 @@ You can combine it with reasons to sound more natural:
 
 [↑ Back to index](#index)
 
+# I’m cross with you
+
+**Meaning:** I’m angry or upset with you.  
+ **Example:** I’m cross with you for being late.  
+ **Context:** Anger.
+
+[↑ Back to index](#index)
+
+# I’m over him / I’m over it / Get over it
+
+**Meaning:** To have recovered emotionally from someone or something.  
+ **Example:** I’m over him; I don’t think about him anymore.  
+ **Context:** Emotional recovery.
+
+[↑ Back to index](#index)
+
+# I’m so turned on
+
+(Informal, sexual) Feeling sexually aroused.
+
+[↑ Back to index](#index)
+
+# Joint venture
+
+A business collaboration between two or more entities.
+
+[↑ Back to index](#index)
+
+# Jump the gun
+
+**Meaning:** To act too soon or prematurely.  
+ **Example:** Don’t jump the gun before we have all the facts.  
+ **Context:** Timing.
+
+[↑ Back to index](#index)
+
+# Keep someone posted
+
+To keep someone informed with updates.
+
+[↑ Back to index](#index)
+
+# Keep up with
+
+**Meaning:** To stay at the same level or pace.  
+**Example:** It’s hard to keep up with the latest technology.  
+**Context:** Staying current.
+
+To stay at the same pace.
+
+[↑ Back to index](#index)
+
+# Key takeaway
+
+Main point or lesson learned.
+
+[↑ Back to index](#index)
+
+# Lay out / Laid out
+
+To explain clearly; arrange something in detail or physically spread it out.
+
+[↑ Back to index](#index)
+
+# Leave work to go home
+
+To clock out or end the workday.
+
+[↑ Back to index](#index)
+
 # Let that sink in
 
 "Let that sink in" means to take a moment to fully understand or absorb something significant or impactful. It suggests pausing to reflect on the information or idea so its importance or meaning becomes clear.
@@ -649,6 +1629,38 @@ For example:
 If someone says, "The Earth is 4.5 billion years old—let that sink in," they are asking you to pause and think deeply about the vast age of the Earth.
 
 It's often used to emphasize surprising, profound, or thought-provoking facts.
+
+[↑ Back to index](#index)
+
+# Let X comeback
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
+# Let's say
+
+Let's say from 1 Jan 2020 to 15 Jan 2020 which is 15 days
+
+[↑ Back to index](#index)
+
+# Level with
+
+**Meaning:** To be honest with someone.  
+**Example:** I need to level with you about what happened.  
+**Context:** Honesty.
+
+[↑ Back to index](#index)
+
+# Lift a finger
+
+To make the slightest effort (often used negatively).
+
+[↑ Back to index](#index)
+
+# Lift and shift
+
+Lift and shift is a strategy for migrating applications from on-premises servers to cloud servers without modifying the applications. It's also known as rehosting.
 
 [↑ Back to index](#index)
 
@@ -699,6 +1711,24 @@ The phrase **"like anything"** is an informal intensifier used in English. It’
 
 [↑ Back to index](#index)
 
+# Long before
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
+# Look after
+
+To take care of someone or something.
+
+[↑ Back to index](#index)
+
+# Look after/out
+
+To care for or be cautious.
+
+[↑ Back to index](#index)
+
 # Look down upon
 
 "Look down upon" is an idiom that means to treat someone or something with contempt or to regard them as inferior. It can also mean to feel that someone is less important than you or does not deserve respect.  
@@ -714,12 +1744,87 @@ disdain, disrespect, hate, despise, scorn, slight, and snub.
 
 [↑ Back to index](#index)
 
+# Look for
+
+To try to find.
+
+[↑ Back to index](#index)
+
+# Look forward to
+
+To anticipate something with pleasure.
+
+Repeated: To eagerly anticipate.
+
+Repeated: Eagerly anticipate.
+
+[↑ Back to index](#index)
+
 # look up to
 
 The phrasal verb of look
 
 have a great deal of respect for someone.  
 "he needed a model, someone to look up to"
+
+To admire or respect.
+
+[↑ Back to index](#index)
+
+# Make the most of
+
+Use or enjoy something fully or effectively.
+
+[↑ Back to index](#index)
+
+# Meaning / Usage in Sentences / Common Contexts
+
+(Usually sub-sections — you can use this layout for the terms above or below.)
+
+[↑ Back to index](#index)
+
+# meant to be
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
+# Miscellaneous Notes (Uncategorized)
+
+Scratch notes and fragments kept for reference rather than discarded — not yet classified into a single topic:
+
+* **Rolling/phased deployment, explained:** "Imagine you have a job that's currently running, and it's halfway complete. Now, during the process, you make an update — let's say a deployment — behind the scenes. This means that the first half of the job continues running on the older version, while the second half, which runs after the update, will run on the new version. In other words, the job is split across two different versions depending on when the update happens."
+* Spot on **[you nailed it]**
+* Food tolerant / California Roll (veg Sushi) / savory == salty
+* Sustained period of time
+* Booby prize — a small or joke prize given to whoever performs worst.
+* Genetic predisposition
+* Talk vs. Converse — "converse" is more formal/reciprocal than the general "talk."
+* Acknowledge two conflicting desires and either drop one or go with it later.
+* Happen to be
+* Degree of freedom
+
+[↑ Back to index](#index)
+
+# More General Phrases
+
+
+[↑ Back to index](#index)
+
+# More or less
+
+(almost, nearly, around, roughly, approximate, more or less)
+
+[↑ Back to index](#index)
+
+# More Useful Words (lucrative, prestigious, reckless...)
+
+
+[↑ Back to index](#index)
+
+# Move past it
+
+To emotionally or mentally overcome a past issue.
 
 [↑ Back to index](#index)
 
@@ -755,6 +1860,28 @@ Imagine trying to find a tiny needle lost in a huge pile of hay—**it’s tedio
 
 [↑ Back to index](#index)
 
+# Nitty Gritty
+
+**Meaning:** The most important details or practical aspects.  
+ **Example:** Let’s get down to the nitty gritty of the plan.  
+ **Context:** Details.
+
+[↑ Back to index](#index)
+
+# No doubt
+
+**Meaning:** Certainly; without question.  
+**Example:** There is no doubt he will succeed.  
+**Context:** Certainty.
+
+[↑ Back to index](#index)
+
+# No strings attached
+
+Without conditions, restrictions, or obligations.
+
+[↑ Back to index](#index)
+
 # Not budge an inch
 
 It simply means **to refuse to change your opinion, position, or decision at all**.
@@ -778,6 +1905,18 @@ It simply means **to refuse to change your opinion, position, or decision at all
 👉 You can think of it like:  
  **“Not budge” \= not move/change at all.**  
  **“Not budge an inch” \= absolutely no movement/change whatsoever.**
+
+[↑ Back to index](#index)
+
+# Nothing short of
+
+Absolutely; to emphasize how extreme or complete something is.
+
+[↑ Back to index](#index)
+
+# Nothing short of extraordinary
+
+Truly impressive or amazing without exaggeration.
 
 [↑ Back to index](#index)
 
@@ -853,6 +1992,110 @@ The **basic elements** or **fundamental parts** of something, especially when it
 
 [↑ Back to index](#index)
 
+# Off the hook
+
+Freed from obligation, trouble, or blame.
+
+[↑ Back to index](#index)
+
+# Off the radar
+
+Not visible, active, or being noticed.
+
+[↑ Back to index](#index)
+
+# On paper
+
+In theory or officially, not always in practice.
+
+[↑ Back to index](#index)
+
+# On par with
+
+Equal in quality or level.
+
+[↑ Back to index](#index)
+
+# On the flip side
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
+# On the mend
+
+Recovering or healing (physically or emotionally).
+
+[↑ Back to index](#index)
+
+# On the one hand
+
+**Meaning:** Used to introduce one side of an argument.  
+ **Example:** On the one hand, it’s risky; on the other hand, it could pay off.  
+ **Context:** Argument, reasoning.
+
+[↑ Back to index](#index)
+
+# On the up
+
+Improving or increasing in success.
+
+(Repeat) Improving or progressing.
+
+[↑ Back to index](#index)
+
+# Opinion/Views
+
+**Opinions** – When referring to personal beliefs or thoughts (*e.g., "He shared his views on politics." → "He shared his opinions on politics."*). **Perspectives** – When talking about different ways of seeing a situation (*e.g., "She has a unique view on the issue." → "She has a unique perspective on the issue."*). **Thoughts** – When discussing ideas or reflections (*e.g., "What are your views on this?" → "What are your thoughts on this?"*). **Ideas** – When referring to concepts or beliefs (*e.g., "His views on education are interesting." → "His ideas on education are interesting."*). **Standpoint** – When emphasizing a specific position or angle (*e.g., "From my view, this is incorrect." → "From my standpoint, this is incorrect."*). **Opinions** – The most general and widely used synonym in conversation.
+
+[↑ Back to index](#index)
+
+# Out of no where
+
+"Out of nowhere" means something happens very suddenly and unexpectedly. For example, "That anonymous letter turned up out of nowhere".
+
+[↑ Back to index](#index)
+
+# Out of the way
+
+Removed as an obstacle; completed; or in a remote location.
+
+[↑ Back to index](#index)
+
+# outright reject
+
+"Reject" and "outright reject" are phrases that convey a similar meaning, but there is a subtle difference in emphasis. "Reject" on its own simply means to dismiss or refuse something. It indicates a decision not to accept or approve a particular proposal, idea, application, or suggestion. For example, if a job application is rejected, it means the applicant is not being considered for the position. "On the other hand, "outright reject" adds emphasis to the decisiveness of the rejection. The term "outright" implies a clear and unambiguous refusal without any reservation or hesitation. It suggests a straightforward and categorical denial with no room for negotiation or reconsideration. In summary, while both terms convey the idea of refusing or dismissing something, "outright reject" adds an extra layer of emphasis on the decisiveness and finality of the rejection.
+
+[↑ Back to index](#index)
+
+# Over here
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
+# Over the top
+
+Excessive, exaggerated.
+
+[↑ Back to index](#index)
+
+# per se
+
+The Latin phrase per se means "by itself", "in itself", or "of itself". It's used to describe something in its own right, taking it out of its context. For example, "It is not the money per se that makes them unhappy, but the single-minded pursuit of that money".
+
+adverb by or in itself or themselves; intrinsically.in itself, intrinsically, as such, in essence
+
+[↑ Back to index](#index)
+
+# Play it by ear
+
+**Meaning:** To improvise rather than plan.  
+ **Example:** Let’s play it by ear and decide when we get there.  
+ **Context:** Flexibility.
+
+[↑ Back to index](#index)
+
 # Playing Devil’s Advocate
 
 **"To play devil’s advocate"** means:
@@ -879,6 +2122,44 @@ People sometimes use it before saying something controversial or unpopular, to s
 
 *“Just to play devil’s advocate…”*  
  *(This signals: "I'm not attacking you, just exploring the other side.")*
+
+[↑ Back to index](#index)
+
+# Point of view
+
+**Meaning:** A particular way of considering something.  
+**Example:** From her point of view, the plan makes sense.  
+**Context:** Perspective.
+
+[↑ Back to index](#index)
+
+# Praising an Essay (Examiner Feedback Phrases)
+
+**General praise:** "This is an excellent essay!" / "Well done — this is a strong piece of work!" / "Your essay is clear, concise, and well-structured!"
+
+**Clarity and structure:** "Your arguments are well-organized and easy to follow." / "The structure of your essay is logical and effective." / "Your introduction and conclusion are particularly strong."
+
+**Depth of analysis:** "Your analysis is insightful and thought-provoking." / "You've demonstrated a deep understanding of the topic." / "You've supported your arguments with strong evidence and examples."
+
+**Originality and creativity:** "Your perspective is fresh and original." / "You've approached the topic in a unique and creative way." / "This essay stands out for its originality."
+
+**Language and style:** "Your writing style is polished and professional." / "You've demonstrated a strong command of vocabulary and grammar."
+
+**Research and evidence:** "Your essay is well-researched and thoroughly supported." / "Your evidence is compelling and adds weight to your arguments."
+
+**Constructive praise (room for improvement):** "This is a very good essay, and with a bit more refinement, it could be outstanding." / "Your essay is strong, but there's room to explore even more depth in your analysis."
+
+[↑ Back to index](#index)
+
+# Pulling things out of thin air
+
+Inventing or imagining without evidence or preparation.
+
+[↑ Back to index](#index)
+
+# Put forth
+
+**Suggesting or Proposing: Propose** (*He proposed a new strategy.*) **Present** (*She presented a compelling argument.*) **Recommend** (*They recommended a different approach.*) **Offer** (*I offered a solution to the issue.*) **Expressing or Stating: Express** (*He expressed his concerns clearly.*) **Convey** (*She conveyed her thoughts effectively.*) **Articulate** (*He articulated his vision for the project.*) **Putting into Action: Implement** (*We implemented the changes as suggested.*) **Introduce** (*They introduced a new process to streamline work.*) **Advance** (*She advanced a new idea in the meeting.*)
 
 [↑ Back to index](#index)
 
@@ -913,6 +2194,21 @@ the phrase **"put me on edge"** means to make someone feel **nervous, anxious, t
 * Make me nervous
 
 * Get under my skin (slightly different—more about irritation)
+
+[↑ Back to index](#index)
+
+# Put out / Put off
+
+**Put out** — To extinguish (a fire) or inconvenience someone.  
+**Put off** — To delay or postpone.  
+**Examples:**
+
+* Put out the candles before leaving.
+
+* Don’t put me off with excuses.
+
+* The meeting was put off until next week.  
+   **Context:** Fire safety, scheduling, causing trouble.
 
 [↑ Back to index](#index)
 
@@ -953,6 +2249,38 @@ Example for your domain (MLOps/AWS):
 
 [↑ Back to index](#index)
 
+# Put up with
+
+**Meaning:** To tolerate or endure something unpleasant.  
+**Example:** I don’t know how he puts up with that noise every day.  
+**Context:** Patience, endurance.
+
+[↑ Back to index](#index)
+
+# quid pro quo
+
+something for something Quid pro quo describes an agreement between two or more parties in which there is a reciprocal exchange of goods or services.
+
+[↑ Back to index](#index)
+
+# Reminiscent smile
+
+A smile brought on by fond memories.
+
+[↑ Back to index](#index)
+
+# ripple effect
+
+noun the continuing and spreading results of an event or action. "the ripple effect is huge when something like this happens"
+
+[↑ Back to index](#index)
+
+# rote learning
+
+Rote learning is the process of memorizing information based on repetition. Rote learning enhances students' ability to quickly recall basic facts and helps develop foundational knowledge of a topic. Examples of rote learning include memorizing multiplication tables or the periodic table of elements. Memorization, Cramming, Parroting, Regurgitating, Committal to memory, Drilling, Reciting, Copying word for word, Repeating verbatim, Learning parrot-fashion
+
+[↑ Back to index](#index)
+
 # Rough around the edges
 
 It means someone (or something) is **not completely polished, refined, or perfect**, but still has good qualities.
@@ -981,15 +2309,127 @@ It means someone (or something) is **not completely polished, refined, or perfec
 
 [↑ Back to index](#index)
 
+# Rough it
+
+To live without comforts, typically during travel or camping.
+
+[↑ Back to index](#index)
+
+# Run After
+
+To chase or pursue.
+
+[↑ Back to index](#index)
+
+# Run Away/off
+
+To escape, often secretly.
+
+[↑ Back to index](#index)
+
+# Run into rough weather
+
+To encounter difficulties or trouble (literally or metaphorically).
+
+[↑ Back to index](#index)
+
+# Run out (of time)
+
+Used up all available time; no time left to complete something.
+
+[↑ Back to index](#index)
+
+# Run out of
+
+Repeated: To have no more left.
+
+[↑ Back to index](#index)
+
+# seasoned professionals
+
+It means a person that has plenty of real-world experience in the type of work he is doing.
+
+[↑ Back to index](#index)
+
+# Settle for
+
+To accept less than desired.
+
+[↑ Back to index](#index)
+
+# Shackles are off
+
+Freed from constraints or limitations.
+
+[↑ Back to index](#index)
+
+# Shard of glass
+
+A sharp, broken piece of glass.
+
+[↑ Back to index](#index)
+
+# Shoot me now
+
+(Exaggerated) Expression of extreme frustration or dread.
+
+[↑ Back to index](#index)
+
+# Shut the hell up
+
+An aggressive way to tell someone to be quiet.
+
+[↑ Back to index](#index)
+
+# Silver lining
+
+A positive aspect in an otherwise negative situation.
+
+[↑ Back to index](#index)
+
+# Siphoning of funds
+
+Illegally diverting money for personal use.
+
+[↑ Back to index](#index)
+
+# Sit tight
+
+**Meaning:** To wait patiently.  
+ **Example:** Sit tight; I’ll be back soon.  
+ **Context:** Patience.
+
+[↑ Back to index](#index)
+
 # Sitcom
 
 Sitcom is short for “situation comedy.” It's a funny TV show with a realistic setting, like an apartment full of wacky roommates or a restaurant where a regular cast of characters cracks jokes from week to week.
 
 [↑ Back to index](#index)
 
+# Sneak Peek
+
+A sneak peek is an informal noun that means an opportunity to see something before it is officially available. For example, a company may offer a sneak peek at new software. Here are some examples of sneak peek in a sentence: "That proximity leads people to take a sneak peek?" "Tours include getting a sneak peek inside grand palaces, churches and priceless art collections" "The auto designers have released a sneak peek into their latest model, a one-of-a-kind custom build" "You can watch a sneak peek of Pam and Frankie's first night out in our online video"
+
+[↑ Back to index](#index)
+
+# so much so that
+
+Peter loved ice cream, so much so that he had a different flavour every night before bedtime. Jenny adored gardening, so much so that her balcony was transformed into a colourful array of flowers and herbs. Mark was passionate about photography, so much so that he carried his camera everywhere, capturing everyday moments with artistic flair. Emily enjoyed painting, so much so that her bedroom walls were adorned with her vibrant and imaginative creations. Tom had a fascination with astronomy, so much so that he spent many nights gazing at the stars through his telescope, awestruck by the vastness of the universe.
+
+[↑ Back to index](#index)
+
 # So on and so forth
 
 Definitions of and so forth. adverb. continuing in the same way. synonyms: and so on, etc., etcetera.
+
+[↑ Back to index](#index)
+
+# So that is how it is?
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+Related sentences noted alongside this one: "We are just overjoyed to be here." "How aptly he described it."
 
 [↑ Back to index](#index)
 
@@ -1016,6 +2456,8 @@ Definitions of and so forth. adverb. continuing in the same way. synonyms: and s
     → Figurative way of saying she keeps the team motivated.
 
 👉 In casual speech, people also say **“so to speak”**, which is even more common than *“so to say.”* Both are correct, but *“so to speak”* sounds a bit more natural.
+
+Both “so to speak” and “so to say” (meaning “as one might say”) can be found in English literature and English dictionaries.
 
 [↑ Back to index](#index)
 
@@ -1057,6 +2499,27 @@ You're not speaking literally; you're using a metaphor or describing something l
 
 [↑ Back to index](#index)
 
+# Something or other
+
+\*\*I need to pick up something or other from the store; I can't remember exactly what it was. \*\*She mentioned bringing something or other to the potluck, but I'm not sure what dish she's preparing. \*\*During the meeting, the manager discussed a new policy or something or other; I didn't catch all the details. \*\*I saw a documentary about ancient civilizations or something or other on TV last night. \*\*Let's grab lunch at that new restaurant downtown; they have sushi or something or other on their menu. \*\*The professor mentioned a deadline for the assignment, next week or something or other. \*\*I was watching a cooking show, and the chef added a special spice or something or other to enhance the flavor. \*\*My friend invited me to a movie night, said it's a classic from the '80s or something or other. \*\*I found this old book in the attic, a mystery novel or something or other; I'll have to give it a read. \*\*We have a meeting scheduled for tomorrow, discussing the budget or something or other.
+
+[↑ Back to index](#index)
+
+# Sort of
+
+Approximately or to some extent; informal hedging.
+
+[↑ Back to index](#index)
+
+# state of the art
+
+If you describe something as state-of-the-art, you mean that it is the best available because it has been made using the most modern techniques and technology.
+
+noun — the most recent stage in the development of a product, incorporating the newest technology, ideas, and features. "the state of the art in 3D printing"
+adjective — belonging or relating to the most recent stage of technological development; having or using the latest techniques or equipment. "our scientists work in state-of-the-art facilities"
+
+[↑ Back to index](#index)
+
 # Stay ahead of the curve
 
 **“Stay ahead of the curve”** means **to be more advanced, prepared, or up-to-date than others**, especially in a competitive or fast-changing field.
@@ -1095,6 +2558,32 @@ This phrase works well when explaining **why action now is important**:
 
 * *stay at the forefront*
 
+To be more advanced or proactive than others.
+
+[↑ Back to index](#index)
+
+# Steeper / Steep learning curve
+
+Something difficult to learn quickly due to complexity or intensity.
+
+[↑ Back to index](#index)
+
+# Stems from
+
+Originates from; caused by.
+
+[↑ Back to index](#index)
+
+# Stop short of
+
+(Repeat) Almost do something but not fully.
+
+[↑ Back to index](#index)
+
+# Stop short of doing
+
+Almost do something but not quite.
+
 [↑ Back to index](#index)
 
 # Suffice to say
@@ -1110,6 +2599,18 @@ It’s used to introduce a summary or a statement that avoids going into full de
 
 2. **"Suffice to say, the meeting didn’t go as planned."**  
     → (Details are being skipped, but it clearly didn’t go well.)
+
+[↑ Back to index](#index)
+
+# Surprisingly Happy
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
+# Take care of
+
+To be responsible for or deal with someone or something.
 
 [↑ Back to index](#index)
 
@@ -1149,9 +2650,43 @@ It’s used to introduce a summary or a statement that avoids going into full de
 
 [↑ Back to index](#index)
 
+# Take your mind off
+
+**Meaning:** To distract someone from worries.  
+ **Example:** Watching movies takes my mind off stress.  
+ **Context:** Distraction.
+
+[↑ Back to index](#index)
+
+# Talk in circles
+
+Speak in a confusing or repetitive way without reaching a point.
+
+[↑ Back to index](#index)
+
+# Tapped Out / Tap Out
+
+Exhausted (physically/financially); in wrestling, means to surrender.
+
+[↑ Back to index](#index)
+
 # Tear someone limb from limb
 
 If someone threatens to tear you limb from limb, they mean that they are extremely angry with you, and may use violence against you. The police were lucky they found him before I did. I would have torn him limb from limb.
+
+To attack or punish someone very violently or angrily.
+
+[↑ Back to index](#index)
+
+# That was a stall
+
+A deliberate delay tactic.
+
+[↑ Back to index](#index)
+
+# The final nail in the coffin
+
+"The final nail in the coffin" is an idiom that means an event that causes the failure of something that had already started to fail. For example, "This latest evidence could be the final nail in the coffin for Jackson's case".
 
 [↑ Back to index](#index)
 
@@ -1172,6 +2707,146 @@ To say that the opposite position, direction, or order is true
 
 [↑ Back to index](#index)
 
+# There is no finish line
+
+The journey or improvement never truly ends.
+
+[↑ Back to index](#index)
+
+# Think of
+
+To imagine or consider.
+
+[↑ Back to index](#index)
+
+# This is my call
+
+The final decision is mine to make.
+
+[↑ Back to index](#index)
+
+# Thrust upon us
+
+To be forced with responsibility or burden without choice.
+
+[↑ Back to index](#index)
+
+# Time to turn the page
+
+Let go of the past and move forward with a fresh start.
+
+[↑ Back to index](#index)
+
+# To a certain extent
+
+**Meaning:** Partly; somewhat.  
+**Example:** The plan is effective to a certain extent.  
+**Context:** Qualification.
+
+[↑ Back to index](#index)
+
+# To anchor this idea
+
+To establish or support a concept solidly in discussion or thought.
+
+[↑ Back to index](#index)
+
+# to surround encircle
+
+I was surrounded by monkeys. Monkeys encircled me. A group of monkeys surrounded me. Monkeys encompassed me from all sides.
+
+[↑ Back to index](#index)
+
+# To vent at someone
+
+**Meaning:** To express anger or frustration to someone.  
+ **Example:** She vented at her friend after the bad day.  
+ **Context:** Emotional release.
+
+[↑ Back to index](#index)
+
+# Totes inappropes
+
+(Slang) Totally inappropriate.
+
+[↑ Back to index](#index)
+
+# Touch base
+
+To briefly connect or communicate.
+
+[↑ Back to index](#index)
+
+# Tourist trap
+
+Overpriced or commercial place targeting tourists.
+
+[↑ Back to index](#index)
+
+# Trample (on/over) somebody/something
+
+To step heavily on something, or treat someone’s rights or feelings with disrespect.
+
+[↑ Back to index](#index)
+
+# Travel & Leisure Terms
+
+
+[↑ Back to index](#index)
+
+# Turned on me
+
+Betrayed me or suddenly became hostile.
+
+[↑ Back to index](#index)
+
+# Under advisement
+
+Being considered or reviewed carefully before making a decision.
+
+[↑ Back to index](#index)
+
+# Under the hood
+
+What’s happening behind the scenes (often technical or hidden details).
+
+[↑ Back to index](#index)
+
+# Unique selling point (USP)
+
+The distinct feature that sets something apart from competitors.
+
+[↑ Back to index](#index)
+
+# Until afterwards
+
+Indicates a pause or wait until a future time.
+
+[↑ Back to index](#index)
+
+# Up to date
+
+Current or informed with the latest info.
+
+[↑ Back to index](#index)
+
+# Up until this point / Up until now
+
+Indicates everything that has happened before the current moment.
+
+[↑ Back to index](#index)
+
+# Value Proposition
+
+A value proposition is a brief statement that explains the benefits a product or service offers to its customers. It should be clear, concise, and easy to understand. A value proposition should highlight the problem it solves, the advantages it provides, and why it is superior to its competitors. It should also help potential customers understand why they should do business with you instead of your competitors.
+
+[↑ Back to index](#index)
+
+# Verbs & Adjectives (beat, borrow, lend, well...)
+
+
+[↑ Back to index](#index)
+
 # Voilà
 
 A fun little expression to mark the moment when something is finished or revealed — like saying "There you go!" or "Here it is!" *"Ta-da!"* is the more playful English cousin of *voilà* — both draw attention to a reveal or final result.
@@ -1183,6 +2858,16 @@ A fun little expression to mark the moment when something is finished or reveale
 If you say that an event or incident is water under the bridge, you mean that it has happened and cannot now be changed, so there is no point in worrying about it any more. 
 
 He was relieved his time in jail was over and regarded it as water under the bridge.
+
+Past events that are forgiven or no longer important.
+
+[↑ Back to index](#index)
+
+# Way out
+
+**Meaning:** A solution or exit.  
+ **Example:** There has to be a way out of this problem.  
+ **Context:** Problem solving.
 
 [↑ Back to index](#index)
 
@@ -1214,12 +2899,36 @@ Think of it like how a baby is *weaned* off milk to start eating solid food. Sim
 
 [↑ Back to index](#index)
 
+# Wet work
+
+Slang for covert assassinations or dirty jobs (esp. in espionage).
+
+[↑ Back to index](#index)
+
+# What are you so bouncy about?
+
+Why are you so energetic or cheerful?
+
+[↑ Back to index](#index)
+
 # where the rubber meets the road
 
 phrase of rubber  
 informal•US  
 the point at which a theory or idea is put to a practical test.  
 "the differences between effective and ineffective teachers show up where the rubber meets the road, in the brains of the students
+
+[↑ Back to index](#index)
+
+# Wild west
+
+A chaotic, lawless, or unregulated environment.
+
+[↑ Back to index](#index)
+
+# Withdraw from
+
+To pull back or remove oneself.
 
 [↑ Back to index](#index)
 
@@ -1269,6 +2978,26 @@ Use these to avoid repeating the same phrase:
 
 You sometimes use direct or abrupt transitions.  
  Using this phrase helps create a **smooth, confident transition**, especially in client calls.
+
+[↑ Back to index](#index)
+
+# Write off / written off
+
+To cancel or dismiss something (e.g., a debt, effort, or person).
+
+[↑ Back to index](#index)
+
+# WSR( Weekly Status Report)
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
+# You are way out of line
+
+**Meaning:** You have behaved badly or inappropriately.  
+ **Example:** Saying that was way out of line.  
+ **Context:** Criticism.
 
 [↑ Back to index](#index)
 
@@ -1355,5 +3084,11 @@ You're trying to convince someone of something they already believe or agree wit
 * *You don’t need to tell me how important exercise is—you're preaching to the converted. I go to the gym five days a week\!*
 
 It often implies that your argument or effort is unnecessary because the audience already supports your point.
+
+[↑ Back to index](#index)
+
+# Zero-sum game
+
+A situation where one person’s gain is another person’s loss.
 
 [↑ Back to index](#index)

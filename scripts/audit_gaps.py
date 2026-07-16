@@ -5,9 +5,9 @@ Usage: python3 scripts/audit_gaps.py <file.md>
 Prints one line per `# Title` entry, worst (shortest, no example) first:
   <word_count>  ex=<0|1>  mw=<0|1>  <title>
 ex=1 means a quoted example sentence was found; mw=1 means a part-of-speech
-or "means/refers to" cue was found. Only scans top-level `# ` headings, so
-files using `## ` headings (e.g. glossary-usage.md) need that flag added
-before this will see their entries.
+or "means/refers to" cue was found. Only scans top-level `# ` headings — all
+current word banks (vocab.md, phrasal-verbs.md, idioms.md) use that level;
+a file using `## ` headings would need that flag added first.
 """
 import re, sys, json
 from pathlib import Path

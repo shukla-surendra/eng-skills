@@ -40,15 +40,15 @@ multi-session effort — each phase is independently shippable and reversible.
 | stories.md | 8 | 160K | vocabulary-in-context stories |
 | usage-tables.md | 3 | 4K | lookup tables |
 
-**Known problems**
+**Known problems** *(historical — see Phase 3 and 3b below for what's since been resolved)*
 
 - Internal duplicates: vocab **147**, phrasal-verbs **162**, glossary-usage **23**.
-- Cross-file overlap: phrasal-verbs ∩ glossary-usage **356**,
-  vocab ∩ phrasal-verbs **80** (78 resolved by Phase 3b's routing/merge pass,
-  2026-07-15 — see below), vocab ∩ glossary-usage **33**,
-  phrasal-verbs ∩ business **11**, others smaller.
+- Cross-file overlap: phrasal-verbs ∩ glossary-usage **356** (resolved by
+  Phase 3, 2026-07-16 — see below), vocab ∩ phrasal-verbs **80** (78 resolved
+  by Phase 3b's routing/merge pass, 2026-07-15), vocab ∩ glossary-usage **33**
+  (resolved by Phase 3), phrasal-verbs ∩ business **11**, others smaller.
 - Mixed-purpose files: `explanations.md` (3 different content types), `glossary-usage.md`
-  (word + phrasal + idiom mixed together).
+  (word + phrasal + idiom mixed together — **retired 2026-07-16, see Phase 3**).
 - Inconsistent entry schemas (rich multi-section vs terse Meaning/Example/Context).
 
 ---
@@ -189,12 +189,32 @@ grain than the file's own headings:
   caught 2 pre-existing duplicate entries in `business-communication.md` that
   predated this pass (it had never been deduped before, unlike vocab/phrasal-verbs/glossary-usage in Phase 1).
 
-### Phase 3 — Route glossary-usage + cross-file consolidation
-- [ ] Classify each `glossary-usage.md` entry (word/phrasal/idiom) and route to the
-      canonical word bank.
-- [ ] Resolve cross-file overlaps (phrasal∩glossary 356, vocab∩phrasal 80, …):
-      pick one canonical home per term, merge content, delete the rest.
-- [ ] Retire `glossary-usage.md` once empty.
+### Phase 3 — Route glossary-usage + cross-file consolidation ✅ (done 2026-07-16)
+- [x] Built `scripts/route_glossary_usage.py`, reusing the same
+      `dedupe.py` merge/render machinery as Phase 3b rather than
+      reinventing it. Classification: single words → `vocab.md`; 2–3 word
+      verb+particle shapes → `phrasal-verbs.md`; everything else →
+      `idioms.md`. A 3-entry manual override list (`"Left over"`,
+      `Shackles are off`, `Way out`) corrected the handful of shape-matches
+      that are actually idiomatic noun/adjective phrases, not literal verb
+      phrases — found by reading the full 158-entry phrasal-shaped bucket
+      by hand before running anything.
+- [x] Dry-ran first to confirm the arithmetic: 545 (glossary) + 1862
+      (vocab) + 822 (phrasal) + 53 (idioms) = 3282 total; 250 title
+      collisions merged; 3282 − 250 = 3032 final, exact match, before
+      writing anything.
+- [x] Applied: `vocab.md` 1862→1906 (144 routed in, 100 merged),
+      `phrasal-verbs.md` 822→834 (155 routed in, 143 merged — this is most
+      of the phrasal∩glossary 356 overlap), `idioms.md` 53→292 (246 routed
+      in, 7 merged — idioms.md is now the general "everything that isn't a
+      single word or a literal verb phrase" bank, not just classic idioms).
+- [x] Retired `glossary-usage.md` (deleted — content fully preserved across
+      the three destination files, verified by header-count and content
+      spot-checks, not just entry-count arithmetic).
+- [x] Fixed the resulting dangling references: `README.md`'s file table
+      (removed the row, corrected other files' now-stale entry counts),
+      refreshed `docs/` symlink farm, re-ran both link checkers (repo's own
+      `check_links.py` and `mkdocs build`) — zero broken links.
 
 ### Phase 3b — Separate `vocab.md` (single words) from `phrasal-verbs.md` (two/three-word verbs) ✅ (done 2026-07-15)
 Both files were meant to be type-pure per the README (`vocab.md` = single
@@ -258,10 +278,17 @@ future batch-fill pass must locate each entry by **heading-line index only**
       example sentence.
 - [ ] `phrasal-verbs.md` — next batch: the <15-word tier (37 entries).
 - [ ] `vocab.md` — next batch: the <15-word tier (66 entries).
-- [ ] `idioms.md` — mostly rich already; spot check the 6 flagged by the
-      audit script (false positives likely — verify before editing).
-- [ ] `glossary-usage.md` — uses `## Title` (not `# Title`) headings; audit
-      script needs a heading-level flag before it can scan this file.
+- [ ] `idioms.md` — **re-scope needed.** Was "mostly rich already" at 52
+      entries; after Phase 3 routed 246 entries in from the retired
+      `glossary-usage.md` (2026-07-16), it's now 292 entries and the new
+      ones carry `glossary-usage.md`'s typically terser style, not the
+      idioms.md house style (Meaning/Usage Examples/Tone sections). Re-run
+      `scripts/audit_gaps.py idioms.md` to get a fresh worst-first list
+      before assuming the old "6 flagged" note still applies — it doesn't.
+- [ ] `glossary-usage.md` — retired by Phase 3 (2026-07-16); its content now
+      lives inside vocab.md/phrasal-verbs.md/idioms.md and will get picked
+      up by those files' own gap-filling passes above. No longer a
+      separate blocked item.
 - [ ] After each file's tail is done, add figurative-vs-literal call-outs to
       entries that have both senses but only show one today (chisel, bury,
       sandbox, etc. are the pattern to follow).
@@ -322,10 +349,14 @@ non-obvious (e.g. a loanword), not mechanically to every entry.
       rule (skip simple/common words; prioritize Latinate, low-frequency,
       or silent-letter words).
 - [ ] `vocab.md` batches 8+ — continue alphabetically until the file is done.
-- [ ] `phrasal-verbs.md` / `idioms.md` — light pass only, per the scope note
-      above; most entries don't need one.
-- [ ] `glossary-usage.md` — blocked on the same `## ` heading-level issue as
-      Phase 4.
+- [ ] `phrasal-verbs.md` — light pass only, per the scope note above; most
+      entries don't need one.
+- [ ] `idioms.md` — the scope note above (only add pronunciation where a
+      specific word is genuinely non-obvious) still holds, but re-check
+      after the Phase 4 re-scope, since the 246 entries routed in from
+      `glossary-usage.md` haven't been assessed for this yet either.
+- [ ] `glossary-usage.md` — retired by Phase 3 (2026-07-16); no longer a
+      separate blocked item, see note above.
 
 **Working method for future sessions:** pick the next ~50–60 word-bank
 entries lacking a pronunciation guide (`python3 scripts/audit_gaps.py` can be

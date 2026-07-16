@@ -1,12 +1,12 @@
 # Vocabulary
 
-> 1862 entries · restructured 2026-07-14 · sorted A–Z
+> 1906 entries · restructured 2026-07-16 · sorted A–Z
 
 ## Index
 
 **A**
 
-[Abandon](#abandon) · [Aberration](#aberration) · [Abort](#abort) · [Abreast](#abreast) · [abrupt](#abrupt) · [Absolution](#absolution) · [Absurd](#absurd) · [Abuzz](#abuzz) · [Abysmal](#abysmal) · [Abyss](#abyss) · [Accentuate](#accentuate) · [Accessible](#accessible) · [Accolade](#accolade) · [Accomplished](#accomplished) · [Accord](#accord) · [account](#account) · [Accountability](#accountability) · [Accreditation](#accreditation) · [Accrue](#accrue) · [Accumulate](#accumulate) · [Acquainted](#acquainted) · [Acquire](#acquire) · [Acquisition](#acquisition) · [ad hoc](#ad-hoc) · [Adage](#adage) · [Adaptable](#adaptable) · [Adhere](#adhere) · [Admonish](#admonish) · [Admonished](#admonished) · [Adulation](#adulation) · [Advent](#advent) · [Aegis](#aegis) · [Aesthetic](#aesthetic) · [Affectation](#affectation) · [Affectionate](#affectionate) · [Affinity](#affinity) · [Afflict](#afflict) · [Afoot](#afoot) · [Afterlife](#afterlife) · [Aggravate](#aggravate) · [Agonizing](#agonizing) · [Agony](#agony) · [aim](#aim) · [Akin](#akin) · [Albeit](#albeit) · [Align](#align) · [all in all](#all-in-all) · [Alleviate](#alleviate) · [Allude](#allude) · [Aloof](#aloof) · [Altercation](#altercation) · [Ambitious](#ambitious) · [Ambush](#ambush) · [Amenity](#amenity) · [Amiable](#amiable) · [Amicably](#amicably) · [Amnesia](#amnesia) · [ample](#ample) · [Amputate](#amputate) · [Amused](#amused) · [Analogy](#analogy) · [Anchor Point](#anchor-point) · [Anchorage](#anchorage) · [Angst](#angst) · [Anguished](#anguished) · [Annex](#annex) · [Annexation](#annexation) · [Anoint](#anoint) · [Antique](#antique) · [Antsy](#antsy) · [Anxious](#anxious) · [anymore](#anymore) · [Aplomb](#aplomb) · [Appalled](#appalled) · [Appalling](#appalling) · [Apparent](#apparent) · [appealing](#appealing) · [Apprehension](#apprehension) · [Apprised](#apprised) · [Archaic](#archaic) · [Armagedom](#armagedom) · [Armband](#armband) · [Arrogant](#arrogant) · [Arse](#arse) · [Arson](#arson) · [Ascend](#ascend) · [Ascendancy](#ascendancy) · [Aspersion](#aspersion) · [Aspiration](#aspiration) · [Aspirational](#aspirational) · [Aspiring](#aspiring) · [Assassination](#assassination) · [Assault](#assault) · [assess](#assess) · [Assiduously](#assiduously) · [Assimilate](#assimilate) · [Assorted](#assorted) · [Assuage](#assuage) · [Astonished](#astonished) · [Astounding](#astounding) · [Astute](#astute) · [asymmetry](#asymmetry) · [Attain](#attain) · [Atypical](#atypical) · [Audacity](#audacity) · [Auspicious](#auspicious) · [Authority](#authority) · [Averse](#averse) · [Avert](#avert) · [Avid](#avid) · [axiom](#axiom)
+[Abandon](#abandon) · [Aberration](#aberration) · [Abort](#abort) · [Abreast](#abreast) · [abrupt](#abrupt) · [Absolution](#absolution) · [Absurd](#absurd) · [Abuzz](#abuzz) · [Abysmal](#abysmal) · [Abyss](#abyss) · [Accentuate](#accentuate) · [Accessible](#accessible) · [Accolade](#accolade) · [Accomplished](#accomplished) · [Accord](#accord) · [account](#account) · [Accountability](#accountability) · [Accreditation](#accreditation) · [Accrue](#accrue) · [Accumulate](#accumulate) · [Acquainted](#acquainted) · [Acquire](#acquire) · [Acquisition](#acquisition) · [ad hoc](#ad-hoc) · [Adage](#adage) · [Adaptable](#adaptable) · [Adhere](#adhere) · [Admonish](#admonish) · [Admonished](#admonished) · [Adulation](#adulation) · [Advent](#advent) · [Aegis](#aegis) · [Aesthetic](#aesthetic) · [Affectation](#affectation) · [Affectionate](#affectionate) · [Affinity](#affinity) · [Afflict](#afflict) · [Afoot](#afoot) · [Afterlife](#afterlife) · [Aggravate](#aggravate) · [Agonizing](#agonizing) · [Agony](#agony) · [aim](#aim) · [Akin](#akin) · [Albeit](#albeit) · [Align](#align) · [all in all](#all-in-all) · [Alleviate](#alleviate) · [Allude](#allude) · [Aloof](#aloof) · [Altercation](#altercation) · [Ambitious](#ambitious) · [Ambush](#ambush) · [Amenity](#amenity) · [Amiable](#amiable) · [Amicably](#amicably) · [Amnesia](#amnesia) · [ample](#ample) · [Amputate](#amputate) · [Amused](#amused) · [Analogy](#analogy) · [Anchor Point](#anchor-point) · [Anchorage](#anchorage) · [Angst](#angst) · [Anguished](#anguished) · [Annex](#annex) · [Annexation](#annexation) · [Anoint](#anoint) · [Antique](#antique) · [Antsy](#antsy) · [Anxious](#anxious) · [anymore](#anymore) · [Aplomb](#aplomb) · [Appalled](#appalled) · [Appalling](#appalling) · [Apparent](#apparent) · [Apparently](#apparently) · [appealing](#appealing) · [Apprehension](#apprehension) · [Apprised](#apprised) · [Archaic](#archaic) · [Armagedom](#armagedom) · [Armband](#armband) · [Arrogant](#arrogant) · [Arse](#arse) · [Arson](#arson) · [Ascend](#ascend) · [Ascendancy](#ascendancy) · [Aspersion](#aspersion) · [Aspiration](#aspiration) · [Aspirational](#aspirational) · [Aspiring](#aspiring) · [Assassination](#assassination) · [Assault](#assault) · [assess](#assess) · [Assiduously](#assiduously) · [Assimilate](#assimilate) · [Assorted](#assorted) · [Assuage](#assuage) · [Astonished](#astonished) · [Astounding](#astounding) · [Astute](#astute) · [asymmetry](#asymmetry) · [Attain](#attain) · [Attention](#attention) · [Atypical](#atypical) · [Audacity](#audacity) · [Auspicious](#auspicious) · [Authority](#authority) · [Averse](#averse) · [Avert](#avert) · [Avid](#avid) · [axiom](#axiom)
 
 **B**
 
@@ -14,31 +14,31 @@
 
 **C**
 
-[Cad](#cad) · [Cadence](#cadence) · [Cajole](#cajole) · [Callous](#callous) · [Camouflage](#camouflage) · [Candor](#candor) · [Canoe](#canoe) · [Canonical](#canonical) · [Canopy](#canopy) · [Capacity](#capacity) · [Capitulate](#capitulate) · [Capitulation](#capitulation) · [Captivate](#captivate) · [Carefree](#carefree) · [Caressing](#caressing) · [Cascade](#cascade) · [Cast](#cast) · [Catapult](#catapult) · [Catastrophic](#catastrophic) · [Catch](#catch) · [Catchy](#catchy) · [Cater](#cater) · [catfish](#catfish) · [Caveat](#caveat) · [Cessation](#cessation) · [Chameleon](#chameleon) · [Channel](#channel) · [Chaos](#chaos) · [Chaperone](#chaperone) · [Chastise](#chastise) · [Cheekily](#cheekily) · [Cherish](#cherish) · [Cherry-pick](#cherry-pick) · [Chicken Coop](#chicken-coop) · [Chide](#chide) · [Chips](#chips) · [Chisel](#chisel) · [Choke](#choke) · [Chomping](#chomping) · [Choppy](#choppy) · [Chore](#chore) · [Chummy](#chummy) · [Chutzpah](#chutzpah) · [Circa](#circa) · [Circumspect](#circumspect) · [Clad](#clad) · [Claimant](#claimant) · [Clamping](#clamping) · [Clasp](#clasp) · [Cleft](#cleft) · [Clench](#clench) · [Clenched](#clenched) · [Clenching](#clenching) · [Cliché](#cliché) · [clickbait](#clickbait) · [Cliffhanger](#cliffhanger) · [Cling](#cling) · [Clinging](#clinging) · [Clingy](#clingy) · [Clink](#clink) · [Clogging](#clogging) · [Clue](#clue) · [Clumsiness](#clumsiness) · [Clumsy](#clumsy) · [Clunky](#clunky) · [Co-inhabited](#co-inhabited) · [Coalesce](#coalesce) · [Coarse](#coarse) · [Coercion](#coercion) · [Coetus](#coetus) · [Cognizance](#cognizance) · [Coherent/incoherent](#coherentincoherent) · [Cohesion](#cohesion) · [Cohesive](#cohesive) · [Cohort](#cohort) · [cold feet](#cold-feet) · [Colluding](#colluding) · [Colossal](#colossal) · [Commotion](#commotion) · [Commute](#commute) · [Compassion](#compassion) · [Compassionate](#compassionate) · [Compelling](#compelling) · [Compile](#compile) · [Complacent](#complacent) · [Complex](#complex) · [Complexion](#complexion) · [Comply](#comply) · [Composed](#composed) · [Comprehension](#comprehension) · [comprise](#comprise) · [Conceal](#conceal) · [conceptualize](#conceptualize) · [Concierge](#concierge) · [Concoct](#concoct) · [concur](#concur) · [Concussion](#concussion) · [Condemnable](#condemnable) · [Condescending](#condescending) · [Condo](#condo) · [Condone](#condone) · [Conducive](#conducive) · [conduit](#conduit) · [Confidante](#confidante) · [Confide](#confide) · [confiscate](#confiscate) · [Confiscated](#confiscated) · [Conflate](#conflate) · [Conflated, conflate](#conflated-conflate) · [Conform](#conform) · [Confuse](#confuse) · [Conglomerate](#conglomerate) · [Congruent](#congruent) · [Conjecture](#conjecture) · [Conman](#conman) · [Connotation](#connotation) · [Conscience](#conscience) · [Conscientious](#conscientious) · [Consecration](#consecration) · [Consensus](#consensus) · [Considerate](#considerate) · [Console](#console) · [Conspicuous](#conspicuous) · [Constituent](#constituent) · [Construe](#construe) · [Contagious](#contagious) · [Contemporary](#contemporary) · [Contempt](#contempt) · [Contended](#contended) · [Contender](#contender) · [Content](#content) · [Contention](#contention) · [Contentious](#contentious) · [Contextualize](#contextualize) · [Contingency Plan](#contingency-plan) · [Contrast](#contrast) · [Controversial](#controversial) · [Conundrum](#conundrum) · [Convergence](#convergence) · [Conviction](#conviction) · [Convince](#convince) · [Convoluted](#convoluted) · [Cooed](#cooed) · [Cope](#cope) · [Copious](#copious) · [copious sarcasm](#copious-sarcasm) · [Cordoned](#cordoned) · [Corduroy](#corduroy) · [Cornerstone](#cornerstone) · [Corral](#corral) · [Counterfeit](#counterfeit) · [Counterintuitive](#counterintuitive) · [Counterpart](#counterpart) · [Courageous](#courageous) · [Courteous](#courteous) · [Covert](#covert) · [Coward](#coward) · [Coxing](#coxing) · [Crabber](#crabber) · [Crackerjack](#crackerjack) · [Cram](#cram) · [Cramp](#cramp) · [Cramped](#cramped) · [Craving](#craving) · [Credulity](#credulity) · [Creepy](#creepy) · [Crew](#crew) · [Crib](#crib) · [Crooked](#crooked) · [Crouch](#crouch) · [Crouched](#crouched) · [Crucial](#crucial) · [Crud](#crud) · [Cruel](#cruel) · [Crumbling](#crumbling) · [Crummy](#crummy) · [Crutch](#crutch) · [Crystallize](#crystallize) · [Cue vs Clue](#cue-vs-clue) · [Cuisine](#cuisine) · [Culminated](#culminated) · [Cumbersome](#cumbersome) · [Cunning](#cunning) · [Curtness](#curtness) · [Cushion](#cushion) · [Custodian](#custodian) · [Cut a new deal](#cut-a-new-deal) · [Cynical](#cynical)
+[Cad](#cad) · [Cadence](#cadence) · [Cajole](#cajole) · [Callous](#callous) · [callout](#callout) · [Camouflage](#camouflage) · [Candor](#candor) · [Canoe](#canoe) · [Canonical](#canonical) · [Canopy](#canopy) · [Capacity](#capacity) · [Capitulate](#capitulate) · [Capitulation](#capitulation) · [Captivate](#captivate) · [Carefree](#carefree) · [Caressing](#caressing) · [Cascade](#cascade) · [Cast](#cast) · [Catapult](#catapult) · [Catastrophic](#catastrophic) · [Catch](#catch) · [Catchy](#catchy) · [Cater](#cater) · [catfish](#catfish) · [Caveat](#caveat) · [Cessation](#cessation) · [Chameleon](#chameleon) · [Channel](#channel) · [Chaos](#chaos) · [Chaperone](#chaperone) · [Chastise](#chastise) · [Cheekily](#cheekily) · [Cherish](#cherish) · [Cherry-pick](#cherry-pick) · [Chicken Coop](#chicken-coop) · [Chide](#chide) · [Chips](#chips) · [Chisel](#chisel) · [Choke](#choke) · [Chomping](#chomping) · [Choppy](#choppy) · [Chore](#chore) · [Chummy](#chummy) · [Chutzpah](#chutzpah) · [Circa](#circa) · [Circumspect](#circumspect) · [Clad](#clad) · [Claimant](#claimant) · [Clamping](#clamping) · [Clasp](#clasp) · [Cleft](#cleft) · [Clench](#clench) · [Clenched](#clenched) · [Clenching](#clenching) · [Cliché](#cliché) · [clickbait](#clickbait) · [Cliffhanger](#cliffhanger) · [Cling](#cling) · [Clinging](#clinging) · [Clingy](#clingy) · [Clink](#clink) · [Clogging](#clogging) · [Clue](#clue) · [Clumsiness](#clumsiness) · [Clumsy](#clumsy) · [Clunky](#clunky) · [Co-inhabited](#co-inhabited) · [Coalesce](#coalesce) · [Coarse](#coarse) · [Coercion](#coercion) · [Coetus](#coetus) · [Cognizance](#cognizance) · [Coherent/incoherent](#coherentincoherent) · [Cohesion](#cohesion) · [Cohesive](#cohesive) · [Cohort](#cohort) · [cold feet](#cold-feet) · [collaborate](#collaborate) · [Colluding](#colluding) · [Colossal](#colossal) · [Commotion](#commotion) · [Commute](#commute) · [Compassion](#compassion) · [Compassionate](#compassionate) · [Compelling](#compelling) · [Compile](#compile) · [Complacent](#complacent) · [Complex](#complex) · [Complexion](#complexion) · [Comply](#comply) · [Composed](#composed) · [Comprehension](#comprehension) · [comprise](#comprise) · [Conceal](#conceal) · [conceptualize](#conceptualize) · [Concierge](#concierge) · [Concoct](#concoct) · [concur](#concur) · [Concussion](#concussion) · [Condemnable](#condemnable) · [Condescending](#condescending) · [Condo](#condo) · [Condone](#condone) · [Conducive](#conducive) · [conduit](#conduit) · [Confidante](#confidante) · [Confide](#confide) · [confiscate](#confiscate) · [Confiscated](#confiscated) · [Conflate](#conflate) · [Conflated, conflate](#conflated-conflate) · [Conform](#conform) · [Confuse](#confuse) · [Conglomerate](#conglomerate) · [Congruent](#congruent) · [Conjecture](#conjecture) · [Conman](#conman) · [Connotation](#connotation) · [Conscience](#conscience) · [Conscientious](#conscientious) · [Consecration](#consecration) · [Consensus](#consensus) · [Considerate](#considerate) · [Console](#console) · [Conspicuous](#conspicuous) · [Constituent](#constituent) · [Construe](#construe) · [Contagious](#contagious) · [Contemporary](#contemporary) · [Contempt](#contempt) · [Contended](#contended) · [Contender](#contender) · [Content](#content) · [Contention](#contention) · [Contentious](#contentious) · [Contextualize](#contextualize) · [Contingency Plan](#contingency-plan) · [Contrast](#contrast) · [Control](#control) · [Controversial](#controversial) · [Conundrum](#conundrum) · [Convergence](#convergence) · [Conviction](#conviction) · [Convince](#convince) · [Convoluted](#convoluted) · [Cooed](#cooed) · [Cope](#cope) · [Copious](#copious) · [copious sarcasm](#copious-sarcasm) · [Cordoned](#cordoned) · [Corduroy](#corduroy) · [Cornerstone](#cornerstone) · [Corral](#corral) · [Counterfeit](#counterfeit) · [Counterintuitive](#counterintuitive) · [Counterpart](#counterpart) · [Courageous](#courageous) · [Courteous](#courteous) · [Covert](#covert) · [Coward](#coward) · [Coxing](#coxing) · [Crabber](#crabber) · [Crackerjack](#crackerjack) · [Cram](#cram) · [Cramp](#cramp) · [Cramped](#cramped) · [Craving](#craving) · [Credulity](#credulity) · [Creepy](#creepy) · [Crew](#crew) · [Crib](#crib) · [Crooked](#crooked) · [Crouch](#crouch) · [Crouched](#crouched) · [Crucial](#crucial) · [Crud](#crud) · [Cruel](#cruel) · [Crumbling](#crumbling) · [Crummy](#crummy) · [Crutch](#crutch) · [Crystallize](#crystallize) · [Cue vs Clue](#cue-vs-clue) · [Cuisine](#cuisine) · [Culminated](#culminated) · [Cumbersome](#cumbersome) · [Cunning](#cunning) · [Curtness](#curtness) · [Cushion](#cushion) · [Custodian](#custodian) · [Cut a new deal](#cut-a-new-deal) · [Cynical](#cynical)
 
 **D**
 
-[Dabbed](#dabbed) · [Damp](#damp) · [Dangling](#dangling) · [Darn it](#darn-it) · [Dawn](#dawn) · [Dazzle](#dazzle) · [de facto](#de-facto) · [Dearth](#dearth) · [Debacle](#debacle) · [Debunk](#debunk) · [Debut](#debut) · [Decapitated](#decapitated) · [Deceased](#deceased) · [Decimate](#decimate) · [Deck](#deck) · [Decree](#decree) · [Deduce](#deduce) · [Deductive Reasoning](#deductive-reasoning) · [defiant](#defiant) · [Deflected](#deflected) · [Deflection](#deflection) · [Dejected](#dejected) · [Deliberation](#deliberation) · [Delicate](#delicate) · [Delinquent](#delinquent) · [Deluge](#deluge) · [Delusion](#delusion) · [Delve](#delve) · [Demit](#demit) · [Denounce](#denounce) · [Deplete](#deplete) · [Deplore](#deplore) · [Deposition](#deposition) · [Derangement](#derangement) · [Dereliction](#dereliction) · [Derogatory](#derogatory) · [Descendant](#descendant) · [Desist](#desist) · [Desolate](#desolate) · [Despair](#despair) · [Despise](#despise) · [despite](#despite) · [Despondent](#despondent) · [Detestable](#detestable) · [Detour](#detour) · [Detract](#detract) · [Detractor](#detractor) · [Detrimental](#detrimental) · [Devastating](#devastating) · [Devious](#devious) · [Devise](#devise) · [Devolve](#devolve) · [Devoted](#devoted) · [Devour](#devour) · [Diabolical](#diabolical) · [Digress](#digress) · [Diligent](#diligent) · [Diligently](#diligently) · [Diminish](#diminish) · [Dimple](#dimple) · [Dire](#dire) · [Discord](#discord) · [Discrepant](#discrepant) · [Discretion](#discretion) · [Disdain](#disdain) · [Disentitle](#disentitle) · [Disgruntled](#disgruntled) · [Disguise](#disguise) · [Disheartened](#disheartened) · [Disheveled](#disheveled) · [Disinclination](#disinclination) · [dislodge](#dislodge) · [Dismay](#dismay) · [Dismembered](#dismembered) · [Disparity](#disparity) · [Disperse](#disperse) · [Disrobe](#disrobe) · [Dissent](#dissent) · [Dissipate](#dissipate) · [Dissuade](#dissuade) · [Distil](#distil) · [Distinguish](#distinguish) · [Distorted](#distorted) · [Distraught](#distraught) · [Distress](#distress) · [Ditch](#ditch) · [Divulge](#divulge) · [DM](#dm) · [Docile (daa·sl)](#docile-daasl) · [Dogma](#dogma) · [Dogmatic](#dogmatic) · [Doldrums](#doldrums) · [Domineering](#domineering) · [Donning](#donning) · [Doom](#doom) · [Dope](#dope) · [Dormant](#dormant) · [Dormitory](#dormitory) · [Douche](#douche) · [douchebag](#douchebag) · [Downplay](#downplay) · [Downside](#downside) · [Downtime](#downtime) · [Doxxing](#doxxing) · [Drap](#drap) · [Drape](#drape) · [Drawl](#drawl) · [Drawn](#drawn) · [Dread](#dread) · [Dreaded](#dreaded) · [Dribble](#dribble) · [Dripping](#dripping) · [Drive](#drive) · [Dross](#dross) · [Ducked](#ducked) · [Dulcet](#dulcet) · [Dumbfounded](#dumbfounded) · [Dump](#dump) · [Dumpling](#dumpling) · [Dungeon](#dungeon) · [duplicitous](#duplicitous) · [Duress](#duress)
+[Dabbed](#dabbed) · [Damp](#damp) · [Dangling](#dangling) · [Darn it](#darn-it) · [Daunting](#daunting) · [Dawn](#dawn) · [Dazzle](#dazzle) · [de facto](#de-facto) · [Dearth](#dearth) · [Debacle](#debacle) · [Debunk](#debunk) · [Debut](#debut) · [Decapitated](#decapitated) · [Deceased](#deceased) · [Decimate](#decimate) · [Deck](#deck) · [Decree](#decree) · [Deduce](#deduce) · [Deductive Reasoning](#deductive-reasoning) · [defiant](#defiant) · [Deflected](#deflected) · [Deflection](#deflection) · [Dejected](#dejected) · [Deliberation](#deliberation) · [Delicate](#delicate) · [Delinquent](#delinquent) · [Deluge](#deluge) · [Delusion](#delusion) · [Delve](#delve) · [Demit](#demit) · [Denounce](#denounce) · [Deplete](#deplete) · [Deplore](#deplore) · [Deposition](#deposition) · [Derangement](#derangement) · [Dereliction](#dereliction) · [Derogatory](#derogatory) · [Descendant](#descendant) · [Desist](#desist) · [Desolate](#desolate) · [Despair](#despair) · [Despise](#despise) · [despite](#despite) · [Despondent](#despondent) · [detail](#detail) · [Detestable](#detestable) · [Detour](#detour) · [Detract](#detract) · [Detractor](#detractor) · [Detrimental](#detrimental) · [Devastating](#devastating) · [deviation](#deviation) · [Devious](#devious) · [Devise](#devise) · [Devolve](#devolve) · [Devoted](#devoted) · [Devour](#devour) · [Diabolical](#diabolical) · [Digress](#digress) · [Diligent](#diligent) · [Diligently](#diligently) · [Diminish](#diminish) · [Dimple](#dimple) · [Dire](#dire) · [Discord](#discord) · [Discrepant](#discrepant) · [Discretion](#discretion) · [Disdain](#disdain) · [Disentitle](#disentitle) · [Disgruntled](#disgruntled) · [Disguise](#disguise) · [Disheartened](#disheartened) · [Disheveled](#disheveled) · [Disinclination](#disinclination) · [dislodge](#dislodge) · [Dismay](#dismay) · [Dismembered](#dismembered) · [Disparity](#disparity) · [Disperse](#disperse) · [Disrobe](#disrobe) · [Dissent](#dissent) · [Dissipate](#dissipate) · [Dissuade](#dissuade) · [Distil](#distil) · [Distinguish](#distinguish) · [Distorted](#distorted) · [Distraught](#distraught) · [Distress](#distress) · [Ditch](#ditch) · [Divulge](#divulge) · [DM](#dm) · [Docile (daa·sl)](#docile-daasl) · [dodgy](#dodgy) · [Dogma](#dogma) · [Dogmatic](#dogmatic) · [Doldrums](#doldrums) · [Domineering](#domineering) · [Donning](#donning) · [Doom](#doom) · [Dope](#dope) · [Dormant](#dormant) · [Dormitory](#dormitory) · [Douche](#douche) · [douchebag](#douchebag) · [Downplay](#downplay) · [Downside](#downside) · [Downtime](#downtime) · [Doxxing](#doxxing) · [Drap](#drap) · [Drape](#drape) · [Drawl](#drawl) · [Drawn](#drawn) · [Dread](#dread) · [Dreaded](#dreaded) · [Dribble](#dribble) · [Dripping](#dripping) · [Drive](#drive) · [Dross](#dross) · [Ducked](#ducked) · [Dulcet](#dulcet) · [Dumbfounded](#dumbfounded) · [Dump](#dump) · [Dumpling](#dumpling) · [Dungeon](#dungeon) · [duplicitous](#duplicitous) · [Duress](#duress)
 
 **E**
 
-[Eager](#eager) · [Eavesdropping](#eavesdropping) · [ecotourism](#ecotourism) · [Ecstatic](#ecstatic) · [Eerie](#eerie) · [Effervescent](#effervescent) · [Efficacy](#efficacy) · [Egalitarianism](#egalitarianism) · [Egregious](#egregious) · [Elated](#elated) · [Elderly](#elderly) · [Elegant](#elegant) · [Elevate](#elevate) · [Elevation](#elevation) · [Elicit](#elicit) · [Elucidate](#elucidate) · [Elude](#elude) · [Elusive](#elusive) · [Emanate](#emanate) · [Emancipation](#emancipation) · [Emasculating](#emasculating) · [Embark](#embark) · [Embodiment](#embodiment) · [Embody](#embody) · [Emboldened](#emboldened) · [Embrace](#embrace) · [Embroil](#embroil) · [Emeritus](#emeritus) · [Eminent](#eminent) · [Empathetic](#empathetic) · [Empirical](#empirical) · [Emulate](#emulate) · [en masse](#en-masse) · [Enamor](#enamor) · [Enchanting](#enchanting) · [Endurance](#endurance) · [Endure](#endure) · [enduring](#enduring) · [Engorge](#engorge) · [Engrossed](#engrossed) · [Engrossing](#engrossing) · [Engulf](#engulf) · [Enigma](#enigma) · [Enigmatic](#enigmatic) · [Enlist](#enlist) · [Enormity](#enormity) · [Enraged](#enraged) · [Ensign](#ensign) · [Entail](#entail) · [Entelechy](#entelechy) · [Enthrall](#enthrall) · [Entice](#entice) · [Entourage](#entourage) · [Enunciate](#enunciate) · [Envious](#envious) · [Envisage](#envisage) · [Ephemeral](#ephemeral) · [Epilogue](#epilogue) · [Epiphany](#epiphany) · [Epitome](#epitome) · [Epitomized](#epitomized) · [Equitable](#equitable) · [Errand](#errand) · [Erratic](#erratic) · [Erroneous](#erroneous) · [Escort](#escort) · [Espouse](#espouse) · [Essence](#essence) · [Estranged](#estranged) · [Etiquette](#etiquette) · [Euphemism](#euphemism) · [Euphoria](#euphoria) · [Eventually](#eventually) · [Exacerbate](#exacerbate) · [Exasperate](#exasperate) · [Exasperated](#exasperated) · [Excerpt](#excerpt) · [Exclude](#exclude) · [Excruciating](#excruciating) · [Excruciatingly](#excruciatingly) · [Execrable](#execrable) · [Exert](#exert) · [Exertion](#exertion) · [Exhilarated](#exhilarated) · [Exhort](#exhort) · [Exigency](#exigency) · [Exodus](#exodus) · [Exoneration](#exoneration) · [Exotic](#exotic) · [expectations](#expectations) · [Expediency](#expediency) · [Expedite](#expedite) · [Expedition](#expedition) · [Explore](#explore) · [Exponent](#exponent) · [Exposure](#exposure) · [Exquisite](#exquisite) · [Exquisitely](#exquisitely) · [Extinct](#extinct) · [Extol](#extol) · [Extrapolate](#extrapolate) · [extravagant](#extravagant) · [Extricate](#extricate) · [Exude](#exude)
+[Eager](#eager) · [Eavesdropping](#eavesdropping) · [ecotourism](#ecotourism) · [Ecstatic](#ecstatic) · [Eerie](#eerie) · [Effervescent](#effervescent) · [Efficacy](#efficacy) · [Egalitarianism](#egalitarianism) · [Egregious](#egregious) · [Elated](#elated) · [Elderly](#elderly) · [Elegant](#elegant) · [Elevate](#elevate) · [Elevation](#elevation) · [Elicit](#elicit) · [Elucidate](#elucidate) · [Elude](#elude) · [Elusive](#elusive) · [Emanate](#emanate) · [Emancipation](#emancipation) · [Emasculating](#emasculating) · [Embark](#embark) · [Embodiment](#embodiment) · [Embody](#embody) · [Emboldened](#emboldened) · [Embrace](#embrace) · [Embroil](#embroil) · [Emeritus](#emeritus) · [Eminent](#eminent) · [Empathetic](#empathetic) · [Empirical](#empirical) · [Emulate](#emulate) · [en masse](#en-masse) · [Enamor](#enamor) · [Enchanting](#enchanting) · [Endeavour](#endeavour) · [Endurance](#endurance) · [Endure](#endure) · [enduring](#enduring) · [Engorge](#engorge) · [Engrossed](#engrossed) · [Engrossing](#engrossing) · [Engulf](#engulf) · [Enigma](#enigma) · [Enigmatic](#enigmatic) · [Enlist](#enlist) · [Enormity](#enormity) · [Enraged](#enraged) · [Ensign](#ensign) · [Entail](#entail) · [Entelechy](#entelechy) · [Enthrall](#enthrall) · [Entice](#entice) · [Entourage](#entourage) · [Enunciate](#enunciate) · [Envious](#envious) · [Envisage](#envisage) · [Ephemeral](#ephemeral) · [Epilogue](#epilogue) · [Epiphany](#epiphany) · [Epitome](#epitome) · [Epitomized](#epitomized) · [Equitable](#equitable) · [Errand](#errand) · [Erratic](#erratic) · [Erroneous](#erroneous) · [Escort](#escort) · [Espouse](#espouse) · [Essence](#essence) · [essentially](#essentially) · [Estranged](#estranged) · [Etiquette](#etiquette) · [Euphemism](#euphemism) · [Euphoria](#euphoria) · [Eventually](#eventually) · [Exacerbate](#exacerbate) · [Exasperate](#exasperate) · [Exasperated](#exasperated) · [Excerpt](#excerpt) · [Exclude](#exclude) · [Excruciating](#excruciating) · [Excruciatingly](#excruciatingly) · [Execrable](#execrable) · [Exert](#exert) · [Exertion](#exertion) · [Exhilarated](#exhilarated) · [Exhort](#exhort) · [Exigency](#exigency) · [Exodus](#exodus) · [Exoneration](#exoneration) · [Exotic](#exotic) · [expectations](#expectations) · [Expediency](#expediency) · [Expedite](#expedite) · [Expedition](#expedition) · [Explore](#explore) · [Exponent](#exponent) · [Exposure](#exposure) · [Exquisite](#exquisite) · [Exquisitely](#exquisitely) · [Extinct](#extinct) · [Extol](#extol) · [Extrapolate](#extrapolate) · [extravagant](#extravagant) · [Extricate](#extricate) · [Exude](#exude)
 
 **F**
 
-[Fable](#fable) · [Facade](#facade) · [Facet](#facet) · [Facilitate](#facilitate) · [Faction](#faction) · [Faint](#faint) · [Fallacy](#fallacy) · [Fallouts](#fallouts) · [Falsify](#falsify) · [Familiarize](#familiarize) · [Fandom](#fandom) · [Fanfare](#fanfare) · [Far-fetched](#far-fetched) · [Farcical](#farcical) · [Fasten](#fasten) · [Fathom](#fathom) · [Fawn](#fawn) · [Feasibility](#feasibility) · [Feign](#feign) · [Ferocity](#ferocity) · [Fervent](#fervent) · [Fervor](#fervor) · [Fiasco](#fiasco) · [Fickle](#fickle) · [Fickleness](#fickleness) · [Fiddled](#fiddled) · [Fidelity](#fidelity) · [Fidget](#fidget) · [Field](#field) · [Filthy](#filthy) · [Fine-tune](#fine-tune) · [firmly](#firmly) · [fitting](#fitting) · [Flabbergasted](#flabbergasted) · [Flaccid](#flaccid) · [Flaccidly](#flaccidly) · [Flak](#flak) · [Flap](#flap) · [Flashback](#flashback) · [Flashcard](#flashcard) · [Flatter](#flatter) · [Flaunt](#flaunt) · [Flawless](#flawless) · [fleabag](#fleabag) · [Flee](#flee) · [Flex](#flex) · [Flicked](#flicked) · [Flicking](#flicking) · [Float](#float) · [Flora and fauna](#flora-and-fauna) · [Flour](#flour) · [Floura and fauna](#floura-and-fauna) · [Flout](#flout) · [Flow](#flow) · [Fluff](#fluff) · [Fluffy](#fluffy) · [fluttered](#fluttered) · [fly-drive](#fly-drive) · [Folklore](#folklore) · [Fondest memories](#fondest-memories) · [Fondle](#fondle) · [Fondling](#fondling) · [Foray](#foray) · [Forcible](#forcible) · [Foresight](#foresight) · [Forfeit](#forfeit) · [Forgo](#forgo) · [Former](#former) · [Forsake](#forsake) · [Fortuitous](#fortuitous) · [Fowl](#fowl) · [Fracas](#fracas) · [Frank](#frank) · [Frat](#frat) · [Fraternity](#fraternity) · [Freckle](#freckle) · [Frenemy](#frenemy) · [Frenetic](#frenetic) · [Fringe](#fringe) · [Frisk](#frisk) · [Frivolity](#frivolity) · [Frivolous](#frivolous) · [Frown](#frown) · [Frowned](#frowned) · [Frugal](#frugal) · [Fudge](#fudge) · [Fugitive](#fugitive) · [Fulfill](#fulfill) · [Fulfilling](#fulfilling) · [Fulfillment](#fulfillment) · [Fumble](#fumble) · [furthermore](#furthermore) · [Fussy](#fussy) · [futile](#futile) · [Fuzzy](#fuzzy)
+[Fable](#fable) · [Facade](#facade) · [Facet](#facet) · [Facilitate](#facilitate) · [Faction](#faction) · [Faint](#faint) · [Fallacy](#fallacy) · [Fallouts](#fallouts) · [Falsify](#falsify) · [Familiarize](#familiarize) · [Fandom](#fandom) · [Fanfare](#fanfare) · [Far-fetched](#far-fetched) · [Farcical](#farcical) · [Fasten](#fasten) · [Fathom](#fathom) · [Fawn](#fawn) · [Feasibility](#feasibility) · [Feign](#feign) · [Ferocity](#ferocity) · [Fervent](#fervent) · [Fervor](#fervor) · [Fiasco](#fiasco) · [Fickle](#fickle) · [Fickleness](#fickleness) · [Fiddled](#fiddled) · [Fidelity](#fidelity) · [Fidget](#fidget) · [Field](#field) · [Filthy](#filthy) · [Fine-tune](#fine-tune) · [firmly](#firmly) · [fitting](#fitting) · [Flabbergasted](#flabbergasted) · [Flaccid](#flaccid) · [Flaccidly](#flaccidly) · [Flak](#flak) · [Flap](#flap) · [Flashback](#flashback) · [Flashcard](#flashcard) · [Flatter](#flatter) · [Flaunt](#flaunt) · [Flawless](#flawless) · [fleabag](#fleabag) · [Flee](#flee) · [Flex](#flex) · [Flicked](#flicked) · [Flicking](#flicking) · [Float](#float) · [Flora and fauna](#flora-and-fauna) · [Flour](#flour) · [Floura and fauna](#floura-and-fauna) · [Flout](#flout) · [Flow](#flow) · [Fluff](#fluff) · [Fluffy](#fluffy) · [fluttered](#fluttered) · [fly-drive](#fly-drive) · [Folklore](#folklore) · [Fondest memories](#fondest-memories) · [Fondle](#fondle) · [Fondling](#fondling) · [Foray](#foray) · [Forcible](#forcible) · [Foresight](#foresight) · [Forfeit](#forfeit) · [Forgo](#forgo) · [Former](#former) · [Forsake](#forsake) · [Fortuitous](#fortuitous) · [Fowl](#fowl) · [Fracas](#fracas) · [Fragility](#fragility) · [Frank](#frank) · [Frat](#frat) · [Fraternity](#fraternity) · [Freckle](#freckle) · [Frenemy](#frenemy) · [Frenetic](#frenetic) · [Fringe](#fringe) · [Frisk](#frisk) · [Frivolity](#frivolity) · [Frivolous](#frivolous) · [Frown](#frown) · [Frowned](#frowned) · [Frugal](#frugal) · [Fudge](#fudge) · [Fugitive](#fugitive) · [Fulfill](#fulfill) · [Fulfilling](#fulfilling) · [Fulfillment](#fulfillment) · [Fumble](#fumble) · [furthermore](#furthermore) · [Fussy](#fussy) · [futile](#futile) · [Fuzzy](#fuzzy)
 
 **G**
 
-[Gag](#gag) · [Galvanize](#galvanize) · [Garrison](#garrison) · [Gaslight](#gaslight) · [Gasped](#gasped) · [Gasped/gasp](#gaspedgasp) · [Gauge](#gauge) · [Gavel](#gavel) · [Gaze](#gaze) · [Generous](#generous) · [Get](#get) · [Get going](#get-going) · [Getaway](#getaway) · [Gibberish](#gibberish) · [Giddy](#giddy) · [Giggled](#giggled) · [Gimmick](#gimmick) · [Gist](#gist) · [Giveaway](#giveaway) · [Given](#given) · [Gladden](#gladden) · [glamping](#glamping) · [Glean](#glean) · [glistening](#glistening) · [gloat](#gloat) · [Gloating](#gloating) · [Glum](#glum) · [gnaw](#gnaw) · [God-awful](#god-awful) · [Goggles](#goggles) · [Goo](#goo) · [Goofy](#goofy) · [Goosebump](#goosebump) · [Goosebumps](#goosebumps) · [Gorgeous](#gorgeous) · [Gourmet](#gourmet) · [Grasp](#grasp) · [Gratification](#gratification) · [Graveyard](#graveyard) · [Gravitas](#gravitas) · [Gregarious](#gregarious) · [Grim](#grim) · [Grinning](#grinning) · [Grit](#grit) · [Groan/Groaned](#groangroaned) · [Groggy](#groggy) · [Groom](#groom) · [Grope](#grope) · [Groped](#groped) · [Groundbreaking](#groundbreaking) · [Grudge](#grudge) · [Gruesome](#gruesome) · [Grumbled](#grumbled) · [Grumpy](#grumpy) · [Gullible](#gullible) · [Gush](#gush) · [Gushing](#gushing) · [Gutsy](#gutsy)
+[Gag](#gag) · [Galvanize](#galvanize) · [Gap](#gap) · [Garrison](#garrison) · [Gaslight](#gaslight) · [Gasped](#gasped) · [Gasped/gasp](#gaspedgasp) · [Gauge](#gauge) · [Gavel](#gavel) · [Gaze](#gaze) · [Generous](#generous) · [Get](#get) · [Get going](#get-going) · [Getaway](#getaway) · [Gibberish](#gibberish) · [Giddy](#giddy) · [Giggled](#giggled) · [Gimmick](#gimmick) · [Gist](#gist) · [Giveaway](#giveaway) · [Given](#given) · [Gladden](#gladden) · [glamping](#glamping) · [Glean](#glean) · [glistening](#glistening) · [gloat](#gloat) · [Gloating](#gloating) · [Glum](#glum) · [gnaw](#gnaw) · [God-awful](#god-awful) · [Goggles](#goggles) · [Goo](#goo) · [Goofy](#goofy) · [Goosebump](#goosebump) · [Goosebumps](#goosebumps) · [Gorgeous](#gorgeous) · [Gourmet](#gourmet) · [granular](#granular) · [Grasp](#grasp) · [Gratification](#gratification) · [Graveyard](#graveyard) · [Gravitas](#gravitas) · [Gregarious](#gregarious) · [Grim](#grim) · [Grinning](#grinning) · [Grit](#grit) · [Groan/Groaned](#groangroaned) · [Groggy](#groggy) · [Groom](#groom) · [Grope](#grope) · [Groped](#groped) · [Groundbreaking](#groundbreaking) · [Grudge](#grudge) · [Gruesome](#gruesome) · [Grumbled](#grumbled) · [Grumpy](#grumpy) · [Gullible](#gullible) · [Gush](#gush) · [Gushing](#gushing) · [Gutsy](#gutsy)
 
 **H**
 
-[Hack](#hack) · [Hail](#hail) · [Halfway](#halfway) · [Halo](#halo) · [Hamper](#hamper) · [Hand in hand](#hand-in-hand) · [Handoff](#handoff) · [Hard pass](#hard-pass) · [Harness](#harness) · [Harping](#harping) · [Harsh](#harsh) · [Harvest](#harvest) · [Haunted](#haunted) · [Havoc](#havoc) · [Hazy](#hazy) · [Head-on](#head-on) · [Headroom](#headroom) · [Headspace](#headspace) · [heartfelt](#heartfelt) · [Heckling](#heckling) · [Hedge](#hedge) · [Hefty](#hefty) · [Heinous](#heinous) · [Heir](#heir) · [Heist](#heist) · [Hell-bent](#hell-bent) · [Helpless](#helpless) · [Helter skelter](#helter-skelter) · [Henceforth](#henceforth) · [Herald](#herald) · [Hesitant](#hesitant) · [Hiatus](#hiatus) · [Hide-Hid-Hidden](#hide-hid-hidden) · [Hieroglyph](#hieroglyph) · [Hinder](#hinder) · [Hinge](#hinge) · [Hitched](#hitched) · [Hive](#hive) · [holler](#holler) · [Hollow](#hollow) · [Homicide](#homicide) · [Honorarium](#honorarium) · [Hooliganism](#hooliganism) · [Horrendous](#horrendous) · [Hostile](#hostile) · [Hotchpotch](#hotchpotch) · [hotspot](#hotspot) · [Hound](#hound) · [Hover](#hover) · [Howl](#howl) · [Howling](#howling) · [Hubris](#hubris) · [Huddle](#huddle) · [Huddled](#huddled) · [Huffed](#huffed) · [Hum](#hum) · [Humble](#humble) · [Humility](#humility) · [Humongous](#humongous) · [Hump](#hump) · [Hurl](#hurl) · [Hypocritical](#hypocritical) · [Hysterical](#hysterical)
+[Hack](#hack) · [Hail](#hail) · [Halfway](#halfway) · [Halo](#halo) · [Hamper](#hamper) · [Hand in hand](#hand-in-hand) · [Handoff](#handoff) · [Hard pass](#hard-pass) · [Harness](#harness) · [Harping](#harping) · [Harsh](#harsh) · [Harvest](#harvest) · [Haunted](#haunted) · [Havoc](#havoc) · [Hazy](#hazy) · [Head-on](#head-on) · [Headroom](#headroom) · [Heads-up](#heads-up) · [Headspace](#headspace) · [heartfelt](#heartfelt) · [Heckling](#heckling) · [Hedge](#hedge) · [Hefty](#hefty) · [Heinous](#heinous) · [Heir](#heir) · [Heist](#heist) · [Hell-bent](#hell-bent) · [Helpless](#helpless) · [Helter skelter](#helter-skelter) · [Henceforth](#henceforth) · [Herald](#herald) · [Hesitant](#hesitant) · [Hiatus](#hiatus) · [Hide-Hid-Hidden](#hide-hid-hidden) · [Hieroglyph](#hieroglyph) · [Hinder](#hinder) · [Hinge](#hinge) · [Hitched](#hitched) · [Hive](#hive) · [holler](#holler) · [Hollow](#hollow) · [Homicide](#homicide) · [Honorarium](#honorarium) · [Hooliganism](#hooliganism) · [Horrendous](#horrendous) · [Hostile](#hostile) · [Hotchpotch](#hotchpotch) · [hotspot](#hotspot) · [Hound](#hound) · [Hover](#hover) · [Howl](#howl) · [Howling](#howling) · [Hubris](#hubris) · [Huddle](#huddle) · [Huddled](#huddled) · [Huffed](#huffed) · [Hum](#hum) · [Humble](#humble) · [Humility](#humility) · [Humongous](#humongous) · [Hump](#hump) · [Hurl](#hurl) · [Hypocritical](#hypocritical) · [Hysterical](#hysterical)
 
 **I**
 
-[Ignominious](#ignominious) · [Ignorance](#ignorance) · [Illicit](#illicit) · [Illusion](#illusion) · [Imbibe](#imbibe) · [Imbroglio](#imbroglio) · [Immersion](#immersion) · [Immersive](#immersive) · [Imminent](#imminent) · [Immolate](#immolate) · [Impair](#impair) · [Impale](#impale) · [Impartial](#impartial) · [Impeccable](#impeccable) · [Impede](#impede) · [Impending](#impending) · [Impersonate](#impersonate) · [Impetus](#impetus) · [Implement](#implement) · [Implicate](#implicate) · [Implore](#implore) · [Imply](#imply) · [Importune](#importune) · [Impromptu](#impromptu) · [Improvise](#improvise) · [Impulse](#impulse) · [Impulsive](#impulsive) · [Impune](#impune) · [in nutshell](#in-nutshell) · [Inadmissible](#inadmissible) · [Inadvertent](#inadvertent) · [Inadvertently](#inadvertently) · [Incendiary](#incendiary) · [Incentivize](#incentivize) · [Incidental](#incidental) · [Incisive](#incisive) · [Inclined](#inclined) · [incommunicado](#incommunicado) · [Incompatible](#incompatible) · [Inconceivable](#inconceivable) · [Inconsistency](#inconsistency) · [Incorporate](#incorporate) · [Incredulity](#incredulity) · [Inculcate](#inculcate) · [Incumbent](#incumbent) · [Indebtedness](#indebtedness) · [Indelible](#indelible) · [Indescribable](#indescribable) · [Indigenous](#indigenous) · [Indignant](#indignant) · [Indignation](#indignation) · [Indispensable](#indispensable) · [Indoctrinate](#indoctrinate) · [Indomitable](#indomitable) · [Indulgently](#indulgently) · [Inept](#inept) · [Inert](#inert) · [Inexplicable](#inexplicable) · [Infallible](#infallible) · [Infamous](#infamous) · [Infatuated](#infatuated) · [Infest](#infest) · [Infiltrate](#infiltrate) · [Infiltration](#infiltration) · [Inflammatory](#inflammatory) · [Inflection](#inflection) · [Inflection point](#inflection-point) · [Inflict](#inflict) · [Infuse](#infuse) · [Ingrain](#ingrain) · [Ingress vs Egress](#ingress-vs-egress) · [Injunction](#injunction) · [Innate](#innate) · [Innocuous](#innocuous) · [Innuendo](#innuendo) · [Inoculate](#inoculate) · [Inrage](#inrage) · [Insecurity](#insecurity) · [Inside out](#inside-out) · [Insidious](#insidious) · [insinuate](#insinuate) · [Insinuated](#insinuated) · [Insolvency](#insolvency) · [Instill](#instill) · [Insurgency](#insurgency) · [Insurrection](#insurrection) · [Intensify](#intensify) · [Interim](#interim) · [Interject](#interject) · [Interlude](#interlude) · [Internalize](#internalize) · [Interpolate](#interpolate) · [Interrogate](#interrogate) · [Intolerant](#intolerant) · [Intricate](#intricate) · [Intrigue](#intrigue) · [Intuitive](#intuitive) · [Inundate](#inundate) · [Invariably](#invariably) · [Inventive](#inventive) · [Investigate](#investigate) · [invigorate](#invigorate) · [Irk](#irk) · [Irony](#irony) · [Irrational](#irrational) · [Irresponsible](#irresponsible) · [island-hopping](#island-hopping) · [Itinerary](#itinerary)
+[Ignominious](#ignominious) · [Ignorance](#ignorance) · [Illicit](#illicit) · [Illusion](#illusion) · [Imbibe](#imbibe) · [Imbroglio](#imbroglio) · [immerse](#immerse) · [Immersion](#immersion) · [Immersive](#immersive) · [Imminent](#imminent) · [Immolate](#immolate) · [Impair](#impair) · [Impale](#impale) · [Impartial](#impartial) · [Impeccable](#impeccable) · [Impede](#impede) · [Impending](#impending) · [Impersonate](#impersonate) · [Impetus](#impetus) · [Implement](#implement) · [Implicate](#implicate) · [Implore](#implore) · [Imply](#imply) · [Important](#important) · [Importune](#importune) · [Impromptu](#impromptu) · [Improvise](#improvise) · [Impulse](#impulse) · [Impulsive](#impulsive) · [Impune](#impune) · [in nutshell](#in-nutshell) · [Inadmissible](#inadmissible) · [Inadvertent](#inadvertent) · [Inadvertently](#inadvertently) · [Incendiary](#incendiary) · [Incentivize](#incentivize) · [Incidental](#incidental) · [Incisive](#incisive) · [Inclined](#inclined) · [incommunicado](#incommunicado) · [Incompatible](#incompatible) · [Inconceivable](#inconceivable) · [Inconsistency](#inconsistency) · [Incorporate](#incorporate) · [Incredulity](#incredulity) · [Inculcate](#inculcate) · [Incumbent](#incumbent) · [Indebtedness](#indebtedness) · [Indelible](#indelible) · [Indescribable](#indescribable) · [Indigenous](#indigenous) · [Indignant](#indignant) · [Indignation](#indignation) · [Indispensable](#indispensable) · [Indoctrinate](#indoctrinate) · [Indomitable](#indomitable) · [Indulgently](#indulgently) · [Inept](#inept) · [Inert](#inert) · [Inexplicable](#inexplicable) · [Infallible](#infallible) · [Infamous](#infamous) · [Infatuated](#infatuated) · [Infest](#infest) · [Infiltrate](#infiltrate) · [Infiltration](#infiltration) · [Inflammatory](#inflammatory) · [Inflection](#inflection) · [Inflection point](#inflection-point) · [Inflict](#inflict) · [Infuse](#infuse) · [Ingrain](#ingrain) · [Ingress vs Egress](#ingress-vs-egress) · [Injunction](#injunction) · [Innate](#innate) · [Innocuous](#innocuous) · [Innuendo](#innuendo) · [innumerable](#innumerable) · [Inoculate](#inoculate) · [Inrage](#inrage) · [Insecurity](#insecurity) · [Inside out](#inside-out) · [Insidious](#insidious) · [Insights](#insights) · [insinuate](#insinuate) · [Insinuated](#insinuated) · [Insolvency](#insolvency) · [Instill](#instill) · [Insurgency](#insurgency) · [Insurrection](#insurrection) · [Intensify](#intensify) · [Interim](#interim) · [Interject](#interject) · [Interlude](#interlude) · [Internalize](#internalize) · [Interpolate](#interpolate) · [Interrogate](#interrogate) · [Intolerant](#intolerant) · [Intricate](#intricate) · [Intrigue](#intrigue) · [Intuition](#intuition) · [Intuitive](#intuitive) · [Inundate](#inundate) · [Invariably](#invariably) · [Inventive](#inventive) · [Investigate](#investigate) · [invigorate](#invigorate) · [Irk](#irk) · [Irony](#irony) · [Irrational](#irrational) · [Irresponsible](#irresponsible) · [island-hopping](#island-hopping) · [Itinerary](#itinerary)
 
 **J**
 
@@ -54,19 +54,19 @@
 
 **M**
 
-[Maelstrom](#maelstrom) · [Magnum opus](#magnum-opus) · [Makeshift](#makeshift) · [Mammoth](#mammoth) · [Mandate](#mandate) · [Mangle](#mangle) · [Manifest & Manifestation](#manifest--manifestation) · [Manipulator](#manipulator) · [Mannequin](#mannequin) · [Manslaughter](#manslaughter) · [Mantis](#mantis) · [Mantle](#mantle) · [Manure](#manure) · [Mascot](#mascot) · [Masquerade](#masquerade) · [Mass](#mass) · [mate](#mate) · [Matrix/metric](#matrixmetric) · [matter-of-fact](#matter-of-fact) · [Mausoleum](#mausoleum) · [Meadow](#meadow) · [Mean](#mean) · [Meaty](#meaty) · [Meddle](#meddle) · [mediocre](#mediocre) · [Meek](#meek) · [Megalomaniac](#megalomaniac) · [Melancholy](#melancholy) · [Mellifluous](#mellifluous) · [Mellow](#mellow) · [Melodramatic](#melodramatic) · [meme](#meme) · [Menace](#menace) · [Mercenary](#mercenary) · [Mesmerize](#mesmerize) · [Meticulous](#meticulous) · [metrics](#metrics) · [Mettle](#mettle) · [Midst](#midst) · [Miffed](#miffed) · [Milestone](#milestone) · [Mimic](#mimic) · [Mince](#mince) · [Mind-boggling](#mind-boggling) · [Mindset](#mindset) · [Mingle](#mingle) · [Miniature](#miniature) · [Mischievous](#mischievous) · [Misconception](#misconception) · [Miserable](#miserable) · [Misery](#misery) · [Misspoke](#misspoke) · [Mockery](#mockery) · [Modality](#modality) · [Modest](#modest) · [Molasses](#molasses) · [Moldable](#moldable) · [Monk](#monk) · [Monotonous](#monotonous) · [Moot](#moot) · [Moot point](#moot-point) · [Mope](#mope) · [Mortar](#mortar) · [Mortify](#mortify) · [Mortifying](#mortifying) · [mount](#mount) · [Muck](#muck) · [Muddled](#muddled) · [Muffled](#muffled) · [Mugging](#mugging) · [Mumble](#mumble) · [Mumbled / Mumble](#mumbled--mumble) · [mumbo-jumbo](#mumbo-jumbo) · [Mundane](#mundane) · [Mush](#mush) · [Muster](#muster) · [Mutter](#mutter)
+[Maelstrom](#maelstrom) · [Magnum opus](#magnum-opus) · [Makeshift](#makeshift) · [Mammoth](#mammoth) · [Mandate](#mandate) · [Mangle](#mangle) · [Manifest & Manifestation](#manifest--manifestation) · [Manipulator](#manipulator) · [Mannequin](#mannequin) · [Manslaughter](#manslaughter) · [Mantis](#mantis) · [Mantle](#mantle) · [Manure](#manure) · [Mascot](#mascot) · [Masquerade](#masquerade) · [Mass](#mass) · [mate](#mate) · [Matrix/metric](#matrixmetric) · [matter-of-fact](#matter-of-fact) · [Mausoleum](#mausoleum) · [Meadow](#meadow) · [Mean](#mean) · [Meaty](#meaty) · [Meddle](#meddle) · [mediocre](#mediocre) · [Meek](#meek) · [Megalomaniac](#megalomaniac) · [Melancholy](#melancholy) · [Mellifluous](#mellifluous) · [Mellow](#mellow) · [Melodramatic](#melodramatic) · [meme](#meme) · [Menace](#menace) · [Mercenary](#mercenary) · [Mesmerize](#mesmerize) · [Meticulous](#meticulous) · [metrics](#metrics) · [Mettle](#mettle) · [Midst](#midst) · [Miffed](#miffed) · [Milestone](#milestone) · [Mimic](#mimic) · [Mince](#mince) · [Mind-boggling](#mind-boggling) · [Mindset](#mindset) · [Mingle](#mingle) · [Miniature](#miniature) · [Mischievous](#mischievous) · [Misconception](#misconception) · [Miserable](#miserable) · [Misery](#misery) · [Misspoke](#misspoke) · [Mockery](#mockery) · [Modality](#modality) · [Modest](#modest) · [Molasses](#molasses) · [Moldable](#moldable) · [Monk](#monk) · [Mono](#mono) · [Monotonous](#monotonous) · [Moot](#moot) · [Moot point](#moot-point) · [Mope](#mope) · [Mortar](#mortar) · [Mortify](#mortify) · [Mortifying](#mortifying) · [mount](#mount) · [Muck](#muck) · [Muddled](#muddled) · [Muffled](#muffled) · [Mugging](#mugging) · [multilaterally](#multilaterally) · [Mumble](#mumble) · [Mumbled / Mumble](#mumbled--mumble) · [mumbo-jumbo](#mumbo-jumbo) · [Mundane](#mundane) · [Mush](#mush) · [Muster](#muster) · [Mutter](#mutter)
 
 **N**
 
-[Narcisist](#narcisist) · [Narcissist](#narcissist) · [Narrative](#narrative) · [Narrator](#narrator) · [Nascent](#nascent) · [Nasty](#nasty) · [Naysayer](#naysayer) · [Nebulous](#nebulous) · [Necessity](#necessity) · [Necking](#necking) · [Nefarious](#nefarious) · [Negate](#negate) · [Nerve-wracking](#nerve-wracking) · [Nestle](#nestle) · [Niche](#niche) · [Niggling](#niggling) · [Nimble](#nimble) · [Nip](#nip) · [Nitty-gritty](#nitty-gritty) · [Non-Negotiable](#non-negotiable) · [Non-starter](#non-starter) · [Nonchalant](#nonchalant) · [Nonchalantly](#nonchalantly) · [Nonsense](#nonsense) · [Noose](#noose) · [Nosedive](#nosedive) · [Notorious](#notorious) · [noun(informal)](#nouninformal) · [Novice](#novice) · [Nowhere](#nowhere) · [Noxious](#noxious) · [Nuance](#nuance) · [Nuanced](#nuanced) · [Nudge](#nudge) · [Nugget](#nugget) · [Nuisance](#nuisance) · [Nuzzle](#nuzzle)
+[Narcisist](#narcisist) · [Narcissist](#narcissist) · [narrate](#narrate) · [Narrative](#narrative) · [Narrator](#narrator) · [Nascent](#nascent) · [Nasty](#nasty) · [Naysayer](#naysayer) · [Nebulous](#nebulous) · [Necessity](#necessity) · [Necking](#necking) · [Nefarious](#nefarious) · [Negate](#negate) · [Nerve-wracking](#nerve-wracking) · [Nestle](#nestle) · [Niche](#niche) · [Niggling](#niggling) · [Nimble](#nimble) · [Nip](#nip) · [Nitty-gritty](#nitty-gritty) · [Non-Negotiable](#non-negotiable) · [Non-starter](#non-starter) · [Nonchalant](#nonchalant) · [Nonchalantly](#nonchalantly) · [Nonsense](#nonsense) · [Noose](#noose) · [Nosedive](#nosedive) · [Notorious](#notorious) · [noun(informal)](#nouninformal) · [Novice](#novice) · [Nowhere](#nowhere) · [Noxious](#noxious) · [Nuance](#nuance) · [Nuanced](#nuanced) · [nuances](#nuances) · [Nudge](#nudge) · [Nugget](#nugget) · [Nuisance](#nuisance) · [Nuzzle](#nuzzle)
 
 **O**
 
-[Obfuscate](#obfuscate) · [Obfuscating](#obfuscating) · [Obituary](#obituary) · [Obliterate](#obliterate) · [Oblivious](#oblivious) · [Obnoxious](#obnoxious) · [Obscene](#obscene) · [Obsequious](#obsequious) · [Observe/Absorb](#observeabsorb) · [Obsessive](#obsessive) · [Obsolescence](#obsolescence) · [Obsolete](#obsolete) · [Obstacle](#obstacle) · [Obstinate](#obstinate) · [Odds](#odds) · [Odious](#odious) · [Off-putting](#off-putting) · [Off-ramp](#off-ramp) · [Offering](#offering) · [Offsetting](#offsetting) · [Ogling](#ogling) · [Omission](#omission) · [On account of](#on-account-of) · [on the contrary](#on-the-contrary) · [One-off](#one-off) · [One-Size-Fits-All](#one-size-fits-all) · [Ooze](#ooze) · [Orator](#orator) · [Ordeal](#ordeal) · [Orientation](#orientation) · [Orphanage](#orphanage) · [Ostensible](#ostensible) · [Oust](#oust) · [Outcome](#outcome) · [Outlay](#outlay) · [Outpace](#outpace) · [Outrageous](#outrageous) · [Outsmart](#outsmart) · [Outstanding question](#outstanding-question) · [Outweigh](#outweigh) · [Overarching](#overarching) · [Overcome](#overcome) · [Overexerting yourself](#overexerting-yourself) · [Overhaul](#overhaul) · [overloaded term](#overloaded-term) · [Overlook](#overlook) · [Overpacker](#overpacker) · [Overrated](#overrated) · [Oversee](#oversee) · [Overseeing](#overseeing) · [Overshadow](#overshadow) · [Overt](#overt) · [Overthrow](#overthrow) · [Overturn](#overturn) · [Overwhelming](#overwhelming) · [Oxymoron](#oxymoron)
+[Obfuscate](#obfuscate) · [Obfuscating](#obfuscating) · [Obituary](#obituary) · [Obliterate](#obliterate) · [Oblivious](#oblivious) · [Obnoxious](#obnoxious) · [Obscene](#obscene) · [obscure](#obscure) · [Obsequious](#obsequious) · [Observe/Absorb](#observeabsorb) · [Obsessive](#obsessive) · [Obsolescence](#obsolescence) · [Obsolete](#obsolete) · [Obstacle](#obstacle) · [Obstinate](#obstinate) · [Odds](#odds) · [Odious](#odious) · [Off-putting](#off-putting) · [Off-ramp](#off-ramp) · [Offering](#offering) · [Offsetting](#offsetting) · [Ogling](#ogling) · [Omission](#omission) · [On account of](#on-account-of) · [on the contrary](#on-the-contrary) · [One-off](#one-off) · [One-Size-Fits-All](#one-size-fits-all) · [Ooze](#ooze) · [Orator](#orator) · [Ordeal](#ordeal) · [Orientation](#orientation) · [Orphanage](#orphanage) · [Ostensible](#ostensible) · [Oust](#oust) · [Outcome](#outcome) · [Outlay](#outlay) · [Outpace](#outpace) · [Outrageous](#outrageous) · [Outsmart](#outsmart) · [Outstanding question](#outstanding-question) · [Outweigh](#outweigh) · [Overarching](#overarching) · [Overcome](#overcome) · [Overexerting yourself](#overexerting-yourself) · [Overhaul](#overhaul) · [overloaded term](#overloaded-term) · [Overlook](#overlook) · [Overpacker](#overpacker) · [Overrated](#overrated) · [Oversee](#oversee) · [Overseeing](#overseeing) · [Overshadow](#overshadow) · [Overt](#overt) · [Overthrow](#overthrow) · [Overturn](#overturn) · [Overwhelming](#overwhelming) · [Oxymoron](#oxymoron)
 
 **P**
 
-[Pace](#pace) · [Paddle](#paddle) · [Pail](#pail) · [Palate](#palate) · [Palpable](#palpable) · [Panhandle](#panhandle) · [Panting](#panting) · [Paparazzo](#paparazzo) · [Parable](#parable) · [Paradigm](#paradigm) · [Paradoxically](#paradoxically) · [Paranoia](#paranoia) · [Paranoid](#paranoid) · [Parity](#parity) · [Parley](#parley) · [Partial](#partial) · [Passionate](#passionate) · [Patronize](#patronize) · [Patronizing](#patronizing) · [Pattern](#pattern) · [Paucity](#paucity) · [Pave](#pave) · [Peculiar](#peculiar) · [Peeked](#peeked) · [Peer](#peer) · [Peg](#peg) · [Pensive](#pensive) · [Pent-up](#pent-up) · [Per se](#per-se) · [Perceive](#perceive) · [perception](#perception) · [Perceptive](#perceptive) · [Perform](#perform) · [Perilously](#perilously) · [Perish](#perish) · [Perjury](#perjury) · [perk](#perk) · [Pernicious](#pernicious) · [Perpetrate](#perpetrate) · [Perpetrator](#perpetrator) · [Perpetual](#perpetual) · [Perpetuate](#perpetuate) · [Perpetuated](#perpetuated) · [Perplexed](#perplexed) · [Persecute](#persecute) · [Persevere](#persevere) · [Persistent](#persistent) · [perspective](#perspective) · [Pert](#pert) · [Pertain](#pertain) · [Pervasive](#pervasive) · [Pervasive vs Widespread vs Ubiquitous](#pervasive-vs-widespread-vs-ubiquitous) · [Perversion](#perversion) · [Petite](#petite) · [Petrified](#petrified) · [Phenomenon](#phenomenon) · [Phony](#phony) · [Pick-Me-Up](#pick-me-up) · [Picturesque](#picturesque) · [Piglet](#piglet) · [Pilferage](#pilferage) · [Pilfering](#pilfering) · [Pillory](#pillory) · [Pinnacle](#pinnacle) · [Pioneer](#pioneer) · [Pique](#pique) · [Pitfall](#pitfall) · [Pivot](#pivot) · [Pivotal](#pivotal) · [Plaque](#plaque) · [Plausible](#plausible) · [Plausible/implausible](#plausibleimplausible) · [Plight](#plight) · [Plopped](#plopped) · [Plummet](#plummet) · [Plunge](#plunge) · [Poignant](#poignant) · [Poised](#poised) · [Polyglot](#polyglot) · [pontificate](#pontificate) · [Pontification](#pontification) · [Populous](#populous) · [Pores](#pores) · [Posturing](#posturing) · [Potential](#potential) · [Pound](#pound) · [Pouting](#pouting) · [Practical](#practical) · [Pragmatic](#pragmatic) · [Prance](#prance) · [Prawn](#prawn) · [Precarious](#precarious) · [Precedent](#precedent) · [Precipitate](#precipitate) · [Precision](#precision) · [Precursor](#precursor) · [Predatory](#predatory) · [Predicament](#predicament) · [Predicate](#predicate) · [Predisposition](#predisposition) · [Predominant](#predominant) · [Predominantly](#predominantly) · [Prep](#prep) · [Preposterous](#preposterous) · [Prerogative](#prerogative) · [Pressure Mount](#pressure-mount) · [prestigious](#prestigious) · [Presumably](#presumably) · [Presume](#presume) · [Pretext](#pretext) · [Prevailing](#prevailing) · [Prevalence](#prevalence) · [Prevalent](#prevalent) · [Prick](#prick) · [Pro bono](#pro-bono) · [Proactive](#proactive) · [Probity](#probity) · [Process](#process) · [Procrastinator](#procrastinator) · [Procreate](#procreate) · [Procure](#procure) · [Prod](#prod) · [Profanities](#profanities) · [Proliferation](#proliferation) · [Prolification](#prolification) · [Prominent](#prominent) · [Promiscuity](#promiscuity) · [Promiscuous](#promiscuous) · [Prompt](#prompt) · [Proponent](#proponent) · [Proposition](#proposition) · [Prorated](#prorated) · [Prospect](#prospect) · [Prospective](#prospective) · [Prosperous](#prosperous) · [Protagonist](#protagonist) · [Protrude](#protrude) · [Protrusion](#protrusion) · [protégé](#protégé) · [Prove](#prove) · [Providential](#providential) · [Provocative](#provocative) · [Prowess](#prowess) · [Prowl](#prowl) · [Prudence](#prudence) · [Prudent](#prudent) · [Pry](#pry) · [Puckered](#puckered) · [Puffery](#puffery) · [Pulverize](#pulverize) · [Punctuate](#punctuate) · [Pungent](#pungent) · [Punitive](#punitive) · [Punk](#punk) · [Punt](#punt) · [Purge](#purge) · [Purportedly](#purportedly) · [Purred](#purred) · [Pursuit](#pursuit) · [Pushes you off the cliff](#pushes-you-off-the-cliff)
+[Pace](#pace) · [Paddle](#paddle) · [Pail](#pail) · [Palate](#palate) · [Palpable](#palpable) · [Panhandle](#panhandle) · [Panting](#panting) · [Paparazzo](#paparazzo) · [Parable](#parable) · [Paradigm](#paradigm) · [Paradoxically](#paradoxically) · [Paranoia](#paranoia) · [Paranoid](#paranoid) · [Parity](#parity) · [Parley](#parley) · [Partial](#partial) · [Passionate](#passionate) · [Patronize](#patronize) · [Patronizing](#patronizing) · [Pattern](#pattern) · [Paucity](#paucity) · [Pave](#pave) · [Peculiar](#peculiar) · [Peeked](#peeked) · [Peer](#peer) · [Peg](#peg) · [Pensive](#pensive) · [Pent-up](#pent-up) · [Per se](#per-se) · [Perceive](#perceive) · [perception](#perception) · [Perceptive](#perceptive) · [Perform](#perform) · [Perilously](#perilously) · [Perish](#perish) · [Perjury](#perjury) · [perk](#perk) · [Pernicious](#pernicious) · [Perpetrate](#perpetrate) · [Perpetrator](#perpetrator) · [Perpetual](#perpetual) · [Perpetuate](#perpetuate) · [Perpetuated](#perpetuated) · [Perplexed](#perplexed) · [Persecute](#persecute) · [Persevere](#persevere) · [Persistent](#persistent) · [perspective](#perspective) · [Pert](#pert) · [Pertain](#pertain) · [Pervasive](#pervasive) · [Pervasive vs Widespread vs Ubiquitous](#pervasive-vs-widespread-vs-ubiquitous) · [Perversion](#perversion) · [Petite](#petite) · [Petrified](#petrified) · [Phenomenon](#phenomenon) · [Phony](#phony) · [Pick-Me-Up](#pick-me-up) · [Picturesque](#picturesque) · [Piglet](#piglet) · [Pigment](#pigment) · [Pilferage](#pilferage) · [Pilfering](#pilfering) · [Pillory](#pillory) · [Pinnacle](#pinnacle) · [Pioneer](#pioneer) · [Pique](#pique) · [Pitfall](#pitfall) · [Pivot](#pivot) · [Pivotal](#pivotal) · [Plaque](#plaque) · [Plausible](#plausible) · [Plausible/implausible](#plausibleimplausible) · [Plight](#plight) · [Plopped](#plopped) · [Plummet](#plummet) · [Plunge](#plunge) · [Poignant](#poignant) · [Poised](#poised) · [Polyglot](#polyglot) · [pontificate](#pontificate) · [Pontification](#pontification) · [Populous](#populous) · [Pores](#pores) · [Posturing](#posturing) · [Potential](#potential) · [Pound](#pound) · [Pouting](#pouting) · [Practical](#practical) · [Pragmatic](#pragmatic) · [Prance](#prance) · [Prawn](#prawn) · [Precarious](#precarious) · [Precedent](#precedent) · [Precipitate](#precipitate) · [Precision](#precision) · [Precursor](#precursor) · [Predatory](#predatory) · [Predicament](#predicament) · [Predicate](#predicate) · [Predisposition](#predisposition) · [Predominant](#predominant) · [Predominantly](#predominantly) · [Prep](#prep) · [Preposterous](#preposterous) · [Prerogative](#prerogative) · [Pressure Mount](#pressure-mount) · [prestigious](#prestigious) · [Presumably](#presumably) · [Presume](#presume) · [Pretext](#pretext) · [Prevailing](#prevailing) · [Prevalence](#prevalence) · [Prevalent](#prevalent) · [Prick](#prick) · [Pro bono](#pro-bono) · [Proactive](#proactive) · [Probity](#probity) · [Process](#process) · [Procrastinator](#procrastinator) · [Procreate](#procreate) · [Procure](#procure) · [Prod](#prod) · [Profanities](#profanities) · [Proliferation](#proliferation) · [Prolification](#prolification) · [Prominent](#prominent) · [Promiscuity](#promiscuity) · [Promiscuous](#promiscuous) · [Prompt](#prompt) · [Proponent](#proponent) · [Proposition](#proposition) · [Prorated](#prorated) · [Prospect](#prospect) · [Prospective](#prospective) · [Prosperous](#prosperous) · [Protagonist](#protagonist) · [Protrude](#protrude) · [Protrusion](#protrusion) · [protégé](#protégé) · [Prove](#prove) · [Providential](#providential) · [Provocative](#provocative) · [Prowess](#prowess) · [Prowl](#prowl) · [Prudence](#prudence) · [Prudent](#prudent) · [Pry](#pry) · [Puckered](#puckered) · [Puffery](#puffery) · [Pulverize](#pulverize) · [Punctuate](#punctuate) · [Pungent](#pungent) · [Punitive](#punitive) · [Punk](#punk) · [Punt](#punt) · [Purge](#purge) · [Purportedly](#purportedly) · [Purred](#purred) · [Pursuit](#pursuit) · [Purview](#purview) · [Pushes you off the cliff](#pushes-you-off-the-cliff)
 
 **Q**
 
@@ -74,19 +74,19 @@
 
 **R**
 
-[Race/Raced](#raceraced) · [Ram](#ram) · [Ramification](#ramification) · [Ramp](#ramp) · [Rancher](#rancher) · [Rant](#rant) · [Rapport](#rapport) · [Raspiness](#raspiness) · [Rational](#rational) · [Rationale](#rationale) · [Rattle](#rattle) · [Rattling](#rattling) · [Ravage](#ravage) · [Rave](#rave) · [Raven](#raven) · [Ravish](#ravish) · [Razzing](#razzing) · [Rebuff](#rebuff) · [Recess](#recess) · [Reciprocate](#reciprocate) · [reckless](#reckless) · [Reckon](#reckon) · [Recline](#recline) · [Reclusive](#reclusive) · [Recompense](#recompense) · [Recon](#recon) · [Reconcile](#reconcile) · [Reconciliation](#reconciliation) · [Rectify](#rectify) · [Recuperate](#recuperate) · [Recuperating](#recuperating) · [Reformatory](#reformatory) · [Refrain](#refrain) · [Refurbish](#refurbish) · [Refute](#refute) · [regard](#regard) · [Reins](#reins) · [Rejuvenation](#rejuvenation) · [Relegate](#relegate) · [Relentless](#relentless) · [Relevant](#relevant) · [Relevé](#relevé) · [Reliable](#reliable) · [Relic](#relic) · [Relish](#relish) · [Remark](#remark) · [Reminisce](#reminisce) · [Remnants](#remnants) · [Remorse](#remorse) · [Renaissance](#renaissance) · [Rendezvous](#rendezvous) · [Renege](#renege) · [Renounce](#renounce) · [Renowned](#renowned) · [Repatriate](#repatriate) · [Repel](#repel) · [Repent](#repent) · [Replenish](#replenish) · [Reprehensible](#reprehensible) · [Reprieve](#reprieve) · [Reprimand](#reprimand) · [Reprisal](#reprisal) · [Reprise](#reprise) · [Resentful](#resentful) · [Resonance](#resonance) · [Resonate](#resonate) · [Resort](#resort) · [Resounding](#resounding) · [Resourceful](#resourceful) · [Restitute](#restitute) · [Restless](#restless) · [Resurgent](#resurgent) · [Reticent](#reticent) · [Retort](#retort) · [Retorted](#retorted) · [Retract](#retract) · [Retraction](#retraction) · [Revelation](#revelation) · [Revelling](#revelling) · [Reverence](#reverence) · [Rhetoric](#rhetoric) · [ridden](#ridden) · [Righteousness](#righteousness) · [Risible](#risible) · [Rivet](#rivet) · [Robe](#robe) · [Rotten](#rotten) · [Rouse](#rouse) · [Rousing](#rousing) · [Rout](#rout) · [Rube](#rube) · [Ruckus](#ruckus) · [Rudimentary](#rudimentary) · [Ruffling](#ruffling) · [Rug](#rug) · [Rumble](#rumble) · [Rumbling](#rumbling) · [Rummage](#rummage) · [Rust](#rust) · [RV](#rv)
+[Race/Raced](#raceraced) · [Ram](#ram) · [Ramification](#ramification) · [Ramp](#ramp) · [Rancher](#rancher) · [Rant](#rant) · [Rapport](#rapport) · [Raspiness](#raspiness) · [Rational](#rational) · [Rationale](#rationale) · [Rattle](#rattle) · [Rattling](#rattling) · [Ravage](#ravage) · [Rave](#rave) · [Raven](#raven) · [Ravish](#ravish) · [Razzing](#razzing) · [Rebuff](#rebuff) · [Recess](#recess) · [Reciprocate](#reciprocate) · [reckless](#reckless) · [Reckon](#reckon) · [Recline](#recline) · [Reclusive](#reclusive) · [Recompense](#recompense) · [Recon](#recon) · [Reconcile](#reconcile) · [Reconciliation](#reconciliation) · [Rectify](#rectify) · [Recuperate](#recuperate) · [Recuperating](#recuperating) · [Reformatory](#reformatory) · [Refrain](#refrain) · [Refurbish](#refurbish) · [Refute](#refute) · [regard](#regard) · [Reins](#reins) · [Rejuvenation](#rejuvenation) · [Relegate](#relegate) · [Relentless](#relentless) · [Relevant](#relevant) · [Relevé](#relevé) · [Reliable](#reliable) · [Relic](#relic) · [Relish](#relish) · [Remark](#remark) · [Reminisce](#reminisce) · [Remnants](#remnants) · [Remorse](#remorse) · [Renaissance](#renaissance) · [Rendezvous](#rendezvous) · [Renege](#renege) · [Renounce](#renounce) · [Renowned](#renowned) · [Repatriate](#repatriate) · [Repel](#repel) · [Repent](#repent) · [Replenish](#replenish) · [Reprehensible](#reprehensible) · [Reprieve](#reprieve) · [Reprimand](#reprimand) · [Reprisal](#reprisal) · [Reprise](#reprise) · [Resentful](#resentful) · [Resonance](#resonance) · [Resonate](#resonate) · [Resort](#resort) · [Resounding](#resounding) · [Resourceful](#resourceful) · [Restitute](#restitute) · [Restless](#restless) · [Resurgent](#resurgent) · [Reticent](#reticent) · [Retort](#retort) · [Retorted](#retorted) · [Retract](#retract) · [Retraction](#retraction) · [Return](#return) · [Revelation](#revelation) · [Revelling](#revelling) · [Reverence](#reverence) · [Rhetoric](#rhetoric) · [ridden](#ridden) · [Righteousness](#righteousness) · [Risible](#risible) · [Rivet](#rivet) · [Robe](#robe) · [Rotten](#rotten) · [Rouse](#rouse) · [Rousing](#rousing) · [Rout](#rout) · [Rubbish](#rubbish) · [Rube](#rube) · [Ruckus](#ruckus) · [Rudimentary](#rudimentary) · [Ruffling](#ruffling) · [Rug](#rug) · [Rumble](#rumble) · [Rumbling](#rumbling) · [Rummage](#rummage) · [Rust](#rust) · [RV](#rv)
 
 **S**
 
-[Sabbatical](#sabbatical) · [Saber-rattling](#saber-rattling) · [Sack](#sack) · [Sad](#sad) · [Sadden](#sadden) · [Sagging](#sagging) · [Salivate](#salivate) · [Sanctify](#sanctify) · [Sanctimony](#sanctimony) · [Sanctuary](#sanctuary) · [Sandbox](#sandbox) · [Sapling](#sapling) · [Savage](#savage) · [Savor](#savor) · [Savour](#savour) · [Say/Suppose](#saysuppose) · [Scaffold](#scaffold) · [Scam](#scam) · [Scamper](#scamper) · [Scapegoat](#scapegoat) · [Scarce](#scarce) · [Schism](#schism) · [Scoff](#scoff) · [Scoffed](#scoffed) · [Scoot](#scoot) · [Scooted](#scooted) · [Scope](#scope) · [Scornful](#scornful) · [Scoundrel](#scoundrel) · [Scouting](#scouting) · [Scrambling](#scrambling) · [Screech](#screech) · [Scribble](#scribble) · [Scrumptious](#scrumptious) · [Scrunch](#scrunch) · [Scrupulous](#scrupulous) · [Scum](#scum) · [Scupper](#scupper) · [Scurry](#scurry) · [Scuttle](#scuttle) · [Seabed](#seabed) · [Secluded](#secluded) · [Secretion](#secretion) · [Sectarianism](#sectarianism) · [Seductive](#seductive) · [Seemingly](#seemingly) · [Seldom](#seldom) · [Self-conscious](#self-conscious) · [Self-supplied](#self-supplied) · [Semitism](#semitism) · [Sensible](#sensible) · [Serene](#serene) · [Sermon](#sermon) · [Shadowing](#shadowing) · [shag](#shag) · [Shameless](#shameless) · [Sheer](#sheer) · [Shelved](#shelved) · [Shiftless](#shiftless) · [Shimmering](#shimmering) · [Shimmied](#shimmied) · [Shimmy](#shimmy) · [Shit](#shit) · [Shived](#shived) · [Shoot](#shoot) · [Shove](#shove) · [Shovel](#shovel) · [Shrewd](#shrewd) · [shrink](#shrink) · [Shrivel](#shrivel) · [Shun](#shun) · [Shy/bashful](#shybashful) · [Sick](#sick) · [sightseeing](#sightseeing) · [Signor](#signor) · [Silly](#silly) · [Simmer / simmered](#simmer--simmered) · [Simmered](#simmered) · [Sincere](#sincere) · [sinful](#sinful) · [Siphon](#siphon) · [Sitcom](#sitcom) · [Skimp](#skimp) · [Skimpy](#skimpy) · [Slam](#slam) · [Slander](#slander) · [Slant](#slant) · [Sleazy](#sleazy) · [Sleek](#sleek) · [Slender](#slender) · [Slit](#slit) · [Slither](#slither) · [Slog](#slog) · [Sloppy](#sloppy) · [Slouch](#slouch) · [Slugfest](#slugfest) · [Sluggish](#sluggish) · [Slumber](#slumber) · [Slump](#slump) · [Slur](#slur) · [Sly](#sly) · [Slyly](#slyly) · [Smashing](#smashing) · [Smear](#smear) · [Smirk](#smirk) · [Smite](#smite) · [Smush](#smush) · [Snag](#snag) · [Snail’s pace](#snails-pace) · [snap(move quickly)](#snapmove-quickly) · [Snapped](#snapped) · [Sneaky](#sneaky) · [Sniggering](#sniggering) · [Snoop](#snoop) · [Snort](#snort) · [Snotted](#snotted) · [Snub](#snub) · [Snuggle](#snuggle) · [Soar](#soar) · [Social cues](#social-cues) · [Solely](#solely) · [Solicit](#solicit) · [Solitude](#solitude) · [Sophisticated](#sophisticated) · [Sore](#sore) · [Sorrow](#sorrow) · [Souvenir](#souvenir) · [Spank](#spank) · [Spat](#spat) · [Spay](#spay) · [Spearhead](#spearhead) · [Spectacular](#spectacular) · [Spendthrift](#spendthrift) · [Spice](#spice) · [Spike](#spike) · [Spillover](#spillover) · [Spinoff](#spinoff) · [Splinter](#splinter) · [Splurge](#splurge) · [Spluttering](#spluttering) · [Spoiler](#spoiler) · [Spooky](#spooky) · [Spooning](#spooning) · [Spot](#spot) · [Sprawl](#sprawl) · [Spruik](#spruik) · [Spurious](#spurious) · [spurn](#spurn) · [Spurt](#spurt) · [Squabble](#squabble) · [Squall](#squall) · [Squatted](#squatted) · [Squawk](#squawk) · [Squeaking](#squeaking) · [Squeal](#squeal) · [Squeez](#squeez) · [Squelchy](#squelchy) · [Squinted](#squinted) · [Squire](#squire) · [Squirm](#squirm) · [Squirmed](#squirmed) · [Squirt](#squirt) · [Staggering](#staggering) · [Stagnate](#stagnate) · [Stagnation](#stagnation) · [Stain](#stain) · [Stalk](#stalk) · [stammer](#stammer) · [Standstill](#standstill) · [Startle](#startle) · [Startled](#startled) · [Stationary](#stationary) · [Statutory](#statutory) · [stay](#stay) · [staycation](#staycation) · [Steadfast](#steadfast) · [Stench](#stench) · [Stepping Stone](#stepping-stone) · [Stern](#stern) · [Sternly](#sternly) · [Stewardess](#stewardess) · [Stick](#stick) · [Stiffened](#stiffened) · [Stifle](#stifle) · [Stifling](#stifling) · [Stillborn](#stillborn) · [Sting](#sting) · [Stingy](#stingy) · [Stink](#stink) · [Stint](#stint) · [Stipulate](#stipulate) · [Stir](#stir) · [Stockholder](#stockholder) · [Stodgy](#stodgy) · [Stoicism](#stoicism) · [Stolid](#stolid) · [Stomp](#stomp) · [Stomping](#stomping) · [Stoop](#stoop) · [Stoutly](#stoutly) · [Straddle](#straddle) · [Strained](#strained) · [Stranded](#stranded) · [Strangle](#strangle) · [Strangulate](#strangulate) · [Strategize](#strategize) · [Straw](#straw) · [Strident](#strident) · [Stringent](#stringent) · [Strip](#strip) · [Strive](#strive) · [Stroll](#stroll) · [Struggle](#struggle) · [Stubborn](#stubborn) · [Stud](#stud) · [Stumble](#stumble) · [Stupendous](#stupendous) · [Suave](#suave) · [Subdue](#subdue) · [Subjugate](#subjugate) · [Sublime](#sublime) · [Subpar](#subpar) · [Subpoena](#subpoena) · [Subsequent](#subsequent) · [Subservient](#subservient) · [Substantial](#substantial) · [Substantiate](#substantiate) · [Subsume](#subsume) · [Subtle](#subtle) · [Succeed](#succeed) · [Succinct](#succinct) · [Succulent](#succulent) · [Suckling](#suckling) · [Suffice](#suffice) · [Suggestibility](#suggestibility) · [Suitor](#suitor) · [Sulk](#sulk) · [Sullen](#sullen) · [Superficial](#superficial) · [Supple](#supple) · [Supplier](#supplier) · [Supply](#supply) · [supposedly](#supposedly) · [Surgical](#surgical) · [Surly](#surly) · [surreal](#surreal) · [Suspend](#suspend) · [Swarm](#swarm) · [Swashbuckling](#swashbuckling) · [Swatted](#swatted) · [swatted | Swat](#swatted--swat) · [Sway](#sway) · [Swig](#swig) · [Swing](#swing) · [Swirl](#swirl) · [Swivel](#swivel) · [Sycophancy](#sycophancy) · [Sympathetic](#sympathetic) · [Synergy](#synergy)
+[Sabbatical](#sabbatical) · [Saber-rattling](#saber-rattling) · [Sack](#sack) · [Sad](#sad) · [Sadden](#sadden) · [Sagging](#sagging) · [Salivate](#salivate) · [Sanctify](#sanctify) · [Sanctimony](#sanctimony) · [Sanctuary](#sanctuary) · [Sandbox](#sandbox) · [Sapling](#sapling) · [Savage](#savage) · [Savor](#savor) · [Savour](#savour) · [Say/Suppose](#saysuppose) · [Scaffold](#scaffold) · [Scam](#scam) · [Scamper](#scamper) · [Scapegoat](#scapegoat) · [Scarce](#scarce) · [scare](#scare) · [Schism](#schism) · [Scoff](#scoff) · [Scoffed](#scoffed) · [Scold](#scold) · [Scoot](#scoot) · [Scooted](#scooted) · [Scope](#scope) · [Scornful](#scornful) · [Scoundrel](#scoundrel) · [Scouting](#scouting) · [Scrambling](#scrambling) · [Screech](#screech) · [Scribble](#scribble) · [Scrumptious](#scrumptious) · [Scrunch](#scrunch) · [Scrupulous](#scrupulous) · [Scum](#scum) · [Scupper](#scupper) · [Scurry](#scurry) · [Scuttle](#scuttle) · [Seabed](#seabed) · [Secluded](#secluded) · [Secretion](#secretion) · [Sectarianism](#sectarianism) · [Seductive](#seductive) · [Seemingly](#seemingly) · [Segregate](#segregate) · [Seldom](#seldom) · [Self-conscious](#self-conscious) · [Self-supplied](#self-supplied) · [Semitism](#semitism) · [Sensible](#sensible) · [Serene](#serene) · [Sermon](#sermon) · [Several](#several) · [Shadowing](#shadowing) · [shag](#shag) · [Shameless](#shameless) · [Sheer](#sheer) · [Shelved](#shelved) · [Shiftless](#shiftless) · [Shimmering](#shimmering) · [Shimmied](#shimmied) · [Shimmy](#shimmy) · [Shit](#shit) · [Shived](#shived) · [Shoot](#shoot) · [Shove](#shove) · [Shovel](#shovel) · [show](#show) · [Shrewd](#shrewd) · [shrink](#shrink) · [Shrivel](#shrivel) · [Shun](#shun) · [Shy/bashful](#shybashful) · [Sick](#sick) · [sightseeing](#sightseeing) · [Signor](#signor) · [Silly](#silly) · [Simmer / simmered](#simmer--simmered) · [Simmered](#simmered) · [Sincere](#sincere) · [sinful](#sinful) · [Siphon](#siphon) · [Sitcom](#sitcom) · [Skimp](#skimp) · [Skimpy](#skimpy) · [Slam](#slam) · [Slander](#slander) · [Slant](#slant) · [Sleazy](#sleazy) · [Sleek](#sleek) · [Slender](#slender) · [Slit](#slit) · [Slither](#slither) · [Slog](#slog) · [Sloppy](#sloppy) · [Slouch](#slouch) · [Slugfest](#slugfest) · [Sluggish](#sluggish) · [Slumber](#slumber) · [Slump](#slump) · [Slur](#slur) · [Sly](#sly) · [Slyly](#slyly) · [Smashing](#smashing) · [Smear](#smear) · [Smirk](#smirk) · [Smite](#smite) · [Smush](#smush) · [Snag](#snag) · [Snail’s pace](#snails-pace) · [snap(move quickly)](#snapmove-quickly) · [Snapped](#snapped) · [Sneaky](#sneaky) · [Sniggering](#sniggering) · [Snoop](#snoop) · [Snort](#snort) · [Snotted](#snotted) · [Snub](#snub) · [Snuggle](#snuggle) · [Soar](#soar) · [Social cues](#social-cues) · [Solely](#solely) · [Solicit](#solicit) · [Solitude](#solitude) · [Sophisticated](#sophisticated) · [Sore](#sore) · [Sorrow](#sorrow) · [Souvenir](#souvenir) · [Spank](#spank) · [Spat](#spat) · [Spay](#spay) · [Spearhead](#spearhead) · [Specific](#specific) · [Spectacular](#spectacular) · [Spendthrift](#spendthrift) · [Spice](#spice) · [Spike](#spike) · [Spillover](#spillover) · [Spinoff](#spinoff) · [Splinter](#splinter) · [Splurge](#splurge) · [Spluttering](#spluttering) · [Spoiler](#spoiler) · [Spooky](#spooky) · [Spooning](#spooning) · [Spot](#spot) · [Sprawl](#sprawl) · [Spruik](#spruik) · [Spurious](#spurious) · [spurn](#spurn) · [Spurt](#spurt) · [Squabble](#squabble) · [Squall](#squall) · [Squatted](#squatted) · [Squawk](#squawk) · [Squeaking](#squeaking) · [Squeal](#squeal) · [Squeez](#squeez) · [Squelchy](#squelchy) · [Squinted](#squinted) · [Squire](#squire) · [Squirm](#squirm) · [Squirmed](#squirmed) · [Squirt](#squirt) · [Staggering](#staggering) · [Stagnate](#stagnate) · [Stagnation](#stagnation) · [Stain](#stain) · [Stalk](#stalk) · [stammer](#stammer) · [Standstill](#standstill) · [Startle](#startle) · [Startled](#startled) · [Stationary](#stationary) · [Statutory](#statutory) · [stay](#stay) · [staycation](#staycation) · [Steadfast](#steadfast) · [Stench](#stench) · [Stepping Stone](#stepping-stone) · [Stern](#stern) · [Sternly](#sternly) · [Stewardess](#stewardess) · [Stick](#stick) · [Stiffened](#stiffened) · [Stifle](#stifle) · [Stifling](#stifling) · [Stillborn](#stillborn) · [Sting](#sting) · [Stingy](#stingy) · [Stink](#stink) · [Stint](#stint) · [Stipulate](#stipulate) · [Stir](#stir) · [Stockholder](#stockholder) · [Stodgy](#stodgy) · [Stoicism](#stoicism) · [Stolid](#stolid) · [Stomp](#stomp) · [Stomping](#stomping) · [Stoop](#stoop) · [Stoutly](#stoutly) · [Straddle](#straddle) · [Strained](#strained) · [Stranded](#stranded) · [Strangle](#strangle) · [Strangulate](#strangulate) · [Strategize](#strategize) · [Straw](#straw) · [Streamline](#streamline) · [Strident](#strident) · [Stringent](#stringent) · [Strip](#strip) · [Strive](#strive) · [Stroll](#stroll) · [Struggle](#struggle) · [Stubborn](#stubborn) · [Stud](#stud) · [Stumble](#stumble) · [Stupendous](#stupendous) · [Suave](#suave) · [Subdue](#subdue) · [Subjugate](#subjugate) · [Sublime](#sublime) · [Subpar](#subpar) · [Subpoena](#subpoena) · [Subsequent](#subsequent) · [Subservient](#subservient) · [Substantial](#substantial) · [Substantiate](#substantiate) · [Subsume](#subsume) · [Subtle](#subtle) · [Succeed](#succeed) · [Succinct](#succinct) · [Succulent](#succulent) · [Suckling](#suckling) · [Suffice](#suffice) · [Suggestibility](#suggestibility) · [Suitor](#suitor) · [Sulk](#sulk) · [Sullen](#sullen) · [summarize](#summarize) · [Summary](#summary) · [Superficial](#superficial) · [Supple](#supple) · [Supplier](#supplier) · [Supply](#supply) · [supposedly](#supposedly) · [Surgical](#surgical) · [Surly](#surly) · [surreal](#surreal) · [susceptible](#susceptible) · [Suspend](#suspend) · [Swarm](#swarm) · [Swashbuckling](#swashbuckling) · [Swatted](#swatted) · [swatted | Swat](#swatted--swat) · [Sway](#sway) · [Swig](#swig) · [Swing](#swing) · [Swirl](#swirl) · [Swivel](#swivel) · [Sycophancy](#sycophancy) · [Sympathetic](#sympathetic) · [Synergy](#synergy)
 
 **T**
 
-[Table](#table) · [Taint](#taint) · [Tame](#tame) · [Tangle](#tangle) · [Tangle/Untangle](#tangleuntangle) · [Taper](#taper) · [Tarnish](#tarnish) · [Tarp](#tarp) · [Taxing](#taxing) · [Tease](#tease) · [Tech-savvy](#tech-savvy) · [Tedium](#tedium) · [Teeter](#teeter) · [Temerity](#temerity) · [Temp](#temp) · [Tenderly](#tenderly) · [Tepid](#tepid) · [Terrain](#terrain) · [Thick-skinned](#thick-skinned) · [Thrash](#thrash) · [Threat](#threat) · [Thrilled](#thrilled) · [Throb](#throb) · [Throbbing](#throbbing) · [Thuggery](#thuggery) · [Tickle](#tickle) · [Timebox](#timebox) · [Timeless](#timeless) · [Timid](#timid) · [Tipping Point](#tipping-point) · [Titbit](#titbit) · [Toilsome](#toilsome) · [Toned-down](#toned-down) · [Topping](#topping) · [Topple](#topple) · [Torrent](#torrent) · [tortuous](#tortuous) · [Torturous](#torturous) · [Traction](#traction) · [Trade-off](#trade-off) · [Trailblazer](#trailblazer) · [Train wreck](#train-wreck) · [Trample](#trample) · [Trance](#trance) · [Tranche](#tranche) · [Tranquility](#tranquility) · [Transmissible](#transmissible) · [Transpire](#transpire) · [Tread](#tread) · [Tremendous](#tremendous) · [Trespass](#trespass) · [Truce](#truce) · [Trump](#trump) · [Tug](#tug) · [Tumble](#tumble) · [Tumultuous](#tumultuous) · [Turgid](#turgid) · [Tush](#tush) · [Tuxedo](#tuxedo) · [Twig](#twig) · [Twirl](#twirl) · [Twist](#twist) · [Tyrant](#tyrant)
+[Table](#table) · [Taint](#taint) · [Tame](#tame) · [Tangle](#tangle) · [Tangle/Untangle](#tangleuntangle) · [Taper](#taper) · [Tarnish](#tarnish) · [Tarp](#tarp) · [Taxing](#taxing) · [Tease](#tease) · [Tech-savvy](#tech-savvy) · [Tedium](#tedium) · [Teeter](#teeter) · [Temerity](#temerity) · [Temp](#temp) · [Tenderly](#tenderly) · [Tepid](#tepid) · [Terrain](#terrain) · [Thick-skinned](#thick-skinned) · [Thrash](#thrash) · [Threat](#threat) · [Thrilled](#thrilled) · [Throb](#throb) · [Throbbing](#throbbing) · [Thuggery](#thuggery) · [Tickle](#tickle) · [Timebox](#timebox) · [Timeless](#timeless) · [Timid](#timid) · [Tipping Point](#tipping-point) · [Titbit](#titbit) · [Toilsome](#toilsome) · [Toned-down](#toned-down) · [Topping](#topping) · [Topple](#topple) · [Torrent](#torrent) · [tortuous](#tortuous) · [Torturous](#torturous) · [Traction](#traction) · [Trade-off](#trade-off) · [Trailblazer](#trailblazer) · [Train wreck](#train-wreck) · [Trample](#trample) · [Trance](#trance) · [Tranche](#tranche) · [Tranquility](#tranquility) · [Transmissible](#transmissible) · [Transpire](#transpire) · [Tread](#tread) · [Tremendous](#tremendous) · [Trespass](#trespass) · [Trouble](#trouble) · [Truce](#truce) · [Trump](#trump) · [Tug](#tug) · [Tumble](#tumble) · [Tumultuous](#tumultuous) · [Turgid](#turgid) · [Tush](#tush) · [Tuxedo](#tuxedo) · [Twig](#twig) · [Twirl](#twirl) · [Twist](#twist) · [Tyrant](#tyrant)
 
 **U**
 
-[Ubiquitous](#ubiquitous) · [Unassuming](#unassuming) · [Uncanny](#uncanny) · [Underneath](#underneath) · [Undoubtedly](#undoubtedly) · [Unfazed](#unfazed) · [Unfettered](#unfettered) · [Unfold](#unfold) · [Unfurl](#unfurl) · [Unkempt](#unkempt) · [Unleash](#unleash) · [Unleashed](#unleashed) · [Unload](#unload) · [Unobstructed](#unobstructed) · [Unorthodox](#unorthodox) · [Unperturbed](#unperturbed) · [Unprecedented](#unprecedented) · [Unpretentious](#unpretentious) · [Unravel](#unravel) · [unrealistic](#unrealistic) · [Unsubstantiated](#unsubstantiated) · [Untidy](#untidy) · [Untoward](#untoward) · [Unwind](#unwind) · [Upbeat](#upbeat) · [upmarket](#upmarket) · [Uproarious](#uproarious) · [Upset](#upset) · [Upstage](#upstage) · [Uptight person](#uptight-person) · [Urge](#urge) · [Usher](#usher) · [Usurp](#usurp) · [Utopia](#utopia) · [Utterly](#utterly)
+[Ubiquitous](#ubiquitous) · [Unassuming](#unassuming) · [Uncanny](#uncanny) · [Underneath](#underneath) · [Undoubtedly](#undoubtedly) · [Unfazed](#unfazed) · [Unfettered](#unfettered) · [Unfold](#unfold) · [Unfurl](#unfurl) · [Unilaterally](#unilaterally) · [Unkempt](#unkempt) · [Unleash](#unleash) · [Unleashed](#unleashed) · [Unload](#unload) · [Unobstructed](#unobstructed) · [Unorthodox](#unorthodox) · [Unperturbed](#unperturbed) · [Unprecedented](#unprecedented) · [Unpretentious](#unpretentious) · [Unravel](#unravel) · [unrealistic](#unrealistic) · [Unsubstantiated](#unsubstantiated) · [Untidy](#untidy) · [Untoward](#untoward) · [Unwind](#unwind) · [Upbeat](#upbeat) · [upmarket](#upmarket) · [Uproarious](#uproarious) · [Upset](#upset) · [Upstage](#upstage) · [Uptight person](#uptight-person) · [Urge](#urge) · [Usher](#usher) · [Usurp](#usurp) · [Utopia](#utopia) · [Utterly](#utterly)
 
 **V**
 
@@ -94,7 +94,7 @@
 
 **W**
 
-[wade](#wade) · [Wage](#wage) · [Waggle / Waggling](#waggle--waggling) · [wailing](#wailing) · [Wall clock](#wall-clock) · [Wane](#wane) · [Waylay](#waylay) · [Weasel](#weasel) · [Weathering](#weathering) · [Wedge](#wedge) · [Weepy](#weepy) · [well](#well) · [whether](#whether) · [Whim](#whim) · [Whimper](#whimper) · [Whodunit](#whodunit) · [Wholeheartedly](#wholeheartedly) · [Wield](#wield) · [Wiggle](#wiggle) · [Wilderness](#wilderness) · [Willful](#willful) · [Willingness](#willingness) · [Wind whispering](#wind-whispering) · [Withdrawn](#withdrawn) · [Withered](#withered) · [Withstand](#withstand) · [Witness](#witness) · [Witty](#witty) · [Wound](#wound) · [Wrangle](#wrangle) · [Wrath](#wrath) · [Wreathe](#wreathe) · [Wrecking](#wrecking) · [Wretched](#wretched) · [Write-up](#write-up) · [Writhe](#writhe) · [Wuss](#wuss)
+[wade](#wade) · [Wage](#wage) · [Waggle / Waggling](#waggle--waggling) · [wailing](#wailing) · [Wall clock](#wall-clock) · [Wane](#wane) · [Waylay](#waylay) · [Weasel](#weasel) · [Weathering](#weathering) · [Wedge](#wedge) · [Weepy](#weepy) · [well](#well) · [Wherein](#wherein) · [whether](#whether) · [Whim](#whim) · [Whimper](#whimper) · [Whodunit](#whodunit) · [Wholeheartedly](#wholeheartedly) · [Wield](#wield) · [Wiggle](#wiggle) · [Wilderness](#wilderness) · [Willful](#willful) · [Willingness](#willingness) · [Wind whispering](#wind-whispering) · [Withdrawn](#withdrawn) · [Withered](#withered) · [Withstand](#withstand) · [Witness](#witness) · [Witty](#witty) · [Wound](#wound) · [Wrangle](#wrangle) · [Wrath](#wrath) · [Wreathe](#wreathe) · [Wrecking](#wrecking) · [Wretched](#wretched) · [Write-up](#write-up) · [Writhe](#writhe) · [Wuss](#wuss)
 
 **Y**
 
@@ -102,7 +102,7 @@
 
 **Z**
 
-[Zeitgeist](#zeitgeist) · [Zip](#zip)
+[Zeitgeist](#zeitgeist) · [Zero-sum](#zero-sum) · [zest](#zest) · [Zip](#zip)
 
 **G**
 
@@ -185,6 +185,10 @@ you were rather abrupt with that young man
 abrupt, epigrammatic paragraphs
 
 an occasionally abrupt narrative
+
+**Meaning:** Sudden or unexpected, often in a way that seems rude.  
+ **Example:** His abrupt departure surprised everyone.  
+ **Context:** Behavior, actions.
 
 [↑ Back to index](#index)
 
@@ -324,6 +328,10 @@ well educated and having good social skills.
 [↑ Back to index](#index)
 
 # account
+
+**Meaning:** A report or description of an event or experience.  
+**Example:** The witness gave a detailed account of the accident.  
+**Context:** Reporting, description.
 
 verb
 
@@ -708,6 +716,10 @@ new French cooking aims at producing clear, fresh flavors and light textures
 
 we aim to give you the best possible service
 
+**Meaning:** To have a goal or purpose.  
+ **Example:** Our aim is to improve customer satisfaction.  
+ **Context:** Goals, objectives.
+
 [↑ Back to index](#index)
 
 # Akin
@@ -792,6 +804,8 @@ verb
 
 \-(of an artist or a work of art) recall (an earlier work or style) in such a way as to suggest a relationship with it.  
 "the photographs allude to Italian Baroque painting"
+
+Suggest, hint at, imply, mention
 
 [↑ Back to index](#index)
 
@@ -909,6 +923,10 @@ an ample supply of consumer goods
 he leaned back in his ample chair
 
 she stood with her hands on her ample hips
+
+**Meaning:** More than enough; plentiful.  
+ **Example:** There was ample space for all the guests.  
+ **Context:** Quantity, space.
 
 [↑ Back to index](#index)
 
@@ -1209,11 +1227,19 @@ This becomes really apparent if we move over and look at the container here.
 
 [↑ Back to index](#index)
 
+# Apparently
+
+as far as one knows or can see. "The child nodded, apparently content with the promise.” Apparently, seemingly, evidently, it seems (that), as far as one knows, Outwardly, so I'm told, supposedly
+
+[↑ Back to index](#index)
+
 # appealing
 
-adjective
+**Meaning:** Attractive or interesting.  
+ **Example:** The idea of a holiday by the beach is very appealing.  
+ **Context:** Opinions, preferences.
 
-attractive or interesting
+adjective
 
 the rural life is somehow more appealing
 
@@ -1508,6 +1534,10 @@ the damage was assessed at $5 billion
 
 all empty properties will be assessed at 50 percent
 
+**Meaning:** To evaluate or judge.  
+ **Example:** The teacher will assess your performance.  
+ **Context:** Evaluation.
+
 [↑ Back to index](#index)
 
 # Assiduously
@@ -1681,6 +1711,12 @@ To reach or succeedin getting something
 (प्राप्त करना, पाना)
 
 To reach or succeed in getting something
+
+[↑ Back to index](#index)
+
+# Attention
+
+**Focus** – When referring to concentration (e.g., "Pay attention" → "Focus") **Awareness** – When referring to being mindful (e.g., "His attention to detail" → "His awareness of detail") **Notice** – When referring to observing something (e.g., "He caught my attention" → "He caught my notice") **Consideration** – When referring to careful thought (e.g., "Give this matter attention" → "Give this matter consideration") **Recognition** – When referring to acknowledgement (e.g., "The issue needs attention" → "The issue needs recognition")
 
 [↑ Back to index](#index)
 
@@ -1940,6 +1976,8 @@ informal
 an area or range within which an amount or estimate is likely to be correct.  
 "we can make a pretty good guess that this figure's in the ballpark"
 
+being an approximation, based on an educated guess
+
 [↑ Back to index](#index)
 
 # Banter
@@ -2015,6 +2053,10 @@ he beat his own world record
 you can't beat the taste of fresh raspberries
 
 it beats me how you manage to work in this heat
+
+**Meaning:** To defeat someone; also to strike repeatedly.  
+ **Example:** Our team beat theirs in the finals.  
+ **Context:** Sports, competition.
 
 [↑ Back to index](#index)
 
@@ -2650,6 +2692,8 @@ a bolt-on part of a machine.
 * *"They completed a bolt-on acquisition to enhance their logistics services."*  
    → They bought a smaller company that easily fits with their operations.
 
+An additional component that integrates into an existing system (used in business/tech).
+
 [↑ Back to index](#index)
 
 # Bombardment
@@ -2749,6 +2793,10 @@ lower interest rates will make it cheaper for individuals to borrow
 the term is borrowed from Greek
 
 designers consistently borrow from the styles of preceding generations
+
+**Meaning:** To take something temporarily.  
+ **Example:** Can I borrow your pen?  
+ **Context:** Lending, temporary use.
 
 [↑ Back to index](#index)
 
@@ -3398,6 +3446,12 @@ showing or having an insensitive and cruel disregard for others.
 
 [↑ Back to index](#index)
 
+# callout
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
 # Camouflage
 
 *Pronunciation:* KAM-uh-flahzh
@@ -3854,6 +3908,8 @@ lure (someone) into a relationship by means of a fictional online persona
 
 he was being catfished by a cruel prankster
 
+To deceive someone online with a fake identity (esp. romantically).
+
 [↑ Back to index](#index)
 
 # Caveat
@@ -4006,6 +4062,8 @@ verb
 choose and take only (the most beneficial or profitable items, opportunities, etc.) from what is available.  
 "the company should buy the whole airline and not just cherry-pick its best assets"
 
+Selectively choose the best or most convenient items.
+
 [↑ Back to index](#index)
 
 # Chicken Coop
@@ -4155,6 +4213,10 @@ Startled by sudden chomping noise, Bubble had come to check his cake.
 [↑ Back to index](#index)
 
 # Chummy
+
+**Meaning:** Friendly, sociable.  
+ **Example:** They are very chummy with each other.  
+ **Context:** Relationships.
 
 Adjective
 
@@ -4384,6 +4446,8 @@ Here are **realistic ways** people use "cliché" in conversations:
 
 * You can call a **situation, scene, or story** a cliché too, not just words.
 
+Overused phrase, Stereotype, Platitude, Common saying, Hackneyed expression
+
 [↑ Back to index](#index)
 
 # clickbait
@@ -4395,6 +4459,8 @@ a link designed to entice readers to click, usually leading to dubious content
 these recent reports of the show's imminent demise are hyperbolic clickbait
 
 a clickbait article
+
+Misleading or sensational content meant to attract clicks.
 
 [↑ Back to index](#index)
 
@@ -4909,6 +4975,12 @@ A smug face is a facial expression that conveys a sense of superiority or self-s
 
 [↑ Back to index](#index)
 
+# collaborate
+
+Collaborate, coordinate, work together, partner," or "join forces" "The DevOps team and I will collaborate on this." "We need to coordinate with the DevOps team to get this done." "The DevOps team and I will work together on resolving this issue." "We should join forces with DevOps to ensure a smooth deployment." If you want something more formal, "work in tandem" or "align efforts" could work too. Let me know if you need more alternatives\!
+
+[↑ Back to index](#index)
+
 # Colluding
 
 verb (present participle of *collude*) — secretly cooperating with someone, usually for a deceitful, dishonest, or illegal purpose.
@@ -4946,6 +5018,8 @@ civil insurrection.
 
 🗣 *“There was a commotion outside the store.”*  
  🗣 *“The kids caused quite a commotion.”*
+
+Ruckus, a row or commotion.
 
 [↑ Back to index](#index)
 
@@ -5066,6 +5140,10 @@ Really, really convincing
 * “We need a compelling reason to change the plan.”
 
 👉 *Tip:* Often used in professional or persuasive speech.
+
+**Meaning:** Very interesting or convincing.  
+ **Example:** She gave a compelling argument.  
+ **Context:** Speech, writing.
 
 [↑ Back to index](#index)
 
@@ -5369,6 +5447,8 @@ approve or sanction (something), especially with reluctance.
    ❌ Not: *conducive for*  
    ✅ Yes: *conducive to*
 
+adjective making a certain situation or outcome likely or possible. "the harsh lights and cameras were hardly conducive to a relaxed atmosphere"
+
 [↑ Back to index](#index)
 
 # conduit
@@ -5589,6 +5669,8 @@ So, connotation is about *implied meaning or emotional color* that comes with a 
 * “That being said, we need to be mindful of the connotations when presenting to clients.”
 
 * “In other words, the connotation changes how the message is received.”
+
+an idea expressed by a word in addition to its main meaning A *connotation* is the *feeling, idea, or association* that a word carries beyond its basic dictionary meaning (*denotation*).
 
 [↑ Back to index](#index)
 
@@ -6063,6 +6145,12 @@ Here are some examples of contrast in a sentence:
 "The two visitors provided a startling contrast in appearance".
 
 "The sharp increase is in contrast to public sector organizations and commercial companies whose spend stayed broadly flat over the same period".
+
+[↑ Back to index](#index)
+
+# Control
+
+Manage,
 
 [↑ Back to index](#index)
 
@@ -7197,6 +7285,12 @@ I defy you to find a story problem.
 
 [↑ Back to index](#index)
 
+# Daunting
+
+Intimidating, unsettling, discouraging, disheartening
+
+[↑ Back to index](#index)
+
 # Dawn
 
 **Literal meaning:** The first appearance of light in the morning.  
@@ -7376,7 +7470,7 @@ order (something) by decree.
 
 The word **“deduce”** means *to reach a conclusion or decision by reasoning or by looking at available information*.
 
-It’s like saying: *“I figured this out based on the clues.”*
+*to reach a conclusion or decision by reasoning or by looking at available information*. It’s like saying: *“I figured this out based on the clues.”*
 
 For example:
 
@@ -7411,6 +7505,10 @@ Pacifism
 [↑ Back to index](#index)
 
 # defiant
+
+**Meaning:** Showing resistance or bold disobedience.  
+ **Example:** The child was defiant despite being told off.  
+ **Context:** Attitudes, behavior.
 
 adjective
 
@@ -7782,9 +7880,15 @@ verb
 feel contempt or a deep repugnance for.  
 "he despised himself for being selfish"
 
+Detest, hate, execrate
+
 [↑ Back to index](#index)
 
 # despite
+
+**Meaning:** Even though; in spite of.  
+ **Example:** Despite the rain, we went hiking.  
+ **Context:** Contrast.
 
 preposition
 
@@ -7819,6 +7923,12 @@ in low spirits from loss of hope or courage.
 
 [↑ Back to index](#index)
 
+# detail
+
+Feature, fact, piece of information, attribute, characteristic
+
+[↑ Back to index](#index)
+
 # Detestable
 
 *Pronunciation:* dih-TES-tuh-buhl
@@ -7849,6 +7959,8 @@ He had made a detour to a cafe
 [↑ Back to index](#index)
 
 # Detract
+
+Synonym	Use Case / Tone Undermine	Formal, often used in arguments or politics Diminish	Neutral, commonly used in daily speech Devalue	Slightly formal, used in business/criticism Take away from	Informal, conversational Belittle	Emotional, used when criticizing someone's action Disparage	Formal, negative tone Lessen	Neutral, simple alternative
 
 **verb**  
 1\.  
@@ -7911,6 +8023,12 @@ causing severe shock, distress, or grief.
 INFORMAL  
 extremely impressive or effective.  
 "she had a devastating wit"
+
+[↑ Back to index](#index)
+
+# deviation
+
+*(no definition captured in original notes — flagged for manual fill)*
 
 [↑ Back to index](#index)
 
@@ -8218,6 +8336,10 @@ of a very poor quality.
 
 I have some dire news.
 
+**Meaning:** Extremely serious or urgent.  
+ **Example:** The situation is dire and needs immediate action.  
+ **Context:** Urgency.
+
 [↑ Back to index](#index)
 
 # Discord
@@ -8419,6 +8541,8 @@ knock or force out of position.
 remove from a position of power or authority.
 
 "government opponents failed to dislodge the Prime Minister"
+
+repel
 
 [↑ Back to index](#index)
 
@@ -8742,6 +8866,8 @@ he DMed while I played as a solo warrior
 
 I'm lined up to DM a Dungeons & Dragons session
 
+Direct Message (private message on social platforms).
+
 [↑ Back to index](#index)
 
 # Docile (daa·sl)
@@ -8753,6 +8879,12 @@ ready to accept control or instruction; submissive.
 Calm in manner and easy to control
 
 विनम्र, सीधा, विनीत
+
+[↑ Back to index](#index)
+
+# dodgy
+
+**"Dodgy"** is an informal (mostly British, Australian, and New Zealand) adjective meaning: **Suspicious / Untrustworthy**  Something or someone that seems dishonest, risky, or unreliable.  *"That guy looks a bit dodgy — I wouldn’t buy a car from him."*  **Of poor quality / Not working properly**  *"My phone’s been acting a bit dodgy lately."*  **Risky / Dangerous**  *"We took a dodgy shortcut through a dark alley."*  **Synonyms** (depending on meaning): Suspicious → shady, sketchy, fishy  Poor quality → faulty, unreliable, subpar  Risky → unsafe, precarious, dicey
 
 [↑ Back to index](#index)
 
@@ -8956,6 +9088,10 @@ noun
 1.a small syringe for douching the vagina.
 
 "Douchebag" is a vulgar slang term for a person who is obnoxious, offensive, or disgusting. It can also refer to a bag used for douches. 
+
+**Meaning:** Slang for an obnoxious or contemptible person.  
+ **Example:** Don’t be such a douchebag!  
+ **Context:** Insult (informal).
 
 [↑ Back to index](#index)
 
@@ -9396,6 +9532,8 @@ Example:
 noun
 
 tourism directed toward exotic, often threatened, natural environments, intended to support conservation efforts and observe wildlife.
+
+Travel focused on nature conservation and local community benefit.
 
 [↑ Back to index](#index)
 
@@ -10016,6 +10154,12 @@ It comes from the idea of being “enchanted” (as if by magic), but in modern 
 
 [↑ Back to index](#index)
 
+# Endeavour
+
+Try, attempt, venture, set out, set off
+
+[↑ Back to index](#index)
+
 # Endurance
 
 noun  
@@ -10041,6 +10185,10 @@ stay, outstay, stand up, remain, last, stand up to, run, ply, endure, bear with,
 [↑ Back to index](#index)
 
 # enduring
+
+**Meaning:** Lasting for a long time.  
+ **Example:** They have an enduring friendship.  
+ **Context:** Relationships, time.
 
 adjective
 
@@ -10300,6 +10448,8 @@ allure, tempt, entice, inveigle, dangle, lead on
 
 Marketers often use enticing promotions to attract customers to their products  
 The aroma of freshly baked cookies entices visitors into the bakery.
+
+temp, allure, lure, attract
 
 [↑ Back to index](#index)
 
@@ -10627,6 +10777,12 @@ the intrinsic nature or indispensable quality of something, especially something
 2\.  
 an extract or concentrate obtained from a plant or other matter and used for flavouring or scent.  
 "vanilla essence"
+
+[↑ Back to index](#index)
+
+# essentially
+
+That is essentially what I had to cover
 
 [↑ Back to index](#index)
 
@@ -10963,6 +11119,8 @@ predictions about the outcome of an event
 
 Young people may feel unreasonable expectations about life if they only follow lifestyle influencers.
 
+Beliefs or hopes about what should happen.
+
 [↑ Back to index](#index)
 
 # Expediency
@@ -11204,6 +11362,10 @@ The billionaire's extravagant lifestyle included owning multiple mansions and pr
 extravagant gifts like computer games
 
 extravagant claims for its effectiveness
+
+**Meaning:** Spending or costing too much.  
+ **Example:** She has an extravagant taste in clothes.  
+ **Context:** Money, lifestyle.
 
 [↑ Back to index](#index)
 
@@ -11943,6 +12105,10 @@ I firmly believe that we could do better
 
 his reputation is now firmly established
 
+**Meaning:** In a strong or definite way.  
+ **Example:** She spoke firmly against the proposal.  
+ **Context:** Attitude, stance.
+
 [↑ Back to index](#index)
 
 # fitting
@@ -11954,6 +12120,10 @@ suitable or appropriate under the circumstances; right or proper
 a fitting reward
 
 it was fitting that he should reply
+
+**Meaning:**Appropriate or suitable.  
+**Example:** It was a fitting tribute to the hero.  
+**Context:** Compliments, ceremonies.
 
 [↑ Back to index](#index)
 
@@ -12177,6 +12347,8 @@ Say this sentence **slowly and clearly**:
 [↑ Back to index](#index)
 
 # fleabag
+
+A cheap, low-quality place (often hotel or room).
 
 noun
 
@@ -12475,6 +12647,8 @@ noun
 
 a vacation that includes a flight and car rental.
 
+Vacation package combining flights and car rentals.
+
 [↑ Back to index](#index)
 
 # Folklore
@@ -12655,6 +12829,12 @@ happening by a lucky chance; fortunate.
 noun  
 a noisy disturbance or quarrel.  
 "the fracas was broken up by stewards"
+
+[↑ Back to index](#index)
+
+# Fragility
+
+noun The condition or quality of being fragile; brittleness; frangibility. Weakness; feebleness. (obsolete) Liability to error and sin; frailty.
 
 [↑ Back to index](#index)
 
@@ -12943,6 +13123,10 @@ TO stop Fumbling
 
 # furthermore
 
+**Meaning:** In addition; moreover.  
+ **Example:** She’s smart and hardworking; furthermore, she’s very creative.  
+ **Context:** Writing, speech.
+
 adverb
 
 ​in addition to what has just been stated
@@ -12961,9 +13145,11 @@ Her dress has a fussy design.
 
 # futile
 
-adjective
+**Meaning:** Useless; having no chance of success.  
+**Example:** Trying to convince him was futile.  
+**Context:** Efforts, attempts.
 
-useless
+adjective
 
 a futile attempt to keep fans from mounting the stage
 
@@ -13038,6 +13224,12 @@ For example:
 
 👉 You can use **galvanize** in workplace meetings when talking about motivation, leadership, or urgent action.  
  For example, in a client call: *“This new requirement has galvanized us to rethink our current design.”*
+
+[↑ Back to index](#index)
+
+# Gap
+
+Space – When referring to a physical opening (*e.g., "There's a gap between the two walls." → "There's a space between the two walls."*) Break – When referring to an interruption (*e.g., "There's a gap in the conversation." → "There's a break in the conversation."*) Difference – When referring to a disparity (*e.g., "There's a gap between rich and poor." → "There's a difference between rich and poor."*) Lack – When referring to an absence (*e.g., "There's a knowledge gap." → "There's a lack of knowledge."*) Interval – When referring to a time gap (*e.g., "There was a gap between meetings." → "There was an interval between meetings."*)
 
 [↑ Back to index](#index)
 
@@ -13340,6 +13532,8 @@ a vacation.
 
 a popular island getaway
 
+A short vacation or escape.
+
 [↑ Back to index](#index)
 
 # Gibberish
@@ -13492,6 +13686,8 @@ a form of camping involving accommodation and facilities more luxurious than tho
 
 glamping is likely to satisfy any city slicker seeking a little refuge in nature—without foregoing any of life's luxuries
 
+Glamorous camping – outdoors with luxury comforts.
+
 [↑ Back to index](#index)
 
 # Glean
@@ -13580,6 +13776,10 @@ verb
 cause persistent and wearing distress or anxiety
 
 the doubts continued to gnaw at me
+
+**Meaning:** To bite or chew repeatedly.  
+**Example:** The dog gnawed on the bone.  
+**Context:** Animals, stress (figurative).
 
 [↑ Back to index](#index)
 
@@ -13688,6 +13888,14 @@ Say these **out loud**:
 *“Instead of drifting away, I decided to face the challenge head on and push through.”*
 
 If you want, next time **you explain one of these phrases yourself**, and I’ll give you **feedback on fluency and clarity** 😊
+
+[↑ Back to index](#index)
+
+# granular
+
+Highly detailed; having many small and distinct parts.
+
+"data analysis on a granular level"
 
 [↑ Back to index](#index)
 
@@ -14668,6 +14876,14 @@ Try saying this out loud:
 
 [↑ Back to index](#index)
 
+# Heads-up
+
+A message that alerts or prepares; a warning.
+
+"...gave him a heads-up that an investigation was pending."
+
+[↑ Back to index](#index)
+
 # Headspace
 
 **Headspace** refers to your **mental or emotional state at a particular moment**.  
@@ -14753,6 +14969,10 @@ Say this sentence **3 times aloud**:
 [↑ Back to index](#index)
 
 # heartfelt
+
+**Meaning:** Sincere and deeply felt.  
+ **Example:** He gave a heartfelt apology.  
+ **Context:** Emotions, speech.
 
 adjective
 
@@ -15225,6 +15445,8 @@ a popular place of entertainment
 
 she knew all the Manhattan hotspots for classy blues and retro jazz
 
+Popular place for tourists or social activity.
+
 [↑ Back to index](#index)
 
 # Hound
@@ -15596,6 +15818,12 @@ The term is typically used to convey a sense of entanglement or confusion, and i
 
 [↑ Back to index](#index)
 
+# immerse
+
+submerge , plunge, dip, engage, absorb, engross
+
+[↑ Back to index](#index)
+
 # Immersion
 
 *Pronunciation:* ih-MUR-zhuhn
@@ -15934,6 +16162,12 @@ Unflinching
 
 [↑ Back to index](#index)
 
+# Important
+
+Critical, Crucial, Essential, Vital, Significant, Pivotal, Key Core, Central, Primary, Foundational, Integral Strategic, Decisive, Game-changing, Transformative, Impactful Valuable, Relevant, Noteworthy, Meaningful, Substantial
+
+[↑ Back to index](#index)
+
 # Importune
 
 *Pronunciation:* im-por-TOON
@@ -16038,6 +16272,10 @@ adjective.
 If you describe someone as impulsive, you mean that they do things suddenly without thinking about them carefully first. He is too impulsive to be a responsible prime minister. Avoid making an impulsive decision. Synonyms: instinctive, emotional, unpredictable, quick
 
 You have Harvey made an impulsive deal which is certainly not working out.
+
+**Meaning:** Acting without thinking.  
+ **Example:** She made an impulsive decision to quit her job.  
+ **Context:** Behavior.
 
 [↑ Back to index](#index)
 
@@ -16190,6 +16428,8 @@ adjective
 not able, wanting, or allowed to communicate with other people
 
 they were separated and detained incommunicado
+
+Not communicating or unreachable.
 
 [↑ Back to index](#index)
 
@@ -16437,6 +16677,8 @@ You can practice saying it like this (for fluency):
 * *“Her expertise is indispensable to the team.”*
 
 * *“Water is indispensable for life.”*
+
+absolutely necessary.
 
 [↑ Back to index](#index)
 
@@ -16837,6 +17079,12 @@ not harmful or offensive.
 
 [↑ Back to index](#index)
 
+# innumerable
+
+too many to be counted (often used hyperbolically). "innumerable flags of all colours", countless, numerous, manifold.
+
+[↑ Back to index](#index)
+
 # Inoculate
 
 *Pronunciation:* ih-NOK-yuh-layt
@@ -16908,6 +17156,12 @@ having the inner surface turned outwards.
 
 🗣 *“It’s an insidious disease — hard to detect early.”*  
  🗣 *“Social media addiction can be insidious.”*
+
+[↑ Back to index](#index)
+
+# Insights
+
+Insights, intuition, instinct, understanding
 
 [↑ Back to index](#index)
 
@@ -17163,6 +17417,12 @@ Intriguing
 
 [↑ Back to index](#index)
 
+# Intuition
+
+*(no definition captured in original notes — flagged for manual fill)*
+
+[↑ Back to index](#index)
+
 # Intuitive
 
 *Pronunciation:* in-TOO-ih-tiv
@@ -17332,6 +17592,8 @@ the activity of traveling from one island to another, especially as a tourist in
 
 seeing the best of what Greece has to offer requires some island-hopping
 
+Traveling between islands in succession.
+
 [↑ Back to index](#index)
 
 # Itinerary
@@ -17369,6 +17631,8 @@ noun
 a short excursion or journey for pleasure
 
 her little jaunt in France was over
+
+A short, enjoyable journey.
 
 [↑ Back to index](#index)
 
@@ -17887,6 +18151,10 @@ no one would lend him the money
 
 the bank lends only to its current customers
 
+**Meaning:** To give something temporarily.  
+ **Example:** She lent me her car for the weekend.  
+ **Context:** Lending.
+
 [↑ Back to index](#index)
 
 # length and breadth
@@ -18066,6 +18334,8 @@ make or become less; diminish.
 **Meaning:** To use something effectively to your advantage.  
  **Example:** *We can leverage our network to grow faster.*
 
+Leverage your skills: Use, utilize, harness, apply Leverage technology:	Make use of, take advantage of, capitalize on Leverage data: Exploit, draw on, employ Have leverage in a deal: Influence, advantage, power, control
+
 [↑ Back to index](#index)
 
 # Lewd thoughts
@@ -18140,6 +18410,10 @@ the strain had lightened
 she attempted a joke to lighten the atmosphere
 
 Robbie felt her spirits lighten a little
+
+**Meaning:** To make something less heavy, dark, or serious.  
+**Example:** Laughter can lighten the mood.  
+**Context:** Mood, weight.
 
 [↑ Back to index](#index)
 
@@ -18216,6 +18490,10 @@ make or become more lively or interesting
 liven up bland foods with a touch of mustard
 
 the match didn't liven up until the second half
+
+**Meaning:** To make something more lively or interesting.  
+**Example:** Music livened up the party.  
+**Context:** Events, moods.
 
 [↑ Back to index](#index)
 
@@ -18328,6 +18606,10 @@ These sentences showcase various situations in which "lousy" can be used to desc
 [↑ Back to index](#index)
 
 # lucrative
+
+**Meaning:** Producing a lot of profit.  
+ **Example:** He found a lucrative job in marketing.  
+ **Context:** Business, finance.
 
 *Pronunciation:* LOO-kruh-tiv
 
@@ -18694,6 +18976,10 @@ my best mate Steve
 I was with a mate  
 “See you then, mate.”
 
+**Meaning:** Friend or companion (informal, mainly British/Australian English).  
+ **Example:** He’s my best mate from school.  
+ **Context:** Informal friendships.
+
 [↑ Back to index](#index)
 
 # Matrix/metric
@@ -18774,6 +19060,10 @@ Keep practicing — the flow is already improving\!
 
 # matter-of-fact
 
+**Meaning:** Neutral, straightforward, without emotion.  
+**Example:** She gave a matter-of-fact report on the situation.  
+**Context:** Communication style.
+
 adjective — stating facts plainly, without emotion, embellishment, or drama.
 
 "She delivered the bad news in a matter-of-fact tone, without any drama."
@@ -18840,6 +19130,10 @@ It's best not to meddle in delicate situations unless you're directly involved a
 [↑ Back to index](#index)
 
 # mediocre
+
+**Meaning:** Average, not very good.  
+**Example:** The movie was mediocre, nothing special.  
+**Context:** Quality assessment.
 
 *Pronunciation:* mee-dee-OH-kur
 
@@ -18951,6 +19245,8 @@ noun
 
 an often humorous image, video, etc., passed from one internet user to another
 
+A cultural idea or trend shared widely online, often humorous.
+
 [↑ Back to index](#index)
 
 # Menace
@@ -19015,6 +19311,8 @@ noun
 a method of measuring something, or the results obtained from this
 
 the report provides various metrics at the class and method level
+
+Quantifiable measures used to track performance.
 
 [↑ Back to index](#index)
 
@@ -19460,6 +19758,12 @@ Great word\! **Molasses** is thick, dark syrup that comes from refining sugarcan
 
 [↑ Back to index](#index)
 
+# Mono
+
+one, only, single
+
+[↑ Back to index](#index)
+
 # Monotonous
 
 *Pronunciation:* muh-NOT-uh-nuhs
@@ -19650,6 +19954,12 @@ A man is fighting for his life in hospital after a violent mugging.
 
 [↑ Back to index](#index)
 
+# multilaterally
+
+Collective, collaborative, common, collective, joint, mutual
+
+[↑ Back to index](#index)
+
 # Mumble
 
 Speak unclearly or quietly.  
@@ -19762,6 +20072,12 @@ Excessive self-focus, lack of empathy, and inflated self-importance.
 noun  
 a person who has an excessive interest in or admiration of themselves.  
 "narcissists who think the world revolves around them"
+
+[↑ Back to index](#index)
+
+# narrate
+
+*(no definition captured in original notes — flagged for manual fill)*
 
 [↑ Back to index](#index)
 
@@ -20477,6 +20793,13 @@ amiss, awful, baleful, Caitiff, dauby, noxious
 
 # Nuance
 
+*Pronunciation:* nyoo-AHNS
+
+noun — a subtle difference in or shade of meaning, expression, or sound.
+verb — to give nuances to. "The effect of the music is nuanced by the social situation of listeners."
+
+"He was familiar with the nuances of the local dialect."
+
 *Pronunciation:* NOO-ahns
 
 noun  
@@ -20494,6 +20817,12 @@ nuance
 adjective — showing subtle shades of meaning, attitude, or expression; not simplistic or black-and-white.
 
 "Her explanation of the tradeoffs was nuanced, acknowledging both the risks and the benefits."
+
+[↑ Back to index](#index)
+
+# nuances
+
+Variation, Subtleties, Shades, Details, Fine points, Distinctions, Gradations, Refinements, Undertones, Variations, Tones Examples in context: "The subtleties of her argument were lost on the audience." "He captured the shades of emotion in his performance." "Understanding the cultural undertones is key to communication."
 
 [↑ Back to index](#index)
 
@@ -20740,6 +21069,12 @@ The word **“obnoxious”** is an **adjective** used to describe someone or som
 * *“He made an obscene gesture.”*
 
 * *“The prices were obscene.”* (figurative — ridiculously high)
+
+[↑ Back to index](#index)
+
+# obscure
+
+vague
 
 [↑ Back to index](#index)
 
@@ -21955,6 +22290,10 @@ gerund or present participle: **pacing**
 2\. move or develop (something) at a particular rate or speed.  
 "the action is paced to the beat of a perky march"
 
+**Meaning:** The speed at which something happens.  
+ **Example:** We need to pick up the pace of work.  
+ **Context:** Speed.
+
 [↑ Back to index](#index)
 
 # Paddle
@@ -22712,6 +23051,10 @@ Lying in court, while under oath
 
 # perk
 
+**Meaning:** To become more cheerful or energetic; also benefits at work.  
+**Example:** A cup of coffee helped me perk up. / One of the perks of the job is free lunches.  
+**Context:** Energy, benefits.
+
 verb
 
 become or make more cheerful, lively, or interesting
@@ -22936,6 +23279,10 @@ a particular attitude toward or way of regarding something; a point of view
 most guidebook history is written from the editor's perspective
 
 we must keep a sense of perspective about what he's done
+
+**Meaning:** A particular attitude or way of viewing something.  
+**Example:** It’s important to keep things in perspective.  
+**Context:** Attitude, understanding.
 
 [↑ Back to index](#index)
 
@@ -23179,6 +23526,12 @@ adjective
 noun — a young pig.
 
 "The farm had a litter of piglets born last week."
+
+[↑ Back to index](#index)
+
+# Pigment
+
+Pigment is a substance that gives color to other materials, especially in powdered form mixed with a liquid.
 
 [↑ Back to index](#index)
 
@@ -23551,6 +23904,8 @@ verb
 express one's opinions in a way considered annoyingly pompous and dogmatic
 
 he was pontificating about art and history
+
+To speak in a pompous or self-important way.
 
 [↑ Back to index](#index)
 
@@ -24141,6 +24496,8 @@ contrary to reason or common sense; utterly absurd or ridiculous.
 
  हास्यास्पद,  बेतुका, निरर्थक
 
+Preposterous, absurd, foolish
+
 [↑ Back to index](#index)
 
 # Prerogative
@@ -24178,6 +24535,10 @@ Absolutely\! Let’s clarify everything step by step.
 [↑ Back to index](#index)
 
 # prestigious
+
+**Meaning:** Respected and admired.  
+ **Example:** She attended a prestigious university.  
+ **Context:** Education, reputation.
 
 adjective
 
@@ -24806,9 +25167,17 @@ a person who is guided and supported by an older and more experienced or influen
 
 If I'm a dirty lawyer then you are looking into the mirror.
 
+**Meaning:** A person guided or supported by someone more experienced.  
+ **Example:** She is the protégé of a famous artist.  
+ **Context:** Mentorship.
+
 [↑ Back to index](#index)
 
 # Prove
+
+**Meaning:** To demonstrate the truth of something.  
+**Example:** She proved her theory with experiments.  
+**Context:** Evidence, demonstration.
 
 verb
 
@@ -25257,6 +25626,12 @@ Figuratively — to speak in a smooth, soft, or seductive tone.
 
 [↑ Back to index](#index)
 
+# Purview
+
+Purview, scope, reach
+
+[↑ Back to index](#index)
+
 # Pushes you off the cliff
 
 means to force someone into a very dangerous or precarious situation, essentially putting them in a position where they are likely to fail or experience significant harm, like being pushed over the edge of a cliff; it's a metaphor signifying extreme pressure or a deliberate act to destabilize someone completely.
@@ -25343,6 +25718,10 @@ Some examples of quirky in a sentence include:
 pleasingly strange
 
 her sense of humor was decidedly quirky
+
+**Meaning:** Unusual in an interesting or appealing way.  
+**Example:** He has a quirky sense of humor.  
+**Context:** Personality, style.
 
 [↑ Back to index](#index)
 
@@ -25811,7 +26190,9 @@ adjective
 
 (of a person or their actions) without thinking or caring about the consequences of an action
 
-reckless driving
+**Meaning:** Without thinking about danger or consequences.  
+ **Example:** His reckless driving caused the accident.  
+ **Context:** Behavior, risk.
 
 [↑ Back to index](#index)
 
@@ -25902,6 +26283,10 @@ he was reconciled to leaving
 समाधान करना, मेल-मिलाप कराना
 
 reconciled the factions. b. : settle, resolve. reconcile differences.
+
+**Meaning:** To restore friendly relations.  
+ **Example:** They reconciled after their argument.  
+ **Context:** Relationships.
 
 [↑ Back to index](#index)
 
@@ -26076,6 +26461,10 @@ Professor Ryker regarded him with a faint smile
 if these things regarded only myself, I could stand it with composure
 
 he talked very wisely, but I regarded him not
+
+**Meaning:** To consider or think about someone or something in a particular way.  
+**Example:** He is regarded as a leader in his field.  
+**Context:** Opinion, respect.
 
 [↑ Back to index](#index)
 
@@ -26558,6 +26947,8 @@ The actress will reprise her role in the upcoming season of the show.
 Robert Downey Jr. reprised his role as Iron Man in multiple Marvel movies.  
 Gabriel Macht will reprise his role as Harvey Specter in Suits: LA.
 
+Reiterate, repeat, resay, Iterate, Retell, Reword, Rephrase, restate
+
 [↑ Back to index](#index)
 
 # Resentful
@@ -26835,6 +27226,8 @@ To draw back or in.
 a plane retracting its landing gear.  
 To utter (a sound) with the tongue drawn back.
 
+1\. : to draw or pull back or in. a cat can retract its claws. 2\. : to withdraw (as an offer, a statement, or a claim) Withdraw, disown
+
 [↑ Back to index](#index)
 
 # Retraction
@@ -27001,6 +27394,12 @@ A more professional and natural version:
 “After reviewing the data again, I’d like to retract my earlier statement. That being said, here’s the updated information.”
 
 Keep practicing sentences like this — they’re **very useful in technical meetings and senior-level discussions** 👍
+
+[↑ Back to index](#index)
+
+# Return
+
+Go back, come back, arrive back, come again, travel back
 
 [↑ Back to index](#index)
 
@@ -27303,6 +27702,12 @@ an assembly of people who have made a move towards committing an illegal act whi
 verb  
 defeat and cause to retreat in disorder.  
 "in a matter of minutes the attackers were routed"
+
+[↑ Back to index](#index)
+
+# Rubbish
+
+Rubbish, garbage, scraps, dross, waste
 
 [↑ Back to index](#index)
 
@@ -28013,6 +28418,12 @@ adjective — insufficient to meet demand; rare or hard to find.
 
 [↑ Back to index](#index)
 
+# scare
+
+Frighten, make afraid, make fearful,
+
+[↑ Back to index](#index)
+
 # Schism
 
 (ski·zm)
@@ -28104,6 +28515,12 @@ Try saying aloud:
 * *“He scoffed at my idea.”*
 
 * *“‘You? A singer?’ she scoffed.”*
+
+[↑ Back to index](#index)
+
+# Scold
+
+Rebuke – Formal and widely understood (*e.g., "The teacher rebuked the student for talking."*). Reprimand – Official or authoritative correction (*e.g., "The boss reprimanded the employee for being late."*). Chastise – Stronger criticism, sometimes involving punishment (*e.g., "He was chastised for his reckless behaviour."*). Lecture – When scolding is lengthy and instructive (*e.g., "She lectured him about responsibility."*). Blame – When scolding involves assigning fault (*e.g., "He blamed her for the mistake."*). For everyday use, "scold" \= "reprimand" is the most direct and widely understood.
 
 [↑ Back to index](#index)
 
@@ -28296,6 +28713,10 @@ Example uses:
 * "He was known for his scrupulous honesty in business dealings"
 
 The adjective can also connote someone who might be almost excessively careful or concerned with minor details. The noun form is "scruples," which refers to moral principles or ethics that might cause someone to hesitate before acting.
+
+Scrupulous synonyms (briefly): Meticulous, Conscientious, Thorough, Honest, Precise, Upright (when used morally) ✅ Depends on context: Scrupulous work → meticulous, thorough Scrupulous person → honest, principled, conscientious
+
+Careful, meticulous, thorough, attentive, diligent
 
 [↑ Back to index](#index)
 
@@ -28518,6 +28939,12 @@ For example:
 
 [↑ Back to index](#index)
 
+# Segregate
+
+to separate or set apart from others or from the main body or group; isolate:
+
+[↑ Back to index](#index)
+
 # Seldom
 
 ( कभी कभार)  
@@ -28623,6 +29050,12 @@ Outside religion, **sermon** can mean a **long, moralizing lecture**.
 * Address
 
 * Moral lecture
+
+[↑ Back to index](#index)
+
+# Several
+
+Some, a number of, a few, a handful of, diverse, assorted
 
 [↑ Back to index](#index)
 
@@ -28820,6 +29253,12 @@ deep regret or guilt for a wrong committed.
 
 [↑ Back to index](#index)
 
+# show
+
+Express, be visible, be seen, be revealed, manifest, convey, express
+
+[↑ Back to index](#index)
+
 # Shrewd
 
 *Pronunciation:* SHROOD
@@ -28847,6 +29286,10 @@ she shrank away from him, covering her face
 he shrank back against the wall
 
 I don't shrink from my responsibilities
+
+**Meaning:** To become smaller.  
+**Example:** The sweater shrank in the wash.  
+**Context:** Physical change.
 
 [↑ Back to index](#index)
 
@@ -28908,6 +29351,10 @@ noun
 the activity of visiting places of interest in a particular location
 
 our two-week trip combines spectacular sightseeing and superb hospitality
+
+**Meaning:** The activity of visiting places of interest.  
+ **Example:** We spent the day sightseeing around the city.  
+ **Context:** Travel, tourism.
 
 [↑ Back to index](#index)
 
@@ -28991,6 +29438,10 @@ he was a good man, decent and sincere
 [↑ Back to index](#index)
 
 # sinful
+
+**Meaning:** Morally wrong or evil.  
+ **Example:** They said it was sinful to lie.  
+ **Context:** Morality, ethics.
 
 adjective
 
@@ -29425,6 +29876,8 @@ Adjective पतला, सुडौल, सुगठित
 2.(of something abstract) barely sufficient in amount or basis.  
 "people of slender means"
 
+Slim, lean, thin, skinny
+
 [↑ Back to index](#index)
 
 # Slit
@@ -29635,6 +30088,8 @@ lacking energy or alertness.
 
 slow to respond or make progress.  
 "the car had been sluggish all morning"
+
+Slow-moving, inactive, lacking energy or alertness.
 
 [↑ Back to index](#index)
 
@@ -30262,6 +30717,14 @@ lead or initiate a project, task, or initiative with enthusiasm and determinatio
 
 Sarah was chosen to spearhead the company's sustainability initiative and develop strategies to reduce carbon emissions.
 
+To lead a project or movement.
+
+[↑ Back to index](#index)
+
+# Specific
+
+Particular, precise, single, discrete
+
 [↑ Back to index](#index)
 
 # Spectacular
@@ -30377,6 +30840,12 @@ The phrase **“spill over”** means something that **extends beyond its normal
 * “On the other hand, we can’t let this issue **spill over** into production.”
 
 * “For example, if testing is delayed, it might **spill over** to deployment.”
+
+1: the act or an instance of spilling over
+2: a quantity that spills over
+3: an extension of something, especially when an excess exists
+
+"...benefiting from a spillover of prosperity from neighboring stat" *(sentence appears cut off in the original source notes)*
 
 [↑ Back to index](#index)
 
@@ -30575,6 +31044,10 @@ spend (money) freely or extravagantly
 I'd splurged about $2,500 on clothes
 
 we splurged on T-bone steaks
+
+**Meaning:** To spend a lot of money on something enjoyable.  
+ **Example:** She splurged on a new dress.  
+ **Context:** Spending.
 
 [↑ Back to index](#index)
 
@@ -31318,6 +31791,10 @@ Minton invited him to stay the night
 
 where do you stay?
 
+**Meaning:** To remain in a place temporarily.  
+ **Example:** We’ll stay at a hotel near the beach.  
+ **Context:** Travel, accommodation.
+
 [↑ Back to index](#index)
 
 # staycation
@@ -31325,6 +31802,8 @@ where do you stay?
 noun
 
 a vacation spent in one's home country rather than abroad, or one spent at home and involving day trips to local attractions.
+
+Vacation spent at or near home.
 
 [↑ Back to index](#index)
 
@@ -31813,6 +32292,12 @@ In both cases, "strategize" implies the deliberate and thoughtful planning of ac
 
 [↑ Back to index](#index)
 
+# Streamline
+
+a. : to put in order : organize.  b. : to make simpler or more efficient.  a system that streamlines the process.
+
+[↑ Back to index](#index)
+
 # Strident
 
 adjective  
@@ -32227,6 +32712,8 @@ Noun
 2.a curl or ring of smoke or cloud.  
 "wreaths of mist swirled up into the cold air"
 
+*(no definition captured in original notes — flagged for manual fill)*
+
 [↑ Back to index](#index)
 
 # Substantiate
@@ -32395,6 +32882,18 @@ All my attempts to amuse the children were met with sullen scowls.
 
 [↑ Back to index](#index)
 
+# summarize
+
+Sum up,  put it in a nutshell, recap, outline
+
+[↑ Back to index](#index)
+
+# Summary
+
+A concise overview of main points (not a phrasal verb or idiom).
+
+[↑ Back to index](#index)
+
 # Superficial
 
 **Meaning:** Shallow, lacking depth (in thought, emotion, or detail).
@@ -32495,11 +32994,21 @@ She has a surly nature.
 
 # surreal
 
+**Meaning:** Strange, dreamlike, or unreal.  
+ **Example:** The whole experience felt surreal.  
+ **Context:** Experiences, feelings.
+
 adjective
 
 having the qualities of surrealism; bizarre
 
 a surreal mix of fact and fantasy
+
+[↑ Back to index](#index)
+
+# susceptible
+
+Prone to, vulnerable to
 
 [↑ Back to index](#index)
 
@@ -32755,6 +33264,8 @@ Example: "The results were summarized in a table."
 Mathematical Context:  
 A table can mean a set of values or a computational tool, like multiplication tables or truth tables.
 
+**(US)**: To postpone; **(UK)**: To present for discussion.
+
 [↑ Back to index](#index)
 
 # Taint
@@ -32812,6 +33323,10 @@ The term "taint" has been used in comedic shows, including Saturday Night Live a
 * Contaminate
 
 💡 **Tone note**: *Taint* usually implies **permanent or hard-to-remove damage**, whether physical or moral.
+
+**Meaning:** To contaminate or spoil.  
+ **Example:** The scandal tainted his reputation.  
+ **Context:** Damage.
 
 [↑ Back to index](#index)
 
@@ -33130,6 +33645,8 @@ adjective — 1) literal: (of a liquid) only slightly warm; lukewarm. 2) figurat
 adjective  
 insensitive to criticism or insults.  
 "I suppose you have to be pretty thick-skinned to be an MP"
+
+Not easily offended or affected by criticism.
 
 [↑ Back to index](#index)
 
@@ -33527,6 +34044,8 @@ altered so as to be less extreme or intense.
 
 to make something less forceful or offensive, usually a piece of writing or a speech: language is toned down Some of the language in the original play has been toned down for the television version.
 
+Made less extreme or intense.
+
 [↑ Back to index](#index)
 
 # Topping
@@ -33781,6 +34300,8 @@ Meaning: To exchange or sacrifice one thing for another.
 * Example 1: We need to trade off short-term profits for long-term sustainability.  
 * Example 2: There’s always a trade-off between quality and cost.
 
+A compromise where you give up one thing for another.
+
 [↑ Back to index](#index)
 
 # Trailblazer
@@ -34020,6 +34541,12 @@ The word **“trespass”** has both a legal meaning and a general everyday usag
 2. “The landowner warned us not to trespass.”
 
 3. “I hope I’m not trespassing on your patience.”
+
+[↑ Back to index](#index)
+
+# Trouble
+
+**Problem** – General and widely used (*e.g., "He's in trouble" → "He's in a problem."*) **Difficulty** – When facing challenges (*e.g., "I'm having trouble understanding this." → "I'm having difficulty understanding this."*) **Issue** – Common in formal and casual speech (*e.g., "There’s some trouble with the system." → "There’s an issue with the system."*) **Worry** – When referring to concern or distress (*e.g., "His health is causing trouble." → "His health is a worry."*) **Conflict** – When referring to disagreements or disputes (*e.g., "The trouble between them is serious." → "The conflict between them is serious."*)
 
 [↑ Back to index](#index)
 
@@ -34308,6 +34835,8 @@ unrestrained or uninhibited.
 निरंकुश  
 Poets are unfettered by the normal rules of sentence structure.
 
+Unfettered means something is not restricted or controlled, and is a synonym for free and unrestrained. For example, you might describe someone's imagination as unfettered.
+
 [↑ Back to index](#index)
 
 # Unfold
@@ -34348,6 +34877,12 @@ make or become spread out from a rolled or folded state, especially in order to 
 Some synonyms of "unfurl" include:   
 Expand, Extend, Unfold, Open, Spread, Outspread, Stretch, Flare.   
 "Unfurl" can also mean to turn out, evolve, or progress.
+
+[↑ Back to index](#index)
+
+# Unilaterally
+
+:  one-sidedly
 
 [↑ Back to index](#index)
 
@@ -34635,9 +35170,15 @@ not attainable
 
 Social media is often accused of setting unrealistic beauty standards.
 
+Not practical or attainable.
+
 [↑ Back to index](#index)
 
 # Unsubstantiated
+
+**Meaning:** Not supported by evidence.  
+ **Example:** The claims were unsubstantiated.  
+ **Context:** Evidence.
 
 Adjective
 
@@ -34738,6 +35279,8 @@ relatively expensive and designed to appeal to affluent consumers
 an upmarket ski resort
 
 upmarket boutiques
+
+High-end or luxury (products, services, destinations).
 
 [↑ Back to index](#index)
 
@@ -34856,6 +35399,8 @@ noun
 a person on vacation away from home.
 
 vacationers have been enjoying brilliant blue skies
+
+A person who is on vacation.
 
 [↑ Back to index](#index)
 
@@ -35659,7 +36204,9 @@ Sad and crying or feeling ready to start crying, liable to weep easily
 
 adverb
 
-in a good or satisfactory way
+**Meaning:** In a good or satisfactory way; also, a source of water.  
+ **Example:** She sings well. / The village has a deep well.  
+ **Context:** Adverb, noun.
 
 the whole team played well
 
@@ -35685,11 +36232,25 @@ hail fellow, well met
 
 [↑ Back to index](#index)
 
+# Wherein
+
+Equivalents/synonyms: in which, where, in that, during which, at which.
+
+Original: The report includes a section wherein the findings are summarized. Revised: The report includes a section in which the findings are summarized.
+Original: We have a system wherein users can customize their preferences. Revised: We have a system where users can customize their preferences.
+Original: The document outlines the process wherein errors may occur. Revised: The document outlines the process in that errors may occur.
+Original: We had a meeting wherein the project timeline was discussed. Revised: We had a meeting during which the project timeline was discussed.
+Original: The event, wherein attendees can network, is scheduled for next week. Revised: The event, at which attendees can network, is scheduled for next week.
+
+[↑ Back to index](#index)
+
 # whether
 
 conjunction
 
-expressing a doubt or choice between alternatives
+**Meaning:** Expressing a doubt or choice between alternatives.  
+**Example:** I don’t know whether to go or stay.  
+**Context:** Choice, doubt.
 
 he seemed undecided whether to go or stay
 
@@ -36119,6 +36680,18 @@ fail to do or complete something as a result of fear or lack of confidence.
  🗣 *“AI is the zeitgeist of our generation.”*
 
 💡 *(Elegant and intellectual — literally means “time spirit” in German.)*
+
+[↑ Back to index](#index)
+
+# Zero-sum
+
+Describes interactions with no net gain — total outcome remains constant.
+
+[↑ Back to index](#index)
+
+# zest
+
+a feeling of pleasure and enthusiasm He retired from professional chess because he had lost the zest for winning. He has a zest for life and a quick intellect.
 
 [↑ Back to index](#index)
 
