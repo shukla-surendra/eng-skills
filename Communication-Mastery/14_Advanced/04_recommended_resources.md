@@ -68,4 +68,4 @@ Apply the **1:3 rule**: for every hour spent consuming a resource from this list
 
 ---
 
-*This is the end of the core curriculum. Return to [`../README.md`](../README.md) for the suggested learning path, or to [`02_challenges_30_60_90.md`](./02_challenges_30_60_90.md) to start a structured program.*
+**Next:** [`05_dev_to_architect_growth_track.md`](./05_dev_to_architect_growth_track.md) — the capstone: ties `mental-models.md` and this whole curriculum into a staged dev-to-architect progression.

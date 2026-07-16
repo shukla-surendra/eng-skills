@@ -166,7 +166,44 @@ Most assertive sentences follow one shape: what happened (neutral, factual) → 
 - "That was my call and it didn't hold up — I'm not going to spread the blame around."
 - "I should have flagged this risk earlier — noted for next time, and here's how I'm addressing it now."
 
-## 23. Practice Drill: Passive → Assertive Rewrite
+## 23. Being Blamed for a Wrong AI-Generated Understanding of Your System
+
+Increasingly common: someone runs an AI tool over your repo or docs to understand an integration, the tool gets a detail wrong or states an assumption with more confidence than it deserves, they build a calculation or a decision on top of it, and when it breaks, the blame lands on you — the owner of the "confusing" system — rather than on the unverified AI output that actually caused it.
+
+**Establishing the facts before responding to the blame:**
+
+- "Before we get into what went wrong — can you share exactly what the AI tool told you? I want to see the actual output, not just the conclusion you took from it."
+- "Was this checked against the docs/me directly at any point, or did the AI's answer go straight into the calculation?"
+- "I want to separate two things: what the system actually does, and what the tool said the system does — those aren't automatically the same thing."
+- "Can you walk me through how you got to this number?"
+- "How did you go about understanding this part of the integration — did you read through the code directly, or did something summarize it for you?"
+- "Before we dig into the fix — can you walk me through how you got to this number, and what you used to understand the integration?"
+
+**Correcting the record without being defensive:**
+
+- "That's a reasonable reading of the code if you don't have the extra context — but it's not accurate. Here's what's actually true: [X]."
+- "I see why the tool concluded that — the naming is genuinely misleading there. The actual behavior is [X]."
+- "The AI wasn't malicious, it was just wrong on this one specific point — here's the part it missed."
+
+**Redirecting blame to the actual gap, not yourself:**
+
+- "I don't think this is a 'my system is confusing' problem — it's a 'nobody verified an AI's answer before acting on it' problem. Those need different fixes."
+- "I'm not the one who made this call — I'm happy to help fix it, but I want to be clear I wasn't consulted before the calculation was built on this assumption."
+- "If the tool had gotten this wrong about a system neither of us owned, would the fix be 'blame the system' or 'verify before relying on it'? I think it's the second one here too."
+
+**Proposing a process fix going forward:**
+
+- "Can we agree that anything AI-derived that feeds into a real calculation gets a quick sanity check with the actual owner before it's relied on?"
+- "I'd rather spend two minutes confirming with me than have this happen again on something more expensive to unwind."
+- "I can write up the parts of this that are genuinely easy to misread — that's a fair thing for me to own. What I can't own is a decision made without checking."
+
+**When there genuinely is a real documentation gap on your side:**
+
+- "Fair point — that part isn't documented anywhere, and it should be. I'll own that specific gap and fix it."
+- "The tool wasn't wrong because it hallucinated, it was wrong because we never wrote this down anywhere — that's on us to fix, separate from how the calculation got used."
+- "I'll take the piece that's actually my responsibility — the missing doc — but I don't think that extends to the decision that got made on top of it."
+
+## 24. Practice Drill: Passive → Assertive Rewrite
 
 Take three real sentences you've actually said recently that felt passive (agreeing to something you didn't want, staying quiet in a disagreement, apologizing for something that wasn't your fault) and rewrite each using the observation → impact → ask pattern from §1. Say both versions out loud, back to back — the goal is to feel the difference in your own voice, not just read it on the page.
 

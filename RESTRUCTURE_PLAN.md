@@ -311,13 +311,17 @@ non-obvious (e.g. a loanword), not mechanically to every entry.
       same curation method (2026-07-14).
 - [x] `vocab.md` batch 5 — 51 entries, Kooky → Nuisance (K through N),
       same curation method (2026-07-14).
-- [ ] `vocab.md` batch 6 — continue from **Obfuscate** (next unguided entry
-      after Nuisance, start of O — a handful of simple N words like Nasty/
-      Nestle/Nudge were deliberately skipped per the curation rule) through
-      O, P, and into Q. ~1030 vocab entries remain unguided; picking up
-      mid-list per the curation rule (skip simple/common words; prioritize
-      Latinate, low-frequency, or silent-letter words).
-- [ ] `vocab.md` batches 7+ — continue alphabetically until the file is done.
+- [x] `vocab.md` batch 6 — 79 entries, Obfuscate → Punitive (O through P),
+      same curation method (2026-07-16).
+- [x] `vocab.md` batch 7 — 80 entries, Quay → Stifling (Q, R, and into S),
+      same curation method (2026-07-16).
+- [ ] `vocab.md` batch 8 — continue from **Stifle** (missed in batch 7 —
+      "Stifling" got covered but the base form "Stifle" was skipped by
+      mistake; pick it up first) through the rest of S and into T. ~870
+      vocab entries remain unguided; picking up mid-list per the curation
+      rule (skip simple/common words; prioritize Latinate, low-frequency,
+      or silent-letter words).
+- [ ] `vocab.md` batches 8+ — continue alphabetically until the file is done.
 - [ ] `phrasal-verbs.md` / `idioms.md` — light pass only, per the scope note
       above; most entries don't need one.
 - [ ] `glossary-usage.md` — blocked on the same `## ` heading-level issue as

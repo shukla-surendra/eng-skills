@@ -1,6 +1,6 @@
 # Idioms
 
-> 52 entries · restructured 2026-07-13 · sorted A–Z
+> 53 entries · restructured 2026-07-16 · sorted A–Z
 
 ## Index
 
@@ -18,7 +18,7 @@
 
 **D**
 
-[Deserve an asterisk](#deserve-an-asterisk) · [Down the Road](#down-the-road) · [Down the Street](#down-the-street) · [Drawing a parallel](#drawing-a-parallel)
+[Deserve an asterisk](#deserve-an-asterisk) · [Down the Road](#down-the-road) · [Down the Street](#down-the-street) · [Draw a line](#draw-a-line) · [Drawing a parallel](#drawing-a-parallel)
 
 **F**
 
@@ -352,6 +352,46 @@ A simple way to remember them is:
 * **Street \= Place**  
 * **Line \= Time or Process**  
 * **Road \= Either Place or Time (depending on context)**
+
+[↑ Back to index](#index)
+
+# Draw a line
+
+**"Draw a line"** (also **"draw the line"**) means to set a limit on what you will do, accept, or tolerate — a clear boundary beyond which you refuse to go.
+
+### **✅ Meaning:**
+
+To establish a firm boundary between what's acceptable and what isn't. Usually used with **at** ("draw the line at X") to name the specific thing that crosses it, or **under** ("draw a line under X") to mean formally closing a matter and moving on — a related but distinct sense.
+
+### **✅ Usage Examples:**
+
+1. **Setting a boundary (draw the line at):**
+
+   * *"I'm happy to help out, but I draw the line at working weekends."*
+
+   * *(= That's the point past which I won't go.)*
+
+2. **Workplace / scope boundaries:**
+
+   * *"We can extend the deadline once, but I have to draw the line somewhere — this is the last time."*
+
+   * *"As the reviewer, I have to draw the line at merging code without tests, no exceptions."*
+
+3. **Closing a matter (draw a line under):**
+
+   * *"Let's draw a line under this incident and focus on the follow-up actions, not re-litigating who did what."*
+
+   * *(= Formally consider it finished; stop revisiting it.)*
+
+4. **Ethical / personal boundary:**
+
+   * *"I'll stretch the truth to be diplomatic, but I draw the line at lying to a client."*
+
+### **⚠️ Tone:**
+
+* Firm and decisive — used when someone wants to be clearly understood, not vague.
+
+* Common in both everyday and professional register; sounds natural in a meeting as well as in casual conversation.
 
 [↑ Back to index](#index)
 

@@ -20582,6 +20582,8 @@ snuggle up to.
 
 # Obfuscate
 
+*Pronunciation:* OB-fuh-skayt
+
  **\= confuse / make unclear / hide the meaning**
 
 [↑ Back to index](#index)
@@ -20626,6 +20628,8 @@ a notice of a death, especially in a newspaper, typically including a brief biog
 
 # Obliterate
 
+*Pronunciation:* uh-BLIT-uh-rayt
+
  नष्ट करना, मिटा देना, ध्वस्त करना  
 **verb**  
 destroy utterly; wipe out.  
@@ -20642,6 +20646,8 @@ to remove all signs of something, either by destroying it or by covering it so t
 [↑ Back to index](#index)
 
 # Oblivious
+
+*Pronunciation:* uh-BLIV-ee-uhs
 
 बेख़बर, भुलक्कड़, 
 
@@ -20664,6 +20670,8 @@ not aware of or concerned about what is happening around one.
 [↑ Back to index](#index)
 
 # Obnoxious
+
+*Pronunciation:* uhb-NOK-shuhs
 
 adjective  
 extremely unpleasant.  
@@ -20737,6 +20745,8 @@ The word **“obnoxious”** is an **adjective** used to describe someone or som
 
 # Obsequious
 
+*Pronunciation:* uhb-SEE-kwee-uhs
+
   (चापलूस, ख़ुशामदी)
 
 adjective  
@@ -20767,6 +20777,8 @@ His obsessive concern with rules and regulations is boring.
 [↑ Back to index](#index)
 
 # Obsolescence
+
+*Pronunciation:* ob-suh-LES-uhns
 
 Pr. aab·suh·leh·sns  
 **noun**  
@@ -20799,6 +20811,8 @@ cause (a product or idea) to become obsolete by replacing it with something new.
 [↑ Back to index](#index)
 
 # Obstinate
+
+*Pronunciation:* OB-stuh-nit
 
 ( ज़िद्दी,  हठी, बेअदब)
 
@@ -20836,6 +20850,8 @@ Example: "**He succeeded against all odds**."
 [↑ Back to index](#index)
 
 # Odious
+
+*Pronunciation:* OH-dee-uhs
 
 adjective  
 extremely unpleasant; repulsive.  
@@ -21286,6 +21302,8 @@ In spoken English, it’s useful to pair "orientation" with adjectives to clarif
 
 # Ostensible
 
+*Pronunciation:* o-STEN-suh-buhl
+
 adjective  
 stated or appearing to be true, but not necessarily so.  
 "the real dispute which lay behind the ostensible complaint"
@@ -21293,6 +21311,8 @@ stated or appearing to be true, but not necessarily so.
 [↑ Back to index](#index)
 
 # Oust
+
+*Pronunciation:* OWST
 
 Ousted
 
@@ -21914,6 +21934,8 @@ very great in amount.
 
 # Oxymoron
 
+*Pronunciation:* ok-see-MOR-on
+
 **Meaning:** A figure of speech combining contradictory terms (e.g., *bittersweet*, *deafening silence*).  
  **Figurative meaning:** A paradoxical combination in real life.
 
@@ -22062,6 +22084,8 @@ Say this out loud 👇
 
 # Paparazzo
 
+*Pronunciation:* pah-puh-RAHT-soh
+
 noun  
 plural noun: paparazzi  
 a freelance photographer who pursues celebrities to get photographs of them.  
@@ -22071,6 +22095,8 @@ a freelance photographer who pursues celebrities to get photographs of them.
 
 # Parable
 
+*Pronunciation:* PAR-uh-buhl
+
 Noun (moral story)  
 a simple story used to illustrate a moral or spiritual lesson, as told by Jesus in the Gospels.  
 "the parable of the blind men and the elephant"
@@ -22079,12 +22105,16 @@ a simple story used to illustrate a moral or spiritual lesson, as told by Jesus 
 
 # Paradigm
 
+*Pronunciation:* PAR-uh-dym (the "g" is silent)
+
 **Meaning:** A model or pattern of something.  
  **Example:** *We need a new paradigm for education.*
 
 [↑ Back to index](#index)
 
 # Paradoxically
+
+*Pronunciation:* par-uh-DOK-sih-kuh-lee
 
 **Meaning:** In a way that seems contradictory but is actually true.  
  **Examples (spoken):**
@@ -22100,6 +22130,8 @@ a simple story used to illustrate a moral or spiritual lesson, as told by Jesus 
 [↑ Back to index](#index)
 
 # Paranoia
+
+*Pronunciation:* par-uh-NOY-uh
 
 **Paranoia** means an *unreasonable or exaggerated feeling* that people are against you, watching you, or trying to harm you — even when there’s no real evidence for it.
 
@@ -22209,6 +22241,8 @@ It's often used in **casual spoken English** to describe a person who **keeps th
 
 # Parity
 
+*Pronunciation:* PAR-ih-tee
+
 **Parity** means:
 
 **Equality or equivalence** in status, amount, value, or condition.
@@ -22284,6 +22318,8 @@ Think of **"parity"** as the formal cousin of "**equality**" or "**match**" — 
 
 # Parley
 
+*Pronunciation:* PAR-lee
+
 noun  
 a conference between opposing sides in a dispute, especially a discussion of terms for an armistice.  
 "a parley is in progress and the invaders may withdraw"
@@ -22325,6 +22361,8 @@ arising from intense feelings of sexual love.
 [↑ Back to index](#index)
 
 # Patronize
+
+*Pronunciation:* PAY-truh-nyz
 
  संरक्षण, सहायता देना, नियमित ग्राहक होना, संरक्षण देना,  कृपा दिखाना, संरक्षण करना)
 
@@ -22379,6 +22417,8 @@ Synonyms:
 [↑ Back to index](#index)
 
 # Paucity
+
+*Pronunciation:* PAW-sih-tee
 
 noun  
 the presence of something in only small or insufficient quantities or amounts.  
@@ -22501,6 +22541,8 @@ Try explaining this aloud in one sentence:
 
 # Pensive
 
+*Pronunciation:* PEN-siv
+
 * **Literal:** Deeply thoughtful, often in a serious or sad way.
 
 * **Figurative:** Lost in reflective or emotional thought.
@@ -22553,6 +22595,8 @@ Think of it like a **pressure cooker** — the more it’s held in, the stronger
 
 # Per se
 
+*Pronunciation:* pur-SAY
+
 "Per se" and "in and of itself" are phrases that are often used interchangeably in English to convey a similar meaning. Both expressions are used to emphasize that the statement is about the intrinsic nature of something, without considering external factors.
 
 Example sentences:
@@ -22568,6 +22612,8 @@ These phrases serve as a way to clarify that the discussion is centered on the i
 [↑ Back to index](#index)
 
 # Perceive
+
+*Pronunciation:* pur-SEEV
 
 (देखना/समझना)  
 (अर्थ लगाना)  
@@ -22592,6 +22638,8 @@ noun — 1) the way something is understood, interpreted, or regarded by others.
 
 # Perceptive
 
+*Pronunciation:* pur-SEP-tiv
+
 **Meaning:** Able to notice or understand things quickly and deeply.  
  **Usage:**
 
@@ -22608,6 +22656,8 @@ noun — 1) the way something is understood, interpreted, or regarded by others.
 [↑ Back to index](#index)
 
 # Perilously
+
+*Pronunciation:* PER-uh-luhs-lee
 
 adverb  
 in a way that is full of danger or risk.  
@@ -22709,6 +22759,8 @@ The word **“pernicious”** means *extremely harmful, destructive, or dangerou
 
 # Perpetrate
 
+*Pronunciation:* PUR-puh-trayt
+
 verb  
 past tense: perpetrated; past participle: perpetrated  
 carry out or commit (a harmful, illegal, or immoral action).  
@@ -22734,6 +22786,8 @@ The term is neutral and does not imply guilt or innocence; it simply denotes the
 
 # Perpetual
 
+*Pronunciation:* pur-PECH-oo-uhl
+
 (लगातार, निरंतर, नित्य, सतत, अनवरत, शाश्वत, अनन्त, चिरस्थायी)
 
 adjective  
@@ -22747,6 +22801,8 @@ never ending or changing.
 [↑ Back to index](#index)
 
 # Perpetuate
+
+*Pronunciation:* pur-PECH-oo-ayt
 
 (स्थिर करना, यादगार बनाना)  
 verb  
@@ -22794,6 +22850,8 @@ So, when you say something is *perpetuated*, it means it has been **kept alive o
 
 # Perplexed
 
+*Pronunciation:* pur-PLEKST
+
 (हैरान, घबराया हुआ)
 
 adjective  
@@ -22830,6 +22888,8 @@ The sudden and unexplained technical glitch perplexed the IT team, who worked ti
 [↑ Back to index](#index)
 
 # Persecute
+
+*Pronunciation:* PUR-sih-kyoot
 
 verb  
 subject (someone) to hostility and ill-treatment, especially because of their ethnicity, religion, or sexual orientation or their political beliefs.  
@@ -22893,6 +22953,8 @@ adjective
 
 # Pertain
 
+*Pronunciation:* pur-TAYN
+
 (सम्बन्ध रखना)
 
 I'd also tell you that we also take our views on other people's human rights situation, including that of the US. So we take up human rights issues when they arise in this country, especially when they pertain to argument and in fact, we had a case yesterday.I'd also tell you that we also take our views on other people's human rights situation, including that of the US. So we take up human rights issues when they arise in this country, especially when they pertain to argument and in fact, we had a case yesterday.
@@ -22900,6 +22962,8 @@ I'd also tell you that we also take our views on other people's human rights sit
 [↑ Back to index](#index)
 
 # Pervasive
+
+*Pronunciation:* pur-VAY-siv
 
 **Pervasive** means something that is **spread everywhere**, present in many places, or influencing everything around it.
 
@@ -23046,6 +23110,8 @@ distortion or corruption of the original course, meaning, or state of something.
 
 # Petite
 
+*Pronunciation:* puh-TEET
+
 Adjective खूबसूरत, पतली-दुबली  
 attractively small and dainty (used of a woman).  
 "she was petite and vivacious"
@@ -23053,6 +23119,8 @@ attractively small and dainty (used of a woman).
 [↑ Back to index](#index)
 
 # Petrified
+
+*Pronunciation:* PET-ruh-fyd
 
 adjective  
 1\.  
@@ -23129,12 +23197,16 @@ devote (money or assets) to a special purpose.
 
 # Pilfering
 
+*Pronunciation:* PIL-fur-ing
+
  चोरी,  उठाईगिरी  
 Stealing small quantities of goods over time.
 
 [↑ Back to index](#index)
 
 # Pillory
+
+*Pronunciation:* PIL-uh-ree
 
 nounHISTORICAL  
 a wooden framework with holes for the head and hands, in which offenders were formerly imprisoned and exposed to public abuse.
@@ -23150,6 +23222,8 @@ put (someone) in a pillory.
 [↑ Back to index](#index)
 
 # Pinnacle
+
+*Pronunciation:* PIN-uh-kuhl
 
 (शिखर, चरम सीमा, पर्वतशिखा, चरम सीमा पर चढ़ना)
 
@@ -23181,6 +23255,8 @@ noun/verb — noun: a person who is among the first to explore, research, or dev
 [↑ Back to index](#index)
 
 # Pique
+
+*Pronunciation:* PEEK
 
 **verb**  
 past tense: piqued; past participle: piqued  
@@ -23348,6 +23424,8 @@ a sticky deposit on teeth in which bacteria proliferate.
 
 # Plausible
 
+*Pronunciation:* PLAW-zuh-buhl
+
 तर्कसंगत या विश्वसनीय लगने वाला,   
 (व्यक्ति) सत्याभासी या विश्वसनीय लगने वाला 
 
@@ -23372,6 +23450,8 @@ adjective
 [↑ Back to index](#index)
 
 # Plight
+
+*Pronunciation:* PLYT
 
 noun  
 a dangerous, difficult, or otherwise unfortunate situation.  
@@ -23438,6 +23518,8 @@ adjective — evoking a keen sense of sadness, regret, or emotion; deeply moving
 [↑ Back to index](#index)
 
 # Poised
+
+*Pronunciation:* POYZD
 
 की ओर अग्रसर, तैयार
 
@@ -23542,6 +23624,8 @@ If you'd like, I can also show **polite ways to disagree in meetings without sou
 
 # Populous
 
+*Pronunciation:* POP-yuh-luhs
+
 adjective  
 having a large population; densely populated.  
 "the populous city of Shanghai"
@@ -23565,6 +23649,8 @@ populous is sometimes confused with populace
 [↑ Back to index](#index)
 
 # Posturing
+
+*Pronunciation:* POS-chur-ing
 
 **Meaning:** Behavior intended to impress or mislead; showing off rather than being genuine.
 
@@ -23641,6 +23727,8 @@ an examination or lesson in which theories and procedures learned are applied to
 
 # Pragmatic
 
+*Pronunciation:* prag-MAT-ik
+
 (व्यावहारिक)
 
 adjective  
@@ -23669,6 +23757,8 @@ a marine crustacean that resembles a large shrimp, many varieties of which are e
 [↑ Back to index](#index)
 
 # Precarious
+
+*Pronunciation:* prih-KAIR-ee-uhs
 
 ### **Meaning:**
 
@@ -23706,6 +23796,8 @@ a marine crustacean that resembles a large shrimp, many varieties of which are e
 
 # Precedent
 
+*Pronunciation:* PRES-ih-duhnt
+
 noun  
 /ˈprɛsɪd(ə)nt/  
 an earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances.  
@@ -23723,6 +23815,8 @@ A sample form or document from a previous transaction.
 [↑ Back to index](#index)
 
 # Precipitate
+
+*Pronunciation:* prih-SIP-ih-tayt
 
 verb  
 /prɪˈsɪpɪteɪt/  
@@ -23805,6 +23899,8 @@ plural noun: precisions
 
 # Precursor
 
+*Pronunciation:* pree-KUR-sur
+
 A **precursor** is something that comes **before another thing** and often makes way for it or signals that it will happen.
 
 * In science: *A chemical precursor is a substance from which another is formed.*
@@ -23860,6 +23956,8 @@ But you could use *precursor* in a related sense:
 
 # Predatory
 
+*Pronunciation:* PRED-uh-tor-ee
+
 लुटेरा, लूट-पाट करनेवाला,  
 हिंसक, मांसभक्षी  
 Byju’s accused of driving parents into debt with predatory practices  
@@ -23869,6 +23967,8 @@ Unscrupulous
 [↑ Back to index](#index)
 
 # Predicament
+
+*Pronunciation:* prih-DIK-uh-muhnt
 
 noun  
 कठिन परिस्थिति  
@@ -23944,6 +24044,8 @@ found or base something on.
 
 # Predisposition
 
+*Pronunciation:* pree-dis-puh-ZISH-uhn
+
 ( आदत)  
 ( प्रवृत्ति)( पूर्वप्रवृत्ति)  
 ( रोगप्रवणता)
@@ -23964,6 +24066,8 @@ The dog's breed has a predisposition to hip dysplasia, so regular check-ups are 
 [↑ Back to index](#index)
 
 # Predominant
+
+*Pronunciation:* prih-DOM-uh-nuhnt
 
 **Predominant** is usually an **adjective**.  
  It describes something that is the strongest, most common, or most noticeable.
@@ -24029,6 +24133,8 @@ prepare oneself for an event.
 
 # Preposterous
 
+*Pronunciation:* prih-POS-tur-uhs
+
 Adjective.   pruh·paw·stuh·ruhs  
 contrary to reason or common sense; utterly absurd or ridiculous.  
 "a preposterous suggestion"
@@ -24083,6 +24189,8 @@ a prestigious academic post
 
 # Presumably
 
+*Pronunciation:* prih-ZOO-muh-blee
+
 The word **“presumably”** means *most likely* or *it can be reasonably assumed*.  
  It’s often used when you’re not 100% sure, but you have good reason to believe something is true.
 
@@ -24112,6 +24220,8 @@ The word **“presumably”** means *most likely* or *it can be reasonably assum
 [↑ Back to index](#index)
 
 # Presume
+
+*Pronunciation:* prih-ZOOM
 
 verb  
 मानना  
@@ -24150,6 +24260,8 @@ In these examples, "presume" is used to convey the idea of making an assumption 
 
 # Pretext
 
+*Pronunciation:* PREE-tekst
+
 noun  
 a reason given in justification of a course of action that is not the real reason.  
 "the rebels had the perfect pretext for making their move"
@@ -24168,11 +24280,15 @@ having most appeal or influence; prevalent.
 
 # Prevalence
 
+*Pronunciation:* PREV-uh-luhns
+
 Prevalence is the proportion of a population who have a specific characteristic in a given time period.
 
 [↑ Back to index](#index)
 
 # Prevalent
+
+*Pronunciation:* PREV-uh-luhnt
 
 adjective  
 प्रचलित  
@@ -24226,6 +24342,8 @@ It's important to be aware of the context in which the word "prick" is used, as 
 
 # Pro bono
 
+*Pronunciation:* proh BOH-noh
+
 is a Latin phrase that means "for the public good" and refers to professional work done voluntarily and without payment. In the legal profession, it's used to describe when lawyers provide legal advice and support to people who can't afford it. 
 
 A **barter transaction** is the exchange of goods or services between two or more parties without using money or another medium of exchange. Bartering was the primary method of exchange for around 4,000 years before money was invented.
@@ -24242,6 +24360,8 @@ A **barter transaction** is the exchange of goods or services between two or mor
 [↑ Back to index](#index)
 
 # Probity
+
+*Pronunciation:* PROH-bih-tee
 
  ईमानदारी, सत्यनिष्ठा
 
@@ -24270,6 +24390,8 @@ the quality of having strong moral principles; honesty and decency.
 
 # Procrastinator
 
+*Pronunciation:* proh-KRAS-tuh-nay-tur
+
  टालने वाला,  विलंब करनेवाला
 
 someone who postpones work (especially out of laziness or habitual carelessness)
@@ -24277,6 +24399,8 @@ someone who postpones work (especially out of laziness or habitual carelessness)
 [↑ Back to index](#index)
 
 # Procreate
+
+*Pronunciation:* PROH-kree-ayt
 
 verb  
 (of people or animals) produce young; reproduce.  
@@ -24296,6 +24420,8 @@ Sentence Usage: The primary purpose of most living organisms is to procreate and
 [↑ Back to index](#index)
 
 # Procure
+
+*Pronunciation:* proh-KYOOR
 
 1\. transitive : to get possession of (something) : to obtain (something) by particular care and effort. procure a loan. She had managed to procure a hat shaped like a life-size lion's head, which was perched precariously on her head.
 
@@ -24324,6 +24450,8 @@ stimulate or persuade (someone who is reluctant or slow) to do something.
 [↑ Back to index](#index)
 
 # Proliferation
+
+*Pronunciation:* proh-lif-uh-RAY-shuhn
 
 noun  
 rapid increase in the number or amount of something.  
@@ -24417,6 +24545,8 @@ a stout drab-coloured moth with tufts on the forewings which stick up while at r
 
 # Promiscuity
 
+*Pronunciation:* prom-ih-SKYOO-ih-tee
+
 Noun तितर-बितर की अवस्था, अभेद, संकीर्णता  
 the fact or state of being promiscuous.  
 "some fear this will lead to greater sexual promiscuity amongst teens"
@@ -24424,6 +24554,8 @@ the fact or state of being promiscuous.
 [↑ Back to index](#index)
 
 # Promiscuous
+
+*Pronunciation:* pruh-MIS-kyoo-uhs
 
 Adjective  अनेक, नाना प्रकार का, मिला हुआ  
 1\.  
@@ -24515,6 +24647,8 @@ devotee, proponent, sponsor
 
 # Proposition
 
+*Pronunciation:* prop-uh-ZISH-uhn
+
 **Meaning of *Proposition***
 
 A **proposition** is basically a **statement, idea, or proposal** that can be:
@@ -24557,6 +24691,8 @@ Try saying these sentences aloud:
 
 # Prorated
 
+*Pronunciation:* proh-RAY-tid
+
 यथानुपात, 
 
 if an employee is due a salary of $80,000 per year, and they join the company on July 1, their prorated salary for that year would be $40,000.
@@ -24578,6 +24714,8 @@ additional exploration prospects have been identified in this area
 [↑ Back to index](#index)
 
 # Prospective
+
+*Pronunciation:* pruh-SPEK-tiv
 
 adjective  
 expected or expecting to be the specified thing in the future.
@@ -24627,6 +24765,8 @@ n.
 
 # Protrude
 
+*Pronunciation:* proh-TROOD
+
 Verb protruded  
 3rd person present: protrudes  
 extend beyond or above a surface.  
@@ -24657,6 +24797,8 @@ Examples of protrusion in a sentence:
 
 # protégé
 
+*Pronunciation:* PROH-tuh-zhay
+
 /ˈprɒtɪʒeɪ/  
 noun  
 a person who is guided and supported by an older and more experienced or influential person.  
@@ -24678,6 +24820,8 @@ the concept is difficult to prove
 
 # Providential
 
+*Pronunciation:* prov-ih-DEN-shuhl
+
 adjective — occurring at a particularly favorable or fortunate time, as if by divine intervention; timely and lucky.
 
 दैवी, भाग्यशाली (providential/fortunate)
@@ -24698,6 +24842,8 @@ intended or intending to arouse sexual desire or interest.
 [↑ Back to index](#index)
 
 # Prowess
+
+*Pronunciation:* PROW-uhs
 
 noun  
 1\.  
@@ -24724,6 +24870,8 @@ an act of prowling.
 
 # Prudence
 
+*Pronunciation:* PROO-duhns
+
 विवेक, सावधानी, बुद्धिमानी
 
 Demise  
@@ -24744,6 +24892,8 @@ convey or grant (an estate) by will or lease.
 [↑ Back to index](#index)
 
 # Prudent
+
+*Pronunciation:* PROO-duhnt
 
 **Prudent** is a formal word that means **wise, careful, and sensible—especially about the future or when making decisions**.  
  It’s about **thinking ahead, avoiding unnecessary risks, and making smart choices**.
@@ -24801,6 +24951,8 @@ inquire too closely into a person's private affairs.
 [↑ Back to index](#index)
 
 # Puffery
+
+*Pronunciation:* PUF-uh-ree
 
 ### **Puffery — meaning & usage (simple explanation)**
 
@@ -24886,6 +25038,8 @@ If you want, next we can:
 
 # Pulverize
 
+*Pronunciation:* PUL-vuh-ryz
+
 **verb**  
 past tense: pulverized; past participle: pulverized  
 reduce to fine particles.  
@@ -24924,6 +25078,8 @@ defeat utterly.
 
 # Punctuate
 
+*Pronunciation:* PUNGK-choo-ayt
+
 verb  
 gerund or present participle: punctuating  
 1\.  
@@ -24944,6 +25100,8 @@ insert punctuation marks in (text).
 [↑ Back to index](#index)
 
 # Punitive
+
+*Pronunciation:* PYOO-nih-tiv
 
 adjective  
 inflicting or intended as punishment.  
@@ -25113,12 +25271,16 @@ means to force someone into a very dangerous or precarious situation, essentiall
 
 # Quay
 
+*Pronunciation:* KEE (not "kway")
+
 **Meaning:** A platform along the edge of a harbor for loading ships.  
  **Example:** *The ship docked at the quay.*
 
 [↑ Back to index](#index)
 
 # Quiescent
+
+*Pronunciation:* kwy-ES-uhnt
 
 adjective  
 in a state or period of inactivity or dormancy.  
@@ -25132,6 +25294,8 @@ Quiescent means being at rest, inactive, or motionless. It can also mean quiet o
 [↑ Back to index](#index)
 
 # Quintessential
+
+*Pronunciation:* kwin-tuh-SEN-shuhl
 
 सर्वोत्कृष्ट(representing the mpst perfect or most typical example of something)
 
@@ -25183,6 +25347,8 @@ her sense of humor was decidedly quirky
 [↑ Back to index](#index)
 
 # Quisling
+
+*Pronunciation:* KWIZ-ling
 
 noun  
 a traitor who collaborates with an enemy force occupying their country.  
@@ -25292,6 +25458,8 @@ a spell of ranting; a tirade.
 
 # Rapport
 
+*Pronunciation:* ra-POR (the final "t" is silent)
+
 संबंध  
 noun  
 a close and harmonious relationship in which the people or groups concerned understand each other's feelings or ideas and communicate well.  
@@ -25323,6 +25491,8 @@ a close and harmonious relationship in which the people or groups concerned unde
 
 # Rational
 
+*Pronunciation:* RASH-uh-nuhl
+
  (तर्कसंगत)  
 Having reason or understanding, Rational means based on facts or reason, and not on emotions or feelings. It can also mean having the ability to reason or think about things clearly.   
 adjective  
@@ -25353,6 +25523,8 @@ Based on clear thought and reason
 [↑ Back to index](#index)
 
 # Rationale
+
+*Pronunciation:* rash-uh-NAL
 
 औचित्य  
 noun  
@@ -25462,6 +25634,8 @@ Example: "The sound of chains rattling in the dark gave him chills."
 
 # Ravage
 
+*Pronunciation:* RAV-ij
+
 verb  
 cause severe and extensive damage to.  
 "the hurricane ravaged southern Florida"
@@ -25507,6 +25681,8 @@ noun/adjective — noun: a large, glossy black bird known for intelligence, ofte
 
 # Ravish
 
+*Pronunciation:* RAV-ish
+
 verb  
 1\. archaic  
 seize and carry off (someone) by force.  
@@ -25540,6 +25716,8 @@ It’s an informal term, mostly used in American English, and it often implies *
 [↑ Back to index](#index)
 
 # Rebuff
+
+*Pronunciation:* rih-BUF
 
 The word **"rebuff"** is a **formal** verb or noun that means to **reject someone or something sharply or unkindly** — especially when they’re offering help, asking for something, or trying to connect.
 
@@ -25598,6 +25776,8 @@ leisure time, leisure
 [↑ Back to index](#index)
 
 # Reciprocate
+
+*Pronunciation:* rih-SIP-ruh-kayt
 
 (प्रतिदान करना, बदलना, आदान-प्रदान करना)
 
@@ -25661,6 +25841,8 @@ Lord Vishnu is commonly depicted in a reclining posture, known as Anantasayana o
 
 # Reclusive
 
+*Pronunciation:* rih-KLOO-siv
+
 **adjective**  
 avoiding the company of other people; solitary.  
 "he led a reclusive life"
@@ -25668,6 +25850,8 @@ avoiding the company of other people; solitary.
 [↑ Back to index](#index)
 
 # Recompense
+
+*Pronunciation:* REK-uhm-pens
 
 * **Literal:** Compensation or reward for loss or effort.
 
@@ -25723,6 +25907,8 @@ reconciled the factions. b. : settle, resolve. reconcile differences.
 
 # Reconciliation
 
+*Pronunciation:* rek-uhn-sil-ee-AY-shuhn
+
 सुलह, मिलान, मिलाप, मेल-मिलाप
 
 noun
@@ -25740,6 +25926,8 @@ Well to celebrate this reconciliation, let's all share a milkshake.
 [↑ Back to index](#index)
 
 # Rectify
+
+*Pronunciation:* REK-tuh-fy
 
 Meaning of "Rectify / Rectification"
 
@@ -25799,6 +25987,8 @@ Spoken Sentences You Can Use
 
 # Recuperate
 
+*Pronunciation:* rih-KOO-puh-rayt
+
 verb  
 स्वस्थ हो जाना, पुनः प्राप्त करना, खोई वस्तु का मिल जाना
 
@@ -25846,6 +26036,8 @@ stop oneself from doing something.
 
 # Refurbish
 
+*Pronunciation:* ree-FUR-bish
+
 (past tense: refurbished; past participle: refurbished)
 
 V. renovate and redecorate (something, especially a building).
@@ -25855,6 +26047,8 @@ V. renovate and redecorate (something, especially a building).
 [↑ Back to index](#index)
 
 # Refute
+
+*Pronunciation:* rih-FYOOT
 
 verb  
 prove (a statement or theory) to be wrong or false; disprove.  
@@ -25920,6 +26114,8 @@ noun — the act or process of making someone or something feel or look young, f
 
 # Relegate
 
+*Pronunciation:* REL-uh-gayt
+
 verb  
 past tense: relegated; past participle: relegated  
 assign an inferior rank or position to.  
@@ -25940,6 +26136,8 @@ In these examples, "relegate" is used to convey the idea of moving someone or so
 [↑ Back to index](#index)
 
 # Relentless
+
+*Pronunciation:* rih-LENT-lis
 
 adjective  
 unceasingly intense.  
@@ -25966,6 +26164,8 @@ appropriate to the current time, period, or circumstances; of contemporary inter
 [↑ Back to index](#index)
 
 # Relevé
+
+*Pronunciation:* ruh-luh-VAY
 
 noun  
 1\.  
@@ -26051,6 +26251,8 @@ The word **“remark”** can be used both as a **noun** and a **verb**.
 
 # Reminisce
 
+*Pronunciation:* rem-uh-NIS
+
 think back to, look back to 
 
 verb  
@@ -26083,6 +26285,8 @@ A reminiscent smile is a smile that shows you are remembering something from the
 
 # Remorse
 
+*Pronunciation:* rih-MORS
+
 **noun**  
 deep regret or guilt for a wrong committed.  
 "they were filled with remorse and shame"
@@ -26092,6 +26296,8 @@ Repentance, sorrow
 [↑ Back to index](#index)
 
 # Renaissance
+
+*Pronunciation:* ren-uh-SAHNS
 
 noun — 1) (capitalized, historical) the European cultural rebirth of art, literature, and learning from the 14th to 17th century. 2) (lowercase, figurative) a revival of interest, activity, or energy in something.
 
@@ -26103,6 +26309,8 @@ noun — 1) (capitalized, historical) the European cultural rebirth of art, lite
 [↑ Back to index](#index)
 
 # Rendezvous
+
+*Pronunciation:* RAHN-day-voo
 
 noun  
 a meeting at an agreed time and place.  
@@ -26116,6 +26324,8 @@ meet at an agreed time and place.
 
 # Renege
 
+*Pronunciation:* rih-NIG (also rih-NEG)
+
 verb  
 v1:go back on a promise, undertaking, or contract.  
 "they have reneged on their promises to us"
@@ -26128,6 +26338,8 @@ renounce or abandon.
 [↑ Back to index](#index)
 
 # Renounce
+
+*Pronunciation:* rih-NOWNS
 
 verb  
 formally declare one's abandonment of (a claim, right, or possession).  
@@ -26152,11 +26364,15 @@ To repudiate something
 
 # Renowned
 
+*Pronunciation:* rih-NOWND
+
 widely acclaimed and highly honored : celebrated.
 
 [↑ Back to index](#index)
 
 # Repatriate
+
+*Pronunciation:* ree-PAY-tree-ayt
 
 verb  
 send (someone) back to their own country.  
@@ -26267,6 +26483,8 @@ If you want, I can also give you:
 
 # Reprehensible
 
+*Pronunciation:* rep-rih-HEN-suh-buhl
+
 adjective  
 deserving censure or condemnation.  
 "his complacency and reprehensible laxity"
@@ -26283,6 +26501,8 @@ In these examples, "reprehensible" is used to emphasize the severe moral or ethi
 [↑ Back to index](#index)
 
 # Reprieve
+
+*Pronunciation:* rih-PREEV
 
 verb  
 cancel or postpone the punishment of (someone, especially someone condemned to death).  
@@ -26311,6 +26531,8 @@ address a reprimand to.
 
 # Reprisal
 
+*Pronunciation:* rih-PRY-zuhl
+
 Noun
 
 an act of retaliation.  
@@ -26322,6 +26544,8 @@ the forcible seizure of a foreign subject or their goods as an act of retaliatio
 [↑ Back to index](#index)
 
 # Reprise
+
+*Pronunciation:* rih-PREEZ
 
 **noun**  
 a repeated passage in music.
@@ -26346,6 +26570,8 @@ Gets angry about things that happened a long time ago.
 
 # Resonance
 
+*Pronunciation:* REZ-uh-nuhns
+
 noun  
 प्रतिध्वनि  
 resonance, echo, reverberation, waft, reecho, repercussion
@@ -26358,6 +26584,8 @@ resonance
 [↑ Back to index](#index)
 
 # Resonate
+
+*Pronunciation:* REZ-uh-nayt
 
 (गूँजना, अनुनादन, समझ में आना)
 
@@ -26539,6 +26767,8 @@ Make restitution: To provide compensation for loss, damage, or injur
 
 # Resurgent
 
+*Pronunciation:* rih-SUR-juhnt
+
 rising again  
 Resurgent means literally a "rising again". We may speak of a resurgent baseball team, a resurgent steel industry, the resurgence of jogging, or a resurgence of violence in a war zone.
 
@@ -26549,6 +26779,8 @@ The noun form of resurgent is resurgence.
 [↑ Back to index](#index)
 
 # Reticent
+
+*Pronunciation:* RET-ih-suhnt
 
 (adj)
 
@@ -26593,6 +26825,8 @@ a sharp, angry, or witty reply.
 [↑ Back to index](#index)
 
 # Retract
+
+*Pronunciation:* rih-TRAKT
 
 intransitive verb  
 To take back; disavow.  
@@ -26772,6 +27006,8 @@ Keep practicing sentences like this — they’re **very useful in technical mee
 
 # Revelation
 
+*Pronunciation:* rev-uh-LAY-shuhn
+
 noun  
 1\.  
 a surprising and previously unknown fact that has been disclosed to others.  
@@ -26796,6 +27032,8 @@ the divine or supernatural disclosure to humans of something relating to human e
 [↑ Back to index](#index)
 
 # Reverence
+
+*Pronunciation:* REV-ur-uhns
 
 | श्रद्धा
 
@@ -26938,12 +27176,16 @@ Try saying these aloud for fluency:
 
 # Righteousness
 
+*Pronunciation:* RY-chuhs-nis
+
 **Meaning:** Moral correctness or virtue.  
  **Example:** *He spoke with a sense of righteousness.*
 
 [↑ Back to index](#index)
 
 # Risible
+
+*Pronunciation:* RIZ-uh-buhl
 
 ( हास्यास्पद, मनोरंजक)
 
@@ -27083,6 +27325,8 @@ a row or commotion.
 [↑ Back to index](#index)
 
 # Rudimentary
+
+*Pronunciation:* roo-duh-MEN-tuh-ree
 
 Adjective प्रारंभिक, मौलिक, अल्पविकसित, बुनियादी
 
@@ -27274,6 +27518,8 @@ be affected with rust.
 
 # Sabbatical
 
+*Pronunciation:* suh-BAT-ih-kuhl
+
 विश्राम, विश्राम-काल  
 noun  
 a period of paid leave granted to a university teacher or other worker for study or travel, traditionally one year for every seven years worked.  
@@ -27423,6 +27669,8 @@ free from sin; purify.
 
 # Sanctimony
 
+*Pronunciation:* SANGK-tih-moh-nee
+
 पाखंडी,पुण्यवेश धारण
 
 Noun
@@ -27434,6 +27682,8 @@ the action or practice of acting as if one were morally superior to other people
 [↑ Back to index](#index)
 
 # Sanctuary
+
+*Pronunciation:* SANGK-choo-er-ee
 
 ### **✅ Meaning of "Sanctuary":**
 
@@ -27505,6 +27755,8 @@ noun
 
 # Savage
 
+*Pronunciation:* SAV-ij
+
 जंगली, बर्बर, बर्बरतापूर्ण, अशिष्ट, वहशी
 
 Wild or Untamed: When referring to animals or places, "savage" can mean wild, untamed, or in a natural state without human influence. For example, a savage wilderness or a savage animal.
@@ -27551,6 +27803,8 @@ What do you expect ? They are savages. (असभ्य, वहशी, दैत
 [↑ Back to index](#index)
 
 # Savour
+
+*Pronunciation:* SAY-vur
 
 verb  
 past tense: **savored**; past participle: **savored**  
@@ -27602,6 +27856,8 @@ Here are some natural and correct ways to introduce examples or hypothetical sce
 [↑ Back to index](#index)
 
 # Scaffold
+
+*Pronunciation:* SKAF-uhld
 
 ## **🔹 Meaning of “Scaffold”**
 
@@ -27715,6 +27971,8 @@ Try saying this aloud:
 [↑ Back to index](#index)
 
 # Scapegoat
+
+*Pronunciation:* SKAYP-goht
 
 A **scapegoat** is a person who is unfairly **blamed for something** that was not really their fault.
 
@@ -27888,6 +28146,8 @@ slide in a sitting position.
 
 # Scornful
 
+*Pronunciation:* SKORN-fuhl
+
 (तिरस्कारपूर्ण)
 
 I wanted to talk to her but she gave me scornful look.
@@ -27895,6 +28155,8 @@ I wanted to talk to her but she gave me scornful look.
 [↑ Back to index](#index)
 
 # Scoundrel
+
+*Pronunciation:* SKOWN-druhl
 
 **Meaning:** A dishonest or wicked person (often used humorously).
 
@@ -28021,6 +28283,8 @@ become crushed or squeezed into a compact mass.
 
 # Scrupulous
 
+*Pronunciation:* SKROO-pyuh-luhs
+
 Skroo·pyuh·luhs || adjective
 
 "Scrupulous" means being extremely careful, thorough, and precise about details, especially regarding moral or ethical matters. A scrupulous person pays close attention to what is right and proper.
@@ -28070,6 +28334,8 @@ prevent from working or succeeding; thwart.
 [↑ Back to index](#index)
 
 # Scurry
+
+*Pronunciation:* SKUR-ee
 
 **Meaning:** To move quickly with small steps.  
 **Example:** *The mice scurried across the floor.*
@@ -28173,6 +28439,8 @@ the ground under the sea; the ocean floor.
 
 # Secluded
 
+*Pronunciation:* sih-KLOO-did
+
 ( एकांत)
 
  I want to live in a secluded place.  
@@ -28186,6 +28454,8 @@ The retreat center offered a secluded environment for meditation and self-reflec
 
 # Secretion
 
+*Pronunciation:* sih-KREE-shuhn
+
 noun  
 a process by which substances are produced and discharged from a cell, gland, or organ for a particular function in the organism or for excretion.  
 "alcohol had a stimulatory effect on gastric acid secretion"
@@ -28198,6 +28468,8 @@ plural noun: secretions
 
 # Sectarianism
 
+*Pronunciation:* sek-TAIR-ee-uh-niz-uhm
+
 noun  
 excessive attachment to a particular sect or party, especially in religion.  
 "religious sectarianism"
@@ -28207,6 +28479,8 @@ Sectarianism is a term that refers to a strong attachment to a particular sect o
 [↑ Back to index](#index)
 
 # Seductive
+
+*Pronunciation:* sih-DUK-tiv
 
 adjective — literal: sexually attractive or tempting. Figurative: very appealing or tempting in a way that might lead you astray, e.g. a "seductive but risky" idea.
 
@@ -28296,6 +28570,8 @@ The quaint little bookstore was tucked away in a corner of the city, so it was s
 
 # Semitism
 
+*Pronunciation:* SEM-ih-tiz-uhm
+
 noun  
 OFTEN OFFENSIVE  
 the fact or quality of being Jewish; Jewishness.
@@ -28312,6 +28588,8 @@ even amoeba are sensible creatures
 
 # Serene
 
+*Pronunciation:* suh-REEN
+
 प्रशान्त,  निर्मल,  शांत   
 Calm and Peaceful  
 SERENITY definition: 1\. the quality of being peaceful and calm: 2\. the quality of being peaceful and calm:
@@ -28319,6 +28597,8 @@ SERENITY definition: 1\. the quality of being peaceful and calm: 2\. the quality
 [↑ Back to index](#index)
 
 # Sermon
+
+*Pronunciation:* SUR-muhn
 
 A **sermon** is a **speech or talk on a moral or religious subject**, usually given by a priest, pastor, or religious leader during a service.
 
@@ -28542,6 +28822,8 @@ deep regret or guilt for a wrong committed.
 
 # Shrewd
 
+*Pronunciation:* SHROOD
+
 adjective  
 1\.  
 having or showing sharp powers of judgement; astute.  
@@ -28631,6 +28913,8 @@ our two-week trip combines spectacular sightseeing and superb hospitality
 
 # Signor
 
+*Pronunciation:* seen-YOR
+
 noun  
 noun: signore; noun: Signore  
 a title or form of address used of or to an Italian-speaking man, corresponding to Mr or sir.  
@@ -28698,6 +28982,8 @@ appearing ridiculous, so that people will laugh,not showing thought or understan
 
 # Sincere
 
+*Pronunciation:* sin-SEER
+
  ईमानदार,  निष्कपट, सच्चा,  हार्दिक
 
 he was a good man, decent and sincere
@@ -28719,6 +29005,8 @@ a sinful waste
 [↑ Back to index](#index)
 
 # Siphon
+
+*Pronunciation:* SY-fuhn
 
 verb  
 gerund or present participle: siphoning  
@@ -28807,6 +29095,8 @@ prison.
 [↑ Back to index](#index)
 
 # Slander
+
+*Pronunciation:* SLAN-dur
 
 बदनामी, अपवाद,कलंक लगाना, अपयश
 
@@ -29144,6 +29434,8 @@ a long narrow cut or opening
 [↑ Back to index](#index)
 
 # Slither
+
+*Pronunciation:* SLITH-ur
 
 verb  
 past tense: slithered; past participle: slithered  
@@ -29827,6 +30119,8 @@ In **legal or police context**, “solicit” can sometimes refer to **asking fo
 
 # Solitude
 
+*Pronunciation:* SOL-ih-tood
+
 Noun अकेलापन  
 1\.  
 the state or situation of being alone.  
@@ -29839,6 +30133,8 @@ a lonely or uninhabited place.
 [↑ Back to index](#index)
 
 # Sophisticated
+
+*Pronunciation:* suh-FIS-tih-kay-tid
 
 Intelligent or made in a complicated way and therefore able to do complicated tasks.  
 The term "sophisticated" is an adjective that describes something or someone as refined, complex, elegant, or advanced in a manner that suggests a high level of intellectual or cultural awareness. It can be applied to various contexts, including technology, fashion, ideas, or individuals.
@@ -29873,6 +30169,8 @@ In general, "sophisticated" implies a level of complexity, refinement, or advanc
 [↑ Back to index](#index)
 
 # Souvenir
+
+*Pronunciation:* soo-vuh-NEER
 
 Soo·vuh·neeuh यादगार
 
@@ -29952,6 +30250,8 @@ The past tense of **spay**, meaning to sterilize a female animal through surgery
 
 # Spearhead
 
+*Pronunciation:* SPEER-hed
+
 1\. : the head or point of a spear. 2\. : a person, thing, or group that is the leading force (as in a development or attack) spearhead.  
 reiterate  
 to say something again, once or several times: The government has reiterated its refusal to compromise with terrorists. \[ \+ that \] She reiterated that she had never seen him before. Synonyms. repeat.
@@ -29966,6 +30266,8 @@ Sarah was chosen to spearhead the company's sustainability initiative and develo
 
 # Spectacular
 
+*Pronunciation:* spek-TAK-yuh-lur
+
 adjective  
 beautiful in a dramatic and eye-catching way.  
 "spectacular mountain scenery"
@@ -29977,6 +30279,8 @@ an event such as a pageant or musical, produced on a large scale and with striki
 [↑ Back to index](#index)
 
 # Spendthrift
+
+*Pronunciation:* SPEND-thrift
 
 noun  
 a person who spends money in an extravagant, irresponsible way.  
@@ -30421,6 +30725,8 @@ promote or publicize.
 
 # Spurious
 
+*Pronunciation:* SPYOOR-ee-uhs
+
 (मिथ्या, नक़ली, जाली)
 
 adjective  
@@ -30746,6 +31052,8 @@ The word **“staggering”** has two main uses:
 
 # Stagnate
 
+*Pronunciation:* STAG-nayt
+
 verb  
 (of water or air) cease to flow or move; become stagnant.
 
@@ -30767,6 +31075,8 @@ In various contexts, "stagnate" implies a lack of movement, development, or forw
 [↑ Back to index](#index)
 
 # Stagnation
+
+*Pronunciation:* stag-NAY-shuhn
 
 staɡˈnāSH(ə)n
 
@@ -30987,6 +31297,8 @@ adjective — not moving; staying in one place; fixed.
 
 # Statutory
 
+*Pronunciation:* STACH-oo-tor-ee
+
 Statutory means relating to rules or laws which have been formally written down.  
 Statutory means relating to or controlled by a law or rule. It can also mean enacted, created, regulated, or defined by statute. 
 
@@ -31017,6 +31329,8 @@ a vacation spent in one's home country rather than abroad, or one spent at home 
 [↑ Back to index](#index)
 
 # Steadfast
+
+*Pronunciation:* STED-fast
 
 **adjective**  
 दृढ़, स्थिर, निरंतर, अचल, अडीग  
@@ -31106,6 +31420,8 @@ in a way that is difficult and puts extreme pressure on someone or something.
 
 # Stewardess
 
+*Pronunciation:* STOO-ur-dis
+
 noun  
 a woman employed to look after the passengers on a ship or aircraft.
 
@@ -31161,6 +31477,8 @@ restrain (a reaction) or stop oneself acting on (an emotion).
 [↑ Back to index](#index)
 
 # Stifling
+
+*Pronunciation:* STY-fling
 
 * **Literal:** Hot and airless; difficult to breathe in.
 

@@ -106,7 +106,7 @@
 - [Come to grief](#come-to-grief)
 - [Come up](#come-up)
 - [Come up with](#come-up-with)
-- [Coming back to \<my/dec/topic\>](#coming-back-to-mydectopic)
+- [Coming back to my earlier point](#coming-back-to-my-earlier-point)
 - [Commotion](#commotion)
 - [Compelling](#compelling)
 - [conducive](#conducive)
@@ -1029,9 +1029,12 @@ To invent or produce an idea or solution.
 
 Repeated: To think of an idea or plan.
 
-## Coming back to \<my/dec/topic\>
+## Coming back to my earlier point
 
-*(no definition captured in original notes — flagged for manual fill)*
+A transition phrase for returning to something said earlier in a conversation or meeting, after a detour or interruption. Swap "point" for "decision," "topic," or "question" depending on what you're returning to.
+
+"Coming back to my earlier point — I still think we should delay the release."
+"Coming back to the decision we made last week, has anything changed?"
 
 ## Commotion
 

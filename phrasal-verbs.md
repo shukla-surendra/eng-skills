@@ -1,6 +1,6 @@
 # Phrasal Verbs
 
-> 823 entries · restructured 2026-07-15 · sorted A–Z
+> 822 entries · restructured 2026-07-16 · sorted A–Z
 
 ## Index
 
@@ -78,7 +78,7 @@
 
 **R**
 
-[R & R](#r--r) · [Rake up](#rake-up) · [Ramp up](#ramp-up) · [Rapid Fire](#rapid-fire) · [Rat race](#rat-race) · [Ratchet up](#ratchet-up) · [Ratting on](#ratting-on) · [Reach out](#reach-out) · [Read out](#read-out) · [Really coming along](#really-coming-along) · [Reminiscent smile](#reminiscent-smile) · [Resonate With](#resonate-with) · [Rest assured](#rest-assured) · [Rip apart](#rip-apart) · [Road Rage](#road-rage) · [Roll off](#roll-off) · [Roll up one’s sleeves](#roll-up-ones-sleeves) · [Roller coaster](#roller-coaster) · [Rolling up](#rolling-up) · [rough it](#rough-it) · [Rubbed me the wrong way](#rubbed-me-the-wrong-way) · [Rule of Thumb](#rule-of-thumb) · [Rule out](#rule-out) · [Run After](#run-after) · [Run Away/off](#run-awayoff) · [Run Down](#run-down) · [Run into](#run-into) · [Run into Rough weather](#run-into-rough-weather) · [Run out (of time)](#run-out-of-time) · [Run out (of)](#run-out-of) · [Run Out For](#run-out-for) · [Run out of](#run-out-of-1) · [Run Over](#run-over) · [Run past](#run-past) · [Run past someone](#run-past-someone) · [Run with something](#run-with-something)
+[R & R](#r--r) · [Rake up](#rake-up) · [Ramp up](#ramp-up) · [Rapid Fire](#rapid-fire) · [Rat race](#rat-race) · [Ratchet up](#ratchet-up) · [Ratting on](#ratting-on) · [Reach out](#reach-out) · [Read out](#read-out) · [Really coming along](#really-coming-along) · [Reminiscent smile](#reminiscent-smile) · [Resonate With](#resonate-with) · [Rest assured](#rest-assured) · [Rip apart](#rip-apart) · [Road Rage](#road-rage) · [Roll off](#roll-off) · [Roll up one’s sleeves](#roll-up-ones-sleeves) · [Roller coaster](#roller-coaster) · [Rolling up](#rolling-up) · [rough it](#rough-it) · [Rubbed me the wrong way](#rubbed-me-the-wrong-way) · [Rule of Thumb](#rule-of-thumb) · [Rule out](#rule-out) · [Run After](#run-after) · [Run Away/off](#run-awayoff) · [Run Down](#run-down) · [Run into](#run-into) · [Run into Rough weather](#run-into-rough-weather) · [Run out (of time)](#run-out-of-time) · [Run out of](#run-out-of) · [Run Out For](#run-out-for) · [Run Over](#run-over) · [Run past](#run-past) · [Run past someone](#run-past-someone) · [Run with something](#run-with-something)
 
 **S**
 
@@ -11114,10 +11114,13 @@ Metaphorical:
 
 [↑ Back to index](#index)
 
-# Run out (of)
+# Run out of
 
-**Run out (of)** – To have no more left.  
- We ran out of milk.
+To have no more of something left; to exhaust or deplete the supply of something.
+
+* "We ran out of milk."
+* "We ran out of stock due to unexpected high demand."
+* "The car ran out of fuel in the middle of the journey."
 
 [↑ Back to index](#index)
 
@@ -11125,15 +11128,6 @@ Metaphorical:
 
 **Meaning:** To quickly go somewhere to get something.  
  **Example:** *I’ll run out for some milk.*
-
-[↑ Back to index](#index)
-
-# Run out of
-
-Meaning: To exhaust or deplete the supply of something.
-
-* Example 1: We ran out of stock due to unexpected high demand.  
-* Example 2: The car ran out of fuel in the middle of the journey.
 
 [↑ Back to index](#index)
 

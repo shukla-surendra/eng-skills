@@ -30,7 +30,7 @@ Communication-Mastery/
 ├── 11_Exercises/                A large bank of drills, ordered by difficulty
 ├── 12_Recording_Analysis/       How to record yourself and review objectively
 ├── 13_Common_Mistakes/          The recurring failure patterns, why they happen, how to fix them
-├── 14_Advanced/                 Full case studies, 30/60/90-day challenges, 12-week assignments, resources
+├── 14_Advanced/                 Case studies, 30/60/90-day challenges, 12-week assignments, resources, and the dev-to-architect growth track
 └── README.md                    This file
 ```
 
