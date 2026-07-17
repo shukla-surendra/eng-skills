@@ -1,6 +1,6 @@
 # Dev → Architect: A Growth Track for Mental Models, Communication, and Thinking
 
-Technical judgment, communication, and thinking process don't level up separately — they compound together, and the gap between levels is mostly a gap in *which questions you've trained yourself to ask by default*, not raw technical ability. This file is the integration layer: it sequences `mental-models.md` and the rest of this curriculum into four stages, names what actually changes in your thinking at each one, and adds the architect-specific mental models that don't exist anywhere else in this repo yet.
+Technical judgment, communication, and thinking process don't level up separately — they compound together, and the gap between levels is mostly a gap in *which questions you've trained yourself to ask by default*, not raw technical ability. This file is the integration layer: it sequences `02_Thinking_Frameworks/04_mental_models_operating_system.md` and the rest of this curriculum into four stages, names what actually changes in your thinking at each one, and adds the architect-specific mental models that don't exist anywhere else in this repo yet.
 
 Use it as a map, not a ladder to climb once — re-read the stage above your current one every few months; you'll notice models that didn't make sense before starting to click.
 
@@ -10,7 +10,7 @@ Use it as a map, not a ladder to climb once — re-read the stage above your cur
 
 **The mental shift:** from "does this compile / pass the test" to "does this actually solve the problem, including the cases nobody wrote a ticket for."
 
-**Mental models to install** (`mental-models.md`):
+**Mental models to install** (`02_Thinking_Frameworks/04_mental_models_operating_system.md`):
 - §1 Foundational Truths, all five — this is the bedrock; everything later assumes these are already reflexive.
 - §2 Overriding Default Behavior — Hurry Bias and Face-Saving Default specifically. Most junior-level mistakes are these two defaults firing unchecked, not a knowledge gap.
 - §5 State-space thinking — design all five states (empty, loading, partial, error, ideal) for anything you build, every time, before it's asked for.
@@ -21,7 +21,7 @@ Use it as a map, not a ladder to climb once — re-read the stage above your cur
 
 **Thinking process shift:** from reactive ("fix what's flagged") to a standing checklist you run on your own work before anyone else sees it — the five states, the obvious edge cases, one re-read for "would future-me understand this with no context."
 
-**Practice drill:** before marking anything done, run the Hurry Bias override explicitly (`mental-models.md` §2): "what would surface if I gave this twice the time?" Do this even when it feels unnecessary — especially then.
+**Practice drill:** before marking anything done, run the Hurry Bias override explicitly (`02_Thinking_Frameworks/04_mental_models_operating_system.md` §2): "what would surface if I gave this twice the time?" Do this even when it feels unnecessary — especially then.
 
 ---
 
@@ -41,7 +41,7 @@ Use it as a map, not a ladder to climb once — re-read the stage above your cur
 
 **Thinking process shift:** from "what does this need to do" to "what does this need to keep doing, and what would break it later." You start writing tests for the failure you can imagine, not just the happy path someone asked for.
 
-**Practice drill:** pick a system you own. Run a Pre-mortem (`mental-models.md` §3) on it right now, unprompted — assume it broke in production last week, and write down what most likely caused it. Fix the highest-confidence answer before it happens for real.
+**Practice drill:** pick a system you own. Run a Pre-mortem (`02_Thinking_Frameworks/04_mental_models_operating_system.md` §3) on it right now, unprompted — assume it broke in production last week, and write down what most likely caused it. Fix the highest-confidence answer before it happens for real.
 
 ---
 

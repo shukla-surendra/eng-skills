@@ -15,7 +15,7 @@ Each file opens with a clickable **A–Z index** — tap a word to jump to it, a
 | [Speaking Toolkit](speaking-toolkit.md) | How to explain, frame sentences, use analogies, go deeper without losing the thread, plus connecting/meeting phrases | ~10 |
 | [Technical & Architectural English](technical-english.md) | Technical/architectural verbs and phrases, A–Z | ~294 |
 | [Business Communication](business-communication.md) | Business and meeting idioms, diplomatic phrasing | ~117 |
-| [Mental Models & Thinking Frameworks](mental-models.md) | Operating principles, decision frameworks, and habits for engineering judgment and leadership | 11 sections |
+| [Mental Models & Thinking Frameworks](Communication-Mastery/02_Thinking_Frameworks/04_mental_models_operating_system.md) | Operating principles, decision frameworks, and habits for engineering judgment and leadership | 11 sections |
 | [Reference Tables](reference-tables.md) | Quick phrase → one-line meaning lookup tables | 2 tables |
 | [Vocabulary in Context — Stories](stories.md) | Short stories that use the vocabulary in context, each with a glossary table | 6 stories |
 

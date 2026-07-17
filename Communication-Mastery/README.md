@@ -18,7 +18,9 @@ Three beliefs drive everything in this repo:
 Communication-Mastery/
 │
 ├── 01_Foundations/              Why explanation fails, and the cognitive science of why structure works
-├── 02_Thinking_Frameworks/      How to organize thought BEFORE you open your mouth
+├── 02_Thinking_Frameworks/      How to organize thought BEFORE you open your mouth,
+│                                 debug/decide with discipline, plus the full mental-models
+│                                 operating system reference (`04_mental_models_operating_system.md`)
 ├── 03_Explanation_Frameworks/   PREP, STAR, SCQA, Feynman, Pyramid Principle — when to use which
 ├── 04_Technical_Storytelling/   Turning incidents and projects into narratives people remember
 ├── 05_Phrase_Library/           Hundreds of reusable phrases, organized by communication situation

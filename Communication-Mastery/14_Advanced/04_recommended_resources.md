@@ -68,4 +68,4 @@ Apply the **1:3 rule**: for every hour spent consuming a resource from this list
 
 ---
 
-**Next:** [`05_dev_to_architect_growth_track.md`](./05_dev_to_architect_growth_track.md) — the capstone: ties `mental-models.md` and this whole curriculum into a staged dev-to-architect progression.
+**Next:** [`05_dev_to_architect_growth_track.md`](./05_dev_to_architect_growth_track.md) — the capstone: ties `02_Thinking_Frameworks/04_mental_models_operating_system.md` and this whole curriculum into a staged dev-to-architect progression.

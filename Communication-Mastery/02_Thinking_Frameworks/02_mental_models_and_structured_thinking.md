@@ -128,4 +128,4 @@ This whole routine is meant to compress to under 3 seconds with practice — it 
 - [ ] If this was a comparison, did I name the 2–3 dimensions that actually drove the decision, not every dimension that exists?
 - [ ] If this was a problem/incident, did I say Problem → Cause → Solution → Result in that order, not the order I discovered it in?
 
-**Next:** [`../03_Explanation_Frameworks/01_core_frameworks_PREP_STAR_SCQA.md`](../03_Explanation_Frameworks/01_core_frameworks_PREP_STAR_SCQA.md) — the named, formal frameworks that build directly on these thinking shapes.
+**Next:** [`03_debugging_and_architectural_decision_making.md`](./03_debugging_and_architectural_decision_making.md) — how to apply structured thinking to the reasoning process itself: debugging complex systems, understanding them deeply, and making architectural decisions. From there, [`../03_Explanation_Frameworks/01_core_frameworks_PREP_STAR_SCQA.md`](../03_Explanation_Frameworks/01_core_frameworks_PREP_STAR_SCQA.md) covers the named, formal frameworks that build on these thinking shapes.
