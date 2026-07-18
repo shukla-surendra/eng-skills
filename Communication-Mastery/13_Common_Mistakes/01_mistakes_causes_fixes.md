@@ -90,7 +90,7 @@ Every mistake here maps back to a mechanism from `01_Foundations` — the goal i
 
 **Why it happens:** an unconscious attempt to minimize time spent in the uncomfortable, high-social-load moment of not knowing exactly what to say next.
 
-**Fix:** counter-intuitively, slow down deliberately when you notice uncertainty rising — it buys more actual thinking time than speeding up does, and it reads as composed rather than rattled. Practice this explicitly in recorded reps.
+**Fix:** counter-intuitively, slow down deliberately when you notice uncertainty rising — it buys more actual thinking time than speeding up does, and it reads as composed rather than rattled. Practice this explicitly in recorded reps. The same impulse shows up outside live delivery too — see `02_Thinking_Frameworks/05_removing_hurry_pause_before_acting.md` for the written-reply and debugging versions of it.
 
 ### 11. Losing Structure Mid-Answer and Not Recovering Visibly
 

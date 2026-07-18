@@ -132,16 +132,10 @@
 
 # 1. Physical Meaning — Attached or Hanging From Something
 
-Example:
+Describes something physically connected and dangling or extending outward from a larger object.
 
-* *The bag hangs off his shoulder.*  
-   → The bag is attached and resting from his shoulder.  
-* *A small balcony hangs off the side of the building.*  
-   → The balcony extends outward from the building.
-
-### **Visual idea:**
-
-Something is physically connected and dangling or extending outward.
+"The bag hangs off his shoulder."
+"A small balcony hangs off the side of the building."
 
 [↑ Back to index](#index)
 
@@ -335,10 +329,10 @@ A major change in situation or direction.
 
 # 3. Leaning or Clinging
 
-Example:
+To lean on or hold onto someone or something, often for support or affection.
 
-* *The kids were hanging off their father.*  
-   → The kids were clinging to him playfully.
+"The kids were hanging off their father, clinging to him playfully."
+"She leaned on her mentor's advice through the whole first year."
 
 [↑ Back to index](#index)
 
@@ -353,8 +347,10 @@ Example:
 
 # A Blast from the Past
 
-**Meaning:** Something that brings back old memories.  
-**Example:** *That song is a real blast from the past\!*
+Something that brings back old memories.
+
+"That song is a real blast from the past!"
+"Finding the old prototype in storage was a blast from the past."
 
 [↑ Back to index](#index)
 
@@ -368,58 +364,64 @@ noun phrase — an item that is commonly kept and regularly used in most homes; 
 
 # a new lease of life
 
-phrase
+A dramatically improved prospect of life, or a renewed sense of energy or purpose.
 
-a dramatically improved prospect of life or to become successful or popular again
-
-Since recovering from surgery, Jan feels he has a new lease of life.
+"Since recovering from surgery, Jan feels he has a new lease of life."
+"The refactor gave the old service a new lease of life instead of a full rewrite."
 
 [↑ Back to index](#index)
 
 # Abide by
 
-To adhere the rules
+To follow rules, laws, or policies.
 
-We must abide by the company policy.  
----
-
-To follow rules or laws.
+"We must abide by the company's data retention policy."
+"Every contractor has to abide by the same security requirements as full-time staff."
 
 [↑ Back to index](#index)
 
 # Act on
 
-Take action based on information.
+To take action based on information received.
+
+"We acted on the alert immediately instead of waiting to see if it recurred."
+"He acted on the feedback and rewrote the proposal overnight."
 
 [↑ Back to index](#index)
 
 # Act upon
 
-To follow  
-Ram always acts upon my advice.
+To take action based on something, such as advice or information.
 
-To take action based on something.
+"Ram always acts upon my advice, even when he doesn't fully agree."
+"We acted upon the alert immediately instead of waiting to see if it recurred."
 
 [↑ Back to index](#index)
 
 # action point
 
-noun
+A specific task to be completed, especially following a meeting.
 
-specific task to be completed, especially following a meeting
+"The action point from today's sync: Priya to send the updated timeline by Friday."
+"Every incident review should end with clear action points, not just a summary."
 
 [↑ Back to index](#index)
 
 # Add on
 
-Include something extra to the base plan.
+To include something extra to the base plan.
+
+"We added on a monitoring dashboard as an extra deliverable this sprint."
+"The enterprise tier adds on SSO and audit logs to the base plan."
 
 [↑ Back to index](#index)
 
 # After Ego (Alter Ego)
 
-**Meaning:** A second self or another side of one’s personality.  
- **Example:** *Superman’s alter ego is Clark Kent.*
+A second self or another side of one's personality.
+
+"Superman's alter ego is Clark Kent."
+"His calm public persona is almost an alter ego next to how stressed he actually is before a launch."
 
 [↑ Back to index](#index)
 
@@ -514,7 +516,10 @@ Try repeating the example sentences aloud once or twice. This helps your brain s
 
 # Aim for
 
-Target a specific goal.
+To target a specific goal.
+
+"We're aiming for sub-200ms p99 latency by end of quarter."
+"Aim for a small, reviewable PR instead of one giant change."
 
 [↑ Back to index](#index)
 
@@ -528,7 +533,10 @@ idiom (informal) — will not be accepted, approved, or believed; won't work.
 
 # Align with
 
-Match or agree with a decision or standard.
+To match or agree with a decision or standard.
+
+"The new API aligns with our existing naming conventions."
+"Let's align with the platform team before committing to this approach."
 
 [↑ Back to index](#index)
 
@@ -684,7 +692,10 @@ It emphasizes **no halfway**—going fully to the top or maximum.
 
 # Allow for
 
-Plan time or space for something.
+To plan time or space for something.
+
+"Allow for at least a day of buffer before the hard deadline."
+"The design allows for future regions to be added without a schema change."
 
 [↑ Back to index](#index)
 
@@ -759,7 +770,10 @@ Place with rides and fun attractions.
 
 # Anchor on
 
-Base your reasoning on something strong.
+To base your reasoning on something solid.
+
+"Anchor the estimate on actual historical data, not gut feel."
+"We anchored the pricing decision on customer willingness-to-pay research."
 
 [↑ Back to index](#index)
 
@@ -793,28 +807,37 @@ It’s stronger than just saying *“any doubt”* because the word **“whatsoe
 
 # Argue against
 
-Explain why approach is bad.
+To explain why an approach is bad or shouldn't be used.
+
+"She argued against the rewrite, favoring an incremental refactor instead."
+"He argued against adding another microservice for something this small."
 
 [↑ Back to index](#index)
 
 # Argue for
 
-Support an approach.
+To support and make a case for a particular approach.
+
+"She argued for the simpler design, even though it was less flashy."
+"He argued for delaying the launch until load testing was complete."
 
 [↑ Back to index](#index)
 
 # as far as sb is concerned
 
-adjective
+In a particular person's opinion.
 
-in a particular person's opinion
+"As far as I'm concerned, the migration is done once the old system is decommissioned."
+"As far as the client is concerned, the deadline hasn't changed."
 
 [↑ Back to index](#index)
 
 # As Far as Someone or Something Is Concerned
 
-**Meaning:** From that person’s perspective.  
-**Example:** *As far as I’m concerned, the deal is done.*
+From that person's perspective.
+
+"As far as I'm concerned, the deal is done once both sides sign."
+"As far as the client is concerned, the deadline hasn't changed."
 
 [↑ Back to index](#index)
 
@@ -867,15 +890,19 @@ It means **“for the time that”** or **“while.”**
 
 # as of yet
 
-other
+Indicates that something has not happened or been known up to the present time.
 
-indicates that something has not happened or been known up to the present time.
+"As of yet, we haven't heard back from the vendor about the outage."
+"No root cause has been confirmed as of yet."
 
 [↑ Back to index](#index)
 
 # Ask around
 
-Gather inputs from multiple people.
+To gather inputs or opinions from multiple people.
+
+"I asked around before picking a vendor — three teams had already tried them."
+"Ask around the team before assuming nobody's solved this before."
 
 [↑ Back to index](#index)
 
@@ -914,13 +941,19 @@ It’s like a thought or concern that lingers quietly in your mind.
 
 # Audit through
 
-Verify compliance.
+To review something carefully, end to end, to verify compliance or correctness.
+
+"We audited through the access logs to confirm no unauthorized reads happened."
+"Finance audits through every vendor invoice above $10k before approval."
 
 [↑ Back to index](#index)
 
 # Average out
 
-Smooth differences by taking the mean.
+To smooth differences by taking the mean.
+
+"The spikes average out over a week, so the daily view can be misleading."
+"We average latency out across all regions for the top-line metric."
 
 [↑ Back to index](#index)
 
@@ -938,18 +971,19 @@ Smooth differences by taking the mean.
 
 # Back out
 
-Withdraw from a commitment or process.
+To withdraw from a commitment, or undo data changes.
 
-Undo data changes.
+"The vendor backed out of the contract two weeks before the deadline."
+"We backed out the migration once we saw the data mismatch."
 
 [↑ Back to index](#index)
 
 # Back out of
 
-Not to keep one’s words 
+To withdraw from a commitment or agreement.
 
-I never back out of my promises.  
----
+"I never back out of my promises, even when it's inconvenient."
+"The vendor backed out of the deal two weeks before signing."
 
 [↑ Back to index](#index)
 
@@ -1002,22 +1036,19 @@ So:
 
 # Back to Square One
 
-to go back to the beginning
+To go back to the beginning after a setback.
+
+"The deal fell through, so it's back to square one on the integration."
+"The design got rejected in review — back to square one."
 
 [↑ Back to index](#index)
 
 # Back up
 
-Meaning: To create a copy of data or provide support.
+To create a copy of data, or to support someone's point.
 
-* Example 1: Make sure to back up all your important files regularly.  
-* Example 2: The team backed up their presentation on a USB drive as a precaution.
-
-Create a copy or support someone’s point.
-
-Create data copies.
-
-Justify a position.
+"Make sure to back up all your important files regularly."
+"I'll back you up in the meeting if the client pushes back on the timeline."
 
 [↑ Back to index](#index)
 
@@ -1030,7 +1061,10 @@ Justify a position.
 
 # Backfill in
 
-Fill missing logs.
+To fill in missing logs, data, or records after the fact.
+
+"We backfilled in three months of missing metrics after fixing the exporter."
+"The migration script backfills in the new column for every existing row."
 
 [↑ Back to index](#index)
 
@@ -1044,7 +1078,10 @@ idiom — something normally seen as a hardship, flaw, or negative, but instead 
 
 # Balance out
 
-Make adjustments to maintain stability.
+To make adjustments to maintain stability.
+
+"The load balancer balances out traffic across all healthy instances."
+"Extra headcount on support balanced out the backlog that piled up during launch."
 
 [↑ Back to index](#index)
 
@@ -1097,9 +1134,10 @@ Make adjustments to maintain stability.
 
 # Bare metal
 
-**Bare metal** can refer to a computer without an operating system or a cloud server that is dedicated to a single client
+Refers to a computer without an operating system layer, or a cloud server dedicated entirely to a single client.
 
-What we have to imagine is that if water were poured into this, it would fill up a certain amount.
+"We moved the database off bare metal and onto managed cloud instances."
+"Running on bare metal gave us more control, but a lot more operational burden."
 
 [↑ Back to index](#index)
 
@@ -1171,22 +1209,28 @@ noun — a soft cap with a curved brim, worn casually or for sports. Literal, ev
 
 # Bat Your Eye at Someone
 
-**Meaning:** To flirt or seek attention subtly.  
- **Example:** *She just batted her eyes and got what she wanted.*
+To flirt or seek attention subtly.
+
+"She just batted her eyes and got what she wanted."
+"He batted his eyes at the manager, hoping to dodge the tough question."
 
 [↑ Back to index](#index)
 
 # Batch up
 
-Group data for training.
+To group data together for processing or training.
+
+"We batch up requests before sending them to the model to cut overhead."
+"The pipeline batches records up into groups of 1,000 before writing to disk."
 
 [↑ Back to index](#index)
 
 # Batter Down
 
-**Meaning:** To hit something repeatedly until it breaks.  
- **Figurative:** To overcome resistance.  
- **Example:** *The police battered down the door.* / *She battered down every objection with strong arguments.*
+To hit something repeatedly until it breaks; figuratively, to overcome resistance.
+
+"The police battered down the door during the raid."
+"She battered down every objection with strong, well-prepared arguments."
 
 [↑ Back to index](#index)
 
@@ -1267,9 +1311,10 @@ phrasal verb (informal) — to be very interested in or enthusiastic about somet
 
 # be just the thing
 
-phrase  
-the idea thing  
-Paint-balling is just the thing to foster team spirit within the company
+Be exactly what's needed or perfect for the situation.
+
+"A caching layer would be just the thing to fix this latency issue."
+"Paint-balling is just the thing to foster team spirit within the company."
 
 [↑ Back to index](#index)
 
@@ -1331,15 +1376,19 @@ It’s often used when you need to stay cautious, observant, or ready.
 
 # Be One’s Thing
 
-**Meaning:** To be something someone likes or is into.  
- **Example:** *Yoga isn’t really my thing.*
+To be something someone likes or is into.
+
+"Yoga isn't really my thing, but I get why people love it."
+"Public speaking was never his thing, until he forced himself to practice it."
 
 [↑ Back to index](#index)
 
 # Be Prone To
 
-**Meaning:** Likely to suffer from or do something.  
- **Example:** *He’s prone to catching colds.*
+Likely to suffer from or do something.
+
+"He's prone to catching colds every time the season changes."
+"This service is prone to timeouts under high concurrency."
 
 [↑ Back to index](#index)
 
@@ -1408,8 +1457,10 @@ Try saying this aloud:
 
 # Bead of Dew
 
-**Meaning:** A tiny drop of moisture.  
- **Example:** *Beads of dew sparkled on the grass.*
+A tiny drop of moisture.
+
+"Beads of dew sparkled on the grass early in the morning."
+"A single bead of dew slid down the cold glass."
 
 [↑ Back to index](#index)
 
@@ -1497,11 +1548,10 @@ disregarding the rules; unfair.
 
 # bend over backward
 
-idiomatic
+To make every effort to achieve something, especially to be fair or helpful.
 
-make every effort to achieve something, especially to be fair or helpful
-
-he bent over backward to be fair to the defendants
+"He bent over backward to be fair to everyone involved in the dispute."
+"Support bent over backward to get the customer's data restored before the deadline."
 
 [↑ Back to index](#index)
 
@@ -1777,7 +1827,10 @@ adjective phrase — extremely obvious; impossible to miss, deny, or misundersta
 
 # Blend in
 
-Mix datasets.
+To mix or merge datasets, elements, or people smoothly into a whole.
+
+"We blended in the archived records so the report shows full history."
+"The new hire blended in with the team within a week."
 
 [↑ Back to index](#index)
 
@@ -1819,36 +1872,37 @@ It refers to a **very short amount of time**, often emphasizing how fast or unex
 
 # Block off
 
-Prevent access to a resource.
+To prevent access to a resource.
+
+"We blocked off the admin endpoint from public internet access."
+"Block off two hours on the calendar for focused work before the review."
 
 [↑ Back to index](#index)
 
 # blow away
 
-**Meaning:** To impress strongly or be very surprised.  
-**Example:** The performance blew me away.  
-**Context:** Impressed.
+To impress someone greatly, or be very surprised.
 
-verb
-
-impress someone greatly
-
-I'm blown away by his new poem
+"The performance blew me away."
+"I'm blown away by how fast he found the root cause."
 
 [↑ Back to index](#index)
 
 # Blow out
 
-To extinguish; also means to defeat easily in sports.
+To extinguish something; also means to defeat easily in sports.
 
-He blew out the candle.  
----
+"He blew out the candle before leaving the room."
+"The home team blew out their rivals in the second half."
 
 [↑ Back to index](#index)
 
 # Blurt out
 
-to say something suddenly and without thinking
+To say something suddenly and without thinking.
+
+"He blurted out the client's budget number before anyone had agreed to share it."
+"She blurted out the answer before the interviewer even finished the question."
 
 [↑ Back to index](#index)
 
@@ -1863,13 +1917,19 @@ to say something suddenly and without thinking
 
 # Boil down to
 
-Simplify to the core point.
+To simplify something to its core point.
+
+"It all boils down to one question: can we meet the SLA at this cost?"
+"The disagreement boils down to a different risk tolerance, not a technical dispute."
 
 [↑ Back to index](#index)
 
 # Boot up
 
-Start a system.
+To start a system or machine.
+
+"The server takes about 40 seconds to boot up after a restart."
+"Boot up the staging environment before the demo so it's warm."
 
 [↑ Back to index](#index)
 
@@ -1968,21 +2028,19 @@ Since you're an architect and engineer, you might say:
 
 # Bounce off
 
-Validate ideas with someone.
+To validate or test ideas with someone else.
+
+"I want to bounce this design off you before I write the RFC."
+"She bounced a few naming options off the team in Slack."
 
 [↑ Back to index](#index)
 
 # bowl over
 
-**Meaning:** To surprise or impress someone greatly.  
-**Example:** His kindness bowled me over.  
-**Context:** Surprise.
+To surprise or impress someone greatly; literally, to knock someone down.
 
-verb
-
-knock someone down
-
-he was almost bowling people over in his haste
+"His kindness bowled me over."
+"He was almost bowling people over in his haste to catch the train."
 
 [↑ Back to index](#index)
 
@@ -2025,14 +2083,10 @@ Create new dev branch.
 
 # Branch out
 
-Meaning: To expand or extend one’s interests.
+To expand or extend into new interests or markets.
 
-* Example 1: I’m leaving the company to branch out on my own.  
-* Example 2: The company is planning to branch out into new international markets.
-
-To expand into new areas or markets.
-
-Expand into a new area.
+"I'm leaving the company to branch out on my own."
+"The company is planning to branch out into new international markets."
 
 [↑ Back to index](#index)
 
@@ -2060,49 +2114,28 @@ It comes from the idea that bread and butter are the most basic, everyday food�
 
 # Break down
 
-Meaning: To analyze or divide something into smaller parts.
+To stop functioning, emotionally collapse, or analyze something into smaller parts.
 
-* Example 1: Let’s break down the project into smaller tasks for better management.  
-* Example 2: She broke down the problem step by step to find the root cause.
-
-**Meaning:** To stop working (machine), or lose control emotionally.  
- **Example:** *My car broke down.* / *She broke down crying.*
-
- To stop working (machine or person).  
- My car broke down on the highway.
-
-To collapse
-
-All the poorly constructed houses broke down.
-
-To stop functioning; emotionally collapse; or analyze into smaller parts.
-
-Repeated: To stop working, collapse, or analyze.
-
-Repeated: To stop working or decompose.
-
-Convert build steps into smaller tasks.
-
-Analyse into smaller parts.
-
-Inspect distributions.
+"My car broke down on the highway."
+"Let's break down the project into smaller, more manageable tasks."
 
 [↑ Back to index](#index)
 
 # Break down for
 
-Explain simply.
+To explain something simply, breaking it into smaller, easier-to-understand parts.
+
+"Can you break it down for the non-technical stakeholders in the room?"
+"She broke the pricing model down for the new sales rep step by step."
 
 [↑ Back to index](#index)
 
 # Break into
 
-Meaning: To enter or gain access to a new market or industry.
+To enter or gain access to a new market, industry, or place; or to start doing something suddenly.
 
-* Example 1: The company aims to break into the international market next year.  
-* Example 2: They broke into the tech industry with their groundbreaking software.
-
-To enter by force; or start doing something suddenly.
+"The company aims to break into the international market next year."
+"They broke into the tech industry with their groundbreaking software."
 
 [↑ Back to index](#index)
 
@@ -2129,134 +2162,118 @@ The thief break in my house.
 
 # Break off
 
-Meaning: To end a relationship or partnership.
+To end a relationship or partnership, often suddenly.
 
-* Example 1: The two companies decided to break off their collaboration due to conflicting interests.  
-* Example 2: She broke off the engagement to focus on her career.
-
-I broke off with her.
-
-To end suddenly (talks, engagement).
+"The two companies decided to break off their collaboration due to conflicting interests."
+"She broke off the engagement to focus on her career."
 
 [↑ Back to index](#index)
 
 # Break out
 
-To escape from some prison
+To escape or start suddenly, such as a war, fire, or disease; also, to isolate or separate something into a new section.
 
-That criminal broke out the jail.
-
-To spread
-
-The disease has broken out in the city.
-
-To escape or start suddenly (war, fire, disease).
-
-Separate items or create a new section.
-
-Split traffic to multiple services.
-
-Isolate failing component.
+"The disease broke out in the city within weeks."
+"We broke the monolith out into separate services so traffic could be split independently."
 
 [↑ Back to index](#index)
 
 # Break up
 
-To end a relationship; or disperse.
+To end a relationship, disperse, or separate something into parts.
 
-I broak up with her.
-
-Separate training into jobs.
+"I broke up with her after realizing we wanted different things."
+"We broke the training job up into smaller batches to avoid memory issues."
 
 [↑ Back to index](#index)
 
 # Break with
 
-To quarrel
+To end an association, tradition, or (informally) to quarrel with someone.
 
-Why do you break with me.
+"This release breaks with our usual practice of feature-flagging everything."
+"Why are you breaking with me over something this small?"
 
 [↑ Back to index](#index)
 
 # Bridge across
 
-Connect two networks.
+To connect two separate networks or systems.
+
+"The VPN bridges across the on-prem network and the cloud VPC."
+"We built an adapter to bridge across the old and new event formats."
 
 [↑ Back to index](#index)
 
 # Bring about
 
-Meaning: To cause or initiate a change or result.
+To cause or initiate a change or result.
 
-* Example 1: The new management team aims to bring about positive changes in the company.  
-* Example 2: His ideas brought about a revolutionary shift in the industry.
-
-To cause something to happen.
+"The new management team aims to bring about positive changes in the company."
+"His ideas brought about a revolutionary shift in the industry."
 
 [↑ Back to index](#index)
 
 # Bring down
 
-Intentionally stop for maintenance.
+To intentionally stop something for maintenance, or reduce speed, cost, or load.
 
-Reduce speed, cost, or load.
+"We're bringing the service down for a 10-minute maintenance window tonight."
+"The new caching layer brought our database load down significantly."
 
 [↑ Back to index](#index)
 
 # Bring in
 
-Meaning: To introduce or implement something new.
+To introduce or implement something new.
 
-* Example 1: The company plans to bring in a new sales strategy next quarter.  
-* Example 2: The manager brought in an external consultant to improve team performance.
-
-To introduce (new law, idea, person).
+"The company plans to bring in a new sales strategy next quarter."
+"The manager brought in an external consultant to improve team performance."
 
 [↑ Back to index](#index)
 
 # Bring out
 
-Highlight strengths.
+To highlight or reveal strengths, features, or qualities.
+
+"The new UI really brings out the product's best features."
+"Pair programming brings out skills a solo code review would never surface."
 
 [↑ Back to index](#index)
 
 # Bring Over
 
-**Meaning:** To take something or someone from one place to another.  
- **Example:** *Can you bring over your laptop tomorrow?*
+To take something or someone from one place to another.
+
+"Can you bring over your laptop tomorrow so we can pair?"
+"He brought the whole team over to the new office for the demo."
 
 [↑ Back to index](#index)
 
 # Bring together
 
-Unify team or ideas.
+To unify a team or set of ideas.
+
+"The offsite brought the two teams together after months of working in silos."
+"Her summary brought together three separate proposals into one coherent plan."
 
 [↑ Back to index](#index)
 
 # Bring up
 
-**Bring up** – To start talking about a topic.  
- He brought up politics during dinner.
+To start talking about a topic; or to raise a child.
 
-To foster
-
-They brought me up.  
-I was brought up in Dehradun  
----
-
-To mention; or to raise a child.
-
-Start a new service or component.
-
-Raise a topic for discussion.
-
-Mention new concern.
+"He brought up politics during dinner, which nobody wanted."
+"I was brought up in Dehradun."
 
 [↑ Back to index](#index)
 
 # Buffer up
 
-Collect resources to handle spikes.
+To collect resources ahead of time to handle spikes.
+
+"We buffered up extra capacity before the product launch."
+"The queue buffers requests up during traffic bursts instead of dropping them."
 
 [↑ Back to index](#index)
 
@@ -2425,28 +2442,37 @@ Try answering in 3–4 sentences. I’ll correct and improve it for you.
 
 # Build around
 
-Design with a central idea.
+To design something with a central idea at its core.
+
+"The whole architecture is built around eventual consistency."
+"We built the roadmap around the one metric that actually matters to customers."
 
 [↑ Back to index](#index)
 
 # Build in
 
-Include a capability.
+To include a capability as a core part of something, from the start.
+
+"We built in rate limiting from day one instead of bolting it on later."
+"Retry logic was built in to the client SDK, not left to each caller."
 
 [↑ Back to index](#index)
 
 # Build On
 
-**Meaning:** To use something as a foundation to develop further.  
- **Example:** *We’ll build on last year’s success.*
+To use something as a foundation to develop further.
 
-Use a previous idea as a foundation.
+"We'll build on last year's success instead of starting from scratch."
+"The new feature builds on the caching layer we shipped last quarter."
 
 [↑ Back to index](#index)
 
 # Build out
 
-Expand functionality.
+To expand or fully develop the functionality of something.
+
+"We still need to build out the admin dashboard before the beta."
+"The team spent the sprint building out error handling for the payments flow."
 
 [↑ Back to index](#index)
 
@@ -2479,36 +2505,28 @@ To meet someone by chance.
 
 # Call for
 
-Require something in design.
+To require something as part of a design or situation.
+
+"This use case calls for eventual consistency, not strict consistency."
+"The scale we're operating at calls for a proper queue, not a cron job."
 
 [↑ Back to index](#index)
 
 # Call off
 
-Meaning: To cancel or terminate an event or activity.
+To cancel or terminate an event or activity.
 
-* Example 1: The conference has been called off due to unforeseen circumstances.  
-* Example 2: They decided to call off the meeting because most members couldn’t attend.
-
-To cancels
-
-I was calling off the meeting  
----
-
-To cancel something.
-
-Repeated: To cancel.
+"The conference has been called off due to unforeseen circumstances."
+"They decided to call off the meeting because most members couldn't attend."
 
 [↑ Back to index](#index)
 
 # Call on
 
-Meaning: To visit or request someone to do something.
+To visit or request someone to do something.
 
-* Example 1: The client called on us to present our proposal.  
-* Example 2: The teacher called on her to answer the question.
-
-To request someone to speak or act.
+"The client called on us to present our proposal."
+"The teacher called on her to answer the question."
 
 [↑ Back to index](#index)
 
@@ -2640,9 +2658,10 @@ Highlight an issue clearly.
 
 # Call out/in
 
-To call someone
+To call someone for help, or to publicly point something out.
 
-I was calling out for help but no one turned up.
+"I was calling out for help but no one turned up in time."
+"She called out the flawed assumption in the design doc during the review."
 
 [↑ Back to index](#index)
 
@@ -2670,8 +2689,10 @@ To formally ask someone to do something.
 
 # Calm down
 
-**Calm down** – To relax after being angry or upset.  
-He finally calmed down after the argument.
+To relax after being angry or upset.
+
+"He finally calmed down after the argument."
+"Take a minute to calm down before you reply to that email."
 
 [↑ Back to index](#index)
 
@@ -2716,28 +2737,19 @@ He finally calmed down after the argument.
 
 # Carry on
 
-Meaning: To continue or proceed with an activity.
+To continue or proceed with an activity.
 
-* Example 1: Despite the challenges, we need to carry on with our business plan.  
-* Example 2: He told us to carry on with the meeting while he attended to an urgent call.
-
-He could not carry on his project due to not having enough money.  
----
-
-Repeated: To continue.
+"Despite the challenges, we need to carry on with the plan."
+"He told us to carry on with the meeting while he took the urgent call."
 
 [↑ Back to index](#index)
 
 # Carry out
 
-Meaning: To perform or complete a task or action.
+To perform or complete a task or action.
 
-* Example 1: We need to carry out market research before launching the new product.  
-* Example 2: The scientists carried out an important experiment to test their hypothesis.
-
-To perform or execute a task.
-
-Execute plan.
+"We need to carry out market research before launching the new product."
+"The scientists carried out an important experiment to test their hypothesis."
 
 [↑ Back to index](#index)
 
@@ -2831,31 +2843,28 @@ idiom (often negative: "not carved in stone") — fixed and unchangeable, based 
 
 # Cash in
 
-Meaning: To profit or benefit from a situation or opportunity.
+To profit or benefit from a situation or opportunity.
 
-* Example 1: The company was able to cash in on the growing demand for eco-friendly products.  
-* Example 2: She cashed in her shares at the peak of the market.
-
-To convert to money; to take advantage of something.
+"The company was able to cash in on the growing demand for eco-friendly products."
+"She cashed in her shares at the peak of the market."
 
 [↑ Back to index](#index)
 
 # Cast off
 
-To abandon
+To abandon, discard, or get rid of something.
 
-Snake casts off the outer skin.  
----
-
-To discard or get rid of.
+"A snake casts off its outer skin as it grows."
+"He cast off the old habit of skipping code review once it caused a real incident."
 
 [↑ Back to index](#index)
 
 # Catch up
 
-Sync old data with new pipeline.
+To sync old data with a new pipeline, or reach the same point as others.
 
-Reach the same point as others.
+"The backfill job needs a few hours to catch up on the historical data."
+"He spent the weekend catching up on the backlog after being out sick."
 
 [↑ Back to index](#index)
 
@@ -2898,18 +2907,19 @@ Reach the same point as others.
 
 # Catch up on
 
-Meaning: To update or complete something that was missed or delayed.
+To make up for lost progress on something delayed.
 
-* Example 1: I need to catch up on my emails after being out of the office.  
-* Example 2: He spent the weekend catching up on his reading assignments.
-
-To make up for lost progress.
+"I need to catch up on my emails after being out of the office."
+"He spent the weekend catching up on the backlog."
 
 [↑ Back to index](#index)
 
 # Cater to
 
-Address or serve specific needs.
+To address or serve specific needs.
+
+"The enterprise tier caters to customers who need SSO and audit logs."
+"This feature caters to power users, not the average customer."
 
 [↑ Back to index](#index)
 
@@ -2967,9 +2977,10 @@ sketch or plan something.
 
 # charity begins at home
 
-phrase of charity  
-proverb  
-a person's first responsibility is for the needs of their own family and friends.
+A person's first responsibility is for the needs of their own family and friends.
+
+"He always says charity begins at home — fix your own team's process before advising others."
+"Charity begins at home: get your own service stable before you start consulting on someone else's."
 
 [↑ Back to index](#index)
 
@@ -2986,53 +2997,55 @@ a person's first responsibility is for the needs of their own family and friends
 
 # Check against
 
-Compare with policies.
+To compare something with policies, rules, or a reference standard.
+
+"The linter checks every commit against our style policy."
+"We checked the new hire's access against the least-privilege policy."
 
 [↑ Back to index](#index)
 
 # Check in
 
-Meaning: To register or report arrival at a place.
+To register arrival at a place, or touch base with someone.
 
-* Example 1: Please check in at the reception desk before attending the conference.  
-* Example 2: They checked in at the hotel late in the evening.
-
-**Check in** – To register at a hotel or airport.  
- We checked in at 3 PM.
-
-To register at a hotel or airport; or touch base.
-
-Confirm progress or alignment.
-
-Validate system performance.
+"Please check in at the reception desk before the conference."
+"I wanted to check in and see how the migration is going."
 
 [↑ Back to index](#index)
 
 # Check in on
 
-Supervise progress.
+To supervise or follow up on someone's progress.
+
+"I'll check in on the migration status after lunch."
+"Can you check in on the new hire's onboarding this week?"
 
 [↑ Back to index](#index)
 
 # Check off
 
-Mark completed tasks.
+To mark tasks as completed.
+
+"We checked off every item on the launch checklist before going live."
+"He checked off the migration steps one by one in the runbook."
 
 [↑ Back to index](#index)
 
 # Check out
 
-**Check out** – To leave a hotel or look at something.  
- We checked out this morning.
+To leave a hotel, look at something, or inspect it closely.
 
-Inspect something closely.
+"We checked out of the hotel this morning before the conference."
+"Can you check out this PR before I merge it?"
 
 [↑ Back to index](#index)
 
 # Cheer up
 
-**Cheer up** – To become happier.  
-Cheer up\! Things will get better.
+To become happier.
+
+"Cheer up! Things will get better once the release ships."
+"She tried to cheer up the team after the rough outage."
 
 [↑ Back to index](#index)
 
@@ -3205,15 +3218,10 @@ It suggests that even small, consistent actions can lead to big results over tim
 
 # choke back
 
-**Meaning:** To hold back tears or emotions.  
-**Example:** She choked back her tears during the speech.  
-**Context:** Emotions.
+To suppress a strong emotion, such as tears or anger.
 
-verb
-
-suppress a strong emotion
-
-Liz was choking back her anger
+"She choked back her tears during the farewell speech."
+"He choked back his frustration and gave calm, constructive feedback instead."
 
 [↑ Back to index](#index)
 
@@ -3280,7 +3288,10 @@ Return to a point later.
 
 # Circle back to
 
-Revisit topic later.
+To revisit a topic later.
+
+"Let's circle back to the pricing question after we settle the scope."
+"I said I'd circle back to him, and I still haven't — my bad."
 
 [↑ Back to index](#index)
 
@@ -3297,31 +3308,19 @@ To respond sharply or insultingly to criticism.
 
 # Clean out
 
-Remove stale data.
+To remove stale or unnecessary data.
+
+"We cleaned out three years of unused feature flags last sprint."
+"Clean out the old log files before the disk fills up."
 
 [↑ Back to index](#index)
 
 # clean up
 
-**Meaning:** To tidy or make a place clean; also, to fix or improve a situation.  
-**Example:** We need to clean up this mess before the guests arrive.  
-**Context:** Housekeeping, fixing problems.
+To tidy or make something clean; also, to fix or improve a messy situation.
 
-verb
-
-make someone or something clean or neat
-
-he always expected other people to clean up after him
-
-I cleaned up my room
-
-we cleaned Uncle Jim up and made him presentable
-
-Remove unnecessary items or errors.
-
-Purge old builds.
-
-Remove defects.
+"We need to clean up this mess before the guests arrive."
+"He always expected other people to clean up after him."
 
 [↑ Back to index](#index)
 
@@ -3412,50 +3411,37 @@ It suggests that someone was not doing well (messy, lazy, careless, etc.) and no
 
 # cling (on) to
 
-verb
+To hold on tightly to something or someone.
 
-hold on tightly to
-
-she clung to Joe's arm
-
-we sat clinging on to one another
-
-she clung on to life for 16 days
-
-the smell of smoke clung to their clothes
-
-the fabric clung to her smooth skin
-
-the fish cling to the line of the weed
-
-she clung resolutely to her convictions
-
-you are clinging to him for security
+"She clung to Joe's arm the whole time."
+"He clung on to his convictions even when the whole room disagreed."
 
 [↑ Back to index](#index)
 
 # Cling to
 
-Stick to an idea strongly.
+To stick to an idea strongly, sometimes past the point it's useful.
+
+"He clung to the original design even after three reviewers flagged issues."
+"The team clung to the old process longer than it actually served them."
 
 [↑ Back to index](#index)
 
 # Close down
 
-Meaning: To stop operating.
+To stop operating, or permanently shut a business.
 
-* Example 1: The firm has decided to close down its Chicago branch.  
-* Example 2: Many small businesses were forced to close down due to the pandemic.
-
-To permanently shut a business.
+"The firm has decided to close down its Chicago branch."
+"Many small businesses were forced to close down during the downturn."
 
 [↑ Back to index](#index)
 
 # Close out
 
-Finalize governance stages.
+To finish a task, project, or governance stage.
 
-Finish a task or project.
+"We closed out the last three items on the launch checklist this morning."
+"The audit closed out with no major findings."
 
 [↑ Back to index](#index)
 
@@ -3475,7 +3461,10 @@ In this context, clouding means to obscure or confuse clear thinking, like how c
 
 # Code up
 
-Implement something in code.
+To implement something in code.
+
+"He coded up a quick prototype to validate the idea before the design doc."
+"We coded up the algorithm from the paper in an afternoon."
 
 [↑ Back to index](#index)
 
@@ -3543,52 +3532,46 @@ Appear or seem a certain way.
 
 # Come Around
 
-**Meaning:** To change your mind or opinion; also means to regain consciousness.  
- **Example:** *He didn’t like the idea at first, but he’ll come around.*  
- *She fainted, but she came around after a few minutes.*
+To change your mind or opinion; also, to regain consciousness.
+
+"He didn't like the idea at first, but he'll come around."
+"She fainted, but she came around after a few minutes."
 
 [↑ Back to index](#index)
 
 # Come by
 
-To pass
+To pass by, obtain something, or visit briefly.
 
-He just came by me but i ignored
-
-To obtain something; or visit briefly.
+"He just came by me but I ignored him — too much on my mind."
+"Good engineers who also communicate well are hard to come by."
 
 [↑ Back to index](#index)
 
 # Come down
 
-Decrease in the price
+To decrease, decline, or fall, such as in price.
 
-Prices are coming down
-
-To decline, fall, or decrease.
+"Cloud prices have been coming down as competition increases."
+"Error rates came down significantly after the fix shipped."
 
 [↑ Back to index](#index)
 
 # come from
 
-verb
+To originate in something, or have something as a source.
 
-originate in something; have something as its source
-
-the word caviar comes from the Italian caviale
-
-there is an incredible freedom that comes from being in control of your finances
-
-I come from the Bronx
-
-he comes from a family of artists
+"The word caviar comes from the Italian caviale."
+"That constraint comes from a compliance requirement, not a technical limitation."
 
 [↑ Back to index](#index)
 
 # Come in
 
-**Come in** – To enter a place.  
- Please come in and have a seat.
+To enter a place.
+
+"Please come in and have a seat."
+"He came in late to the meeting and missed the context entirely."
 
 [↑ Back to index](#index)
 
@@ -3603,17 +3586,10 @@ he comes from a family of artists
 
 # come on
 
-verb
+To occur or become available; to start running or operating; or to become visible.
 
-occur or become available
-
-start running, functioning, or operating
-
-the computer came up
-
-appear or become visible; make a showing
-
-I hope the list key is going to surface again
+"The computer came up quickly after the restart."
+"I hope the missing feature comes on in the next release."
 
 [↑ Back to index](#index)
 
@@ -3708,19 +3684,19 @@ Thank you, You and Luis really came through.
 
 # Come to
 
-Amount to
+To amount to a total; also, to regain consciousness or arrive at a conclusion.
 
-Rs 20 fro onion  and Rs 10 for pen. It comes to 30\.
+"Rs 20 for onions and Rs 10 for the pen — it comes to Rs 30."
+"After a long debate, the team came to a decision on the vendor."
 
 [↑ Back to index](#index)
 
 # come to grief
 
-idiomatic
+To have an accident, or meet with disaster.
 
-have an accident; meet with disaster
-
-many a ship has come to grief along this shore
+"Many a ship has come to grief along this shore."
+"The migration came to grief when the rollback script itself had a bug."
 
 [↑ Back to index](#index)
 
@@ -3782,17 +3758,10 @@ Appear or surface unexpectedly.
 
 # Come up with
 
-Meaning: To suggest or produce an idea or solution.
+To suggest or produce an idea or solution.
 
-* Example 1: We need to come up with a creative marketing campaign for the new product.  
-* Example 2: He came up with an innovative idea to increase customer engagement.
-
-**Come up with** – To invent or think of something.  
- She came up with a great idea.
-
-I have come up with an idea
-
-Create idea.
+"We need to come up with a creative marketing campaign for the new product."
+"She came up with a clever workaround that avoided touching the legacy code."
 
 [↑ Back to index](#index)
 
@@ -3850,26 +3819,37 @@ Example:
 
 # Converge on
 
-Agree on a final point.
+To agree on a final point after discussion.
+
+"After an hour of debate, we converged on the simpler design."
+"The team converged on Kafka once the ordering requirement became clear."
 
 [↑ Back to index](#index)
 
 # Cook up
 
-Create something quickly (informal).
+To create something quickly, often informally.
+
+"She cooked up a workaround while we waited for the vendor's real fix."
+"He cooked up a quick script to reprocess the failed records."
 
 [↑ Back to index](#index)
 
 # Cope With
 
-**Meaning:** To deal with or manage a difficult situation.  
- **Example:** *He’s learning to cope with stress.*
+To deal with or manage a difficult situation.
+
+"He's learning to cope with the stress of being on-call every other week."
+"The team coped with the outage better than expected, thanks to the runbook."
 
 [↑ Back to index](#index)
 
 # Copy over
 
-Duplicate to another region.
+To duplicate something to another location or region.
+
+"We copy the config over to the DR region every night."
+"Copy the schema over before running the migration on the replica."
 
 [↑ Back to index](#index)
 
@@ -3925,17 +3905,10 @@ For example:
 
 # crack up
 
-**Meaning:** To laugh uncontrollably or to become mentally ill.  
-**Example:** The comedian cracked us up.  
-**Context:** Humor, mental health.
+To laugh uncontrollably; informally, to become mentally overwhelmed.
 
-verb
-
-burst into laughter
-
-she tries to keep a straight face, but she keeps cracking up
-
-this photo cracks me up
+"The comedian cracked us up all night."
+"She tries to keep a straight face, but she keeps cracking up."
 
 [↑ Back to index](#index)
 
@@ -3985,7 +3958,10 @@ Something enters slowly and gradually — without you realizing it at first.
 
 # Creep out
 
-creeped out; creeping out; creeps out. US, informal. : to cause (someone) to have an uncomfortable feeling of nervousness or fear : to give (someone) the creeps. That guy really creeps me out. I felt creeped out being alone in the office at night.
+To cause someone to feel uncomfortable, nervous, or afraid.
+
+"That guy really creeps me out."
+"I felt creeped out being alone in the office at night."
 
 [↑ Back to index](#index)
 
@@ -4026,31 +4002,28 @@ creeped out; creeping out; creeps out. US, informal. : to cause (someone) to hav
 
 # Cut across
 
-Impact multiple components.
+To impact or span multiple components or teams.
+
+"This outage cuts across three services, so we need all three teams on the call."
+"The new compliance requirement cuts across every product line, not just one."
 
 [↑ Back to index](#index)
 
 # Cut back
 
-Meaning: To reduce or decrease something, such as expenses or staff.
+To reduce or decrease something, such as expenses or activities.
 
-* Example 1: Due to budget constraints, we had to cut back on marketing expenses.  
-* Example 2: The company decided to cut back on unnecessary meetings to save time.
-
-To reduce (expenses, activities).
+"Due to budget constraints, we had to cut back on marketing spend."
+"The company decided to cut back on unnecessary meetings to save time."
 
 [↑ Back to index](#index)
 
 # Cut down
 
-Repeated: To reduce.
+To reduce quantity, complexity, or resource usage.
 
-Prices are cut down by a great extent  
----
-
-Reduce quantity or complexity.
-
-Reduce resource usage.
+"Prices were cut down significantly during the promotion."
+"We cut down the memory footprint by removing the unused cache layer."
 
 [↑ Back to index](#index)
 
@@ -4079,31 +4052,19 @@ begin to act without restraint.
 
 # Cut off
 
-Meaning: To terminate or stop something abruptly.
+To disconnect or terminate something abruptly, such as a call or supply.
 
-* Example 1: The supplier cut off the delivery due to payment issues.  
-* Example 2: The phone call was cut off due to poor network connectivity.
-
-To end
-
-He cut off the phone  
----
-
-To disconnect (call, utilities); or isolate.
-
-Repeated: To stop supply or communication.
-
-Stop training early.
+"The supplier cut off the delivery due to payment issues."
+"The call was cut off due to poor network connectivity."
 
 [↑ Back to index](#index)
 
 # Cut over
 
-Final shift from old infra to new.
+To make the final shift from old infrastructure or system to a new one.
 
-Switch live traffic to new model.
-
-Switch from old to new system.
+"We cut over to the new database at 2am to minimize disruption."
+"The cutover from the old model to the new one happened without any downtime."
 
 [↑ Back to index](#index)
 
@@ -4173,11 +4134,10 @@ The phrase **“day in and day out”** means something that happens **regularly
 
 # day tripper
 
-noun
+A person who goes on a journey or excursion, especially for pleasure, that is completed in one day.
 
-a person who goes on a journey or excursion, especially for pleasure, that is completed in one day
-
-a popular destination for day trippers
+"The coastal town is a popular destination for day trippers."
+"We were day trippers to the coast — left at dawn, back by dinner."
 
 [↑ Back to index](#index)
 
@@ -4213,19 +4173,28 @@ You dazzled me.
 
 # Dial down
 
-Reduce QPS.
+To reduce the intensity or rate of something, often gradually.
+
+"We dialed down the request rate to stop overwhelming the downstream service."
+"Let's dial down the alert sensitivity — it's paging on noise, not real issues."
 
 [↑ Back to index](#index)
 
 # Dial in
 
-Tune something to the right level.
+To tune something to the right level.
+
+"We dialed in the alert thresholds after a week of noisy pages."
+"It took a few iterations to dial in the right cache TTL."
 
 [↑ Back to index](#index)
 
 # Dial up
 
-Increase serving throughput.
+To increase serving throughput or intensity.
+
+"We dialed up the replica count ahead of the expected traffic spike."
+"Dial up the log verbosity while we're actively debugging this."
 
 [↑ Back to index](#index)
 
@@ -4240,14 +4209,19 @@ Increase serving throughput.
 
 # Die Down
 
-**Meaning:** To become weaker or quieter.  
- **Example:** *The noise finally died down after midnight.*
+To become weaker or quieter.
+
+"The noise finally died down after midnight."
+"Traffic died down about an hour after the marketing email went out."
 
 [↑ Back to index](#index)
 
 # Dip into
 
-Access a resource lightly.
+To access or use a resource lightly, without full commitment.
+
+"We dipped into the reserve budget to cover the unexpected overage."
+"He dipped into the documentation just enough to get unblocked."
 
 [↑ Back to index](#index)
 
@@ -4311,23 +4285,28 @@ Dressed nicely or glamorously.
 
 # double down
 
-*(no definition captured in original notes — flagged for manual fill)*
+To strengthen commitment to a plan, especially after doubt or pushback.
 
-Strengthen commitment to a plan.
+"Instead of backing off, leadership doubled down on the original roadmap."
+"We doubled down on the caching approach once the first test showed real gains."
 
 [↑ Back to index](#index)
 
 # draw attention to
 
-idiomatic
+To ask people to look at or notice something.
 
-ask people to look at something
+"I want to draw attention to the risk buried on slide 12."
+"The report draws attention to a gap in our alerting, not just the immediate bug."
 
 [↑ Back to index](#index)
 
 # Draw out
 
-Encourage someone to speak or explain.
+To encourage someone to speak or explain more.
+
+"Good interview questions draw out how someone actually thinks, not just what they know."
+"She drew the quieter engineer out during the design review with a direct question."
 
 [↑ Back to index](#index)
 
@@ -4368,7 +4347,10 @@ To **slowly lose focus, interest, or connection**, without realizing it.
 
 # Drift off
 
-Move away from expected behaviour.
+To move away from expected behavior.
+
+"The model's predictions drifted off from ground truth as the input distribution changed."
+"The meeting drifted off topic within the first ten minutes."
 
 [↑ Back to index](#index)
 
@@ -4408,27 +4390,28 @@ To fall asleep gradually.
 
 # Drill down
 
-Inspect drift root cause.
+To explore details deeply, such as the root cause of a drift or anomaly.
 
-Explore details deeply.
+"Let's drill down into why accuracy dropped after the last deploy."
+"She drilled down into the metrics and found the anomaly was isolated to one region."
 
 [↑ Back to index](#index)
 
 # Drill down into
 
-idiom
+To examine or investigate something in detail.
 
-examine or investigate something in detail
-
-Explore deeper or analyze in detail.
+"Let's drill down into why accuracy dropped after the last deploy."
+"She drilled down into the metrics and found the anomaly was isolated to one region."
 
 [↑ Back to index](#index)
 
 # Drill into
 
-Check logs deeply.
+To inspect something deeply, such as logs or a root cause.
 
-Inspect deeper.
+"Let's drill into the logs for the exact timestamp of the failure."
+"She drilled into the metrics and found the anomaly was isolated to one region."
 
 [↑ Back to index](#index)
 
@@ -4480,28 +4463,37 @@ Used a lot in **casual conversation**, especially when you want to say:
 
 # Drop off
 
-Decrease over time.
+To decrease over time.
+
+"Signups dropped off sharply after the free trial ended."
+"Engagement drops off fast if onboarding takes more than two minutes."
 
 [↑ Back to index](#index)
 
 # Drop out (of)
 
-**Drop out (of)** – To leave school or a program.  
- He dropped out of college in his second year.
+To leave school or a program before completing it.
+
+"He dropped out of college in his second year."
+"She dropped out of the certification program once the new job started."
 
 [↑ Back to index](#index)
 
 # due diligence
 
-noun
+The process of conducting a thorough and careful investigation before making an important decision.
 
-the process of conducting a thorough and careful investigation or research before making an important decision
+"We did our due diligence on the vendor before signing the contract."
+"Skipping due diligence on that acquisition is how they inherited the security debt."
 
 [↑ Back to index](#index)
 
 # Ease off
 
-Reduce intensity.
+To reduce the intensity or pressure of something.
+
+"Traffic eased off once the promotion ended."
+"Ease off the aggressive retries — they're what's causing the cascading failure."
 
 [↑ Back to index](#index)
 
@@ -4542,32 +4534,37 @@ Example:
 
 # Edge out
 
-Slowly outperform.
+To slowly outperform or surpass a competitor.
+
+"Our latency numbers edged out the competitor's by the end of the quarter."
+"The smaller vendor edged out the incumbent on price and support responsiveness."
 
 [↑ Back to index](#index)
 
 # Effect Change
 
-**Meaning:** To bring about or cause change.  
- **Example:** *They’re working to effect positive change in the system.*
+To bring about or cause change.
+
+"They're working to effect positive change in how the team handles incidents."
+"One person can effect change if they're persistent and back it with data."
 
 [↑ Back to index](#index)
 
 # Elaborate on
 
-Give deeper explanation.
+To give a deeper or more detailed explanation.
+
+"Can you elaborate on why you picked this approach over the alternative?"
+"She elaborated on the trade-offs after the initial one-line summary."
 
 [↑ Back to index](#index)
 
 # elbow room
 
-noun
+Adequate space to move or work in.
 
-adequate space to move or work in
-
-the car has elbow room for four adults
-
-Quebec wants a little more elbow room within the federation
+"The car has elbow room for four adults comfortably."
+"Quebec wants a little more elbow room within the federation."
 
 [↑ Back to index](#index)
 
@@ -4588,8 +4585,10 @@ Quebec wants a little more elbow room within the federation
 
 # Employment Rate
 
-**Meaning:** The percentage of people employed.  
- **Example:** *The employment rate rose this year.*
+The percentage of people employed.
+
+"The employment rate rose this year despite the broader economic slowdown."
+"A dropping employment rate was one signal the analysts tracked closely."
 
 [↑ Back to index](#index)
 
@@ -4697,13 +4696,19 @@ Meaning:
 
 # Even out
 
-Make balanced or stable.
+To make something balanced or stable.
+
+"Traffic evened out an hour after the promotion ended."
+"We adjusted the load balancer weights to even out the request distribution."
 
 [↑ Back to index](#index)
 
 # Ever since
 
-Ever since I decided to refuse to settle, my life has been on a path of unstoppable growth and transformation.
+From a specific time in the past until now.
+
+"Ever since I decided to stop settling, my career has been on a much better trajectory."
+"Ever since the migration, deploy times have dropped by half."
 
 [↑ Back to index](#index)
 
@@ -4718,15 +4723,19 @@ Ever since I decided to refuse to settle, my life has been on a path of unstoppa
 
 # Expand on
 
-Add more detail.
+To add more detail to a point already made.
+
+"Let me expand on that — the risk isn't the migration, it's the rollback."
+"He expanded on his answer once the interviewer asked a follow-up."
 
 [↑ Back to index](#index)
 
 # Explain away
 
-Justify behaviour.
+To justify a mistake or behavior, often dismissively.
 
-Justify a mistake.
+"He tried to explain away the outage as 'just bad luck.'"
+"Don't explain away a recurring bug — treat the third occurrence as a pattern."
 
 [↑ Back to index](#index)
 
@@ -4756,13 +4765,19 @@ Justify a mistake.
 
 # Factor in
 
-Include in decision-making.
+To include something in a decision or calculation.
+
+"Factor in the on-call burden before agreeing to this architecture."
+"We didn't factor in the holiday freeze when we set the deadline."
 
 [↑ Back to index](#index)
 
 # Fail back
 
-Return to primary after recovery.
+To return to the primary system after recovery.
+
+"Once the primary region was healthy again, we failed back from DR."
+"We test failing back, not just failing over — recovery has bugs too."
 
 [↑ Back to index](#index)
 
@@ -4777,7 +4792,10 @@ Return to primary after recovery.
 
 # Fail over
 
-Automatically switch to backup.
+To automatically switch to a backup system when the primary fails.
+
+"The database fails over to the replica within seconds of a primary outage."
+"We tested the fail-over path quarterly to make sure it still works."
 
 [↑ Back to index](#index)
 
@@ -4798,7 +4816,10 @@ Automatically switch to backup.
 
 # Fall back on
 
-Use backup plan.
+To use a backup plan or fallback option.
+
+"If the automated rollback fails, we fall back on the manual runbook."
+"He fell back on his old notes when the new documentation turned out to be wrong."
 
 [↑ Back to index](#index)
 
@@ -4853,7 +4874,10 @@ Something is not near completion; more to come.
 
 # Feed in
 
-Input data to models.
+To input data into a model or system.
+
+"We feed the cleaned dataset in batches into the training job."
+"Real-time events are fed in as they arrive, not batched hourly."
 
 [↑ Back to index](#index)
 
@@ -4976,80 +5000,73 @@ Solve or understand something.
 
 # Fill in
 
-Meaning: To provide information or substitute for someone temporarily.
+To provide missing information, or substitute for someone temporarily.
 
-* Example 1: Can you fill in for me while I’m on vacation?  
-* Example 2: Please fill in the blanks to complete the form.
-
-To complete; or substitute temporarily.
-
-Provide missing details.
-
-Handle missing values.
+"Can you fill in for me while I'm on vacation?"
+"Please fill in the blanks to complete the form."
 
 [↑ Back to index](#index)
 
 # Fill in for
 
-Meaning: To substitute or temporarily take someone’s place.
+To substitute or temporarily take someone's place.
 
-* Example 1: Can you fill in for John while he’s on sick leave?  
-* Example 2: She filled in for her colleague during his vacation.
+"Can you fill in for John while he's on sick leave?"
+"She filled in for her colleague during his vacation."
 
 [↑ Back to index](#index)
 
 # Fill out
 
-Meaning: To complete or provide information on a form or document.
+To complete a form or document.
 
-* Example 1: Please fill out the application form and submit it by Friday.  
-* Example 2: He filled out the registration form quickly and handed it to the receptionist.
-
-**Fill out** – To complete a form.  
- Please fill out this application form.
+"Please fill out the application form and submit it by Friday."
+"He filled out the registration form quickly and handed it to the receptionist."
 
 [↑ Back to index](#index)
 
 # Fill up
 
-Meaning: To reach maximum capacity or occupancy.
+To reach maximum capacity or occupancy.
 
-* Example 1: The conference room filled up quickly, so we had to find an alternative space.  
-* Example 2: The parking lot filled up within minutes of opening.
-
-To make full.
+"The conference room filled up quickly, so we had to find an alternative space."
+"The parking lot filled up within minutes of opening."
 
 [↑ Back to index](#index)
 
 # Filter out
 
-Remove unnecessary items.
+To remove unnecessary items or noise.
 
-Remove noisy metrics.
-
-Remove noise.
+"We filter out bot traffic before calculating conversion rate."
+"The dashboard filters out noisy metrics so the real signal is easier to see."
 
 [↑ Back to index](#index)
 
 # Find One’s Bearing
 
-**Meaning:** To figure out where you are or what to do.  
- **Example:** *It took me a while to find my bearings in the new city.*
+To figure out where you are or what to do.
+
+"It took me a while to find my bearings in the new city."
+"He spent the first week just finding his bearings in the new codebase."
 
 [↑ Back to index](#index)
 
 # Find out
 
-**Find out** – To discover information.  
- I found out the truth yesterday.
-
 To discover or learn something new.
+
+"I found out the truth yesterday, and it changed the whole plan."
+"We need to find out why the job fails only on Mondays."
 
 [↑ Back to index](#index)
 
 # Fire off
 
-Trigger monitoring rule.
+To trigger something quickly, such as a monitoring rule or message.
+
+"The anomaly detector fired off an alert within seconds of the spike."
+"He fired off a quick message to the on-call channel before diving in."
 
 [↑ Back to index](#index)
 
@@ -5064,24 +5081,28 @@ phrasal verb — 1) to start up (a machine, engine, or piece of software). 2) to
 
 # Fix up
 
-Apply small corrections.
+To apply small corrections to something.
+
+"Can you fix up the formatting before you push?"
+"We fixed up a couple of edge cases the reviewer flagged."
 
 [↑ Back to index](#index)
 
 # Fixate On
 
-**Meaning:** To focus too much on something.  
- **Example:** *Don’t fixate on your mistakes.*
+To focus too much on something.
+
+"Don't fixate on your mistakes — fix the process, not just the incident."
+"He fixated on one edge case and lost sight of the bigger design problem."
 
 [↑ Back to index](#index)
 
 # Flag up
 
-Highlight risk or anomaly.
+To highlight a risk, anomaly, or concern.
 
-Point out a concern.
-
-Alert on anomaly.
+"She flagged up a potential race condition during the design review."
+"The monitor flags up anomalies before they become full outages."
 
 [↑ Back to index](#index)
 
@@ -5097,13 +5118,19 @@ Alert on anomaly.
 
 # Flow through
 
-Walk through user journey.
+To walk through a user journey or process end to end.
+
+"Let's flow through the signup process as a new user would see it."
+"The request flows through three services before hitting the database."
 
 [↑ Back to index](#index)
 
 # Flush out
 
-Force pushing buffered logs.
+To force pushing buffered logs or data out.
+
+"We flush the logs out to disk every five seconds to limit data loss on crash."
+"The buffer was flushed out manually to debug the missing records."
 
 [↑ Back to index](#index)
 
@@ -5148,7 +5175,10 @@ Ensure completion.
 
 # Follow up
 
-Check status after an initial action.
+To check status after an initial action.
+
+"I'll follow up with the vendor if we don't hear back by Friday."
+"He followed up on the ticket a week later since nobody had picked it up."
 
 [↑ Back to index](#index)
 
@@ -5164,8 +5194,10 @@ Check status after an initial action.
 
 # For a Living
 
-**Meaning:** As a job or profession.  
- **Example:** *What do you do for a living?*
+As a job or profession.
+
+"What do you do for a living?"
+"He debugs distributed systems for a living, so this doesn't faze him."
 
 [↑ Back to index](#index)
 
@@ -5265,7 +5297,10 @@ Here, it means: *maybe not officially, but effectively that’s the case*.
 
 # Freeze up
 
-System or person stops responding.
+For a system or person to stop responding.
+
+"The UI froze up under the load test's concurrent requests."
+"He froze up during the live demo when the API returned an unexpected error."
 
 [↑ Back to index](#index)
 
@@ -5355,50 +5390,46 @@ It’s very similar to *“going forward”*, but it feels a bit **stronger and 
 
 # Game Changer
 
-**Meaning:** Something that completely changes a situation.  
- **Example:** *Cloud computing was a game changer for the tech industry.*
+Something that completely changes a situation.
+
+"Cloud computing was a game changer for the tech industry."
+"That one optimization was a game changer for our latency numbers."
 
 [↑ Back to index](#index)
 
 # Game of Cat and Mouse
 
-**Meaning:** A chase where one tries to catch or outsmart the other.  
-**Example:** *The hacker and the security team are in a game of cat and mouse.*
+A chase where one side tries to catch or outsmart the other.
+
+"The hacker and the security team were in a game of cat and mouse for days."
+"Negotiating the contract felt like a game of cat and mouse over the final price."
 
 [↑ Back to index](#index)
 
 # Gear up
 
-Meaning: To prepare or get ready for something.
+To prepare or get ready for something.
 
-* Example 1: The team is gearing up for the product launch next week.  
-* Example 2: We’re gearing up for the annual conference.
-
-To get ready or prepare.
-
-Prepare for a task.
+"The team is gearing up for the product launch next week."
+"We're gearing up for the annual conference."
 
 [↑ Back to index](#index)
 
 # get across
 
-**Meaning:** To successfully communicate or explain.  
-**Example:** He got his point across during the meeting.  
-**Context:** Communication.
+To successfully communicate or explain an idea.
 
-verb
-
-(of an idea) be communicated clearly
-
-your meaning didn't really get across
-
-he's not very good at getting his ideas across
+"He got his point across clearly during the meeting."
+"Your meaning didn't really get across in that last message — can you rephrase?"
 
 [↑ Back to index](#index)
 
 # Get ahead
 
-Make progress faster than others.
+To make progress faster than others, or ahead of a problem.
+
+"We got ahead of the traffic spike by scaling up the night before."
+"She got ahead in her career by taking on the projects nobody else wanted."
 
 [↑ Back to index](#index)
 
@@ -5473,13 +5504,10 @@ Find a workaround.
 
 # get at
 
-verb
+To reach or gain access to something, or to imply something indirectly.
 
-reach or gain access to something
-
-it's difficult to get at the screws
-
-the truth is sometimes difficult to get at
+"It's difficult to get at the screws without the right tool."
+"What are you trying to get at with that comment?"
 
 [↑ Back to index](#index)
 
@@ -5501,31 +5529,28 @@ used to express disbelief or scepticism
 
 # Get away with
 
-verb
+To escape blame, punishment, or undesirable consequences for something wrong.
 
-escape blame, punishment, or undesirable consequences for an act that is wrong
-
-you'll never get away with this
-
-To escape
-
-He got away with the punishment.
+"You'll never get away with skipping code review forever."
+"He got away with the missed deadline because nobody else noticed the dependency."
 
 [↑ Back to index](#index)
 
 # Get back to
 
-Respond later.
+To respond to someone later, after some delay.
+
+"Let me check with the team and get back to you by end of day."
+"I never got back to him about the PR — I'll do it now."
 
 [↑ Back to index](#index)
 
 # get cracking
 
-idiomatic
+To act quickly and energetically.
 
-act quickly and energetically
-
-most tickets have been snapped up, so get cracking if you want one
+"Most tickets have been snapped up, so get cracking if you want one."
+"The demo's in two hours, so let's get cracking."
 
 [↑ Back to index](#index)
 
@@ -5565,9 +5590,10 @@ The phrase **"Get going"** means to start moving, taking action, or beginning so
 
 # Get in / Get on
 
-To board a vehicle 
+To board a vehicle.
 
-I got on the bus.
+"I got on the bus just before it pulled away."
+"Get in, we're already late for the airport."
 
 [↑ Back to index](#index)
 
@@ -5639,9 +5665,10 @@ Start being deeply involved.
 
 # Get off / Get Down
 
-To leave a vehicle
+To leave a vehicle or surface.
 
-He was getting off the car.
+"He was getting off the bus when he realized he'd left his laptop behind."
+"Get down from the ladder before you reach for that cable."
 
 [↑ Back to index](#index)
 
@@ -5655,8 +5682,10 @@ phrasal verb (informal) — to derive pleasure or excitement from something, oft
 
 # Get Off Work
 
-**Meaning:** To finish one’s work for the day.  
- **Example:** *I get off work at six.*
+To finish one's work for the day.
+
+"I get off work at six most days."
+"He got off work late every night that week to finish the migration."
 
 [↑ Back to index](#index)
 
@@ -5689,16 +5718,19 @@ Meaning:
 
 # Get on with
 
-Continue working.
+To continue working on something, often after a pause or distraction.
+
+"Let's wrap up this tangent and get on with the actual agenda."
+"Once the outage was resolved, we got on with the planned release."
 
 [↑ Back to index](#index)
 
 # get one's feet wet
 
-phrase of foot  
-begin to participate in an activity.
+To begin participating in an activity, often to gain initial experience.
 
-get your feet wet
+"She took the small bug fix first just to get her feet wet with the codebase."
+"This project is a good way to get your feet wet with distributed systems."
 
 [↑ Back to index](#index)
 
@@ -5723,41 +5755,28 @@ get your feet wet
 
 # get out
 
-**Meaning:** To leave or escape from somewhere.  
-**Example:** Get out of the house quickly!  
-**Context:** Emergency, leaving.
+To leave or escape from somewhere; also, for a secret to become known.
 
-verb
-
-(of something previously secret) become known
-
-news got out that we were coming
+"Get out of the house quickly — there's a gas leak!"
+"News got out that we were planning the acquisition before the official announcement."
 
 [↑ Back to index](#index)
 
 # Get out of
 
-To leave for outside
+To leave a place, or to avoid doing something.
 
-I want you to get out of my home.
+"I want you to get out of the meeting room, we need it for the client call."
+"He tried to get out of presenting at the all-hands."
 
 [↑ Back to index](#index)
 
 # get over
 
-verb
+To recover from an ailment or an upsetting experience.
 
-recover from an ailment or an upsetting or startling experience | To recover from some trouble
-
-the trip will help him get over Sal's death
-
-she is currently seeing a psychiatrist to get over her fear of answering the door
-
-he struggles to get over her
-
-**Meaning:** To recover from something (illness, disappointment).  
-**Example:** It took her months to get over the breakup.  
-**Context:** Recovery.
+"The trip helped him get over the loss."
+"It took her months to get over the disappointment of the rejected proposal."
 
 [↑ Back to index](#index)
 
@@ -5771,11 +5790,10 @@ he struggles to get over her
 
 # get rid of
 
-idiomatic
+To take action to free yourself of a troublesome or unwanted person or thing.
 
-take action so as to be free of (a troublesome or unwanted person or thing)
-
-we have been campaigning to get rid of the car tax for 20 years
+"We have been campaigning to get rid of the outdated approval process for 20 years."
+"Time to get rid of the unused feature flags cluttering the config."
 
 [↑ Back to index](#index)
 
@@ -5800,31 +5818,28 @@ Learning to drive was terrifying \- I kept mixing up the brake and accelerator, 
 
 # Get Through
 
-To pass an exam/ a test
+To pass an exam or test, or to successfully complete or survive something.
 
-I couldn’t get through the exam.
-
-Successfully complete or survive.
+"I couldn't get through the exam on the first try."
+"We got through the incident without any data loss, which felt like a win."
 
 [↑ Back to index](#index)
 
 # get through to
 
-verb
+To succeed in communicating with someone in a meaningful way.
 
-succeed in communicating with someone in a meaningful way
-
-I just don't think anyone can get through to these kids
+"I just don't think anyone can get through to him about the risk here."
+"It took two escalations to finally get through to the vendor's support team."
 
 [↑ Back to index](#index)
 
 # get up to
 
-verb
+To be involved in something, especially something illicit or surprising.
 
-be involved in something, especially something illicit or surprising
-
-What did you get up to last weekend?
+"What did you get up to last weekend?"
+"I don't know what he's gotten up to, but the staging environment is a mess."
 
 [↑ Back to index](#index)
 
@@ -5844,8 +5859,10 @@ idiom — to receive information or news about something, often informally or un
 
 # Give a Cue
 
-**Meaning:** To signal someone to do something.  
- **Example:** *He gave me the cue to start speaking.*
+To signal someone to do something.
+
+"He gave me the cue to start speaking."
+"She gave the team a cue to wrap up once the client started checking the clock."
 
 [↑ Back to index](#index)
 
@@ -5868,19 +5885,28 @@ idiom — to receive information or news about something, often informally or un
 
 # Give away
 
-Reveal unintentionally.
+To reveal something unintentionally.
+
+"His hesitation in the standup gave away that the estimate was a guess."
+"The verbose error message gave away internal file paths to anyone who hit it."
 
 [↑ Back to index](#index)
 
 # Give in
 
-Accept unwillingly.
+To accept something unwillingly, after resisting.
+
+"He gave in and agreed to the tighter deadline after two rounds of pushback."
+"We finally gave in and adopted the framework everyone else was already using."
 
 [↑ Back to index](#index)
 
 # Give out
 
-Distribute tasks or resources.
+To distribute tasks or resources.
+
+"The lead gave out the sprint tasks during planning."
+"We give out API keys through a self-service portal now, not manual tickets."
 
 [↑ Back to index](#index)
 
@@ -5895,11 +5921,10 @@ Distribute tasks or resources.
 
 # give something a miss
 
-phrase
+To decide not to do something.
 
-decide not to do something
-
-Clive felt uneasy about the event, so he decided to give it a miss this time round.
+"Clive felt uneasy about the event, so he decided to give it a miss this time round."
+"I'll give the after-work drinks a miss tonight — too much on my plate."
 
 [↑ Back to index](#index)
 
@@ -5914,34 +5939,28 @@ Clive felt uneasy about the event, so he decided to give it a miss this time rou
 
 # Give up
 
-(to abandon) I have given up bad habits  
-Get rid of: to make yourself away  from something /someone  
-I just want to get rid of this trouble
+To stop trying, or to abandon a habit.
 
-**Give up** – To stop trying.  
- Don’t give up—you’re almost there\!
+"Don't give up — you're almost there!"
+"I've given up most of my bad habits this year."
 
 [↑ Back to index](#index)
 
 # given that
 
-other
+Taking a specific fact into account; because.
 
-taking a specific fact into account
+"Given that it's late, we should call it a day and pick this up tomorrow."
+"Given that the client already approved the design, let's not reopen that debate."
 
 [↑ Back to index](#index)
 
 # glory in
 
-verb
+To take great pride or pleasure in something.
 
-**Meaning:** To take great pride or pleasure in something.  
-**Example:** She glories in her children’s success.  
-**Context:** Pride, happiness.
-
-they were individuals who gloried in their independence
-
-readers tended to defend their paper or even to glory in its bias
+"She glories in her children's success."
+"They were individuals who gloried in their independence."
 
 [↑ Back to index](#index)
 
@@ -5985,57 +6004,55 @@ Skip important details.
 
 # Go against
 
-To be contrary to
+To be contrary to, or oppose, someone or something.
 
-I'm not going against you.
-
-He goes against everything that I put forward.
+"I'm not going against you — I just see this differently."
+"His recommendation goes against everything the architecture review board agreed on."
 
 [↑ Back to index](#index)
 
 # Go ahead
 
-**Meaning:** To proceed with an action or plan.  
-**Example:** You can go ahead and submit the report.  
-**Context:** Permission, decision-making.
+To proceed with an action or plan.
 
-To start
-
-Here is the money as your demand. Now, you can go ahead.
+"You can go ahead and submit the report."
+"Here's the budget you asked for — now you can go ahead."
 
 [↑ Back to index](#index)
 
 # Go ahead with
 
-Proceed as planned.
+To proceed with a plan as intended.
+
+"We're going ahead with the migration this weekend as scheduled."
+"Leadership decided to go ahead with the launch despite the open risk."
 
 [↑ Back to index](#index)
 
 # Go around
 
-**Meaning:** To circulate or spread (news, rumors, or things).  
- **Example:** There’s a rumor going around about the new manager.  
- **Context:** Informal, social settings, discussions.
+To circulate or spread, such as news or rumors.
 
-In an affair
-
-Priya is going around with him.
+"There's a rumor going around about the new manager."
+"A joke about the outage went around the whole company within an hour."
 
 [↑ Back to index](#index)
 
 # Go away
 
-To depart  
-Just go away from my life
-
 To leave or travel elsewhere.
+
+"The error won't just go away on its own — someone needs to look at it."
+"We're going away for the offsite next week."
 
 [↑ Back to index](#index)
 
 # Go back
 
-**Go back** – To return to a place.  
- I went back to my hometown last weekend.
+To return to a place.
+
+"I went back to my hometown last weekend."
+"We went back to the old config once the new one caused more problems than it solved."
 
 [↑ Back to index](#index)
 
@@ -6052,31 +6069,28 @@ Meaning:
 
 # go cold turkey
 
-phrase
+To stop a habit suddenly and completely, without gradual reduction.
 
-quickly and without preparation
-
-After being trolled on twitter, he decided to go cold turkey on social media.
+"After being trolled on Twitter, he decided to go cold turkey on social media."
+"Instead of tapering off the legacy system, we went cold turkey and cut over in one weekend."
 
 [↑ Back to index](#index)
 
 # go dark
 
-verb
+To disappear and become incommunicado.
 
-to disappear and become incommunicado
-
-He went dark on Tuesday. He didn't answer any of my messages.
+"He went dark on Tuesday — he didn't answer any of my messages."
+"The vendor went dark for two weeks right when we needed a fix."
 
 [↑ Back to index](#index)
 
 # Go down
 
-Decrease in the price
+To decrease, or to happen; also, to be received in a certain way.
 
-Prices of mobiles are going down day by day.
-
-To happen; to decrease; or to be received in a certain way.
+"Prices of mobiles are going down day by day."
+"The announcement didn't go down well with the team."
 
 [↑ Back to index](#index)
 
@@ -6146,18 +6160,10 @@ To continue; also means to happen.
 
 # Go out
 
-verb
+To leave home for a social event; to date someone; or to stop functioning (like a light or fire).
 
-leave one's home to go to an entertainment or social event, typically in the evening
-
-I'm going out for dinner
-
-I hardly ever go out
-
-**Go out** – To leave home for social activities.  
- We went out for dinner.
-
-To leave home socially; to date; or to stop functioning (lights/fire).
+"I'm going out for dinner tonight."
+"The candle went out just before midnight."
 
 [↑ Back to index](#index)
 
@@ -6177,7 +6183,10 @@ Review details.
 
 # Go the extra Mile
 
-to make more effort than is expected
+To make more effort than is expected.
+
+"She went the extra mile and wrote a full runbook, not just a one-line fix."
+"Support went the extra mile to get the customer's data restored the same day."
 
 [↑ Back to index](#index)
 
@@ -6254,13 +6263,10 @@ The phrase **“go through the motions”** means to **do something in a mechani
 
 # Go Up
 
-**Meaning:** To rise or increase (price, level, number).  
-**Example:** The prices went up after the new tax law.  
-**Context:** Economics, markets.
+To rise or increase, such as a price, level, or number.
 
-Increase in price
-
-Price of food grain are increasing.
+"Prices went up after the new tax law."
+"Latency went up noticeably after the last deploy."
 
 [↑ Back to index](#index)
 
@@ -6279,8 +6285,10 @@ spread quickly over the internet
 
 # Go With the Flow
 
-**Meaning:** To accept things as they come; not resist.  
- **Example:** *I just go with the flow when traveling.*
+To accept things as they come; not resist.
+
+"I just go with the flow when traveling — no fixed itinerary."
+"She went with the flow on the reorg instead of fighting a decision that was already made."
 
 [↑ Back to index](#index)
 
@@ -6421,7 +6429,10 @@ It’s often used in casual speech instead of saying *“I made a mistake”* or
 
 # Grow into
 
-Become capable over time.
+To become capable of something over time.
+
+"He grew into the tech lead role over about six months."
+"The system was over-engineered for day one, but the team grew into needing that scale."
 
 [↑ Back to index](#index)
 
@@ -6460,14 +6471,19 @@ phrasal verb — 1) to become too big for something, especially clothes. 2) to s
 
 # Hand in
 
-**Hand in** – To submit (homework, reports, etc.).  
- I handed in my assignment late.
+To submit something, such as homework or a report.
+
+"I handed in my assignment late and lost a few points."
+"He handed in his resignation the same week the reorg was announced."
 
 [↑ Back to index](#index)
 
 # Hand off
 
-Transfer work to someone else.
+To transfer work to someone else.
+
+"I'll hand this off to the on-call engineer once I write up what I've found."
+"The project was handed off to a new team after the reorg."
 
 [↑ Back to index](#index)
 
@@ -6490,7 +6506,10 @@ To distribute.
 
 # Hand over
 
-Give responsibility.
+To give responsibility, ownership, or control of something to someone else.
+
+"She handed over the on-call rotation before going on leave."
+"We handed the project over to the platform team once it stabilized."
 
 [↑ Back to index](#index)
 
@@ -6571,15 +6590,19 @@ If you’d like, I can also explain the difference between **“hang on,” “h
 
 # Hang out
 
-**Hang out** – To spend time relaxing.  
-We usually hang out at the coffee shop.
+To spend time relaxing with someone.
+
+"We usually hang out at the coffee shop after work."
+"The team hung out for an hour after the launch party wound down."
 
 [↑ Back to index](#index)
 
 # Hang Out With
 
-**Meaning:** To spend relaxed time with someone.  
- **Example:** *I love hanging out with my friends.*
+To spend relaxed time with someone.
+
+"I love hanging out with my friends on weekends."
+"She hangs out with the design team more than her own now that they share a project."
 
 [↑ Back to index](#index)
 
@@ -6642,18 +6665,19 @@ idiom — to have experienced many difficult, stressful, or challenging events.
 
 # Have Cash on You
 
-**Meaning:** To have money in physical form (notes/coins).  
- **Example:** *Do you have cash on you? The shop doesn’t take cards.*
+To have money in physical form (notes/coins) with you.
+
+"Do you have cash on you? The shop doesn't take cards."
+"I never have cash on me anymore — everything's tap-to-pay."
 
 [↑ Back to index](#index)
 
 # have elbow room
 
-phrase
+To have sufficient space for work or operation.
 
-sufficient space for work or operation
-
-You can explore the entire area with plenty of elbow room, due to the restricted access.
+"You can explore the entire area with plenty of elbow room, thanks to the restricted access limiting crowds."
+"With the deadline pushed back a week, we finally have elbow room to test properly."
 
 [↑ Back to index](#index)
 
@@ -6886,7 +6910,10 @@ So:
 
 # Head off
 
-Prevent a problem early.
+To prevent a problem early, before it becomes serious.
+
+"We headed off the outage by catching the memory leak in staging."
+"A quick Slack message headed off what could've been a miscommunication in the release."
 
 [↑ Back to index](#index)
 
@@ -7053,9 +7080,10 @@ The phrase comes from **Hercules**, a hero in Greek mythology known for his supe
 
 # hit the nail on the head
 
-idiomatic
+To say something that is exactly right.
 
-say something that is exactly right
+"Your diagnosis hit the nail on the head — it really was a connection pool leak."
+"She hit the nail on the head when she said the delay was a communication problem, not a technical one."
 
 [↑ Back to index](#index)
 
@@ -7209,7 +7237,10 @@ Delay or restrain.
 
 # Hold off
 
-Delay for better timing.
+To delay something for better timing.
+
+"Let's hold off on the announcement until the fix is fully verified."
+"He held off merging until the second reviewer approved."
 
 [↑ Back to index](#index)
 
@@ -7245,7 +7276,10 @@ To wait; also means to grip tightly.
 
 # Hold out
 
-Keep aside validation data.
+To keep data aside, such as a validation set, or to resist for a period.
+
+"We held out 20% of the data as a validation set."
+"The vendor held out for a better price for two more weeks."
 
 [↑ Back to index](#index)
 
@@ -7349,17 +7383,19 @@ Was robbed (as in a crime): "The bank was held up by two masked men."
 
 # holistic approach
 
-noun
+A comprehensive approach that considers all aspects or components of a situation.
 
-a comprehensive and inclusive approach that considers all aspects or components of a situation
-
-The company's holistic approach to employee well-being addresses physical, mental, and emotional health.
+"The company's holistic approach to employee well-being addresses physical, mental, and emotional health."
+"We need a holistic approach to reliability, not just fixing the loudest alert."
 
 [↑ Back to index](#index)
 
 # Hone in
 
-Focus precisely.
+To focus precisely on a specific point or issue.
+
+"Let's hone in on the one metric that actually predicts churn."
+"The debugger helped him hone in on the exact line causing the crash."
 
 [↑ Back to index](#index)
 
@@ -7504,15 +7540,19 @@ Connect two systems.
 
 # Hop On Board
 
-**Meaning:** To join in or participate.  
- **Example:** *We’re starting a new project—want to hop on board?*
+To join in or participate.
+
+"We're starting a new project — want to hop on board?"
+"She hopped on board with the migration plan once she saw the early results."
 
 [↑ Back to index](#index)
 
 # Hop out
 
-get out of quickly  
-The officer hopped out when he spotted an illegally parked car” synonyms: get off.
+To get out of somewhere quickly.
+
+"The officer hopped out when he spotted an illegally parked car."
+"He hopped out of the meeting the second his part was done."
 
 [↑ Back to index](#index)
 
@@ -7546,8 +7586,10 @@ In what way : why does one think that? "This room looks different." "How so?
 
 # Hustle and Bustle
 
-**Meaning:** Busy and noisy activity.  
- **Example:** *I love the hustle and bustle of city life.*
+Busy and noisy activity.
+
+"I love the hustle and bustle of city life."
+"The office had that pre-launch hustle and bustle all week."
 
 [↑ Back to index](#index)
 
@@ -7746,11 +7788,10 @@ Here are some examples you can use in conversation:
 
 # in terms of
 
-idiomatic
+With regard to a particular aspect or subject.
 
-with regard to the particular aspect or subject specified
-
-replacing the printers is difficult to justify in terms of cost
+"Replacing the printers is difficult to justify in terms of cost."
+"In terms of risk, this migration is the safest of the three options."
 
 [↑ Back to index](#index)
 
@@ -7810,7 +7851,10 @@ without success or a result.
 
 # Insight into
 
-Understand deeper.
+To gain or provide a deeper understanding of something.
+
+"The dashboard gives real insight into how users actually navigate the app."
+"Talking to support tickets gave us insight into the bug reports never had."
 
 [↑ Back to index](#index)
 
@@ -7827,7 +7871,10 @@ Understand deeper.
 
 # Invest in
 
-Dedicate time or money.
+To dedicate time, money, or effort into something.
+
+"We invested in better observability early, and it paid off during the outage."
+"Invest in documentation now, or pay for it later in onboarding time."
 
 [↑ Back to index](#index)
 
@@ -7856,7 +7903,10 @@ Remove small issues.
 
 # Isolate out
 
-Single out a problem.
+To single out and separate a specific problem.
+
+"We isolated out the flaky test so it doesn't block the rest of the suite."
+"It took a full day to isolate out which service was causing the timeout."
 
 [↑ Back to index](#index)
 
@@ -7914,7 +7964,10 @@ It often carries a negative connotation, suggesting that a more thorough or deci
 
 # Iterate on
 
-Refine through cycles.
+To refine something through repeated cycles of feedback and change.
+
+"We iterated on the API design three times before the partner team was happy."
+"Keep iterating on the prompt until the outputs are consistent."
 
 [↑ Back to index](#index)
 
@@ -7990,17 +8043,19 @@ A **jigsaw puzzle** is a game or picture that’s been cut into many irregularly
 
 # Join up
 
-Merge efforts or teams.
+To merge efforts, teams, or datasets.
 
-Merge datasets.
+"The two teams joined up for the duration of the migration."
+"We joined the two datasets up on the customer ID field."
 
 [↑ Back to index](#index)
 
 # Joint venture
 
-noun
+A commercial enterprise undertaken jointly by two or more parties who otherwise retain their distinct identities.
 
-a commercial enterprise undertaken jointly by two or more parties which otherwise retain their distinct identities.
+"The two companies formed a joint venture to build the shared logistics platform."
+"Our joint venture with the regional partner cut delivery times in half."
 
 [↑ Back to index](#index)
 
@@ -8015,13 +8070,19 @@ a commercial enterprise undertaken jointly by two or more parties which otherwis
 
 # Jump in
 
-Start participating quickly.
+To start participating quickly, often without much preparation.
+
+"Feel free to jump in with questions at any point."
+"She jumped in to help debug the incident the moment she saw the alert."
 
 [↑ Back to index](#index)
 
 # Jump on
 
-Respond to something immediately.
+To respond to something immediately.
+
+"The on-call engineer jumped on the alert within two minutes."
+"She jumped on the PR the second it was opened."
 
 [↑ Back to index](#index)
 
@@ -8039,15 +8100,19 @@ Respond to something immediately.
 
 # Jump over
 
-jump over to topic, screen, webpage
+To move directly to a different topic, screen, or webpage.
+
+"Let's jump over to the dashboard so you can see it live."
+"He jumped over to the next slide before anyone could ask a question."
 
 [↑ Back to index](#index)
 
 # jump the gun
 
-idiom. to do something too soon, especially without thinking carefully about it: 
+To do something too soon, especially without thinking carefully about it.
 
-They've only just met \- isn't it jumping the gun to be talking about marriage already? 
+"They've only just met — isn't it jumping the gun to be talking about marriage already?"
+"He jumped the gun and merged before the tests even finished running."
 
 [↑ Back to index](#index)
 
@@ -8063,8 +8128,10 @@ They've only just met \- isn't it jumping the gun to be talking about marriage a
 
 # Keep One’s Eye Peeled
 
-**Meaning:** To watch carefully or stay alert.  
- **Example:** *Keep your eyes peeled for the delivery truck.*
+To watch carefully or stay alert.
+
+"Keep your eyes peeled for the delivery truck — it's due any minute."
+"Keep an eye peeled for rate-limit errors after the traffic increase."
 
 [↑ Back to index](#index)
 
@@ -8092,11 +8159,10 @@ They've only just met \- isn't it jumping the gun to be talking about marriage a
 
 # keep someone posted
 
-idiomatic
+To keep someone informed of the latest developments or news.
 
-keep someone informed of the latest developments or news
-
-I'll keep you posted on his progress
+"I'll keep you posted on his progress."
+"Please keep the team posted if the ETA changes."
 
 [↑ Back to index](#index)
 
@@ -8122,62 +8188,46 @@ Maintain pace.
 
 # Keep up with
 
-Meaning: To stay updated or remain at the same level as others.
+To stay updated or remain at the same level or pace as others.
 
-* Example 1: It’s important to keep up with the latest industry trends and developments.  
-* Example 2: He struggled to keep up with the fast pace of the new job.
-
-verb
-
-move at the same speed as others
-
-Stay updated.
+"It's important to keep up with the latest industry trends."
+"He struggled to keep up with the fast pace of the new job."
 
 [↑ Back to index](#index)
 
 # Key in
 
-Enter data.
+To manually enter data, usually via keyboard.
+
+"He keyed in the API credentials directly instead of using the secrets manager."
+"Keying in the same config on every server by hand is exactly what automation should replace."
 
 [↑ Back to index](#index)
 
 # key takeaway
 
-noun
+The main point or important lesson learned from a discussion, presentation, or experience.
 
-main point or important lesson learned from a discussion, presentation, or experience
-
-After attending the seminar, I had several key takeaways, including the importance of effective communication and building strong relationships with customers.
+"After attending the seminar, I had several key takeaways, including the importance of clear communication."
+"The key takeaway from the incident is that we need alerting on queue depth, not just error rate."
 
 [↑ Back to index](#index)
 
 # Kick in
 
-To start or take effect, often referring to the beginning of a process or feeling.
+To start or take effect, especially something triggering partway through a process.
 
-As soon as the music kicked in, the whole crowd started jumping.
-After hours of studying, the fatigue finally kicked in and I had to take a nap.
-
-In MLOps/Databricks contexts, *kick in* refers to features or behaviors that activate during the execution of a job or workflow — not the job starting itself (that's *kickoff*), but something triggering partway through:
-
-* Auto-scaling that **kicks in** once cluster CPU usage exceeds 80% during training.
-* Error handling that **kicks in** if data validation fails.
-* Checkpointing that **kicks in** every 15 minutes to save model progress during long training runs.
-
-As soon as he music kicked in , the whole crowd started jumping  
-After hours of studying, the fatigue finally kicked in and I had to take a nap.
-
-Start working or showing effect.
+"As soon as the music kicked in, the whole crowd started jumping."
+"Auto-scaling kicks in once cluster CPU usage exceeds 80% during training."
 
 [↑ Back to index](#index)
 
 # Kick off
 
-Begin a process or meeting.
+To begin a process, meeting, or pipeline.
 
-Start a pipeline.
-
-Start project.
+"Let's kick off the sprint planning at 10am."
+"The nightly pipeline kicks off automatically at midnight."
 
 [↑ Back to index](#index)
 
@@ -8314,7 +8364,10 @@ to suddenly attack someone or something physically or criticize him, her, or it 
 
 # Lay aside
 
-Postpone decision.
+To postpone a decision or set something aside for later.
+
+"Let's lay that debate aside for now and focus on the launch blockers."
+"We laid the redesign aside until after the busy season."
 
 [↑ Back to index](#index)
 
@@ -8461,7 +8514,10 @@ Repeated: To dismiss from a job.
 
 # Lay out
 
-Describe design clearly.
+To describe a design or plan clearly.
+
+"Let me lay out the three options before we discuss trade-offs."
+"He laid out the entire rollout plan in a single, clear doc."
 
 [↑ Back to index](#index)
 
@@ -8535,13 +8591,19 @@ It’s often used in professional and personal growth contexts.
 
 # Lean on
 
-Rely on someone/something.
+To rely on someone or something for support.
+
+"We leaned on the platform team heavily during the migration."
+"Don't be afraid to lean on your teammates when you're stuck."
 
 [↑ Back to index](#index)
 
 # Lean toward
 
-Prefer option slightly.
+To slightly prefer one option over another.
+
+"I'm leaning toward the managed service — less ops burden, even at a higher cost."
+"The panel was leaning toward the second candidate after the system design round."
 
 [↑ Back to index](#index)
 
@@ -8786,9 +8848,10 @@ To release or allow to exit; also to make a sound (sigh, scream).
 
 # Let Someone In
 
-**Meaning:** To allow someone to enter.  
- **Figurative:** To share personal feelings.  
- **Example:** *Can you let me in?* / *She finally let me in on her secret.*
+To allow someone to enter, or figuratively, to share personal feelings with them.
+
+"Can you let me in? I forgot my badge."
+"She finally let me in on her secret plan to leave the company."
 
 [↑ Back to index](#index)
 
@@ -8803,17 +8866,19 @@ To release or allow to exit; also to make a sound (sigh, scream).
 
 # Level up
 
-Improve skills or standards.
+To improve skills or raise the standard of something.
+
+"He leveled up fast once he started pairing with the senior engineers."
+"We leveled up our incident response process after that last outage."
 
 [↑ Back to index](#index)
 
 # level with
 
-verb
+To be frank or honest with someone.
 
-be frank or honest with someone
-
-When are you going to level with me?
+"When are you going to level with me about how far behind we actually are?"
+"Let me level with you — the timeline isn't realistic."
 
 [↑ Back to index](#index)
 
@@ -8834,11 +8899,10 @@ When are you going to level with me?
 
 # lift a finger
 
-idiomatic
+To make the slightest effort to do something, especially to help someone (often used negatively).
 
-make the slightest effort to do something, especially to help someone
-
-he never once lifted a finger to get Jimmy released from prison
+"He never once lifted a finger to get the project unblocked."
+"She lifted a finger to help the moment she saw the team was stuck."
 
 [↑ Back to index](#index)
 
@@ -8869,24 +8933,28 @@ A "rocky" relationship means your partnership is currently facing significant ch
 
 # Little by Little
 
-**Meaning:** Gradually; step by step.  
- **Example:** *He improved little by little every day.*
+Gradually; step by step.
+
+"He improved little by little every day after starting the daily practice routine."
+"Little by little, the team paid down the tech debt without ever needing a big rewrite."
 
 [↑ Back to index](#index)
 
 # Load up
 
-Ingest large datasets.
+To ingest or bring in large datasets.
+
+"The pipeline loads up the full dataset into memory before processing."
+"Give it a minute to load up — it's pulling a few million rows."
 
 [↑ Back to index](#index)
 
 # Lock down
 
-Tighten security controls.
+To tighten security controls, finalize scope, or secure something fully.
 
-Finalise scope.
-
-Secure fully.
+"We locked down access to the production database to a small allowlist."
+"Once the scope was locked down, the team could actually commit to a date."
 
 [↑ Back to index](#index)
 
@@ -8926,48 +8994,55 @@ Commit permanently.
 
 # Log out
 
-Output metrics.
+To output metrics or data to a log; also, to end a session.
+
+"The service logs out request latency on every call for observability."
+"Make sure to log out of the admin console on the shared laptop."
 
 [↑ Back to index](#index)
 
 # Look after
 
-**Look after** – To take care of someone or something.  
- She looks after her younger brother.
+To take care of someone or something.
+
+"She looks after her younger brother most weekends."
+"Can you look after the staging environment while I'm at the conference?"
 
 [↑ Back to index](#index)
 
 # Look after/out
 
-Take care of   
-Im looking after my parent my parents  
----
+To take care of someone or something, or to be cautious.
+
+"I'm looking after my parents this week while my sister travels."
+"Look out — that endpoint doesn't validate input yet."
 
 [↑ Back to index](#index)
 
 # Look ahead
 
-Anticipate issues.
+To anticipate future issues or plan for what's coming.
+
+"Looking ahead, we'll need to shard the database before traffic doubles again."
+"Good on-call practice means looking ahead at capacity, not just reacting to alerts."
 
 [↑ Back to index](#index)
 
 # Look down upon
 
-To treat someone nothing
+To consider someone or something inferior; to treat with disrespect.
 
-Don’t look down upon the poor  
----
-
-To consider inferior.
+"Don't look down upon the junior engineers — they catch things seniors miss."
+"He looked down upon the manual process, but it worked fine for their scale."
 
 [↑ Back to index](#index)
 
 # Look for
 
-To search 
+To search for something.
 
-Are  you looking for a room?  
----
+"Are you looking for a room, or just checking prices?"
+"I'm looking for the root cause, not just a workaround."
 
 [↑ Back to index](#index)
 
@@ -9052,15 +9127,19 @@ Repeated: To investigate.
 
 # Look out for
 
-Watch for issues.
+To watch for potential issues or problems.
+
+"Look out for null values in that column — the upstream source doesn't guarantee them."
+"Keep an eye out for rate-limit errors after the traffic increase."
 
 [↑ Back to index](#index)
 
 # Look over
 
-Review documentation.
+To review something, often quickly.
 
-Review quickly.
+"Can you look over this PR before I merge it?"
+"I looked over the documentation but still had questions about the edge cases."
 
 [↑ Back to index](#index)
 
@@ -9199,10 +9278,10 @@ Fetch reference data.
 
 # Look up to
 
-Meaning: To admire or respect someone.
+To admire or respect someone.
 
-* Example 1: Many employees look up to the CEO for his leadership skills.  
-* Example 2: She looks up to her mentor for guidance and inspiration.
+"Many employees look up to the CEO for his leadership skills."
+"She looks up to her mentor for guidance and inspiration."
 
 [↑ Back to index](#index)
 
@@ -9217,19 +9296,10 @@ Meaning: To admire or respect someone.
 
 # loop in
 
-verb
+To include someone in communication or updates about a matter.
 
-inform someone about a particular matter
-
-all they knew when police looped them in was that a traveling salesman had been robbed
-
-no one looped me in on anything
-
-To include someone in communication or updates.
-
-Include someone in communication.
-
-Involve person.
+"Loop in the platform team before you provision new infra."
+"No one looped me in on the schedule change."
 
 [↑ Back to index](#index)
 
@@ -9286,26 +9356,19 @@ A more natural request would be:
 
 # loosen up
 
-verb
+To become less anxious, stiff, or worried.
 
-to be less anxious and worried
-
-arrive early to loosen up and hit some practice shots
-
-they taught me to have fun and loosen up
-
-beer relaxes certain parts of your brain and loosens you up
-
-**Meaning:** To relax or become less stiff.  
-**Example:** Let’s loosen up before the game.  
-**Context:** Physical, mental relaxation.
+"Arrive early to loosen up and hit some practice shots."
+"They taught me to have fun and loosen up during the retro instead of just listing complaints."
 
 [↑ Back to index](#index)
 
 # Lose Touch With
 
-**Meaning:** To stop communicating with someone.  
- **Example:** *I lost touch with my college friends.*
+To stop communicating with someone.
+
+"I lost touch with my college friends after moving abroad."
+"We lost touch with the vendor's account manager after the reorg on their side."
 
 [↑ Back to index](#index)
 
@@ -9337,8 +9400,10 @@ It can be **literal** (a person physically hiding) or **figurative** (a problem,
 
 # Make a 180 Degree Turn
 
-**Meaning:** To completely change direction or opinion.  
- **Example:** *She made a 180-degree turn and decided to support the idea.*
+To completely change direction or opinion.
+
+"She made a 180-degree turn and decided to support the idea."
+"Leadership made a 180-degree turn on the reorg after the team pushed back hard."
 
 [↑ Back to index](#index)
 
@@ -9383,15 +9448,19 @@ The phrase **“make an impression on”** means to affect someone’s thoughts 
 
 # Make It
 
-**Meaning:** To succeed or reach somewhere in time.  
- **Example:** *I finally made it to the meeting\!* / *She worked hard and made it in the industry.*
+To succeed, or to reach somewhere in time.
+
+"I finally made it to the meeting, just barely!"
+"She worked hard and made it in an industry that isn't easy to break into."
 
 [↑ Back to index](#index)
 
 # Make Oneself Useful
 
-**Meaning:** To help or do something productive.  
- **Example:** *Stop standing around—make yourself useful\!*
+To help or do something productive.
+
+"Stop standing around during the incident — make yourself useful and update the status page."
+"The new hire made himself useful right away by fixing the flaky test suite."
 
 [↑ Back to index](#index)
 
@@ -9439,51 +9508,64 @@ The phrase **“make out”** can mean different things depending on the context
 
 # make the most of
 
-phrase
+To use or enjoy something as fully or effectively as possible.
 
-find the best solution
-
-They didn't let the atrocious weather dampen their spirits and decided to make the most of the vacation anyway.
+"They didn't let the bad weather dampen their spirits and decided to make the most of the trip anyway."
+"Make the most of the code freeze — it's a good week to pay down tech debt."
 
 [↑ Back to index](#index)
 
 # Make up
 
-**Make up (with someone)** – To reconcile after a fight.  
-They made up after the argument.
+To reconcile after a fight, or to invent something.
+
+"They made up after the argument and moved on."
+"He made up an excuse instead of admitting he'd forgotten the deploy."
 
 [↑ Back to index](#index)
 
 # Map out
 
-Plan step-by-step.
+To plan something step by step.
 
-Outline plan.
+"We mapped out the migration into five discrete phases."
+"Let's map out the rollback plan before we touch production."
 
 [↑ Back to index](#index)
 
 # Map over
 
-Apply transformations.
+To apply a transformation across a collection of items.
+
+"We mapped the normalization function over the entire dataset."
+"The pipeline maps a cleanup step over every incoming record before storage."
 
 [↑ Back to index](#index)
 
 # Mark down
 
-Reduce reserved capacity.
+To reduce reserved capacity or a recorded value.
+
+"We marked down the reserved instance count now that traffic has stabilized."
+"The reviewer marked down the estimate after seeing the actual scope."
 
 [↑ Back to index](#index)
 
 # Mark of Somebody
 
-**Meaning:** A quality that identifies someone’s character.  
- **Example:** *Patience is the mark of a true leader.*
+A quality that identifies someone's character.
+
+"Patience is the mark of a true leader."
+"Staying calm during the outage was the mark of someone who'd been through worse."
 
 [↑ Back to index](#index)
 
 # Mark out
 
-Define limits.
+To define the limits or boundaries of something.
+
+"The RFC marks out exactly which teams own which parts of the API."
+"We marked out the scope early so the project didn't creep."
 
 [↑ Back to index](#index)
 
@@ -9499,7 +9581,10 @@ Define limits.
 
 # Measure up
 
-Meet expectations.
+To meet expectations or a required standard.
+
+"The new hire's first PR measured up to the team's bar right away."
+"The vendor's uptime numbers didn't measure up to what the SLA promised."
 
 [↑ Back to index](#index)
 
@@ -9521,7 +9606,10 @@ Here are some other definitions of "mellow out":
 
 # Merge in
 
-Combine PR to main.
+To combine a pull request into the main branch.
+
+"Once CI is green, merge it in."
+"He merged the hotfix in without waiting for the full review cycle."
 
 [↑ Back to index](#index)
 
@@ -9597,8 +9685,10 @@ It usually carries a sense of pressure and finality—where preparation ends, an
 
 # Mood Swings
 
-**Meaning:** Sudden changes in mood.  
- **Example:** *Teenagers often have mood swings.*
+Sudden changes in mood.
+
+"Teenagers often have mood swings that catch parents off guard."
+"Sleep deprivation during the incident week gave the whole team mood swings."
 
 [↑ Back to index](#index)
 
@@ -9614,51 +9704,37 @@ It usually carries a sense of pressure and finality—where preparation ends, an
 
 # Move ahead
 
-Proceed confidently.
+To proceed with confidence.
+
+"We've got sign-off from legal, so let's move ahead with the launch."
+"Move ahead with the smaller rollout first and expand once it's stable."
 
 [↑ Back to index](#index)
 
 # Move Around
 
-### **1\. To Change Locations Frequently**
+To change locations frequently, shift position, rearrange things, or adjust plans.
 
-* **Meaning**: To go from one place to another often.  
-* **Example**: As a child, I moved around a lot because my dad was in the army.  
-* **Example**: Tourists love to move around the city, exploring new places.
-
-### **2\. To Shift Position or Be Active**
-
-* **Meaning**: To not stay in one place; to walk, run, or change posture.  
-* **Example**: Stop moving around so much\! Sit still for a moment.  
-* **Example**: After sitting for hours, it's good to move around to stretch your legs.
-
-### **3\. To Rearrange Things**
-
-* **Meaning**: To change the placement of objects.  
-* **Example**: I moved around the furniture to make the living room look bigger.  
-* **Example**: He keeps moving around his desk setup to find the perfect spot.
-
-### **4\. To Change Plans or Adjust Schedules**
-
-* **Meaning**: To modify arrangements or reschedule something.  
-* **Example**: Can we move around the meeting to a later time?  
-* **Example**: My plans keep moving around because of last-minute work changes.
-
-To change position frequently or travel from place to place.
+"As a child, I moved around a lot because my dad was in the army."
+"Can we move the meeting around to a later time?"
 
 [↑ Back to index](#index)
 
 # Move forward
 
-Progress confidently.
+To make progress, often after resolving a blocker or decision.
+
+"Now that the design is approved, we can move forward with implementation."
+"Let's table the naming debate and move forward — we can rename later."
 
 [↑ Back to index](#index)
 
 # Move Over
 
-move in order to make room for someone for something.
+To move to make room for someone, or to migrate data to a new location.
 
-Migrate data to new location.
+"Move over so the new hire has a seat at the table."
+"We're moving the archive data over to cold storage next month."
 
 [↑ Back to index](#index)
 
@@ -9725,7 +9801,10 @@ That sentence is understandable but **not natural**.
 
 # Mull over
 
-Think deeply.
+To think deeply and carefully about something before deciding.
+
+"I need a day to mull over the offer before responding."
+"She mulled over the trade-offs all weekend before picking the architecture."
 
 [↑ Back to index](#index)
 
@@ -9743,13 +9822,19 @@ Think deeply.
 
 # Narrow down
 
-Reduce choices.
+To reduce a set of choices to a smaller, more focused list.
+
+"We narrowed the candidate list down to three finalists."
+"Debugging is mostly about narrowing down where the failure actually is."
 
 [↑ Back to index](#index)
 
 # Nasty Scar
 
-**Nasty scar** \= an **ugly or unpleasant-looking mark** left on the skin after an injury or wound has healed.
+An ugly or unpleasant-looking mark left on the skin after an injury has healed.
+
+"He still has a nasty scar from the accident years ago."
+"The old wound left a nasty scar across her forearm."
 
 [↑ Back to index](#index)
 
@@ -9842,8 +9927,10 @@ they no doubt did what they could to help her, but their best proved insufficien
 
 # No Hard Feelings
 
-**Meaning:** No anger or resentment after a disagreement.  
- **Example:** *No hard feelings, right?*
+No anger or resentment after a disagreement.
+
+"No hard feelings, right? We just disagreed on the approach."
+"He pushed back hard in the review, but there were no hard feelings after."
 
 [↑ Back to index](#index)
 
@@ -9858,24 +9945,19 @@ they no doubt did what they could to help her, but their best proved insufficien
 
 # no strings attached
 
-idiomatic
+Used to show that an offer or opportunity carries no special conditions or restrictions.
 
-used to show that an offer or opportunity carries no special conditions or restrictions
-
-they wanted a lot of money with no strings attached
+"They wanted a lot of money with no strings attached."
+"The trial license is free, no strings attached."
 
 [↑ Back to index](#index)
 
 # Note down
 
-Meaning: To write something down.
+To write something down for later reference.
 
-* Example 1: Her answers were noted down on the chart.  
-* Example 2: He quickly noted down the key points from the meeting.
-
-To write something for later reference.
-
-Write to remember.
+"Her answers were noted down on the chart."
+"He quickly noted down the key points from the meeting."
 
 [↑ Back to index](#index)
 
@@ -9904,16 +9986,19 @@ It’s a way to strongly praise or highlight how impressive something or someone
 
 # Nudge forward
 
-Push gently to progress.
+To push something gently to make progress.
+
+"A quick reminder nudged the approval forward by a day."
+"She nudged the stalled negotiation forward with a smaller ask."
 
 [↑ Back to index](#index)
 
 # Occur to someone
 
-To come into one’s mind
+To come into one's mind.
 
-It suddenly occurred to me that I hadn’t locked the front door  
-Did it ever occur to you that you might be overtraining
+"It suddenly occurred to me that I hadn't locked the front door."
+"Did it ever occur to you that the bug might be in the config, not the code?"
 
 [↑ Back to index](#index)
 
@@ -10012,11 +10097,10 @@ The party last night was off the hook\!
 
 # off the radar
 
-noun
+To stop being noticed or talked about.
 
-to stop being noticed or talked about
-
-the band has been kind of off the radar these past few years
+"The band has been kind of off the radar these past few years."
+"That ticket's been off the radar for two sprints — nobody's picked it up."
 
 [↑ Back to index](#index)
 
@@ -10186,11 +10270,10 @@ Sometimes “on him / on her” literally means physically “on top of” or �
 
 # on paper
 
-Phrase
+In writing, or in theory rather than practice.
 
-in writing
-
-Can you put it down on paper for me?
+"Can you put it down on paper for me so we have a record?"
+"On paper, the two services are decoupled — in practice, they still share a database."
 
 [↑ Back to index](#index)
 
@@ -10247,33 +10330,28 @@ The phrase **“on the flip side”** is a casual, conversational way to say **�
 
 # on the mend
 
-idiomatic
+Improving in health or condition; recovering.
 
-improving in health or condition; recovering
-
-the economy is on the mend
-
-on the mend after a stomach operation
+"The economy is on the mend after a rough couple of quarters."
+"She's on the mend after the surgery and back to light work next week."
 
 [↑ Back to index](#index)
 
 # on the one hand
 
-idiomatic
+Used to introduce a point of view, followed by another that typically contrasts with it.
 
-used to introduce a point of view, fact, or situation, followed by another that typically contrasts with it
-
-On the one hand, I faced the prospect of losing my day-to-day contact with the kids. On the other, I faced sacrificing my career
+"On the one hand, it's risky; on the other hand, it could pay off."
+"On the one hand, the new framework is faster to build with — on the other, nobody on the team knows it."
 
 [↑ Back to index](#index)
 
 # on the up
 
-phrase
+Improving and becoming more successful.
 
-Improving and becoming more successful
-
-Jannie saw that the stock prices were on the up, so she immediately invested in the company.
+"Jannie saw that the stock prices were on the up, so she immediately invested."
+"Team morale has been on the up since the reorg settled down."
 
 [↑ Back to index](#index)
 
@@ -10289,16 +10367,19 @@ Jannie saw that the stock prices were on the up, so she immediately invested in 
 
 # One’s Place
 
-**Meaning:** Someone’s home.  
- **Example:** *Let’s hang out at my place tonight.*
+Someone's home.
+
+"Let's hang out at my place tonight."
+"We had the whole team over to her place for the offsite dinner."
 
 [↑ Back to index](#index)
 
 # Open up
 
-Allow ports/security policies.
+To allow access, such as ports or security policies, or to start discussing something honestly.
 
-Start discussing honestly.
+"We opened up port 443 for the new external integration."
+"She finally opened up about why the timeline felt unrealistic."
 
 [↑ Back to index](#index)
 
@@ -10313,13 +10394,19 @@ Start discussing honestly.
 
 # Opt out
 
-Choose not to participate.
+To choose not to participate in something.
+
+"Users can opt out of the beta program at any time."
+"He opted out of the on-call rotation this quarter due to travel."
 
 [↑ Back to index](#index)
 
 # Optimize for
 
-Adjust to improve a specific metric.
+To adjust something to improve a specific metric.
+
+"We optimized for read latency since our workload is read-heavy."
+"Don't optimize for an edge case that affects 0.1% of traffic before fixing the common path."
 
 [↑ Back to index](#index)
 
@@ -10426,7 +10513,10 @@ excessive, extravagant, extreme, insane, inappropriate, unbearable, flamboyant, 
 
 # Own up
 
-Acknowledge responsibility.
+To acknowledge responsibility, especially for a mistake.
+
+"He owned up to breaking the build instead of letting someone else take the blame."
+"A blameless postmortem still needs people willing to own up to what they did."
 
 [↑ Back to index](#index)
 
@@ -10504,38 +10594,46 @@ To turn out or happen successfully.
 
 # Pass on
 
-Meaning: To decline or reject an offer or opportunity.
+To decline an offer, or transmit information to someone else.
 
-* Example 1: After careful consideration, I decided to pass on the investment opportunity.  
-* Example 2: He passed on the promotion to focus on his family life.
-
-To decline; to transmit; or to die (euphemism).
+"After careful consideration, I decided to pass on the investment opportunity."
+"He passed on the promotion to focus on his family life."
 
 [↑ Back to index](#index)
 
 # Pass through
 
-Run through pipeline stages.
+To run through the stages of a pipeline.
+
+"Every event passes through validation before it reaches storage."
+"The request passes through three middleware layers before hitting the handler."
 
 [↑ Back to index](#index)
 
 # Patch in
 
-Install updates into running systems.
+To install updates into running systems.
+
+"We patched the security fix in without a full restart."
+"The hotfix was patched in during the maintenance window."
 
 [↑ Back to index](#index)
 
 # Patch over
 
-Cover problem temporarily.
+To cover a problem temporarily without truly fixing it.
+
+"The hotfix patches over the symptom; the real fix needs a schema change."
+"We patched over the flaky test with a retry instead of finding the root cause."
 
 [↑ Back to index](#index)
 
 # Patch up
 
-Apply temporary fixes.
+To apply a temporary fix.
 
-Temporarily fix.
+"We patched up the leak just enough to get through the weekend."
+"The workaround patches up the symptom; the real fix ships next sprint."
 
 [↑ Back to index](#index)
 
@@ -10564,16 +10662,19 @@ idiom — to publicly show respect, honor, or tribute to someone or something.
 
 # Pay off
 
-**Pay off** – To finish paying a debt.  
- I finally paid off my student loan.
+To finish paying a debt, or to produce results over time.
 
-Produce results over time.
+"I finally paid off my student loan last year."
+"The investment in better tooling paid off within the first quarter."
 
 [↑ Back to index](#index)
 
 # Pay up
 
-Settle cloud billing.
+To settle a bill or payment, such as cloud billing.
+
+"We had to pay up the overage charges after underestimating egress costs."
+"The invoice is overdue — finance needs someone to pay up before month-end."
 
 [↑ Back to index](#index)
 
@@ -10647,23 +10748,19 @@ Take out your pent up feelings.
 
 # Phase in
 
-Meaning: To introduce or implement something gradually.
+To introduce or implement something gradually.
 
-* Example 1: The new policy will be phased in over the next few months.  
-* Example 2: They plan to phase in the new training program by next year.
-
-To introduce gradually.
+"The new policy will be phased in over the next few months."
+"They plan to phase in the new training program by next year."
 
 [↑ Back to index](#index)
 
 # Phase out
 
-Meaning: To gradually discontinue or replace something.
+To gradually discontinue or replace something.
 
-* Example 1: The company plans to phase out the outdated software system.  
-* Example 2: Single-use plastics are being phased out in many countries.
-
-To gradually eliminate.
+"The company plans to phase out the outdated software system by next year."
+"Single-use plastics are being phased out in many countries."
 
 [↑ Back to index](#index)
 
@@ -10688,13 +10785,19 @@ Detect issues automatically.
 
 # Pick up on
 
-Notice something subtle.
+To notice something subtle.
+
+"She picked up on the tension in the room before anyone said anything."
+"He picked up on the small inconsistency in the metrics that everyone else missed."
 
 [↑ Back to index](#index)
 
 # Pin down
 
-Identify precisely.
+To identify or determine something precisely.
+
+"It took two days to pin down the exact commit that introduced the regression."
+"We still haven't pinned down why the job fails only on Mondays."
 
 [↑ Back to index](#index)
 
@@ -10715,8 +10818,10 @@ A **“pipe dream”** means a hope, plan, or idea that is unrealistic or unlike
 
 # Pique Curiosity
 
-**Meaning:** To arouse interest or attention.  
- **Example:** *The mysterious ad piqued my curiosity.*
+To arouse interest or attention.
+
+"The mysterious title of the RFC piqued everyone's curiosity."
+"A single unexplained metric spike piqued the on-call engineer's curiosity."
 
 [↑ Back to index](#index)
 
@@ -10766,9 +10871,10 @@ To "pivot away" from something means to deliberately **stop focusing on one thin
 
 # Plan ahead
 
-Anticipate future needs.
+To anticipate future needs and prepare capacity early.
 
-Prepare capacity early.
+"We planned ahead and provisioned extra capacity before the holiday traffic spike."
+"Plan ahead for the migration — don't start scoping it the week of the deadline."
 
 [↑ Back to index](#index)
 
@@ -10804,44 +10910,46 @@ He knew it, yet he plowed ahead.
 
 # Plug in
 
-Insert dependency or connection.
+To insert a dependency or connection into a system.
+
+"We plugged in the new logging library without touching the rest of the stack."
+"Plug in your API key in the config file before running the script."
 
 [↑ Back to index](#index)
 
 # point of view
 
-noun
+A particular attitude, perspective, or opinion.
 
-a particular attitude, perspective or opinion
-
-I'm trying to get Matthew to change his point of view
-
-this story is told from a child's point of view
-
-certain aspects are not visible from a single point of view
+"I'm trying to get him to change his point of view on the migration."
+"This story is told from a child's point of view."
 
 [↑ Back to index](#index)
 
 # Point out
 
-**Point out** – To highlight or mention something.  
- She pointed out my mistake politely.
+To highlight or mention something important.
 
-Highlight something important.
-
-Highlight precise error.
+"She pointed out my mistake politely, before it went any further."
+"He pointed out the precise line where the null check was missing."
 
 [↑ Back to index](#index)
 
 # Point to
 
-Direct DNS or endpoint to a service.
+To direct DNS or an endpoint to a service.
+
+"We pointed the domain to the new load balancer during the cutover."
+"The client points to a staging endpoint by default in dev mode."
 
 [↑ Back to index](#index)
 
 # Point towards
 
-Indicate direction.
+To indicate a direction, cause, or conclusion.
+
+"The logs point towards a memory leak, not a network issue."
+"Everything points towards the config change as the root cause."
 
 [↑ Back to index](#index)
 
@@ -10941,14 +11049,19 @@ It means: **the more you practice something, the better you get at it.**
 
 # Press on
 
-Continue despite difficulty.
+To continue despite difficulty.
+
+"We pressed on with the migration even after the first attempt failed."
+"Press on — the hard part's behind us, this is just cleanup now."
 
 [↑ Back to index](#index)
 
 # Prima Donna
 
-**Meaning:** A person who’s difficult or self-important.  
- **Example:** *He’s talented but a bit of a prima donna.*
+A person who's difficult or self-important.
+
+"He's talented but a bit of a prima donna about which projects he'll take."
+"The team avoided working with the prima donna contractor a second time."
 
 [↑ Back to index](#index)
 
@@ -10992,19 +11105,28 @@ Pull a 180” is an informal phrase that means to **make a complete reversal or 
 
 # Pull down
 
-Download version.
+To download a version of something, such as code or an artifact.
+
+"Pull down the latest image before you start debugging locally."
+"He pulled down the wrong branch and spent an hour confused about the diff."
 
 [↑ Back to index](#index)
 
 # Pull in
 
-Import model weights.
+To import model weights or bring something in from outside.
+
+"We pulled in the pretrained weights instead of training from scratch."
+"He pulled in an extra reviewer once the PR grew past 500 lines."
 
 [↑ Back to index](#index)
 
 # Pull out
 
-Withdraw from involvement.
+To withdraw from involvement in something.
+
+"The investor pulled out after the due diligence turned up red flags."
+"He pulled out of the project once the scope doubled without more budget."
 
 [↑ Back to index](#index)
 
@@ -11023,7 +11145,10 @@ To move a vehicle to the roadside.
 
 # Pull together
 
-Collaborate well.
+To collaborate effectively, especially under pressure.
+
+"The team really pulled together during the outage — nobody had to be asked twice."
+"Can you pull together a quick summary of the incident for leadership?"
 
 [↑ Back to index](#index)
 
@@ -11241,17 +11366,10 @@ Excited or energized; inflated (physically or emotionally).
 
 # Punch a hole
 
-Squish down  
-Porch  
-Hurry around  
-Read between the lines  
-Eye for an eye  
-Training wheel  
-Take a chance  
-Dispel  
-The shit  
-Turn the other cheek  
-The other day
+To create an opening in something; figuratively, to find a flaw or weakness in an argument or plan.
+
+"One counterexample was enough to punch a hole in the entire proposal."
+"The reviewer punched a hole in the estimate by asking about the migration step nobody had scoped."
 
 [↑ Back to index](#index)
 
@@ -11355,15 +11473,19 @@ Resist a decision.
 
 # Push back on
 
-Challenge incorrect model usage.
+To challenge or resist an approach you think is wrong.
+
+"I pushed back on using a synchronous call here — it should be async."
+"She pushed back on the unrealistic deadline, and leadership actually listened."
 
 [↑ Back to index](#index)
 
 # Push out
 
-Deliver artefact to repository.
+To deliver an artifact to a repository, or deploy a model to an endpoint.
 
-Deploy model to endpoint.
+"We push the build out to the artifact repository as part of CI."
+"The new model gets pushed out to the serving endpoint after passing validation."
 
 [↑ Back to index](#index)
 
@@ -11414,19 +11536,19 @@ Complete despite obstacles.
 
 # put across
 
-communicate something effectively.
+To communicate something effectively so it's understood.
+
+"She put the trade-off across clearly enough that even non-engineers got it."
+"He struggled to put his point across in the time he had."
 
 [↑ Back to index](#index)
 
 # Put down
 
-**Meaning:** To insult or criticize; to place something on a surface.  
-**Example:** She was put down by her classmates for her ideas.  
-**Context:** Social interactions, physical action.
+To insult or criticize someone, or to place something on a surface; also, to write something.
 
-To write
-
-All the students are requested to put down their ideas.
+"She was put down by her classmates for her ideas."
+"All the students are requested to put down their ideas before the discussion starts."
 
 [↑ Back to index](#index)
 
@@ -11486,24 +11608,10 @@ To postpone; also can mean to discourage or repel.
 
 # Put on
 
-verb
+To wear clothing or accessories; or to gain weight.
 
-**Put on** – place clothing, jewelry, etc. on part of one's body
-
-* Julie had put on a cotton dress  
-* she put on fresh makeup
-
-**Put on** – To wear clothing or accessories.
-
-* She put on her sunglasses.
-
-**Put on** – To gain weight/ mass
-
-* I have put on 10 Kgs in just 10 days.
-
-**Meaning:** To wear clothing; to organize or perform (an event).  
-**Example:** She put on her jacket. / The theater company put on a great show.  
-**Context:** Clothing, events.
+"Julie had put on a cotton dress for the interview."
+"I've put on a few pounds since I stopped commuting by bike."
 
 [↑ Back to index](#index)
 
@@ -11537,8 +11645,10 @@ Think of it like checking someone’s pulse to see how they’re doing—here, y
 
 # Put One’s Business in the Street
 
-**Meaning:** To share private or personal matters publicly.  
- **Example:** *Don’t put my business in the street—it’s private\!*
+To share private or personal matters publicly.
+
+"Don't put my business in the street — it's private!"
+"He put the whole team's disagreement in the street during the all-hands, which nobody appreciated."
 
 [↑ Back to index](#index)
 
@@ -11595,19 +11705,19 @@ If you hear "put out," think about the context to understand which meaning fits\
 
 # Put through
 
-**Meaning:** To connect someone by phone; to cause someone to undergo something.  
-**Example:** Please put me through to the manager. / She was put through a tough training program.  
-**Context:** Telephony, experience.
+To connect someone by phone, or to cause someone to undergo something.
 
-To transfer the call / to pass the phone to someone else
-
-Mr. Now I'm putting you through to the mobile department.
+"Please put me through to the manager."
+"She was put through a tough onboarding process before her first shift."
 
 [↑ Back to index](#index)
 
 # Put together
 
-Assemble components.
+To assemble components into a whole.
+
+"She put together a solid proposal in under a day."
+"We put the demo together from three different half-finished prototypes."
 
 [↑ Back to index](#index)
 
@@ -11792,9 +11902,10 @@ To tolerate; to hang/display (e.g., posters); or to provide (e.g., money/shelter
 
 # Put up with
 
-To bear/ To tolerate
+To bear or tolerate something unpleasant.
 
-I can’t put up with your anger
+"I can't put up with your anger every time something goes wrong."
+"We shouldn't have to put up with flaky tests blocking every release."
 
 [↑ Back to index](#index)
 
@@ -11810,13 +11921,19 @@ I can’t put up with your anger
 
 # Queue up
 
-Wait in line for processing.
+To wait in line for processing.
+
+"Requests queue up during peak hours instead of failing outright."
+"He queued up three PRs for review before lunch."
 
 [↑ Back to index](#index)
 
 # Quiet down
 
-Reduce intensity or noise.
+To reduce intensity or noise.
+
+"Alert volume quieted down once we tuned the thresholds."
+"The room quieted down once the incident commander started the update."
 
 [↑ Back to index](#index)
 
@@ -11917,8 +12034,10 @@ Increase effort or capacity.
 
 # Rapid Fire
 
-**Meaning:** Very fast sequence (often of questions).  
- **Example:** *He handled the rapid-fire questions smoothly.*
+Very fast sequence, often of questions.
+
+"He handled the rapid-fire questions from the panel smoothly."
+"The interviewer switched to rapid-fire mode for the final ten minutes."
 
 [↑ Back to index](#index)
 
@@ -11983,7 +12102,10 @@ Contact someone for help.
 
 # Reach out to
 
-Contact someone.
+To contact someone, often to ask for help or start a conversation.
+
+"Reach out to the platform team before you provision new infra."
+"I reached out to the vendor twice and still haven't heard back."
 
 [↑ Back to index](#index)
 
@@ -12009,26 +12131,37 @@ Progressing or improving well.
 
 # Reason out
 
-Think through logically.
+To think through something logically to a conclusion.
+
+"He reasoned out the failure mode before touching any code."
+"We reasoned out the pricing model on a whiteboard before building it."
 
 [↑ Back to index](#index)
 
 # Reason through
 
-Think logically end-to-end.
+To think logically through a problem from start to end.
+
+"Let's reason through the whole request path before we start guessing."
+"She reasoned through the race condition step by step until it clicked."
 
 [↑ Back to index](#index)
 
 # Reminiscent smile
 
-A reminiscent smile is a smile that shows you are remembering something from the past, usually with pleasure. It can also be described as a look that shows you are remembering something from the past. 
+A smile that shows you're remembering something from the past, usually with pleasure.
+
+"She had a reminiscent smile talking about her first production outage."
+"He gave a reminiscent smile when someone mentioned the old office."
 
 [↑ Back to index](#index)
 
 # Resonate With
 
-**Meaning:** To emotionally connect or make sense to someone.  
- **Example:** *Her story really resonated with me.*
+To emotionally connect or make sense to someone.
+
+"Her story really resonated with me — I'd been through something similar."
+"The simpler pitch resonated with customers much more than the feature-heavy one."
 
 [↑ Back to index](#index)
 
@@ -12069,13 +12202,19 @@ Practice sentences you can use in real life:
 
 # Retry on
 
-Re-run on failure.
+To re-run an operation automatically on failure.
+
+"The client retries on any 5xx response, up to three times."
+"We added a backoff so it doesn't retry on failure too aggressively."
 
 [↑ Back to index](#index)
 
 # Revert back
 
-Return to a previous state.
+To return to a previous state.
+
+"We reverted back to the last known-good deploy within minutes of the alert."
+"The config reverted back automatically once the health check started failing."
 
 [↑ Back to index](#index)
 
@@ -12160,16 +12299,19 @@ Explain in your own words:
 
 # Road Rage
 
-**Meaning:** Extreme anger or aggressive behavior by a driver.  
- **Example:** *He almost hit another car because of road rage.*
+Extreme anger or aggressive behavior by a driver.
+
+"He almost hit another car because of road rage."
+"Road rage incidents spike during the evening commute."
 
 [↑ Back to index](#index)
 
 # Roll back
 
-Revert to previous version or state.
+To revert to a previous version or state.
 
-Revert to an older version.
+"We rolled back the deploy the moment error rates spiked."
+"If the migration fails, roll back to the last known-good snapshot."
 
 [↑ Back to index](#index)
 
@@ -12207,21 +12349,28 @@ Exiting the assignment
 
 # Roll out
 
-Deploy a new version to users.
+To deploy a new version or release a feature to users.
 
-Release a feature or system.
+"We're rolling the feature out to 10% of users first."
+"The new version rolled out without any incidents."
 
 [↑ Back to index](#index)
 
 # Roll over
 
-Rotate models gradually.
+To rotate models, keys, or resources gradually rather than all at once.
+
+"We roll the model over gradually so we can catch regressions early."
+"Credentials roll over automatically every 90 days."
 
 [↑ Back to index](#index)
 
 # Roll up
 
-Summarize information.
+To summarize or aggregate information into a higher-level view.
+
+"The dashboard rolls up per-service errors into a single reliability score."
+"Can you roll this up into a one-slide summary for the exec review?"
 
 [↑ Back to index](#index)
 
@@ -12414,31 +12563,37 @@ Use at least one connector like:
 
 # Root out
 
-Eliminate the real cause.
+To fully eliminate the real cause of a problem.
 
-Fully eliminate problem.
+"We rooted out the flaky test by finding the shared state it depended on."
+"Rooting out the actual cause took longer than patching the symptom, but it was worth it."
 
 [↑ Back to index](#index)
 
 # rough it
 
-verb
+To travel or live without comforts or luxuries.
 
-travel without comforts or luxuries
-
-Had I known I'd have to rough it I would have taken a shower before I left.
+"Had I known I'd have to rough it, I would have taken a shower before I left."
+"We roughed it for a week with no wifi and a shared bathroom."
 
 [↑ Back to index](#index)
 
 # Route through
 
-Send traffic via a specific path.
+To send traffic via a specific path.
+
+"All external traffic routes through the API gateway."
+"We routed the request through a proxy to add authentication."
 
 [↑ Back to index](#index)
 
 # Rub off
 
-Influence someone else.
+To influence someone else, often unintentionally.
+
+"Her attention to detail rubbed off on the rest of the team."
+"His calm-under-pressure attitude during incidents rubbed off on the newer engineers."
 
 [↑ Back to index](#index)
 
@@ -12482,64 +12637,55 @@ You’ll often hear it when someone gives **practical advice or a quick estimate
 
 # Rule out
 
-Meaning: To exclude or eliminate something as a possibility.
+To exclude or eliminate something as a possibility.
 
-* Example 1: After careful analysis, we can rule out that option as not feasible.  
-* Example 2: The doctors ruled out any serious medical condition after the tests.
-
-To eliminate a possibility.
-
-Reject a possibility.
-
-Eliminate options.
+"After careful analysis, we ruled out that option as not feasible."
+"The doctors ruled out any serious medical condition after the tests."
 
 [↑ Back to index](#index)
 
 # Run After
 
-To chase
+To chase or pursue.
 
-Does he run after the money ?  
----
+"Does he run after the money, or does he actually care about the mission?"
+"The intern ran after the shipment truck when he saw the wrong address."
 
 [↑ Back to index](#index)
 
 # Run Away/off
 
-To escape, flee
+To escape, flee, often secretly.
 
-I ran away from there, the moment I saw him.  
----
+"I ran away from there the moment I saw him."
+"The intern ran off the moment the manager started asking about the missed deadline."
 
 [↑ Back to index](#index)
 
 # Run by
 
-Review with someone for approval.
+To review something with someone for approval or quick feedback.
 
-Ask for quick feedback.
+"Let me run this by legal before we announce it."
+"Can you run the proposal by the team before I send it to the client?"
 
 [↑ Back to index](#index)
 
 # Run Down
 
-To feel weakness in body  
-I'm run down in health today.
+To feel weak or unwell; to lose power, as in a battery; or to criticize someone.
 
-To lose power (battery); or to criticize.
+"I'm feeling run down in health today — probably need more sleep, not more coffee."
+"The old laptop's battery runs down within an hour now."
 
 [↑ Back to index](#index)
 
 # Run into
 
-Meaning: To encounter or meet someone unexpectedly.
+To encounter or meet someone unexpectedly, or to face a problem.
 
-* Example 1: I ran into my former colleague at a business conference.  
-* Example 2: They ran into financial difficulties while setting up the business.
-
-To meet unexpectedly; or face a problem.
-
-Encounter a problem.
+"I ran into my former colleague at a conference."
+"They ran into financial difficulties while setting up the business."
 
 [↑ Back to index](#index)
 
@@ -12563,15 +12709,19 @@ Metaphorical:
 
 # Run out (of time)
 
-**Run out (of time)** – To have no more time.  
- We ran out of time in the meeting.
+To have no more time.
+
+"We ran out of time in the meeting before covering the last agenda item."
+"Don't wait until you run out of time to raise a blocker."
 
 [↑ Back to index](#index)
 
 # Run Out For
 
-**Meaning:** To quickly go somewhere to get something.  
- **Example:** *I’ll run out for some milk.*
+To quickly go somewhere to get something.
+
+"I'll run out for some coffee before the meeting starts."
+"He ran out for snacks during the long deploy window."
 
 [↑ Back to index](#index)
 
@@ -12587,16 +12737,10 @@ To have no more of something left; to exhaust or deplete the supply of something
 
 # Run Over
 
-Study Quickly
+To review something quickly, or to hit with a vehicle.
 
-Don’t run over the lesson
-
-TO knock down
-
-He ran over the defending champion(past year winner)  
----
-
-To hit with a vehicle; or review quickly.
+"Don't run over the lesson too fast — some of this is new to the team."
+"He ran over the defending champion in the final round."
 
 [↑ Back to index](#index)
 
@@ -12670,9 +12814,10 @@ So in your case, *“run past some details someone”* probably means: *“share
 
 # Run through
 
-Go quickly over something.
+To go quickly over something, or test it end to end.
 
-Test training end-to-end.
+"Let's run through the demo once before the client call."
+"We ran the training pipeline through end to end on a small sample first."
 
 [↑ Back to index](#index)
 
@@ -12686,47 +12831,64 @@ phrasal verb — to take an idea or task and continue developing it independentl
 
 # Salad Dressing
 
-**Meaning:** A sauce added to salads.  
- **Example:** *Can you pass the salad dressing?*
+A sauce added to salads.
+
+"Can you pass the salad dressing?"
+"The team lunch always has three kinds of salad dressing on the side."
 
 [↑ Back to index](#index)
 
 # Save up (for)
 
-**Save up (for)** – To collect money for something.  
- I'm saving up for a new laptop.
+To collect money for something.
+
+"I'm saving up for a new laptop."
+"The team saved up their budget for a proper offsite this year."
 
 [↑ Back to index](#index)
 
 # Scale back
 
-Reduce capacity temporarily.
+To reduce capacity temporarily.
+
+"We scaled back the cluster over the holidays since traffic drops."
+"The team scaled back the feature scope to hit the original deadline."
 
 [↑ Back to index](#index)
 
 # Scale down
 
-Reduce capacity.
+To reduce capacity, size, or scope.
+
+"We scaled down the cluster overnight since traffic drops to almost nothing."
+"The team scaled down the launch scope to hit the original deadline."
 
 [↑ Back to index](#index)
 
 # Scale in
 
-Remove instances when load drops.
+To remove instances when load drops.
+
+"The autoscaler scales in once traffic falls below the threshold for ten minutes."
+"We scale in overnight to save on compute costs."
 
 [↑ Back to index](#index)
 
 # Scale out
 
-Add more instances horizontally.
+To add more instances horizontally to handle load.
+
+"We scaled out to ten replicas during the traffic spike."
+"The service is designed to scale out, not just up."
 
 [↑ Back to index](#index)
 
 # Scale up
 
-Increase instance size vertically.
+To increase capacity, often by increasing instance size vertically.
 
-Increase capacity.
+"We scaled the database up to a larger instance ahead of the launch."
+"Scale up first as a quick fix; scale out is the real long-term solution."
 
 [↑ Back to index](#index)
 
@@ -12847,23 +13009,28 @@ To compromise values for gain; or to have no stock left.
 
 # Serenity Prayer
 
-**Meaning:** A prayer asking for peace, courage, and wisdom.  
- **Example:** *She recited the Serenity Prayer to calm herself.*
+A prayer asking for peace, courage, and wisdom.
+
+"She recited the Serenity Prayer to calm herself before the tough conversation."
+"He kept a version of the Serenity Prayer taped above his desk during the stressful quarter."
 
 [↑ Back to index](#index)
 
 # Serve up
 
-Provide data to users.
+To provide data or content to users.
+
+"The API serves up cached results whenever possible to cut latency."
+"We serve the recommendations up in under 100ms."
 
 [↑ Back to index](#index)
 
 # Set Aside
 
-**Meaning:** To save or reserve something.  
- **Example:** *Set aside some time to rest.*
+To save, reserve, or park something for later.
 
-Park for later.
+"Set aside some time to rest before the on-call shift starts."
+"Let's set that debate aside for now and revisit it after launch."
 
 [↑ Back to index](#index)
 
@@ -12894,61 +13061,46 @@ To begin a journey; or to trigger something (e.g., alarms, reactions).
 
 # Set out
 
-**verb**
-
 To begin a journey or task, often with purpose or planning.
 
-we set out from New York on Friday for Egypt
-
-she drew up a plan of what her organization should set out to achieve
+"We set out from New York on Friday for Egypt."
+"She drew up a plan of what her organization should set out to achieve."
 
 [↑ Back to index](#index)
 
 # Set up
 
-Meaning: To establish or create something.
+To establish or create something, such as a business, meeting, or configuration.
 
-* Example 1: They set up a new branch office in the city center.  
-* Example 2: The IT team will set up the new system by the end of the week.
-
-**Set up** – To arrange or prepare something.  
- They set up a meeting for Friday.
-
-To establish something (a business, event); also can mean to trick someone.
-
-Repeated: To arrange, establish, or frame someone.
-
-Configure rules/connections.
-
-Prepare environment.
+"They set up a new branch office in the city center."
+"The IT team will set up the new system by the end of the week."
 
 [↑ Back to index](#index)
 
 # Settle for
 
-Meaning: To accept something less than desired or expected.
+To accept something less than desired or expected.
 
-* Example 1: After negotiation, we decided to settle for a lower price.  
-* Example 2: Don’t settle for anything less than what you deserve.
+"After negotiation, we decided to settle for a lower price."
+"Don't settle for the first vendor quote — get at least two more."
 
 [↑ Back to index](#index)
 
 # Settle in
 
-Meaning: To become familiar and comfortable in a new environment.
+To become familiar and comfortable in a new environment.
 
-* Example 1: It took some time to settle in the new office space.  
-* Example 2: He settled in quickly and made new friends in the neighborhood.
-
-To become comfortable in a new place or situation.
+"It took some time to settle in at the new office."
+"He settled in quickly and made new friends on the team."
 
 [↑ Back to index](#index)
 
 # Settle on
 
-Choose after discussion.
+To choose something after discussion, finalizing a decision.
 
-Finalise a choice.
+"After comparing three vendors, we settled on the one with the best support SLA."
+"The team settled on Kafka once the ordering requirement became clear."
 
 [↑ Back to index](#index)
 
@@ -12963,12 +13115,10 @@ Here are some other examples of the phrase in use:
 
 # Shake up
 
-Meaning: To make significant changes or reforms in an organization.
+To make significant changes or reforms in an organization; to shock.
 
-* Example 1: The new CEO plans to shake up the company’s structure for better efficiency.  
-* Example 2: The government announced plans to shake up the healthcare system.
-
-To reorganize drastically; to shock.
+"The new CEO plans to shake up the company's structure for better efficiency."
+"The government announced plans to shake up the healthcare system."
 
 [↑ Back to index](#index)
 
@@ -12995,8 +13145,10 @@ In movies, "shard of glass" can also refer to a horrible truth, a blind spot, or
 
 # Sharpen One’s Ears
 
-**Meaning:** To listen carefully.  
- **Example:** *Sharpen your ears—the announcement’s coming.*
+To listen carefully.
+
+"Sharpen your ears — the announcement's coming any minute."
+"She sharpened her ears the moment the incident commander started speaking."
 
 [↑ Back to index](#index)
 
@@ -13031,32 +13183,37 @@ The phrase "shoot me now" is a humorous or exaggerated way of expressing frustra
 
 # Shop around
 
-**Shop around** – To compare prices before buying.  
- Shop around before buying a new phone.
+To compare prices or options before deciding.
 
-Explore multiple options.
+"Shop around before buying a new phone."
+"We shopped around for a few weeks before settling on this vendor."
 
 [↑ Back to index](#index)
 
 # Shove up
 
-: **to move over to make room for someone else**. Shove up so that I can sit down, too.
+To move over to make room for someone else.
+
+"Shove up so that I can sit down too."
+"Everyone shoved up to fit one more chair at the table."
 
 [↑ Back to index](#index)
 
 # Show Off
 
-**Meaning:** To brag or display something proudly.  
- **Example:** *He’s always showing off his new gadgets.*
+To brag or display something proudly.
+
+"He's always showing off his new gadgets."
+"She wasn't showing off — the benchmark numbers really were that good."
 
 [↑ Back to index](#index)
 
 # Show up
 
-**Show up** – To arrive or appear.  
-He didn’t show up to the meeting.
+To arrive or appear; also, to embarrass someone by outshining them.
 
-To arrive; also means to embarrass someone by outshining them.
+"He didn't show up to the meeting, and nobody heard from him until the next day."
+"Her demo showed up everyone else's — it was the only one that actually worked live."
 
 [↑ Back to index](#index)
 
@@ -13087,7 +13244,10 @@ Stop operations.
 
 # Shut off
 
-Stop unused instances.
+To stop unused instances or systems.
+
+"We shut off the idle staging instances to cut costs."
+"Shut off the old cron job now that the new pipeline replaces it."
 
 [↑ Back to index](#index)
 
@@ -13099,8 +13259,10 @@ Stop unused instances.
 
 # Shut up
 
-**Shut up** – To stop talking (rude in tone).  
- Shut up and listen to me.
+(Informal, rude in tone) To stop talking.
+
+"Shut up and listen to me for a second."
+"He told the heckler to shut up during the Q&A."
 
 [↑ Back to index](#index)
 
@@ -13116,13 +13278,19 @@ Stop unused instances.
 
 # Sign off
 
-Approve models.
+To formally approve something, such as a model, design, or release.
+
+"Legal needs to sign off before we can launch in that region."
+"The lead engineer signed off on the migration plan after the dry run succeeded."
 
 [↑ Back to index](#index)
 
 # Sign off on
 
-Approve deliverable.
+To formally approve a specific deliverable.
+
+"The client signed off on the final design yesterday."
+"I won't sign off on this release until the load test results come back clean."
 
 [↑ Back to index](#index)
 
@@ -13148,45 +13316,46 @@ A silver lining is a positive aspect that can be found in a negative situation. 
 
 # Simple Technical Example
 
-Imagine this architecture:
+An example illustrating how components in an architecture connect, such as services hanging off a shared gateway.
 
-Frontend → API Gateway → Services
-
-You could say:
-
-* *All user-related services hang off the API gateway.*
-
-Meaning:  
- Those services are connected behind the gateway.
+"All user-related services hang off the API gateway."
+"In this simple technical example, the frontend talks only to the gateway, never directly to the services behind it."
 
 [↑ Back to index](#index)
 
 # Single out
 
-Identify specific issue.
+To identify a specific issue or person from a larger group.
+
+"The profiler singled out one function as the source of 80% of the latency."
+"Don't single out one engineer in the postmortem — this was a process gap."
 
 [↑ Back to index](#index)
 
 # Siphoning of funds
 
-Siphoning of funds is the illegal or unethical act of taking money from an organization or business and using it for a different purpose. It can also mean gradually stealing money or goods.  
-to dishonestly take money from an organization or other supply, and use it for a purpose for which it was not intended:   
-He lost his job when it was discovered that he had been siphoning off money from the company for his own use.
+The illegal or unethical act of taking money from an organization and using it for an unintended purpose.
+
+"He lost his job when it was discovered that he had been siphoning off money from the company for his own use."
+"The audit uncovered siphoning of funds through a shell vendor account."
 
 [↑ Back to index](#index)
 
 # Sit in
 
- → *To attend a meeting, class, or event without actively participating.*  
- **Example:** I just sat in on the lecture to see what it was about.
+To attend a meeting, class, or event without actively participating.
+
+"I just sat in on the lecture to see what it was about."
+"She sat in on the interview as a silent observer for calibration."
 
 [↑ Back to index](#index)
 
 # Sit Tight
 
-to wait patiently and take no action: 
+To wait patiently and take no action.
 
-You sit tight, and I'll go get help.
+"You sit tight, and I'll go get help."
+"We're sitting tight on the hiring decision until next quarter's budget is confirmed."
 
 [↑ Back to index](#index)
 
@@ -13236,7 +13405,10 @@ phrasal verb — to gradually lose energy, momentum, or interest and fade away, 
 
 # skim through
 
-to read or consider something quickly in order to understand the main points, without studying it in detail: I've only skimmed (through/over) his letter; I haven't read it carefully yet.
+To read or consider something quickly to understand the main points, without studying it in detail.
+
+"I've only skimmed through his letter; I haven't read it carefully yet."
+"She skimmed through the RFC before the meeting, just enough to ask a good question."
 
 [↑ Back to index](#index)
 
@@ -13332,8 +13504,10 @@ Slip in” is a **phrasal verb** that usually means to **enter, insert, or say s
 
 # Slumped Over
 
-**Meaning:** Bent or drooping posture from tiredness or sadness.  
- **Example:** *He sat slumped over his desk.*
+Bent or drooping posture from tiredness or sadness.
+
+"He sat slumped over his desk after the third all-nighter that month."
+"She was slumped over in her chair by the end of the incident call."
 
 [↑ Back to index](#index)
 
@@ -13398,8 +13572,10 @@ To act secretly, often implying deceit (e.g., cheating, hiding something).
 
 # Snowball Effect
 
-**Meaning:** When something small grows larger and larger over time.  
- **Example:** *The rumor spread with a snowball effect.*
+When something small grows larger and larger over time.
+
+"The rumor spread with a snowball effect by the end of the day."
+"One missed deadline had a snowball effect on the rest of the roadmap."
 
 [↑ Back to index](#index)
 
@@ -13523,22 +13699,19 @@ Example: "I'm sort of tired today."
 
 # Sort out
 
-Meaning: To resolve or organize a problem or situation.
+To resolve or organize a problem or situation.
 
-* Example 1: Let’s have a meeting to sort out the issues raised by the client.  
-* Example 2: We need to sort out the logistics before the event.
-
-To resolve or organize something.
-
-Organize features.
-
-Fix or organize.
+"Let's have a meeting to sort out the issues raised by the client."
+"We need to sort out the logistics before the event."
 
 [↑ Back to index](#index)
 
 # Sort through
 
-Investigate options.
+To investigate or examine a set of options or items one by one.
+
+"We sorted through a dozen vendor proposals before picking two to trial."
+"It took a while to sort through the noisy logs and find the actual error."
 
 [↑ Back to index](#index)
 
@@ -13599,8 +13772,10 @@ The phrase **“space out”** has two common meanings:
 
 # Speak up
 
-**Speak up** – To speak louder.  
- Could you speak up? I can't hear you.
+To speak louder, or to voice an opinion you'd otherwise keep quiet.
+
+"Could you speak up? I can't hear you over the call."
+"She spoke up in the review even though she was the most junior person in the room."
 
 [↑ Back to index](#index)
 
@@ -13656,17 +13831,19 @@ Too comfortable and not trying to improve.
 
 # Spin down
 
-Shut down resources safely.
+To shut down resources safely.
 
-Shut an instance slowly.
+"We spin the staging cluster down every night to save cost."
+"Spin the old instance down only after confirming traffic has fully shifted."
 
 [↑ Back to index](#index)
 
 # Spin up
 
-Create a new VM/container/service.
+To create a new VM, container, or service.
 
-Create a new instance.
+"We spin up a fresh environment for every pull request."
+"It takes about two minutes to spin up a new instance from the base image."
 
 [↑ Back to index](#index)
 
@@ -13690,9 +13867,10 @@ idiom (figurative, strong register) — to show blatant contempt or disrespect t
 
 # Split up
 
-Divide train/val/test.
+To divide something into parts, such as train/val/test data or tasks.
 
-Divide tasks.
+"We split the dataset up into 80% train, 10% validation, 10% test."
+"Let's split the migration up so each engineer owns one service."
 
 [↑ Back to index](#index)
 
@@ -13810,7 +13988,10 @@ Common spoken sentences to practice
 
 # Spread out
 
-Distribute workloads cost-effectively.
+To distribute workloads cost-effectively across resources.
+
+"We spread the batch jobs out across the night to avoid peak-hour cost."
+"Traffic is spread out across three regions for redundancy."
 
 [↑ Back to index](#index)
 
@@ -13847,21 +14028,28 @@ So in conversation, it means: **to include a little bit of something naturally, 
 
 # Stamp out
 
-Remove failing builds.
+To eliminate something completely.
 
-Eliminate completely.
+"We stamped out the flaky builds by isolating the test that depended on timing."
+"Leadership wants to stamp out the practice of merging without review entirely."
 
 [↑ Back to index](#index)
 
 # Stand in
 
-Replace someone temporarily.
+To replace someone temporarily.
+
+"She stood in for the manager while he was on leave."
+"He's standing in on the on-call rotation this week."
 
 [↑ Back to index](#index)
 
 # Stand in for
 
-Substitute in meeting.
+To substitute for someone in a meeting or role.
+
+"I'll stand in for you at the client call since you're out sick."
+"She stood in for the lead during the architecture review."
 
 [↑ Back to index](#index)
 
@@ -14057,17 +14245,19 @@ Now, I want you to practice:
 
 # stay ahead of the curve
 
-idiom
+To remain updated, informed, or prepared in order to anticipate and adapt to future changes before others do.
 
-remain updated, informed, or prepared in order to anticipate and adapt to future changes or developments before others do
+"Investing in observability early kept us ahead of the curve when the outage hit."
+"She reads the RFCs early to stay ahead of the curve on where the ecosystem is heading."
 
 [↑ Back to index](#index)
 
 # steeper/steep learning curve
 
-A steep learning curve is an expression that describes the initial difficulty of learning something that is considered to be very challenging.
+An expression describing the initial difficulty of learning something considered very challenging. Opposite: a shallow or gradual learning curve.
 
-Opposite: shallow or gradual learning curve
+"Kubernetes has a steep learning curve if you've only worked with plain VMs."
+"The new tool has a steeper learning curve than the one it replaced, but it's more powerful."
 
 [↑ Back to index](#index)
 
@@ -14083,36 +14273,46 @@ For example, "His love of the outdoors stems from his father".
 
 # Step back
 
-Look at the bigger picture.
+To look at the bigger picture instead of the immediate detail.
+
+"Let's step back and ask if this is even the right problem to solve."
+"Stepping back from the individual bugs, there's a clear pattern in what's failing."
 
 [↑ Back to index](#index)
 
 # Step down
 
-Meaning: To resign or leave a position or role.
+To resign or leave a position or role.
 
-* Example 1: The CEO decided to step down after serving the company for 20 years.  
-* Example 2: She stepped down from her role to focus on personal projects.
-
-To resign from a position.
+"The CEO decided to step down after serving the company for 20 years."
+"She stepped down from her role to focus on personal projects."
 
 [↑ Back to index](#index)
 
 # Step in
 
-Intervene when needed.
+To intervene when needed.
+
+"The manager stepped in once the discussion turned unproductive."
+"She stepped in to unblock the team when the vendor went silent."
 
 [↑ Back to index](#index)
 
 # Step through
 
-Debug training iteratively.
+To debug or walk through something iteratively, one step at a time.
+
+"Let's step through the training loop line by line to find where it diverges."
+"He stepped through the request in the debugger until he found the null pointer."
 
 [↑ Back to index](#index)
 
 # Step up
 
-Take more responsibility.
+To take on more responsibility.
+
+"She stepped up and led the incident response when the lead was unreachable."
+"We need someone to step up and own the migration end to end."
 
 [↑ Back to index](#index)
 
@@ -14168,40 +14368,46 @@ For example:
 
 # stop short of
 
-idiomatic
+To not go as far as some extreme action.
 
-not go as far as (some extreme action)
-
-the measures stopped short of establishing direct trade links
+"The measures stopped short of establishing a full rollback, just a partial one."
+"He stopped short of blaming her directly, but everyone knew what he meant."
 
 [↑ Back to index](#index)
 
 # stop short of doing
 
-phrase
+To come close to doing something, but not actually do it.
 
-come close to doing something, but not actually doing it
-
-Dave stopped short of telling her the brutal truth, believing subtly would be a better approach this time round.
+"Dave stopped short of telling her the brutal truth, believing subtlety would work better this time."
+"The report stops short of naming a root cause, which made the postmortem less useful."
 
 [↑ Back to index](#index)
 
 # Stream in
 
-Continuously ingest logs.
+To continuously ingest data or logs.
+
+"Metrics stream in from every service in near real time."
+"We stream logs in rather than batching them hourly, so alerts fire faster."
 
 [↑ Back to index](#index)
 
 # Stream out
 
-Push logs to external systems.
+To push logs or data to external systems continuously.
+
+"We stream logs out to the SIEM in near real time."
+"Metrics stream out to the dashboard as soon as they're recorded."
 
 [↑ Back to index](#index)
 
 # Stress Out
 
-**Meaning:** To become very worried or tense.  
-**Example:** *Don’t stress out about the deadline.*
+To become very worried or tense.
+
+"Don't stress out about the deadline — we still have two days of buffer."
+"He stressed out over the demo way more than it turned out to warrant."
 
 [↑ Back to index](#index)
 
@@ -14265,15 +14471,19 @@ idiom — to evoke a strong emotional response, or a sense of shared recognition
 
 # Stumble across
 
- → *To find something by chance while not looking for it.*  
- **Example:** I stumbled across an old photo album in the attic.
+To find something by chance while not looking for it.
+
+"I stumbled across an old photo album in the attic."
+"She stumbled across the bug while debugging something completely unrelated."
 
 [↑ Back to index](#index)
 
 # Stumble into
 
- → *To enter or get involved in something by accident or without planning.*  
- **Example:** He stumbled into a career in tech after fixing a friend's computer.
+To enter or get involved in something by accident or without planning.
+
+"He stumbled into a career in tech after fixing a friend's computer."
+"She stumbled into the role of team lead when the previous one left suddenly."
 
 [↑ Back to index](#index)
 
@@ -14310,8 +14520,10 @@ To find something by accident.
 
 # Sugar Rush
 
-**Meaning:** Burst of energy after eating sugar.  
- **Example:** *The kids got a sugar rush after the cake.*
+A burst of energy after eating sugar.
+
+"The kids got a sugar rush after the birthday cake."
+"The team joked their 2pm energy was just a sugar rush from the snack table."
 
 [↑ Back to index](#index)
 
@@ -14328,50 +14540,64 @@ Meaning:
 
 # Swap in
 
-Replace old model.
+To replace an old model or component with a new one.
+
+"We swapped in the new model once it beat the baseline on every metric."
+"Swap in the mock service for local development."
 
 [↑ Back to index](#index)
 
 # Swap out
 
-Replace data segments.
+To replace a data segment or an outdated model with a new one.
 
-Remove outdated model.
+"We swapped out the old model once the new one beat it on every metric."
+"Swap out the mock service for the real one before the integration test."
 
 [↑ Back to index](#index)
 
 # Switch over
 
-Move traffic to new system.
+To move traffic to a new system, or transition fully to it.
 
-Transition to a new system.
+"We switched over to the new payment provider last week."
+"The DNS switch over happened without any downtime."
 
 [↑ Back to index](#index)
 
 # Sync down
 
-Download updated data.
+To download updated data from a remote source.
+
+"The client syncs down the latest config on startup."
+"Sync down the production schema before running migrations locally."
 
 [↑ Back to index](#index)
 
 # Sync out
 
-Push data outward.
+To push data outward to other systems.
+
+"The pipeline syncs data out to the analytics warehouse every hour."
+"We sync events out to three downstream consumers."
 
 [↑ Back to index](#index)
 
 # Sync up
 
-Align data across locations.
+To align data across locations, or align as a team.
 
-Align as a team.
+"The two regions sync up every few minutes."
+"Let's sync up quickly before the client call so we're aligned on messaging."
 
 [↑ Back to index](#index)
 
 # Synonymous With
 
-**Meaning:** Closely associated or having the same meaning.  
- **Example:** *Her name is synonymous with kindness.*
+Closely associated with, or having the same meaning as.
+
+"Her name is synonymous with kindness on this team."
+"That vendor's name has become synonymous with reliability in this industry."
 
 [↑ Back to index](#index)
 
@@ -14437,8 +14663,10 @@ Align as a team.
 
 # Take care of
 
-**Take care of** – To manage or attend to something.  
-I'll take care of the invitations.
+To manage or attend to something.
+
+"I'll take care of the invitations for the offsite."
+"She's been taking care of the on-call rotation for the whole quarter."
 
 [↑ Back to index](#index)
 
@@ -14486,8 +14714,10 @@ It means **to grab, control, or gain possession of something**, either physicall
 
 # Take It Slow
 
-**Meaning:** Don’t rush; move at a relaxed pace.  
- **Example:** *Let’s take it slow and enjoy the weekend.*
+Don't rush; move at a relaxed pace.
+
+"Let's take it slow and enjoy the weekend for once."
+"We're taking it slow with the rollout — 5% of users this week, more next."
 
 [↑ Back to index](#index)
 
@@ -14501,18 +14731,10 @@ idiom — to pay close attention to and remember something, usually because it m
 
 # Take off
 
-Meaning: To become successful or popular quickly.
+To become successful quickly; to remove clothing; or for a flight to depart.
 
-* Example 1: The new smartphone model took off in the market due to its innovative features.  
-* Example 2: Her career took off after her debut performance.
-
-To take clothes off / aeroplane departure from airport  
-Take off the dirty clothes and put on the clean ones
-
-**Take off** – To remove clothing or leave the ground (for planes).  
- He took off his jacket.
-
-To become successful; or to remove clothing; or to depart (flight).
+"The new smartphone model took off in the market due to its innovative features."
+"He took off his jacket before sitting down for the interview."
 
 [↑ Back to index](#index)
 
@@ -14708,24 +14930,19 @@ It’s often used when you decide not to verify something yourself, but instead 
 
 # Take the Leap
 
-**Meaning:** To make a big or risky decision.  
- **Example:** *She took the leap and started her own company.*
+To make a big or risky decision.
+
+"She took the leap and started her own company."
+"He took the leap and switched from IC to management this year."
 
 [↑ Back to index](#index)
 
 # Take up
 
-Meaning: To start or begin an activity or hobby.
+To begin a new activity or hobby; also, to occupy space or time.
 
-* Example 1: I decided to take up photography as a side business.  
-* Example 2: She took up yoga to improve her mental and physical health.
-
-To start a new hobby or activity.  
- I’ve taken up yoga recently.
-
-To begin a new activity or responsibility; also means to occupy space or time.
-
-Repeated: Start doing; or occupy space/time.
+"I decided to take up photography as a side project."
+"This meeting is taking up the whole afternoon."
 
 [↑ Back to index](#index)
 
@@ -14746,15 +14963,19 @@ Repeated: Start doing; or occupy space/time.
 
 # Talk over
 
-Discuss something.
+To discuss something, usually to reach a shared understanding.
+
+"Let's talk it over before you commit to the new architecture."
+"He talked the proposal over with his manager before presenting it to the team."
 
 [↑ Back to index](#index)
 
 # Talk through
 
-Explain step-by-step.
+To explain something step by step, completely.
 
-Explain completely.
+"Can you talk me through how the retry logic actually works?"
+"She talked the new hire through the deployment process end to end."
 
 [↑ Back to index](#index)
 
@@ -14860,18 +15081,19 @@ Examples of "tapped out" in a sentence:
 
 # Team up
 
-Meaning: To collaborate or join forces with others.
+To collaborate or join forces with others.
 
-* Example 1: The two companies decided to team up to launch a new product line.  
-* Example 2: We need to team up to tackle this challenging project.
-
-To collaborate.
+"The two companies decided to team up to launch a new product line."
+"We need to team up to tackle this challenging migration."
 
 [↑ Back to index](#index)
 
 # Tear down
 
-Delete or destroy infra resources.
+To delete or destroy infrastructure resources.
+
+"We tear down the staging environment every night to save cost."
+"The old cluster was torn down once the migration was fully verified."
 
 [↑ Back to index](#index)
 
@@ -14891,7 +15113,10 @@ Delete or destroy infra resources.
 
 # Test out
 
-Validate fix.
+To validate a fix or idea by trying it in practice.
+
+"Let's test out the fix on staging before touching production."
+"We tested out two caching strategies before picking one."
 
 [↑ Back to index](#index)
 
@@ -14947,12 +15172,10 @@ In this sense, it means someone is intentionally delaying or postponing somethin
 
 # There is no finish line
 
-Learning: Life is a never-ending learning process, and there is no finish line to learning.   
-Hard work: Hard work is a continuous process, and there is no finish line to it.   
-The journey is more important than the destination: The journey is more important than the destination, and life is a marathon.   
-Limitless potential: There is limitless potential in sport and design.   
-Creative life: The creative life is not linear, and there is no finish line to it.   
-Good habits: There is no finish line to good habits, and hitting a milestone is a reminder of how far you've come.
+The idea that improvement or learning is a continuous process with no final endpoint.
+
+"With security, there is no finish line — you keep patching and re-checking forever."
+"Career growth is like that too: there is no finish line, just the next thing to learn."
 
 [↑ Back to index](#index)
 
@@ -15054,14 +15277,19 @@ idiom (from news broadcasting) — used to introduce breaking or very recent new
 
 # Throw In
 
-**Meaning:** To add something extra.  
- **Example:** *He threw in a free coffee with my order.*
+To add something extra.
+
+"He threw in a free upgrade with the order."
+"She threw in one more concern before the meeting wrapped up."
 
 [↑ Back to index](#index)
 
 # Throw off
 
-Confuse or disrupt.
+To confuse or disrupt something.
+
+"The timezone bug threw off every scheduled job by six hours."
+"A single malformed record threw the whole batch job off."
 
 [↑ Back to index](#index)
 
@@ -15105,44 +15333,64 @@ Confuse or distract someone.
 
 # Tick off
 
-Mark as done.
+To mark something as done.
+
+"We ticked off every item on the launch checklist before going live."
+"He ticked off the migration steps one by one in the runbook."
 
 [↑ Back to index](#index)
 
 # Tickle One’s Curiosity
 
-**Meaning:** To make someone interested or curious.  
- **Example:** *That mystery movie really tickled my curiosity.*
+To make someone interested or curious.
+
+"That mystery bug really tickled my curiosity."
+"The cryptic RFC title tickled everyone's curiosity before the meeting even started."
 
 [↑ Back to index](#index)
 
 # Tie back to
 
-Relate model to business goal.
+To relate something, such as a model or feature, to a business goal.
+
+"Every metric on this dashboard ties back to a specific business outcome."
+"Tie the technical debt work back to the customer impact it's causing."
 
 [↑ Back to index](#index)
 
 # Tie in
 
-Connect with another system or idea.
+To connect with another system or idea.
+
+"This feature ties in with the billing system through a webhook."
+"His proposal ties in nicely with the roadmap we already agreed on."
 
 [↑ Back to index](#index)
 
 # Tie together
 
-Combine pieces to form a whole.
+To combine separate pieces to form a whole.
+
+"The summary tied together findings from three separate investigations."
+"We tied the frontend and backend work together in a single integration test."
 
 [↑ Back to index](#index)
 
 # Tier down
 
-Move to cheaper storage.
+To move data to cheaper, lower-performance storage.
+
+"We tier cold data down to archival storage after 90 days."
+"Logs older than a month get tiered down automatically."
 
 [↑ Back to index](#index)
 
 # Tier up
 
-Move data to higher storage class.
+To move data to a higher, faster storage class.
+
+"We tier hot data up to SSD-backed storage automatically."
+"Frequently accessed records get tiered up after the first few reads."
 
 [↑ Back to index](#index)
 
@@ -15185,8 +15433,10 @@ It conveys the idea of progress, growth, or change.
 
 # Tip of the Iceberg
 
-**Meaning:** A small part of a much bigger issue.  
- **Example:** *These complaints are just the tip of the iceberg.*
+A small, visible part of a much bigger issue.
+
+"These complaints are just the tip of the iceberg — the real problem is upstream."
+"The bug we found was the tip of the iceberg; the whole module needed a rewrite."
 
 [↑ Back to index](#index)
 
@@ -15288,27 +15538,28 @@ Everyday Life:
 
 # Toggle between
 
-Switch back and forth.
+To switch back and forth between two states or views.
+
+"The dashboard lets you toggle between raw and aggregated metrics."
+"He toggled between the old and new UI to compare behavior."
 
 [↑ Back to index](#index)
 
 # totes inappropes
 
-phrase
+(Slang) Totally inappropriate.
 
-totally inappropriate
-
-I can't believe you posted that photo of me on the beach. That's totes inappropes\!
+"I can't believe you posted that photo of me on the beach. That's totes inappropes!"
+"Cracking jokes about layoffs during the all-hands was totes inappropes."
 
 [↑ Back to index](#index)
 
 # Touch base
 
-idiomatic
+To talk to someone quickly to catch up on a situation.
 
-talk to someone quickly to catch up on a situation
-
-they are travelling back to Star City, where they plan to touch base with relatives
+"They are traveling back to the city, where they plan to touch base with relatives."
+"Let's touch base after lunch once you've had a look at the PR."
 
 [↑ Back to index](#index)
 
@@ -15350,9 +15601,10 @@ It’s often used in **formal or semi-formal** situations:
 
 # tourist trap
 
-noun
+A place that caters to tourists, usually overpriced or overly commercial.
 
-a place that caters to tourists
+"That café by the monument is a total tourist trap — triple the price for half the coffee."
+"We skipped the tourist trap and found a small local place two streets over."
 
 [↑ Back to index](#index)
 
@@ -15398,13 +15650,19 @@ a place that caters to tourists
 
 # Track down
 
-Find a bug or root cause.
+To find a bug or root cause.
+
+"It took two engineers a full day to track down the race condition."
+"We tracked down the leak to a connection that was never closed."
 
 [↑ Back to index](#index)
 
 # Trade off
 
-Balance two opposing factors.
+To balance two opposing factors against each other.
+
+"We traded off consistency for availability given our use case."
+"Every architecture decision trades off something — the question is whether it's the right thing."
 
 [↑ Back to index](#index)
 
@@ -15420,7 +15678,10 @@ Balance two opposing factors.
 
 # Train up
 
-Train a model fully.
+To fully train a model.
+
+"We trained the model up on the full dataset overnight."
+"It took two days to train the new model up to baseline accuracy."
 
 [↑ Back to index](#index)
 
@@ -15452,13 +15713,19 @@ to ignore someone's feelings or rights and treat them as if they are not importa
 
 # Trigger off
 
-Start based on event.
+To start something based on an event.
+
+"A new commit triggers off the CI pipeline automatically."
+"The alert triggers off once error rate crosses 5% for five minutes."
 
 [↑ Back to index](#index)
 
 # Trim off
 
-Remove small waste.
+To remove small amounts of waste or excess.
+
+"We trimmed off the unused dependencies and cut the bundle size by 30%."
+"Trim off the dead code before the review — it's just noise at this point."
 
 [↑ Back to index](#index)
 
@@ -15487,9 +15754,10 @@ Remove small waste.
 
 # Try out
 
-*(no definition captured in original notes — flagged for manual fill)*
+To experiment with something new or test a change.
 
-Experiment with change.
+"Let's try out the new caching strategy on staging before committing to it."
+"She tried out three different frameworks before picking one for the prototype."
 
 [↑ Back to index](#index)
 
@@ -15504,13 +15772,19 @@ phrasal verb — literal: to fall down suddenly and in an uncontrolled way. Figu
 
 # Tune out
 
-Ignore distractions.
+To ignore distractions and focus.
+
+"He tuned out the Slack noise to finish the report before the deadline."
+"It's easy to tune out low-priority alerts, which is exactly how the real one gets missed."
 
 [↑ Back to index](#index)
 
 # Tune up
 
-Improve hyperparameters.
+To improve hyperparameters or fine-tune a system's settings.
+
+"We tuned up the model's learning rate and batch size before the next training run."
+"Tuning up the JVM's garbage collector settings cut our p99 latency in half."
 
 [↑ Back to index](#index)
 
@@ -15565,8 +15839,10 @@ Improve situation rapidly.
 
 # Turn Down
 
-**Meaning:** To reject or refuse.  
- **Example:** *She turned down the job offer.*
+To reject or refuse.
+
+"She turned down the job offer after negotiating didn't go anywhere."
+"He turned down the request to skip code review, even under deadline pressure."
 
 [↑ Back to index](#index)
 
@@ -15711,9 +15987,10 @@ Also a phrasal verb of *turn*, with these senses:
 
 # Turn Over
 
-To turn the page
+To turn the page, or hand something over to someone else.
 
-Stop turning over the page
+"Turn over to the next page for the pricing details."
+"He turned the project over to the new lead after the reorg."
 
 [↑ Back to index](#index)
 
@@ -15822,22 +16099,10 @@ The phrase "under the hood" is an idiom that originates from car maintenance, wh
 
 # Unique selling point
 
-noun
+A distinctive feature of a product, used as a marketing tool to differentiate it from competitors — abbreviated USP.
 
-A distinctive feature or characteristic of a particular product, used as a marketing tool to improve sales; also in extended use; abbreviated USP.
-
-The unique selling point of our clothing brand is the use of sustainable materials and our commitment to fair trade practices.
-
-Outsource  
-verb
-
-obtain (goods or a service) from an outside or foreign supplier, especially in place of an internal source
-
-outsourcing components from other countries
-
-outsourcing can dramatically lower total costs
-
-you may choose to outsource this function to another company or do it yourself
+"The unique selling point of our clothing brand is the use of sustainable materials."
+"Our USP is sub-second query latency at scale — nobody else in this space offers that."
 
 [↑ Back to index](#index)
 
@@ -15858,13 +16123,10 @@ Here are some examples to clarify:
 
 # up to date
 
-adjective
+Incorporating the latest developments and trends; current.
 
-incorporating the latest developments and trends
-
-a modern, up-to-date hospital
-
-the book will keep you up to date
+"Make sure your local branch is up to date before you start the migration."
+"The book will keep you up to date on everything that's changed in the field."
 
 [↑ Back to index](#index)
 
@@ -15881,49 +16143,73 @@ It can be used to indicate a change or turning point in a narrative.
 
 # Update on
 
-Give the latest status.
+To give the latest status on something.
+
+"Can you update the team on where the migration stands?"
+"He updated leadership on the incident every 30 minutes."
 
 [↑ Back to index](#index)
 
 # Upgrade to
 
-Move to a better version.
+To move to a better or newer version.
+
+"We upgraded to the latest LTS release last quarter."
+"Upgrade to the paid tier once you hit the free tier's rate limit."
 
 [↑ Back to index](#index)
 
 # Upload into
 
-Transfer data somewhere.
+To transfer data into a specific system or location.
+
+"We upload the processed files into the shared bucket every night."
+"Upload the dataset into the training environment before kicking off the job."
 
 [↑ Back to index](#index)
 
 # Urge on
 
-Encourage progress.
+To encourage someone's progress.
+
+"The lead urged the team on through the final stretch before launch."
+"She urged him on to finish the certification even when he wanted to quit."
 
 [↑ Back to index](#index)
 
 # Use up
 
-Exhaust a resource.
+To exhaust a resource completely.
+
+"The batch job used up all the available memory and got OOM-killed."
+"We used up our error budget for the month after the second outage."
 
 [↑ Back to index](#index)
 
 # Vary out
 
-Distribute traffic based on conditions.
+To distribute traffic based on conditions.
+
+"Traffic varies out across regions depending on time of day."
+"The router varies requests out based on current instance load."
 
 [↑ Back to index](#index)
 
 # Vote on
 
-Decide collectively.
+To decide something collectively through a vote.
+
+"The team voted on which framework to standardize on."
+"We voted on the RFC after a week of open comments."
 
 [↑ Back to index](#index)
 
 # Vouch for
 
-Guarantee quality or correctness.
+To guarantee the quality or correctness of something.
+
+"I can vouch for his debugging skills — he found that race condition in an hour."
+"The reviewer vouched for the fix after testing it against every known edge case."
 
 [↑ Back to index](#index)
 
@@ -16016,15 +16302,19 @@ Present ML lifecycle.
 
 # Warm up
 
-Pre-load model to avoid cold start.
+To pre-load a model or system to avoid a slow first response.
 
-Prepare system for heavy load.
+"We warm the cache up before traffic hits the new instance."
+"The model needs a few seconds to warm up before latency stabilizes."
 
 [↑ Back to index](#index)
 
 # Warm up to
 
-Slowly start liking an idea.
+To slowly start liking or accepting an idea.
+
+"He warmed up to the idea of microservices after seeing the deploy time improve."
+"The team warmed up to the new tool once they saw it actually saved time."
 
 [↑ Back to index](#index)
 
@@ -16099,15 +16389,10 @@ Try saying these aloud to get comfortable:
 
 # wash up
 
-verb
+To clean dishes after use; to clean oneself; or to end up somewhere, sometimes metaphorically.
 
-clean pots, pans and dishes after use
-
-I cook for him, but he must wash up
-
-wash up the teacups
-
-To clean oneself; or arrive ashore (also metaphorical for winding up somewhere).
+"I cook for him, but he must wash up."
+"After years of jumping between startups, he washed up at a stable enterprise job."
 
 [↑ Back to index](#index)
 
@@ -16142,7 +16427,10 @@ For many, education is a way out of poverty.
 
 # Wean off
 
-**Wean off** → specifically means *gradually reducing dependence on* something, often so you can stop using it completely. It’s common for **habits, substances, or dependencies** (e.g., caffeine, social media, medication).
+To gradually reduce dependence on something, often to stop using it completely — common for habits, substances, or dependencies.
+
+"He's weaning himself off caffeine one cup at a time."
+"We're weaning the team off the legacy dashboard as the new one gets more features."
 
 [↑ Back to index](#index)
 
@@ -16163,7 +16451,10 @@ Deviousness
 
 # Weed out
 
-Remove useless parts.
+To remove useless or low-quality parts.
+
+"We weeded out the flaky tests that were failing for unrelated reasons."
+"The first interview round weeds out candidates who can't explain their own code."
 
 [↑ Back to index](#index)
 
@@ -16206,27 +16497,28 @@ Share your opinion.
 
 # weigh on
 
-**Meaning:** To cause worry or stress.  
- **Example:** The decision weighs heavily on him.  
- **Context:** Emotions, stress.
+To cause worry or stress.
 
-verb
-
-be depressing or burdensome to someone
-
-his unhappiness would weigh on my mind so much
+"The decision weighs heavily on him even weeks later."
+"The unresolved incident weighed on the whole team over the weekend."
 
 [↑ Back to index](#index)
 
 # Weigh up
 
-Evaluate strengths.
+To evaluate the strengths and weaknesses of options before deciding.
+
+"We weighed up build-vs-buy for two weeks before choosing to buy."
+"Weigh up the maintenance cost, not just the upfront price, before picking a vendor."
 
 [↑ Back to index](#index)
 
 # Wet Work
 
-: work involving murder or assassination.
+Slang for work involving murder or assassination, especially in espionage.
+
+"The film's plot centers on an agent hired to do the agency's wet work."
+"In the novel, the protagonist quits after one too many wet work assignments."
 
 [↑ Back to index](#index)
 
@@ -16278,17 +16570,10 @@ idiom (also "where the rubber meets the road") — the point where a theory, pla
 
 # whip up
 
-**Meaning:** To quickly prepare food or create something.  
-**Example:** She whipped up a delicious dinner.  
-**Context:** Cooking, creating.
+To quickly prepare food or create something; also, to deliberately excite someone into a strong feeling.
 
-verb
-
-deliberately excite someone into having a strong feeling or reaction
-
-Dad had managed to whip himself up into a fantastic rage
-
-Create test config quickly.
+"She whipped up a delicious dinner in under thirty minutes."
+"He whipped up a quick prototype overnight to validate the idea."
 
 [↑ Back to index](#index)
 
@@ -16318,13 +16603,19 @@ It’s about **seeking guidance** or **finding the right person** to rely on.
 
 # Wild west
 
-Noun: the western US in its frontier period characterized by roughness and lawlessness Wild West
+A chaotic, lawless, or unregulated environment.
+
+"Before the style guide, our API design was the wild west — every team did it differently."
+"Early-stage startups can feel like the wild west compared to a large, process-heavy org."
 
 [↑ Back to index](#index)
 
 # Wind down
 
-Reduce activities.
+To reduce activities gradually, often toward a stop.
+
+"We're winding down the legacy service now that the new one is stable."
+"The team winds down after a launch with a short retro and a break."
 
 [↑ Back to index](#index)
 
@@ -16339,13 +16630,19 @@ Reduce activities.
 
 # Wipe out
 
-Delete everything permanently.
+To delete everything permanently.
+
+"A bad script wiped out three days of staging data before anyone noticed."
+"We wiped out the old cluster once the migration was fully verified."
 
 [↑ Back to index](#index)
 
 # Wire up
 
-Connect components.
+To connect components together, physically or in code.
+
+"We wired up the new service to the existing metrics pipeline."
+"He wired up the webhook so failed payments trigger an alert automatically."
 
 [↑ Back to index](#index)
 
@@ -16414,9 +16711,10 @@ Meaning:
 
 # Work around
 
-Find an alternate path.
+To find an alternate path or bypass a blocker.
 
-Bypass blocker.
+"We worked around the vendor's rate limit by batching requests."
+"Until the real fix ships, here's a workaround to unblock you."
 
 [↑ Back to index](#index)
 
@@ -16462,59 +16760,46 @@ So whenever you want to talk about tasks, skills, projects, or self-improvement 
 
 # Work Oneself to the Bone
 
-**Meaning:** To work extremely hard; exhaust oneself.  
- **Example:** *She worked herself to the bone to finish the project.*
+To work extremely hard; exhaust oneself.
+
+"She worked herself to the bone to finish the project on time."
+"He worked himself to the bone during launch week and needed a real break after."
 
 [↑ Back to index](#index)
 
 # Work out
 
-Meaning: To solve or resolve a problem or issue.
+To resolve a problem, exercise, or turn out well.
 
-* Example 1: We need to work out a solution to improve our customer service.  
-* Example 2: The team worked out the budget for the upcoming project.
-
-**Work out** – To resolve or exercise.  
- We worked out our differences.
-
-To exercise; to find a solution; or to turn out well.
-
-Repeated: Exercise or solve a problem.
-
-Compute or solve.
+"We need to work out a solution to improve our customer service."
+"The team worked out the budget for the upcoming project."
 
 [↑ Back to index](#index)
 
 # Work up
 
-Meaning: To gradually develop or build up something.
+To gradually develop or build up something, such as courage or a skill.
 
-* Example 1: He worked up his skills and eventually became a successful entrepreneur.  
-* Example 2: She worked up the courage to speak at the meeting.
-
-To develop gradually (courage, appetite).
+"He worked up his skills over years and eventually became a successful entrepreneur."
+"She worked up the courage to speak at the meeting."
 
 [↑ Back to index](#index)
 
 # Wrap Up
 
-**Meaning:** To finish or conclude.  
- **Example:** *Let’s wrap up the meeting.*
+To finish or conclude.
 
-Conclude a meeting.
-
-Close tasks.
+"Let's wrap up the meeting — we're five minutes over already."
+"We wrapped up the last few tasks before the code freeze."
 
 [↑ Back to index](#index)
 
 # Write off
 
-Meaning: To consider something as a loss or failure.
+To consider something as a loss or failure; to cancel a debt.
 
-* Example 1: The company had to write off a significant amount of bad debt.  
-* Example 2: They wrote off the damaged inventory as a loss.
-
-To cancel a debt; or to regard as a loss/failure.
+"The company had to write off a significant amount of bad debt."
+"Don't write him off just because his first proposal was rough — he iterates fast."
 
 [↑ Back to index](#index)
 
@@ -16539,13 +16824,19 @@ Example: "He was written off as a failure, but he proved everyone wrong by succe
 
 # Write out
 
-Flush buffers to disk.
+To flush buffers to disk, or to write something in full.
+
+"The database writes changes out to disk before acknowledging the commit."
+"He wrote the whole design out instead of leaving it as a verbal plan."
 
 [↑ Back to index](#index)
 
 # Write up
 
-Document formally.
+To document something formally.
+
+"Can you write up the incident before you forget the details?"
+"She wrote up the design decision so future engineers understand the reasoning."
 
 [↑ Back to index](#index)
 
@@ -16616,7 +16907,10 @@ So it carries the idea of **not gently removing**, but rather pulling quickly wi
 
 # Yield to
 
-Give priority.
+To give priority or way to something else.
+
+"The background job yields to user-facing requests when the system is under load."
+"He yielded to the team's preference even though he favored a different approach."
 
 [↑ Back to index](#index)
 
@@ -16662,14 +16956,19 @@ Breaking Rules or Protocols
 
 # Your Call
 
-**Meaning:** Your decision.  
-**Example:** *We can go out or stay in—it’s your call.*
+Your decision.
+
+"We can go with the safer option or the faster one — your call."
+"It's your call whether we delay the launch for more testing."
 
 [↑ Back to index](#index)
 
 # Zero in on
 
-Focus sharply on something.
+To focus sharply on something.
+
+"The profiler helped us zero in on the exact function causing the slowdown."
+"Let's zero in on the one requirement that's actually blocking launch."
 
 [↑ Back to index](#index)
 
@@ -16693,25 +16992,37 @@ relating to or denoting a situation in which whatever is gained by one side is l
 
 # Zoom in
 
-Look closely at details.
+To look closely at details.
+
+"Zoom in on this graph — the spike is easy to miss at this scale."
+"Let's zoom in on the failing test case instead of the whole suite."
 
 [↑ Back to index](#index)
 
 # Zoom in on
 
-Focus sharply.
+To focus sharply on a specific detail or area.
+
+"Let's zoom in on the one endpoint that's causing most of the errors."
+"The profiler helped us zoom in on the exact function eating all the CPU."
 
 [↑ Back to index](#index)
 
 # Zoom out
 
-View the bigger picture.
+To view the bigger picture.
+
+"Zoom out for a second — is this even the right problem to solve?"
+"Looking at the whole quarter, not just this sprint, let's zoom out on our priorities."
 
 [↑ Back to index](#index)
 
 # Zoom out from
 
-See bigger picture.
+To see the bigger picture by stepping back from the details.
+
+"Let's zoom out from this one bug and ask whether the whole approach is right."
+"Zooming out from the individual incidents, there's a clear pattern in what's failing."
 
 [↑ Back to index](#index)
 
