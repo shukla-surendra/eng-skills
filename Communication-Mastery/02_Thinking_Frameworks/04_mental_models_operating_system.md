@@ -150,6 +150,10 @@ Grinding all eight at once fails — that's Hurry Bias applied to fixing Hurry B
 
 Know which archetype a given role or moment calls for; operating in "Solver" mode when the org needs "Architect" mode is a common way to be technically excellent and organizationally ineffective at the same time.
 
+**Ownership Radius — depth of understanding is not the same as granted authority.** Two different things get conflated under "responsibility": how deeply a system is personally understood, and how much authority is actually held over it. Understanding should almost always run ahead of granted authority — knowing more than the current mandate covers is what makes the next scope expansion credible. But *acting* on that depth — making unilateral calls, speaking for a system, redirecting others' work — before the authority has been explicitly granted reads as overreach, not initiative, and is one of the most common ways someone technically strong ends up cut out of decisions. Before claiming more ground in meetings, reviews, or decisions, check explicitly with whoever holds Decision Rights (§11) whether the scope was actually granted or only assumed from having done the work.
+
+**Being sidelined is a scope-mismatch signal to diagnose, not just a verdict on competence to absorb.** Getting cut out of decisions or conversations expected to be part of is data, not just painful — apply System Cause Before Individual Cause (§11) to a personal situation the same way it's applied to an incident, before concluding it's personal. Ask, in order: was this scope ever made explicit and agreed with a manager or peer, or only assumed from workload? Is there one specific, nameable incident that triggered the narrowing, or has it drifted with no single trigger? Has the scope claimed been reasserted lately, or is it running on an agreement that's now stale? The fix is almost never "do more unseen work to prove it" — it's the same direct, explicit conversation Decision Rights (§11) prescribes *before* a decision, applied here to re-establish current scope rather than re-litigating why it narrowed.
+
 **Calibrate collaboration style to the individual, not to a default.** The same follow-up cadence reads as "supportive" to one person and "micromanaging" to another. Ask directly, and adjust — a natural style is not neutral by default.
 
 **Review everything, even work that "just works."** Working code can still be a disaster waiting to happen (a missed edge case, a scaling cliff, a security gap). "It works" is necessary, not sufficient, for approval.
@@ -225,6 +229,9 @@ Run System Cause Before Individual Cause and the Hindsight Bias Tax (§11) expli
 
 **"A decision got made by one person and the team feels blindsided."**
 Check whether Decision Rights (§11) were ever made explicit for this call — usually they weren't. Fix that going forward instead of re-litigating this one decision; the process gap, not this specific person, is the actual finding.
+
+**"I feel sidelined or singled out at work."**
+Check Ownership Radius (§6) first — has the scope believed to be held ever been explicitly confirmed with a manager or peer, or only assumed from the work done? Apply System Cause Before Individual Cause (§11) to the situation before concluding it's personal: look for one specific triggering incident versus a slow, undiscussed narrowing. Then have the direct, explicit scope conversation — Decision Rights (§11) applied to yourself — instead of doing more unseen work to try to prove it.
 
 ---
 

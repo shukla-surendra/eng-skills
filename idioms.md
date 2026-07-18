@@ -1,6 +1,6 @@
 # Idioms
 
-> 292 entries · restructured 2026-07-16 · sorted A–Z
+> 293 entries · restructured 2026-07-16 · sorted A–Z
 
 ## Index
 
@@ -62,7 +62,7 @@
 
 **N**
 
-[Needle in a haystack](#needle-in-a-haystack) · [Nitty Gritty](#nitty-gritty) · [No doubt](#no-doubt) · [No strings attached](#no-strings-attached) · [Not budge an inch](#not-budge-an-inch) · [Nothing short of](#nothing-short-of) · [Nothing short of extraordinary](#nothing-short-of-extraordinary) · [nowhere to be seen](#nowhere-to-be-seen) · [Nuts and bolts](#nuts-and-bolts)
+[Need of the hour](#need-of-the-hour) · [Needle in a haystack](#needle-in-a-haystack) · [Nitty Gritty](#nitty-gritty) · [No doubt](#no-doubt) · [No strings attached](#no-strings-attached) · [Not budge an inch](#not-budge-an-inch) · [Nothing short of](#nothing-short-of) · [Nothing short of extraordinary](#nothing-short-of-extraordinary) · [nowhere to be seen](#nowhere-to-be-seen) · [Nuts and bolts](#nuts-and-bolts)
 
 **O**
 
@@ -1825,6 +1825,28 @@ Scratch notes and fragments kept for reference rather than discarded — not yet
 # Move past it
 
 To emotionally or mentally overcome a past issue.
+
+[↑ Back to index](#index)
+
+# Need of the hour
+
+### **✅ Meaning:**
+
+Something that is **urgently required or most important right now**, given the current situation.
+
+### **✅ Usage Examples:**
+
+1. **Corporate/business context**:
+
+   * *"Cutting costs without losing quality is the need of the hour."*
+
+2. **Tech context**:
+
+   * *"Better monitoring is the need of the hour after this outage."*
+
+3. **General context**:
+
+   * *"Unity among team members is the need of the hour."*
 
 [↑ Back to index](#index)
 
