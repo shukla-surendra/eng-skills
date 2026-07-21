@@ -13,6 +13,7 @@ Each file opens with a clickable **A–Z index** — tap a word to jump to it, a
 | [Idioms](idioms.md) | Idiomatic expressions and how to use them | ~292 |
 | [Grammar Notes](grammar-notes.md) | Articles, until/by, frequency adverbs, used to, has/have had, question forms | ~10 |
 | [Speaking Toolkit](speaking-toolkit.md) | How to explain, frame sentences, use analogies, go deeper without losing the thread, plus connecting/meeting phrases | ~10 |
+| [Assertiveness & Vocal Presence](assertiveness-vocal-presence.md) | Mindset, hedge-cutting, voice/delivery mechanics, body language, and context playbooks (meetings, 1:1s, presenting, general) | 10 sections |
 | [Technical & Architectural English](technical-english.md) | Technical/architectural verbs and phrases, A–Z | ~294 |
 | [Business Communication](business-communication.md) | Business and meeting idioms, diplomatic phrasing | ~117 |
 | [Mental Models & Thinking Frameworks](Communication-Mastery/02_Thinking_Frameworks/04_mental_models_operating_system.md) | Operating principles, decision frameworks, and habits for engineering judgment and leadership | 11 sections |
