@@ -112,4 +112,16 @@ SCQA (20-30 sec):  Situation → Complication → Question → Answer (as if ope
 
 Do this for 5 different facts per session. It's built into `10_Daily_Practice/01_daily_and_weekly_practice_system.md` as a recurring block.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Cousin** (framework) | A closely related variant of something, sharing most of its structure with small differences. |
+| **Pre-empt** | To address an objection or question before it's raised, forestalling it. |
+| **Fused** | Combined into a single unit — here, two beats of a framework compressed into one sentence. |
+| **Cold** (land cold) | Delivered without prior buildup or context, so it lands abruptly. |
+| **Buy-in** | Genuine agreement and support from others, not just passive understanding. |
+| **Detour** | A deliberate, temporary departure from the main plan to address something first. |
+| **Backed** (an argument) | Supported with concrete evidence rather than left as an assertion. |
+
 **Next:** [`02_feynman_and_pyramid_principle.md`](./02_feynman_and_pyramid_principle.md) — the two frameworks focused on *simplification* and *structuring complex written/spoken arguments*, rather than answering a single question.

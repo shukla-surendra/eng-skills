@@ -204,4 +204,20 @@ project, with PREP-shaped answers — see 03_Explanation_Frameworks/01]
 
 Build 4-6 of these from your own real work before any interview cycle or promotion cycle — they become your story bank (`08_Interview_Communication/01`) and your fastest reference for any "walk me through a project" ask.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Big-bang** (cutover) | Doing an entire change all at once, in a single step, rather than gradually (contrasted with a phased approach). |
+| **De-risked** | Made less likely to fail or cause serious harm, through deliberate mitigation. |
+| **Firefighting** | Reactive, urgent problem-solving in response to something already breaking, rather than planned work. |
+| **Pencil out** | For numbers or a plan to add up favorably when actually calculated (usually used in the negative — "didn't pencil out"). |
+| **Codified** | Turned into a formal, written rule or standard procedure. |
+| **Leading indicator** | A signal that predicts a problem before its impact is felt. |
+| **Lagging indicator** | A signal that only shows up after impact has already occurred. |
+| **Payback** | The point at which an investment's returns offset its original cost. |
+| **Trajectory** | The path or direction something is heading, especially over time. |
+| **Buy-in** | Genuine agreement and support from stakeholders for a plan or decision. |
+| **Scoped out** | Deliberately excluded from a project's boundaries, decided in advance rather than by omission. |
+
 **Next:** [`02_challenges_30_60_90.md`](./02_challenges_30_60_90.md) — structured multi-week challenges that sequence this entire repository into a concrete program.

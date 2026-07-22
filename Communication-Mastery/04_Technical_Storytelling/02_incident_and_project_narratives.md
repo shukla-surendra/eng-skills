@@ -120,4 +120,15 @@ Real meetings rarely give you 90 seconds uninterrupted. Practice compressed vers
 
 Being able to compress on demand — not just having one fixed-length version memorized — is the actual skill. Practice all three lengths for your real incidents and projects; this is drilled explicitly in `11_Exercises/01_exercise_bank.md` and `14_Advanced/03_assignments_12_weeks.md`.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Rock-solid** | Extremely stable and reliable, with no history of trouble. |
+| **Went sideways** | Idiom: started going wrong or off-plan, often unexpectedly. |
+| **Firefighting** | Reactive, urgent work spent putting out active problems rather than planned work. |
+| **Backbone** | The central, load-bearing element that everything else depends on or is built around. |
+| **Load-bearing** | Structurally essential — removing it causes the whole thing to fail, borrowed from architecture. |
+| **Transient** | Brief and short-lived, passing quickly rather than persisting. |
+
 **Next:** [`../05_Phrase_Library/01_openings_transitions_structure.md`](../05_Phrase_Library/01_openings_transitions_structure.md) — the reusable phrase inventory that fills every framework and story shape covered so far.

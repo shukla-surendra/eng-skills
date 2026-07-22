@@ -106,4 +106,14 @@ On an audio-only call or in a spoken interview, you sometimes need to build a di
 - [ ] Are trade-offs attached to the specific component they apply to, not bolted on at the end?
 - [ ] Did I offer to go deeper rather than dumping full detail uninvited?
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Re-glance** | The ability to look back and re-check something already seen (available with a diagram, unavailable in speech). |
+| **Stitch together** | To piece disparate, disconnected facts into one coherent whole. |
+| **Bolted on** | Attached afterward, disconnected from the thing it modifies, rather than integrated from the start. |
+| **Weave (into)** | To integrate something smoothly into surrounding material, rather than adding it separately. |
+| **Skeleton (to hang detail on)** | A basic structural outline established first, onto which further detail is attached afterward. |
+
 **Next:** [`../08_Interview_Communication/01_behavioral_and_system_design_frameworks.md`](../08_Interview_Communication/01_behavioral_and_system_design_frameworks.md) — applying everything so far to the highest-pressure communication context: interviews.

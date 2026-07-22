@@ -75,4 +75,18 @@ Before you move to the next chapter, honestly answer:
 
 If you answered "chronology," "no," "fill it," or "keep adding" to any of these — you're in the right repository, and the diagnosis in `13_Common_Mistakes` will feel uncomfortably specific.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Salient** | Most noticeable or prominent — here, whatever memory surfaces first because it stands out emotionally. |
+| **Backfill** | To fill in missing context after the fact, rather than providing it up front. |
+| **Reflexive** | Done automatically, without conscious thought, as a near-involuntary reaction. |
+| **Internalize** | To absorb a discipline or habit so thoroughly it becomes automatic rather than a deliberate step. |
+| **Conflate** | To mistakenly treat two distinct things as if they were the same. |
+| **Proxy** | A stand-in measure used to represent something else that's harder to observe directly. |
+| **Losing one's footing** | Idiom: losing track of where one is or where one is going, mid-task. |
+| **Downstream / upstream** | Metaphor for effect vs. cause — a "downstream symptom" results from an "upstream" root issue. |
+| **Drilled** | Practiced repeatedly and deliberately until a skill becomes automatic. |
+
 **Next:** [`02_cognitive_science_of_explanation.md`](./02_cognitive_science_of_explanation.md) — the working-memory and chunking research that explains *why* the fixes above actually work.

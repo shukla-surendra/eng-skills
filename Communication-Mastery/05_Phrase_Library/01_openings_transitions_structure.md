@@ -162,4 +162,13 @@ Precise, senior-sounding ways to say "I don't know" or "I'm not sure" — never 
 
 A fast daily drill (5 minutes): pick one phrase from each of sections 1–5 at random, and build one complete PREP explanation about a real system you work on using exactly those five phrases as your sentence-starters. This forces variety (you'll stop defaulting to the same three openers you currently overuse) and builds retrieval speed for the whole list, not just your favorites.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Reflexive** | Done automatically, without conscious effort or deliberation. |
+| **Land (an explanation)** | To deliver it in a way that successfully registers with the listener. |
+| **Signposting** | Explicitly marking the structure of what's being said out loud, so the listener can follow it without guessing. |
+| **Senior-sounding** | Phrased in a way that reads as experienced and confident, rather than junior or uncertain. |
+
 **Next:** [`02_comparisons_tradeoffs_architecture.md`](./02_comparisons_tradeoffs_architecture.md) — phrases specifically for describing systems, comparing options, and presenting architecture.

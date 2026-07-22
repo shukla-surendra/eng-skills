@@ -96,4 +96,18 @@ Real-meeting wins (a phrase/structure that landed): ____________
 
 It's tempting to skip Block 4 — talking to a phone camera feels artificial compared to "just practicing in my head." Resist this. Silent or in-head rehearsal doesn't produce the same signal as spoken output, because speaking recruits motor planning and real-time compression under a (mild, self-imposed) social-evaluative load that silent rehearsal doesn't (`01_Foundations/02`). The discomfort of watching yourself back is itself part of the training — it's building tolerance for the exact discomfort that causes stalls in real meetings, in a low-stakes, repeatable setting.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Non-negotiable** | Not open to compromise or exception — treated as mandatory regardless of circumstance. |
+| **Massed practice** | Concentrating all practice into one long session, as opposed to spreading it out over time (contrasted with spaced repetition). |
+| **Recruit** (a mechanism) | To engage or activate a physical or cognitive process as part of performing an action. |
+| **Self-imposed** | A pressure or constraint created by oneself rather than applied from outside. |
+| **Stall** | A moment of being unable to continue speaking or thinking, breaking the momentum of an explanation. |
+| **Highest-leverage** | Producing the greatest return relative to the time or effort invested. |
+| **Compressible** | Able to be shortened or reduced in scope without losing its essential value. |
+| **Debrief** | To review and discuss an event immediately after it happens, extracting lessons from it. |
+| **Stress-test** | To deliberately push something to its limits to see how it holds up under real pressure. |
+
 **Next:** [`../11_Exercises/01_exercise_bank.md`](../11_Exercises/01_exercise_bank.md) — the full prompt bank that fills Blocks 3 and 4 of this routine, ordered by difficulty.

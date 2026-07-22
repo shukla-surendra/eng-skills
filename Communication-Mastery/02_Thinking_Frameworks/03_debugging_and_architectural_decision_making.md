@@ -141,6 +141,20 @@ This is the reasoning skeleton behind an Architecture Decision Record (ADR) — 
 - [ ] For a decision: did I write CONSTRAINTS and CONSEQUENCES separately, or did I jump straight from CONTEXT to the option I already preferred?
 - [ ] Is there a second contributing cause I stopped looking for once the first one felt satisfying?
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Opaque** | Impossible to see into or understand from the outside — the opposite of transparent. |
+| **Falsifiable** | Capable of being proven wrong by a specific test, as opposed to a vague, unfalsifiable claim. |
+| **Rabbit hole** | Idiom: an investigation that draws one deeper and deeper without a clear stopping point. |
+| **Timebox** | To set a fixed, explicit time limit on an activity in advance. |
+| **Sales pitch** | A persuasive presentation aimed at winning agreement, as opposed to a neutral account of the facts. |
+| **Skeleton** (reasoning) | The bare structural framework underneath a fuller explanation or document. |
+| **Dressed up as** | Presented or disguised as something more legitimate than it actually is. |
+| **Stops the bleeding** | Idiom: addresses the immediate, urgent symptom without necessarily fixing the underlying cause. |
+| **Hunch** | A guess or suspicion based on instinct rather than confirmed evidence. |
+
 **See also:** [`04_mental_models_operating_system.md`](./04_mental_models_operating_system.md) — the standing reference this chapter draws its debugging and decision-making discipline from (§3 Thinking and Problem-Solving, §4 Decision-Making, §5 Systems/Architecture); keep it open as a working reference rather than reading it once.
 
 **Next:** [`../03_Explanation_Frameworks/01_core_frameworks_PREP_STAR_SCQA.md`](../03_Explanation_Frameworks/01_core_frameworks_PREP_STAR_SCQA.md) — once the reasoning chain above is solid, this is how you package it to say out loud. See also `05_Phrase_Library/04_incidents_rca_performance_risk.md` for the language of root-cause communication, `07_Architecture_Communication/01_architecture_walkthrough_and_design_review.md` for walking someone through the decision once it's made, and [`05_removing_hurry_pause_before_acting.md`](./05_removing_hurry_pause_before_acting.md) if failure mode #1 ("jumping to a fix before you have a model") is your recurring pattern — it's the specific pause-point drill for it.

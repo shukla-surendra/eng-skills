@@ -74,4 +74,17 @@ Specific feedback requested: ____________
 
 Solo is entirely viable — the recording + self-review loop (`12_Recording_Analysis`) is designed to work without a second person. But if you can recruit even one colleague for occasional live feedback (Weeks 8, 9, 10 benefit most from a real second person), the calibration you get on how you actually land with another human is something self-review alone can't fully replace — self-scoring tends to drift over time without an external check.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Artifact** | A tangible, produced output of work — something concrete that can be shown or reused, not just an exercise. |
+| **Deliverable** | A concrete piece of work committed to and produced by a deadline. |
+| **Calibration** | Adjusting one's judgment or self-assessment to match an accurate, external standard. |
+| **Land** (informal) | To be received or have the intended effect on an audience. |
+| **Drift** | To gradually shift away from an accurate baseline over time, without a corrective check. |
+| **Cold** (unprepared) | Attempted without advance warning or a rehearsed script. |
+| **Recruit** (a person) | To persuade someone to take part in or help with an activity. |
+| **Viable** | Capable of working successfully on its own. |
+
 **Next:** [`04_recommended_resources.md`](./04_recommended_resources.md) — curated external resources (books, talks, speakers to study) to run alongside this program.

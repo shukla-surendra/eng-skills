@@ -138,4 +138,17 @@ Every mistake here maps back to a mechanism from `01_Foundations` — the goal i
 
 **Fix:** pick the single most common mistake from your own recordings (per the self-review checklist, `12_Recording_Analysis/02`) and focus on that alone for a full week before adding a second focus area.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Burying the lede** | Journalism idiom: placing the most important point deep in a piece of writing/speech instead of upfront. |
+| **Signposting** | Explicitly announcing structure aloud ("there are three things here") so a listener can track where the explanation is going. |
+| **Overcorrection** | Swinging too far in fixing one problem, so far that it creates a new, opposite problem. |
+| **Hedging** | Softening a statement with qualifiers ("maybe," "possibly") to avoid sounding too certain. |
+| **Declarative** | Stated plainly and directly, as fact, without qualification. |
+| **Counter-intuitively** | In a way that goes against what instinct would suggest is the right approach. |
+| **Rattled** | Visibly unsettled or thrown off composure, as opposed to remaining calm under pressure. |
+| **Derailment** | A sudden loss of structure or direction mid-explanation, veering off the intended track. |
+
 **Next:** [`../14_Advanced/01_case_studies.md`](../14_Advanced/01_case_studies.md) — full end-to-end case studies applying everything in this repository to realistic, complex scenarios.

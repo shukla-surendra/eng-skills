@@ -87,4 +87,16 @@ This is a standalone exercise you can do in under 5 minutes, anywhere, and it's 
 
 Do this daily for two weeks (it's built into `10_Daily_Practice/01_daily_and_weekly_practice_system.md`) and answer-first stops being a checklist step and becomes how you naturally start sentences — including, eventually, in live meetings under pressure, which is the entire point.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Antidote** | A direct remedy that counteracts a specific problem. |
+| **Meandering** | Wandering without a clear direction or destination, said of speech or thought. |
+| **Load-bearing** | Structurally essential — removing it causes the whole thing to fail, borrowed from architecture. |
+| **Pushback** | Resistance or objection raised against an idea or proposal. |
+| **Leaning** (noun) | A tentative inclination toward a conclusion, short of full commitment. |
+| **Install** (a habit) | To deliberately build a behavior into oneself until it runs automatically. |
+| **Reflex** | An automatic response that fires without conscious deliberation. |
+
 **Next:** [`02_mental_models_and_structured_thinking.md`](./02_mental_models_and_structured_thinking.md) — how to organize the *rest* of the explanation once you've locked the answer, using a small set of reusable mental structures.

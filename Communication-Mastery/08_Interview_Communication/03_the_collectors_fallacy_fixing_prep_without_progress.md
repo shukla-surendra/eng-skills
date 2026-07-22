@@ -11,6 +11,7 @@ A specific failure mode that shows up right at the start of every interview cycl
 5. [The Fix System](#5-the-fix-system)
 6. [Bolting This Onto Daily Practice](#6-bolting-this-onto-daily-practice)
 7. [7-Day Reset Plan](#7-7-day-reset-plan)
+8. [Glossary — Vocabulary Used in This Chapter](#8-glossary--vocabulary-used-in-this-chapter)
 
 ---
 
@@ -141,5 +142,23 @@ Use this when you notice the pile has grown again — a fast way to snap back to
 | 5 | Time-box a 10-minute acquisition session. When it ends, stop browsing and produce something from what's already open. |
 | 6 | Record yourself answering one question end-to-end, timed, using `12_Recording_Analysis/02_self_review_checklist.md`. |
 | 7 | Review the week: how many new resources did you acquire vs. how many produced an output? If acquisition still outweighs production, tighten the one-in-one-used cap (§5a) further before repeating this plan. |
+
+[↑ Back to index](#index)
+
+## 8. Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Stockpile** | To accumulate and store a large quantity of something, well beyond current use. |
+| **Rarely travels alone** | Tends to occur alongside other, related patterns rather than in isolation. |
+| **Compound (a problem)** | To make a problem worse by combining with or reinforcing another problem. |
+| **Outside view / inside view** | Forecasting terms: the outside view estimates from historical track record on similar tasks; the inside view estimates from the specifics of the current plan, which tends toward optimism. |
+| **Dressed up as (diligence)** | Presented or disguised as something more legitimate or productive than it actually is. |
+| **Desirable difficulty** | A learning-science term for effort that feels harder in the moment but produces stronger long-term retention than an easier alternative. |
+| **Antidote (to)** | A direct, targeted remedy for a specific problem. |
+| **Bolt onto** | To attach as an additional constraint or feature onto an existing system, rather than rebuilding it. |
+| **Sanctioned** | Officially permitted or approved, without hidden qualification. |
+| **Re-enter through the side door** | To return in a disguised or indirect form after being removed from its obvious, direct route. |
+| **Snap back (to)** | To return quickly to a previous state or behavior. |
 
 [↑ Back to index](#index)

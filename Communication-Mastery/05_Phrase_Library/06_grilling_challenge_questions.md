@@ -95,4 +95,16 @@ Regardless of which family the question comes from, the same three-beat structur
 
 Pick a real decision from your own work — something with a plausible trade-off. Have someone (or yourself, out loud) fire one question from each numbered section above at you, in order, and answer each using the three-beat structure in §9. The goal isn't a perfect answer — it's not losing your structure when the question type changes mid-conversation, which is what real grilling feels like.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Pointed (question)** | Direct and pressing, aimed precisely at a specific weak spot rather than asked generally. |
+| **Pressure-test** | To deliberately challenge a decision or claim to see whether it holds up under scrutiny. |
+| **Composed** | Calm and in control, showing no visible rattling under pressure. |
+| **Dodging** | Evading a question or issue rather than addressing it directly. |
+| **Holds up** | Remains valid or intact when tested or challenged, rather than falling apart. |
+| **Stalling** | Delaying deliberately, often by padding with unnecessary context before getting to the point. |
+| **Load-bearing (reason)** | The one reason that is actually essential to the argument — remove it and the whole case collapses. |
+
 **Next:** [`07_bug_and_system_walkthroughs.md`](07_bug_and_system_walkthroughs.md) — phrases for walking someone through a bug, a situation, or an architecture step by step.

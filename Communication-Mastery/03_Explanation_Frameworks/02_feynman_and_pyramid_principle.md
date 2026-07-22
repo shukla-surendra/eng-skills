@@ -106,4 +106,19 @@ EACH ARGUMENT    → mini-PREP (point, reason, example) within its section
 
 Full guidance on which combination to reach for in which situation is next.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Hand-waving** | Vague, unsubstantiated gesturing toward an explanation without actually providing one. |
+| **Pressure-test** | To deliberately probe something for weaknesses before relying on it. |
+| **Airtight** | So well-supported that no gap or objection can get through. |
+| **Re-inflate** | To expand something back out to its full size or complexity after deliberately simplifying it. |
+| **Flat-footed** | Caught unprepared and unable to respond well, especially to an unexpected question. |
+| **Load-bearing** | Structurally essential — removing it causes the whole thing to fail, borrowed from architecture. |
+| **Glosses over** | Passes over something briefly and superficially, avoiding a needed detail. |
+| **Tax** (metaphor) | An unavoidable cost paid as a consequence of doing something a particular way. |
+| **Optionality** | The value of having future choices or flexibility available, rather than being locked in. |
+| **Nest** | To fit neatly inside one another, layer within layer, rather than compete. |
+
 **Next:** [`03_framework_selection_guide.md`](./03_framework_selection_guide.md) — a fast decision table for choosing the right framework(s) for any real situation you'll actually face.

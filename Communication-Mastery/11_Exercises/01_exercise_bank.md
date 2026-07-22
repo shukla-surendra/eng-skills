@@ -152,4 +152,16 @@ After 12 weeks, you should be able to:
 
 If any of these still feel hard, repeat the corresponding tier rather than advancing — this is not a race, and per the spaced-repetition logic in `10_Daily_Practice`, repetition at the right difficulty beats premature advancement.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Pressure-test** | To deliberately probe something (an argument, an analogy) for weakness by challenging it. |
+| **Impromptu** | Done without preparation, on the spot. |
+| **Chunking** | Grouping information into meaningful units so it's easier to process and recall. |
+| **Cold** (unprepared) | Attempted without advance warning or preparation, as in "cold call." |
+| **Back to back** | One immediately after another, with no gap in between. |
+| **Reflex** | An automatic, near-instantaneous response produced without conscious deliberation. |
+| **Premature** | Happening before the proper or optimal time. |
+
 **Next:** [`../12_Recording_Analysis/01_how_to_record_and_review.md`](../12_Recording_Analysis/01_how_to_record_and_review.md) — how to actually review the recordings these exercises produce.

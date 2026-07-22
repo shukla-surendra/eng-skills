@@ -129,4 +129,16 @@ WEEK 12 — CONSOLIDATE + PLAN THE NEXT CYCLE
 3. **Real-meeting application matters more than solo drilling past Week 4.** Solo practice builds the reflex; real meetings are where it either transfers or doesn't, and only real application reveals which frameworks need more reps.
 4. **Don't skip the reflection weeks (4, 8, 12).** They're not filler — they're what turns scattered practice into a compounding skill by identifying what to focus on next.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Runway** | The amount of time available before a deadline or goal, borrowed from an aircraft's takeoff distance. |
+| **Compound** (verb) | To build up or intensify over time through repeated, cumulative effect. |
+| **Filler** | Non-essential content included mainly to pad length, rather than adding real value. |
+| **Install** (a skill/reflex) | To build a behavior into someone so thoroughly it becomes automatic, as if added to a system. |
+| **All-or-nothing** (mindset) | The belief that anything short of total, unbroken consistency counts as failure. |
+| **Unprompted** | Done without being asked or cued — initiated on one's own. |
+| **Mock** | A practice version of a real event, designed to closely simulate it without the actual stakes. |
+
 **Next:** [`03_assignments_12_weeks.md`](./03_assignments_12_weeks.md) — a complementary, assignment-based (rather than daily-routine-based) 12-week structure, useful if you prefer discrete weekly deliverables over a daily habit system.

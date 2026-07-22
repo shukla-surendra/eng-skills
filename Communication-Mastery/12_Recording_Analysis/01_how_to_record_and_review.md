@@ -70,4 +70,18 @@ Week 4:  Filler words/min: ~5   | Time-to-answer: ~10 sec | Ran over target: 2/5
 Week 8:  Filler words/min: ~2   | Time-to-answer: ~4 sec  | Ran over target: 0/5 recordings
 ```
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Highest-leverage** | Producing the greatest return relative to the effort invested. |
+| **Bone conduction (vs. air conduction)** | How you hear your own voice internally (through skull vibration) versus how everyone else hears it (through air) — why recorded playback sounds unfamiliar. |
+| **Modality** | A particular mode or channel through which something is experienced (here, audio feedback vs. lived experience). |
+| **Tiered** | Organized into distinct levels of depth or intensity, applied selectively rather than uniformly. |
+| **Imperceptible** | Too small or gradual to be noticed directly, only visible in aggregate. |
+| **Calibrated (ear)** | Trained to judge quality accurately, through repeated, informed exposure. |
+| **Shadowing** | Closely studying and mimicking a skilled model's technique (here, pacing and pause placement) as a training method. |
+| **Instructive** | Useful for learning — offering a clear, concrete lesson. |
+| **Reflexively** | Automatically, without conscious thought — as an ingrained habit. |
+
 **Next:** [`02_self_review_checklist.md`](./02_self_review_checklist.md) — the full structured checklist for weekly deep-review passes.

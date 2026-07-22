@@ -98,4 +98,12 @@
 
 Pick a real bug you've fixed recently. Explain it out loud in under two minutes using this shape: symptom (§2) → investigation (§3) → root cause (§4) → fix (§5). Then do the same for a piece of architecture you know well, but framed as a journey (§12) instead of a static description. Notice which one is harder — most people default to describing structure and have to consciously practice narrating sequence.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Unfolds** | Develops or reveals itself gradually over time, rather than being fixed and static. |
+| **At rest** | Static, idle, or unchanging — what a system looks like when nothing is currently happening to it. |
+| **Zoom in / zoom out** | To shift deliberately between fine-grained detail and the broader, high-level picture while explaining something. |
+
 **Next:** [`08_assertive_communication_conflict.md`](08_assertive_communication_conflict.md) — assertive communication and conflict scenarios specific to engineering, MLOps, and cloud-architecture work.

@@ -127,3 +127,20 @@ QUARTERLY:
 ---
 
 *This is the end of the core curriculum. Return to [`../README.md`](../README.md) for the suggested learning path, [`02_challenges_30_60_90.md`](./02_challenges_30_60_90.md) to start a structured program, or [`04_recommended_resources.md`](./04_recommended_resources.md) for further reading.*
+
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Bedrock** | The fundamental, foundational layer that everything else is built on. |
+| **Reflexive** | Automatic and instinctive, performed without conscious deliberation. |
+| **Blast radius** | The scope of impact a decision or failure could have, borrowed from explosives. |
+| **Triage** | To sort and prioritize problems by severity, deciding what needs attention first (borrowed from medicine). |
+| **Forcing function** | A mechanism or step deliberately built into a process to compel a certain behavior or decision. |
+| **Documentation theater** | Writing documentation only for appearance's sake, after a decision is already final, rather than as a genuine forcing function. |
+| **Non-linearly** | Increasing at a rate that isn't proportional or steady — here, costs that spike rather than climb evenly. |
+| **Terrain** (metaphor) | The underlying landscape or constraints that shape what's easy or hard for others building on top of it. |
+| **Unilaterally** | Done by one party alone, without consulting or involving others affected by it. |
+| **Turf conflict** | Disputes over territory, authority, or ownership between people or teams. |
+| **Lagging indicator** | A signal that only shows up after impact has already occurred (here, a title lagging behind actual scope of work). |
+| **A ladder to climb (once)** | Idiom used negatively here: something meant to be revisited repeatedly, not a one-time linear progression. |

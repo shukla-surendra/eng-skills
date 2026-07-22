@@ -88,4 +88,17 @@ For each of the following, name the framework you'd reach for first (answers bel
 
 </details>
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Under-serves** | Fails to adequately meet the needs of a situation. |
+| **Meta-skill** | A higher-order skill about *when* and *how* to apply other skills, rather than a skill itself. |
+| **Re-litigate** | To reopen and argue over a matter that was already settled. |
+| **Sideways** (went sideways) | Idiom: went wrong or off track unexpectedly. |
+| **80/20 rule** | The Pareto-derived idea that a small fraction of causes typically accounts for most of the effect. |
+| **Defensible** | Able to be justified and held up under challenge. |
+| **Buy-in** | Genuine agreement and support from others, not just passive understanding. |
+| **Collapse** (into a list) | To lose intended structure and become a flat, undifferentiated sequence. |
+
 **Next:** [`../04_Technical_Storytelling/01_storytelling_fundamentals.md`](../04_Technical_Storytelling/01_storytelling_fundamentals.md) — turning these structural frameworks into narratives that people actually remember, not just correctly-ordered facts.

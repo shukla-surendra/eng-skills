@@ -17,8 +17,10 @@ EXCLUDE_DIRS = {".venv", ".git", "docs_html", "docs", "__pycache__", "source", "
 
 def find_markdown_files():
     for path in sorted(ROOT.rglob("*.md")):
-        rel_parts = path.relative_to(ROOT).parts
-        if any(part in EXCLUDE_DIRS for part in rel_parts):
+        rel = path.relative_to(ROOT)
+        if any(part in EXCLUDE_DIRS for part in rel.parts):
+            continue
+        if rel == Path("CLAUDE.md"):
             continue
         yield path
 

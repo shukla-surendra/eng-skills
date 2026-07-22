@@ -100,4 +100,14 @@ Calibrated to preserve the relationship while still being direct — the mistake
 
 Pick a real technical opinion you hold that a colleague has pushed back on before. Say the disagreement out loud using the acknowledge → position → reason → invite pattern from Section 1, twice — once as if to a peer, once as if to a skip-level exec (Section 3 phrasing). Notice how much the *content* stays the same and only the *calibration* changes — that's the actual skill.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Adversarial** | Characterized by opposition or conflict, as between opponents rather than collaborators. |
+| **Materially (change)** | Substantially or significantly, to a degree that actually matters — not just marginally. |
+| **Calibrated / calibration** | Deliberately adjusted to fit the situation — here, how directly or softly a disagreement is delivered. |
+| **Over-softening** | Diluting a message so much, in the name of tact, that its actual point fails to land. |
+| **Land (a point/disagreement)** | To register clearly and be understood by the listener as intended. |
+
 **Next:** [`04_incidents_rca_performance_risk.md`](./04_incidents_rca_performance_risk.md) — phrases specifically for incidents, root cause analysis, performance discussions, and postmortems.

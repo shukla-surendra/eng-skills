@@ -56,4 +56,16 @@ The honest comparison isn't "pause vs. no pause" — it's "pause once, deliberat
 - [ ] Am I applying this fix because I understand why it will work, or because it looked similar to something that worked somewhere else?
 - [ ] Am I currently cleaning up after something I sent or applied too fast — and if so, what would the pause-point have been?
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Wearing two outfits** | Idiom (used here): the same underlying mechanism appearing in two superficially different forms. |
+| **Tell** | A giveaway sign that reveals what's actually happening underneath (borrowed from poker). |
+| **Gamble / gambling** | Acting on a chance without real justification, risking an unknown outcome. |
+| **Install** (a habit) | To deliberately build a behavior into oneself until it runs automatically. |
+| **Masked** (a symptom) | Concealed or hidden without actually being resolved. |
+| **Eats** (time) | Consumes or wastes time, often unnoticed until the total adds up. |
+| **Sensory marker** | A tangible, physical cue (a breath, a pause) used to anchor a habit in the body, not just the mind. |
+
 **See also:** [`03_debugging_and_architectural_decision_making.md`](./03_debugging_and_architectural_decision_making.md) — the full OBSERVE→MODEL loop this chapter's debugging half draws from; [`../13_Common_Mistakes/01_mistakes_causes_fixes.md`](../13_Common_Mistakes/01_mistakes_causes_fixes.md) #10 ("Speeding Up When Uncertain") — the same impulse showing up in live delivery instead of writing or debugging.

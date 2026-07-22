@@ -192,4 +192,17 @@ MONTHLY (15 min)    Read back 4–6 weeks of closed-out journal entries.
 - [ ] For my last Type 1 decision, does a sealed journal entry exist with a stated confidence number and a checkable prediction?
 - [ ] When I last reopened a journal entry, was I honest about the calibration gap, or did I quietly reinterpret the prediction to match what happened?
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Rationalization** | Constructing after-the-fact justification for a decision already made, rather than genuinely evaluating it. |
+| **Crowding out** | Displacing something by taking up all the available space or attention. |
+| **Calibration / calibrated** | How accurately stated confidence matches actual outcomes over time. |
+| **Stopgap** | A temporary fix that holds things together without solving the underlying problem. |
+| **Sealed** (an entry) | Closed off from further editing until a set later date, to preserve an honest record. |
+| **Nameable** (gap) | Specific and identifiable enough to be stated precisely, rather than vague. |
+| **Dressed up as** | Presented or disguised as something more legitimate than it actually is. |
+| **Compounding** | Accumulating and building on itself over time, so small effects become large ones. |
+
 **See also:** [`04_mental_models_operating_system.md`](./04_mental_models_operating_system.md) — the model catalogue this chapter's rotation drill pulls from; [`03_debugging_and_architectural_decision_making.md`](./03_debugging_and_architectural_decision_making.md) — the CONTEXT/CONSTRAINTS/OPTIONS/TRADE-OFFS/DECISION/CONSEQUENCES skeleton that Strategy 1 is the lightweight, everyday version of; [`../10_Daily_Practice/01_daily_and_weekly_practice_system.md`](../10_Daily_Practice/01_daily_and_weekly_practice_system.md) — the parallel practice system for communication delivery, which this chapter mirrors for thinking quality instead.

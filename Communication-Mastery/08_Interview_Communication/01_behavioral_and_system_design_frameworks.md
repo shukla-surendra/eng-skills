@@ -129,4 +129,16 @@ This is testing whether your design has a genuine bottleneck you can identify, n
 
 This answer is strong specifically because it names ONE concrete bottleneck with a concrete fix, rather than vaguely gesturing at "we'd add more scaling" — precision here is exactly what separates a senior answer from a junior one.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Social-evaluative load** | The added cognitive and psychological burden of being watched and judged while performing. |
+| **Calibrated** | Adjusted precisely to match reality — neither exaggerated nor understated. |
+| **Fake-humble** | False modesty; an answer that appears humble but avoids genuine self-criticism. |
+| **Not optional flavor** | Not a stylistic nicety layered on top, but a substantive requirement in itself. |
+| **Gesture at (vaguely)** | To refer to something indirectly and imprecisely, without giving specifics. |
+| **Unwind (a decision)** | To reverse or undo a decision or process already underway. |
+| **High-leverage** | Producing disproportionately large returns relative to the effort or time invested. |
+
 **Next:** [`02_common_questions_with_excellent_answers.md`](./02_common_questions_with_excellent_answers.md) — full worked model answers, bad → good → excellent, for the most common questions in both formats.

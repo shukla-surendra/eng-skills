@@ -112,4 +112,18 @@ Full phrase bank for feedback delivery is in `05_Phrase_Library/03_recommendatio
 | Presenter gets defensive at every question | Shuts down useful scrutiny | Reframe questions as help, not attack: "these questions are making the design stronger, not stalling it" |
 | Design review with no stated decision at the end | Ambiguous outcome, re-litigated later | Facilitator closes with an explicit decision and next step |
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Devolve (into)** | To deteriorate or decline into a worse, less structured state. |
+| **Rubber-stamping** | Approving something without real scrutiny or independent judgment. |
+| **Pile-on** | An uncoordinated stack of criticism with no prioritization, everyone raising a separate concern at once. |
+| **Over-index (on)** | To give disproportionate weight to one factor — here, confidence — relative to what actually matters. |
+| **Litigate (a decision)** | To re-argue or reopen a settled or out-of-scope decision, as if disputing it in court. |
+| **Fade-out** | An unclear, drifting ending with no explicit resolution. |
+| **Blow (a budget/SLA)** | To exceed or violate a limit beyond what's acceptable. |
+| **Scrutiny** | Close, critical examination. |
+| **Reads as** | Comes across as; gives the impression of. |
+
 **Next:** [`02_describing_diagrams_and_tradeoffs_in_words.md`](./02_describing_diagrams_and_tradeoffs_in_words.md) — the specific skill of describing a visual architecture verbally, for calls/interviews where you can't just point at a whiteboard.

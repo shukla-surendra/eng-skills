@@ -109,4 +109,17 @@ If you're not sure, you haven't built an explicit so-what — you're relying on 
 - [ ] What do I want the listener to walk away thinking or doing — and have I said that explicitly?
 - [ ] What altitude is this room? Have I picked it on purpose?
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Dissect** | To examine something piece by piece, in careful detail. |
+| **Buried (in the middle)** | Hidden or hard to find because it's placed mid-sequence rather than up front. |
+| **Starve** | To deprive of a needed resource — here, one service's spike starving others of connections. |
+| **Headroom** | Spare capacity or margin before a limit is reached, rather than a permanent fix. |
+| **Condescending** | Speaking to someone as though they are less capable or knowledgeable than they are. |
+| **Evasive** | Avoiding giving a direct or complete answer. |
+| **Landed (information)** | Successfully registered and retained by the listener, as opposed to merely stated. |
+| **The skill inside the skill** | A meta-skill nested within a primary one — here, altitude-shifting nested inside explaining well. |
+
 **Next:** [`../02_Thinking_Frameworks/01_answer_first_thinking.md`](../02_Thinking_Frameworks/01_answer_first_thinking.md) — how to run this five-layer structure in your head in under three seconds, before you open your mouth.

@@ -103,4 +103,16 @@ Before finalizing, ask: *if this is the only paragraph they read, does it contai
 | "Summarize this for leadership" | Executive Summary | Under 60 sec / one paragraph |
 | "Present this at the all-hands" | Executive Summary opener + light Walkthrough | 2–3 min total |
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Sprawl (into)** | To spread out messily and uncontrolled beyond what was intended. |
+| **Dead air** | A silence or pause that reads as passive and empty rather than as an active, deliberate signal. |
+| **Load-bearing (content)** | Structurally essential — removing it causes the whole thing to fail, borrowed from architecture. |
+| **Burying the lede** | Delaying or obscuring the single most important fact instead of stating it first (adapted from the journalism idiom "bury the lede"). |
+| **Orient (before you navigate)** | To establish basic bearings and context first, before moving into detail. |
+| **Buildup** | An accumulation of preceding detail that withholds or postpones the main point. |
+| **Headline (fact)** | The single most important piece of information, by analogy to a news headline. |
+
 **Next:** [`../07_Architecture_Communication/01_architecture_walkthrough_and_design_review.md`](../07_Architecture_Communication/01_architecture_walkthrough_and_design_review.md) — the deeper, more formal version of the walkthrough format, built specifically for architecture and design review contexts.

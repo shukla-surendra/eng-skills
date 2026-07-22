@@ -68,4 +68,17 @@ Apply the **1:3 rule**: for every hour spent consuming a resource from this list
 
 ---
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Curated** | Deliberately selected and organized for quality, rather than compiled indiscriminately. |
+| **Underpin** | To form the underlying basis or support for something. |
+| **Proxy** | A stand-in measure used to estimate something that's hard to observe directly. |
+| **Polished** | Refined and well-executed, free of rough edges. |
+| **Passive consumption** | Absorbing content (watching, reading) without actively applying it. |
+| **Per se** | In itself, intrinsically — used to clarify that a claim is about the thing itself, not something adjacent. |
+| **Date** (verb) | To become noticeably outdated over time. |
+| **Exhibit** (a pattern) | To display or demonstrate a trait or behavior clearly. |
+
 **Next:** [`05_dev_to_architect_growth_track.md`](./05_dev_to_architect_growth_track.md) — the capstone: ties `02_Thinking_Frameworks/04_mental_models_operating_system.md` and this whole curriculum into a staged dev-to-architect progression.

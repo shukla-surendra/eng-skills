@@ -128,4 +128,17 @@ This whole routine is meant to compress to under 3 seconds with practice — it 
 - [ ] If this was a comparison, did I name the 2–3 dimensions that actually drove the decision, not every dimension that exists?
 - [ ] If this was a problem/incident, did I say Problem → Cause → Solution → Result in that order, not the order I discovered it in?
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Sweet spot** | The optimal point within a range — here, the working-memory capacity that's neither too little nor too much. |
+| **Narrate** | To describe events or reasoning aloud, step by step. |
+| **Crowding out** | Displacing something by taking up all the available space or attention. |
+| **Walked (a tree, mentally)** | Mentally traced a path through a branching structure, step by step. |
+| **Backbone** | The core structural element that everything else depends on or attaches to. |
+| **Formalize** | To turn an informal habit or pattern into an explicit, named structure. |
+| **Populate** | To fill a structure or template with specific content. |
+| **Fires** (a reflex) | Triggers automatically, the way a reflex activates without conscious decision. |
+
 **Next:** [`03_debugging_and_architectural_decision_making.md`](./03_debugging_and_architectural_decision_making.md) — how to apply structured thinking to the reasoning process itself: debugging complex systems, understanding them deeply, and making architectural decisions. From there, [`../03_Explanation_Frameworks/01_core_frameworks_PREP_STAR_SCQA.md`](../03_Explanation_Frameworks/01_core_frameworks_PREP_STAR_SCQA.md) covers the named, formal frameworks that build on these thinking shapes.

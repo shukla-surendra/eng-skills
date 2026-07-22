@@ -30,6 +30,9 @@ OUTPUT_DIR = ROOT / "docs_html"
 # render those into the site; the cleaned root .md files are the real content.
 EXCLUDE_DIRS = {".venv", ".git", "docs_html", "__pycache__", "source"}
 
+# Repo-meta files, not reader content - never render these into the site.
+EXCLUDE_FILES = {"README.md", "CLAUDE.md"}
+
 SITE_NAME = "English Learning &amp; Communication Toolkit"
 
 # Nice labels for path tokens used in nav groups + breadcrumbs.
@@ -709,8 +712,10 @@ JS = """
 
 def find_markdown_files():
     for path in sorted(ROOT.rglob("*.md")):
-        rel_parts = path.relative_to(ROOT).parts
-        if any(part in EXCLUDE_DIRS for part in rel_parts):
+        rel = path.relative_to(ROOT)
+        if any(part in EXCLUDE_DIRS for part in rel.parts):
+            continue
+        if rel.as_posix() in EXCLUDE_FILES:
             continue
         yield path
 

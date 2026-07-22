@@ -78,4 +78,18 @@ A low score in any category is diagnostic, not discouraging — it points direct
 
 **Fix one thing per review cycle, not five.** Trying to simultaneously improve structure, filler words, pacing, and storytelling in the same week produces diffuse, hard-to-notice progress on all four instead of clear progress on one. Pick the single lowest-scoring category, focus the next week's practice specifically on it, and let the others hold steady. This mirrors the "one thing to fix tomorrow" rule in the daily quick-pass (`01`) — specificity and restraint compound; trying to fix everything at once usually fixes nothing.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Curse of knowledge** | The cognitive bias where knowing something well makes it hard to imagine not knowing it, leading to unexplained jargon. |
+| **Trail off** | To gradually fade out or stop speaking without a clean, deliberate ending. |
+| **Dilute** | To weaken the strength or impact of something (here, a main point) by adding too much surrounding material. |
+| **A tell** | A subtle, involuntary signal that reveals an underlying state (borrowed from poker — here, a tell of low confidence). |
+| **Diagnostic** | Serving to identify the specific nature or cause of a problem, rather than just its symptoms. |
+| **From scratch** | Starting over completely, from the very beginning. |
+| **Diffuse** | Spread out thinly over a wide area, rather than concentrated — here, progress that's hard to notice because it's spread across too many goals at once. |
+| **Restraint** | Deliberate self-control — here, resisting the urge to fix everything at once. |
+| **Compound** (verb) | To build up or intensify over time through repeated, cumulative effect. |
+
 **Next:** [`../13_Common_Mistakes/01_mistakes_causes_fixes.md`](../13_Common_Mistakes/01_mistakes_causes_fixes.md) — the recurring failure patterns this checklist will surface, named explicitly with their causes and fixes.

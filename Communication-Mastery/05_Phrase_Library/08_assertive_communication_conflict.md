@@ -207,4 +207,14 @@ Increasingly common: someone runs an AI tool over your repo or docs to understan
 
 Take three real sentences you've actually said recently that felt passive (agreeing to something you didn't want, staying quiet in a disagreement, apologizing for something that wasn't your fault) and rewrite each using the observation → impact → ask pattern from §1. Say both versions out loud, back to back — the goal is to feel the difference in your own voice, not just read it on the page.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Turf** | A person's or team's area of ownership or territory, especially one they feel protective of. |
+| **Holding your ground** | Idiom: maintaining a position under pressure rather than backing down. |
+| **Hold the line** | Idiom: refuse to compromise a standard or requirement, even under pressure to relax it. |
+| **Doormat** | A person who is passively submissive, letting others walk over them without pushing back. |
+| **Resentment** | Bitter or lingering displeasure built up from feeling wronged, especially when unexpressed. |
+
 **Next:** [`../06_Project_Presentation/01_status_updates_walkthroughs_summaries.md`](../06_Project_Presentation/01_status_updates_walkthroughs_summaries.md) — applying this phrase library to full presentation formats.

@@ -111,4 +111,16 @@ Everyone loses their thread occasionally, even with full preparation. The recove
 
 This recovery move — explicitly naming that you're resetting, then giving the answer-first version — reads as composed, not weak, because it demonstrates exactly the self-monitoring and structural awareness this entire repository is built to train. See `13_Common_Mistakes` for more on why a visible, deliberate recovery beats an invisible, meandering one.
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Park (an issue)** | To set a topic aside deliberately for later, rather than dealing with it now. |
+| **Eat (a meeting/time)** | To consume time or attention that was meant for something else. |
+| **Scribe** | To record something, especially a timeline or discussion, in writing as it happens. |
+| **Step on (each other's changes)** | To interfere with or overwrite someone else's concurrent work. |
+| **Re-narrate** | To retell or recount something that has already happened, rather than adding new information. |
+| **Re-anchor** | To reestablish orientation or context after losing one's train of thought. |
+| **Meandering** | Wandering without a clear direction or endpoint. |
+
 **Next:** [`../10_Daily_Practice/01_daily_and_weekly_practice_system.md`](../10_Daily_Practice/01_daily_and_weekly_practice_system.md) — the training system that turns everything covered so far into automatic, reliable behavior under real meeting pressure.

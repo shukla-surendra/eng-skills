@@ -67,4 +67,18 @@ There's a well-documented asymmetry between how long a pause *feels* to the spea
 | Chunk transplant via analogy | Complex ideas suddenly "click" for a listener | `04_Technical_Storytelling`, `11_Exercises` |
 | Pause-duration asymmetry | You fear silence more than it's actually costing you | `12_Recording_Analysis`, `10_Daily_Practice` |
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Bottleneck** | The single limiting factor that constrains a whole system's capacity, regardless of how strong the rest is. |
+| **Superseded** | Replaced by something more accurate or up to date, rendering the earlier version obsolete. |
+| **Dilated** | Stretched or enlarged beyond its actual size — here, a pause that *feels* longer than it really is. |
+| **Asymmetry** | A mismatch between two things that "should" be equal — here, felt duration vs. actual duration. |
+| **Notoriously** | Widely and unfavorably known for a particular quality — used to flag a well-documented pitfall. |
+| **First-class citizen** | Treated as fully important and integral, not an afterthought or optional extra (borrowed from programming). |
+| **Transplant** | To move something whole from one place to another so it takes root there — here, a mental chunk moved into a listener's mind via analogy. |
+| **Pressure-test** | To deliberately probe something for weaknesses before relying on it. |
+| **Self-evidently** | Obviously true without needing to be argued or proven. |
+
 **Next:** [`03_anatomy_of_great_explanations.md`](./03_anatomy_of_great_explanations.md) — dissecting exactly what a Staff+/Principal-level explanation contains, sentence by sentence.

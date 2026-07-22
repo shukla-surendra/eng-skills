@@ -94,4 +94,21 @@ Weak closers ask nothing, or ask something answerable by the company website. St
 - If you notice yourself going long, land the current sentence and check in: *"I can go deeper on any part of that — where's most useful?"* This is better than either barreling on past the useful length or trailing off mid-thought.
 - Silence after finishing your answer is fine — resist the urge to keep adding caveats into an interviewer's pause while they're forming their next question (see `01_Foundations/02` on pause-duration asymmetry).
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Disguised as** | Presented so as to look like something other than what it actually is. |
+| **Self-flagellation** | Excessive, punishing self-criticism, well beyond what's warranted or useful. |
+| **Throughline** | A single connecting theme running consistently across a body of otherwise separate material. |
+| **Undersell** | To describe or present something as less significant than it actually is. |
+| **Badmouth** | To speak critically or disparagingly about someone or something, especially unfairly. |
+| **Modulate** | To adjust the level or intensity of something in response to context. |
+| **Co-champion** | A person inside another team who advocates alongside you for a change, lending it internal credibility. |
+| **Ad hoc** | Improvised or arranged for a specific purpose as needed, rather than following a standing process. |
+| **Barrel on** | To keep going forcefully without pausing, often past the point where stopping would be better. |
+| **Trail off** | To gradually lose momentum and fade out mid-thought, without a clean ending. |
+| **The main event** | The central, most important part of something, as opposed to a warm-up or preliminary. |
+| **Principled** | Based on consistent, defensible reasoning rather than arbitrary preference. |
+
 **Next:** [`../09_Meeting_Communication/01_standups_reviews_incidents_execs.md`](../09_Meeting_Communication/01_standups_reviews_incidents_execs.md) — applying these same frameworks to the recurring meeting formats you'll use weekly.

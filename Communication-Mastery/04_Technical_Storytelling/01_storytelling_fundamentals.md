@@ -66,4 +66,14 @@ Reading the room on how much Beat 3 to include is itself a skill — too little 
 - [ ] Is my "stable state" opening genuinely brief (1–2 sentences), or am I over-investing in setup before the disruption?
 - [ ] Have I calibrated the amount of struggle I show to the audience (full for a postmortem, light for an exec update)?
 
+## Glossary — Vocabulary Used in This Chapter
+
+| Term / Phrase | Meaning |
+|---|---|
+| **Recruit(s)** | To engage or draw in — used here for a story recruiting more of the brain's processing than plain facts do. |
+| **Hero's journey** | A well-known narrative-structure archetype (Joseph Campbell); referenced here as the heavier structure engineers don't actually need. |
+| **Sticky / stickiness** | The quality of being memorable and hard to forget, as opposed to information that fades quickly. |
+| **Land** | To successfully register or achieve its intended effect on the listener. |
+| **Reading the room** | Idiom: gauging the mood, expectations, or tolerance of an audience in the moment and adjusting accordingly. |
+
 **Next:** [`02_incident_and_project_narratives.md`](./02_incident_and_project_narratives.md) — applying this arc specifically to incidents and multi-month projects, with full worked scripts you can adapt.
