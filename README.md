@@ -10,7 +10,7 @@ Each file opens with a clickable **A–Z index** — tap a word to jump to it, a
 |------|--------------|--------:|
 | [Vocabulary](vocab.md) | Single words, with meanings, examples, and spoken usage | ~1,906 |
 | [Phrasal Verbs](phrasal-verbs.md) | Two/three-word verbs (*get off*, *push back*, …) | ~1,065 |
-| [Idioms](idioms.md) | Idiomatic expressions and how to use them | ~292 |
+| [Idioms](idioms.md) | Idiomatic expressions and how to use them | ~296 |
 | [Grammar Notes](grammar-notes.md) | Articles, until/by, frequency adverbs, used to, has/have had, question forms | ~10 |
 | [Speaking Toolkit](speaking-toolkit.md) | How to explain, frame sentences, use analogies, go deeper without losing the thread, plus connecting/meeting phrases | ~10 |
 | [Assertiveness & Vocal Presence](assertiveness-vocal-presence.md) | Mindset, hedge-cutting, voice/delivery mechanics, body language, and context playbooks (meetings, 1:1s, presenting, general) | 10 sections |
@@ -19,6 +19,14 @@ Each file opens with a clickable **A–Z index** — tap a word to jump to it, a
 | [Mental Models & Thinking Frameworks](Communication-Mastery/02_Thinking_Frameworks/04_mental_models_operating_system.md) | Operating principles, decision frameworks, and habits for engineering judgment and leadership | 11 sections |
 | [Reference Tables](reference-tables.md) | Quick phrase → one-line meaning lookup tables | 2 tables |
 | [Vocabulary in Context — Stories](stories.md) | Short stories that use the vocabulary in context, each with a glossary table | 6 stories |
+| [Hindi-Speaker's Fluency Playbook](hindi-speaker-fluency-playbook.md) | Breaking the Hindi→English translation loop: interference patterns, register upgrades, real-time repair moves, the full tense/grammar system as production drills, and a Hindi-thought → English-chunk dictionary | 12 sections |
+
+## Curricula
+
+Beyond the flat files above, two larger structured curricula live in their own folders, each with its own `README.md` map:
+
+- **[`Communication-Mastery/`](Communication-Mastery/README.md)** — a full engineering-communication training system: thinking frameworks, explanation frameworks, storytelling, phrase library, interview/meeting/architecture communication, daily practice, common-mistake case studies, and advanced growth tracks.
+- **[`Project_Management/`](Project_Management/README.md)** — a PMI/PMBOK literacy curriculum for understanding and speaking project-management vocabulary fluently as an engineer/architect (not a PM certification track): knowledge areas, methodologies, formulas, templates, an MLOps/GenAI/Cloud-specific playbook, and sourced real-project case studies.
 
 ## Revising
 

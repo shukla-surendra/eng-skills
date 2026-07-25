@@ -30,7 +30,7 @@
 
 **F**
 
-[Faint Smile](#faint-smile) · [Fall behind](#fall-behind) · [Fill in for](#fill-in-for) · [Finger crossed](#finger-crossed) · [flourish like anything](#flourish-like-anything) · [Fly under the radar](#fly-under-the-radar) · [from nowhere](#from-nowhere) · [Fussy Eater](#fussy-eater)
+[Faint Smile](#faint-smile) · [Fall behind](#fall-behind) · [Fill in for](#fill-in-for) · [Finger crossed](#finger-crossed) · [flourish like anything](#flourish-like-anything) · [Fly through](#fly-through) · [Fly under the radar](#fly-under-the-radar) · [from nowhere](#from-nowhere) · [Fussy Eater](#fussy-eater)
 
 **G**
 
@@ -66,7 +66,7 @@
 
 **O**
 
-[Off the hook](#off-the-hook) · [Off the radar](#off-the-radar) · [On paper](#on-paper) · [On par with](#on-par-with) · [On the flip side](#on-the-flip-side) · [On the mend](#on-the-mend) · [On the one hand](#on-the-one-hand) · [On the up](#on-the-up) · [Opinion/Views](#opinionviews) · [Out of no where](#out-of-no-where) · [Out of the way](#out-of-the-way) · [outright reject](#outright-reject) · [Over here](#over-here) · [Over the top](#over-the-top)
+[Off the hook](#off-the-hook) · [Off the radar](#off-the-radar) · [On paper](#on-paper) · [On par with](#on-par-with) · [On the flip side](#on-the-flip-side) · [On the mend](#on-the-mend) · [On the one hand](#on-the-one-hand) · [On the up](#on-the-up) · [Opinion/Views](#opinionviews) · [Out of no where](#out-of-no-where) · [Out of the way](#out-of-the-way) · [outright reject](#outright-reject) · [Over here](#over-here) · [Over the finish line](#over-the-finish-line) · [Over the top](#over-the-top)
 
 **P**
 
@@ -587,7 +587,23 @@ It’s basically saying, *“What you sow, you reap.”*
 
 # Chipping away / Chip away
 
-Gradually reduce or weaken something (e.g., "chipping away at a problem").
+Making slow, steady progress on something — especially a large or difficult task — by working on it bit by bit, rather than all at once.
+
+**Examples:**
+
+* *I'm chipping away at the Kubernetes documentation.* → I'm making gradual progress on it.
+* *She's been chipping away at her debt for years.* → She's slowly reducing it.
+* *We're chipping away at the backlog of bugs.* → We're fixing them one by one.
+
+**Where it comes from — chip + away:**
+
+* **Chip** (verb) = to break or cut off a small piece from something hard, usually with a tool — the way a sculptor works a block of stone, removing one small piece at a time rather than the whole thing at once.
+* **Away** here doesn't mean "far away" — paired with a verb, it signals *continuing, ongoing action* (compare *hammer away*, *type away*, *work away* — all mean "keep doing it").
+* Together: **chip away = keep removing small pieces until the job is done** — the sculptor metaphor generalized to any large task worked at persistently, a little at a time.
+
+Near-synonyms: *making steady progress*, *plugging away*, *working through it*, *taking it one step at a time*.
+
+Not to be confused with the related phrasal verb **chip in** (to contribute money, ideas, or help — *"Everyone chipped in to buy a gift"*) or the idiom **have a chip on your shoulder** (to be resentful or easily offended over a past slight).
 
 [↑ Back to index](#index)
 
@@ -1062,6 +1078,20 @@ The phrase **"flourish like anything"** is an informal or poetic way of saying t
 * **"Flourish"** means to grow or develop in a healthy or vigorous way.
 
 * **"Like anything"** is used to intensify the verb, similar to saying *"a lot"*, *"immensely"*, or *"tremendously"*.
+
+[↑ Back to index](#index)
+
+# Fly through
+
+To complete something quickly and easily, with little effort or difficulty — moving through a task, task list, or process at speed, usually because it turned out simpler than expected or because one is highly capable/prepared.
+
+**Examples:**
+
+* *She flew through the exam.* → She finished it quickly and easily.
+* *We flew through the backlog this sprint.* → We cleared it fast, with no major snags.
+* *He flew through the code review — no comments at all.* → It went by quickly, without issues.
+
+Distinct from **chipping away** (this file, above) in pace and difficulty: chipping away is slow, steady progress on something hard; flying through is fast, easy progress, often because the obstacle turned out smaller than expected. Also used literally for fast physical movement through a place — *"the car flew through the intersection."*
 
 [↑ Back to index](#index)
 
@@ -2388,6 +2418,21 @@ Used to indicate a location close to the speaker, or to draw attention to someth
 
 "Come take a look over here — this is the log line that matters."
 "Over here we handle retries differently than the other region does."
+
+[↑ Back to index](#index)
+
+# Over the finish line
+
+To successfully complete something, especially after a long or difficult effort — bringing a task, deal, or project to completion. Literally, crossing the finish line of a race; figuratively, used constantly in business, engineering, and software contexts for finally delivering something.
+
+**Examples:**
+
+* *We finally got the project over the finish line.* → We successfully completed it.
+* *The team is working hard to get the product over the finish line before the deadline.* → They're trying to finish and launch it.
+* *A few more bug fixes should get this feature over the finish line.* → The feature is almost complete.
+* *We are close to getting the OpenAI regional endpoint changes over the finish line.* → We are close to completing and delivering those changes.
+
+Related: see "There is no finish line" elsewhere in this file — the two make a useful pair: one marks the moment a specific effort concludes, the other notes that some things (security, career growth) never actually have a concluding moment at all.
 
 [↑ Back to index](#index)
 
