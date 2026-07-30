@@ -1,6 +1,6 @@
 # Technical & Architectural English
 
-> 294 entries · restructured 2026-07-16 · sorted A–Z
+> 299 entries · restructured 2026-07-16 · sorted A–Z
 
 ## Index
 
@@ -10,7 +10,7 @@
 
 **B**
 
-[Balance](#balance) · [Benchmark](#benchmark) · [Bind](#bind) · [Blacklist](#blacklist) · [Bootstrap](#bootstrap) · [Bracket](#bracket) · [Break out metrics](#break-out-metrics) · [Bring down cost](#bring-down-cost) · [Broker](#broker) · [Buffer](#buffer)
+[Balance](#balance) · [Benchmark](#benchmark) · [Bind](#bind) · [Black-box](#black-box) · [Blacklist](#blacklist) · [Bootstrap](#bootstrap) · [Bracket](#bracket) · [Break out metrics](#break-out-metrics) · [Bring down cost](#bring-down-cost) · [Broker](#broker) · [Buffer](#buffer)
 
 **C**
 
@@ -30,7 +30,7 @@
 
 **G**
 
-[Gate](#gate) · [Gauge](#gauge) · [Generalize](#generalize) · [Generate](#generate) · [Govern](#govern)
+[Gate](#gate) · [Gauge](#gauge) · [Generalize](#generalize) · [Generate](#generate) · [Govern](#govern) · [Grey-box](#grey-box)
 
 **H**
 
@@ -38,7 +38,7 @@
 
 **I**
 
-[Identify](#identify) · [Impute](#impute) · [Index](#index) · [Infer](#infer) · [Infuse](#infuse) · [Ingest](#ingest) · [Inscribe](#inscribe) · [Instantiate](#instantiate) · [Instrument](#instrument) · [Integrate](#integrate) · [Interleave](#interleave) · [Interrupt](#interrupt) · [Invalidate](#invalidate) · [Isolate](#isolate) · [Isomerize](#isomerize) · [Iterate](#iterate)
+[Identify](#identify) · [Implementation-defined](#implementation-defined) · [Impute](#impute) · [Index](#index) · [Infer](#infer) · [Infuse](#infuse) · [Ingest](#ingest) · [Inscribe](#inscribe) · [Instantiate](#instantiate) · [Instrument](#instrument) · [Integrate](#integrate) · [Interleave](#interleave) · [Interrupt](#interrupt) · [Invalidate](#invalidate) · [Isolate](#isolate) · [Isomerize](#isomerize) · [Iterate](#iterate)
 
 **J**
 
@@ -62,7 +62,7 @@
 
 **O**
 
-[Obfuscate](#obfuscate) · [Offload](#offload) · [Onboard](#onboard) · [Operationalize](#operationalize) · [Optimize](#optimize) · [Orchestrate](#orchestrate) · [Override](#override)
+[Obfuscate](#obfuscate) · [Offload](#offload) · [Onboard](#onboard) · [Opaque](#opaque) · [Operationalize](#operationalize) · [Optimize](#optimize) · [Orchestrate](#orchestrate) · [Override](#override)
 
 **P**
 
@@ -94,7 +94,7 @@
 
 **W**
 
-[Whitelist](#whitelist) · [Window](#window) · [Wire](#wire)
+[White-box](#white-box) · [Whitelist](#whitelist) · [Window](#window) · [Wire](#wire)
 
 **Y**
 
@@ -275,6 +275,14 @@ Example: "We benchmarked the new database against the old one before deciding to
 Meaning: Connect a resource, variable, or configuration to something at runtime.
 
 Example: "The service binds to port 8080 when it starts up."
+
+[↑ Back to index](#index)
+
+# Black-box
+
+Meaning: A system judged only by its inputs and outputs, with no visibility into (or claim about) its internal structure.
+
+Example: "We're treating the recommendation engine as a black box — we only check what it returns, not how it decides."
 
 [↑ Back to index](#index)
 
@@ -1110,6 +1118,14 @@ Example: "A central team governs what data can leave the company's network."
 
 [↑ Back to index](#index)
 
+# Grey-box
+
+Meaning: Partial visibility into a system — you know its high-level architecture or documented behavior, but the concrete internal mechanism is undocumented or proprietary. Sits between black-box (no visibility) and white-box (full visibility).
+
+Example: "Databricks' cluster autoscaling is grey-box to us — the docs describe the rough behavior, but the actual scheduling logic was never published."
+
+[↑ Back to index](#index)
+
 # Harden
 
 Meaning: Secure or stabilize a system so it's more resistant to failure or attack.
@@ -1179,6 +1195,14 @@ Example: "The app hydrates the cache with yesterday's data as soon as it starts 
 Meaning: Detect and name something based on its characteristics.
 
 Example: "The system automatically identifies duplicate records before they're merged."
+
+[↑ Back to index](#index)
+
+# Implementation-defined
+
+Meaning: A behavior the vendor or spec controls and could explain, but hasn't publicly committed to or documented — distinct from "undefined behavior," where nobody guarantees anything at all.
+
+Example: "The exact retry backoff is implementation-defined — Databricks knows what it does, they just haven't documented it."
 
 [↑ Back to index](#index)
 
@@ -1555,6 +1579,14 @@ Example: "We offloaded image resizing to a background worker so the API stays fa
 Meaning: Bring a new system or user into the fold and get them set up.
 
 Example: "It takes about a week to onboard a new customer onto the platform."
+
+[↑ Back to index](#index)
+
+# Opaque
+
+Meaning: Not transparent — the internal workings are hidden from view, whether deliberately or just because they're undocumented.
+
+Example: "The cost breakdown on that invoice is completely opaque; there's no line item explaining the number."
 
 [↑ Back to index](#index)
 
@@ -2395,6 +2427,14 @@ Example: "We viscousified the rollout so it reaches users gradually instead of a
 Meaning: Represent data or architecture visually, so it's easier to understand at a glance.
 
 Example: "Let's visualize the request flow instead of describing it in another wall of text."
+
+[↑ Back to index](#index)
+
+# White-box
+
+Meaning: Full visibility into a system — source code, design docs, or spec are all available, so behavior can be verified rather than just observed.
+
+Example: "Since it's our own microservice, testing it is white-box — we can read the code, not just poke at the API."
 
 [↑ Back to index](#index)
 
