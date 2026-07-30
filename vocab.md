@@ -18,7 +18,7 @@
 
 **D**
 
-[Dabbed](#dabbed) · [Damp](#damp) · [Dangling](#dangling) · [Darn it](#darn-it) · [Daunting](#daunting) · [Dawn](#dawn) · [Dazzle](#dazzle) · [de facto](#de-facto) · [Dearth](#dearth) · [Debacle](#debacle) · [Debunk](#debunk) · [Debut](#debut) · [Decapitated](#decapitated) · [Deceased](#deceased) · [Decimate](#decimate) · [Deck](#deck) · [Decree](#decree) · [Deduce](#deduce) · [Deductive Reasoning](#deductive-reasoning) · [defiant](#defiant) · [Deflected](#deflected) · [Deflection](#deflection) · [Dejected](#dejected) · [Deliberation](#deliberation) · [Delicate](#delicate) · [Delinquent](#delinquent) · [Deluge](#deluge) · [Delusion](#delusion) · [Delve](#delve) · [Demit](#demit) · [Denounce](#denounce) · [Deplete](#deplete) · [Deplore](#deplore) · [Deposition](#deposition) · [Derangement](#derangement) · [Dereliction](#dereliction) · [Derogatory](#derogatory) · [Descendant](#descendant) · [Desist](#desist) · [Desolate](#desolate) · [Despair](#despair) · [Despise](#despise) · [despite](#despite) · [Despondent](#despondent) · [detail](#detail) · [Detestable](#detestable) · [Detour](#detour) · [Detract](#detract) · [Detractor](#detractor) · [Detrimental](#detrimental) · [Devastating](#devastating) · [deviation](#deviation) · [Devious](#devious) · [Devise](#devise) · [Devolve](#devolve) · [Devoted](#devoted) · [Devour](#devour) · [Diabolical](#diabolical) · [Digress](#digress) · [Diligent](#diligent) · [Diligently](#diligently) · [Diminish](#diminish) · [Dimple](#dimple) · [Dire](#dire) · [Discord](#discord) · [Discrepant](#discrepant) · [Discretion](#discretion) · [Disdain](#disdain) · [Disentitle](#disentitle) · [Disgruntled](#disgruntled) · [Disguise](#disguise) · [Disheartened](#disheartened) · [Disheveled](#disheveled) · [Disinclination](#disinclination) · [dislodge](#dislodge) · [Dismay](#dismay) · [Dismembered](#dismembered) · [Disparity](#disparity) · [Disperse](#disperse) · [Disrobe](#disrobe) · [Dissent](#dissent) · [Dissipate](#dissipate) · [Dissuade](#dissuade) · [Distil](#distil) · [Distinguish](#distinguish) · [Distorted](#distorted) · [Distraught](#distraught) · [Distress](#distress) · [Ditch](#ditch) · [Divulge](#divulge) · [DM](#dm) · [Docile (daa·sl)](#docile-daasl) · [dodgy](#dodgy) · [Dogma](#dogma) · [Dogmatic](#dogmatic) · [Doldrums](#doldrums) · [Domineering](#domineering) · [Donning](#donning) · [Doom](#doom) · [Dope](#dope) · [Dormant](#dormant) · [Dormitory](#dormitory) · [Douche](#douche) · [douchebag](#douchebag) · [Downplay](#downplay) · [Downside](#downside) · [Downtime](#downtime) · [Doxxing](#doxxing) · [Drap](#drap) · [Drape](#drape) · [Drawl](#drawl) · [Drawn](#drawn) · [Dread](#dread) · [Dreaded](#dreaded) · [Dribble](#dribble) · [Dripping](#dripping) · [Drive](#drive) · [Dross](#dross) · [Ducked](#ducked) · [Dulcet](#dulcet) · [Dumbfounded](#dumbfounded) · [Dump](#dump) · [Dumpling](#dumpling) · [Dungeon](#dungeon) · [duplicitous](#duplicitous) · [Duress](#duress)
+[Dabbed](#dabbed) · [Damp](#damp) · [Dangling](#dangling) · [Darn it](#darn-it) · [Daunting](#daunting) · [Dawn](#dawn) · [Dazzle](#dazzle) · [de facto](#de-facto) · [Dearth](#dearth) · [Debacle](#debacle) · [Debunk](#debunk) · [Debut](#debut) · [Decapitated](#decapitated) · [Deceased](#deceased) · [Decimate](#decimate) · [Deck](#deck) · [Decree](#decree) · [Deduce](#deduce) · [Deductive Reasoning](#deductive-reasoning) · [defiant](#defiant) · [Deflected](#deflected) · [Deflection](#deflection) · [Dejected](#dejected) · [Deliberation](#deliberation) · [Delicate](#delicate) · [Delinquent](#delinquent) · [Deluge](#deluge) · [Delusion](#delusion) · [Delve](#delve) · [Demit](#demit) · [Denounce](#denounce) · [Deplete](#deplete) · [Deplore](#deplore) · [Deposition](#deposition) · [Derangement](#derangement) · [Dereliction](#dereliction) · [Derogatory](#derogatory) · [Descendant](#descendant) · [Desist](#desist) · [Desolate](#desolate) · [Despair](#despair) · [Despise](#despise) · [despite](#despite) · [Despondent](#despondent) · [detail](#detail) · [Detestable](#detestable) · [Detour](#detour) · [Detract](#detract) · [Detractor](#detractor) · [Detrimental](#detrimental) · [Devastating](#devastating) · [deviation](#deviation) · [Devious](#devious) · [Devise](#devise) · [Devolve](#devolve) · [Devoted](#devoted) · [Devour](#devour) · [Diabolical](#diabolical) · [Diametrically opposed](#diametrically-opposed) · [Digress](#digress) · [Diligent](#diligent) · [Diligently](#diligently) · [Diminish](#diminish) · [Dimple](#dimple) · [Dire](#dire) · [Discord](#discord) · [Discrepant](#discrepant) · [Discretion](#discretion) · [Disdain](#disdain) · [Disentitle](#disentitle) · [Disgruntled](#disgruntled) · [Disguise](#disguise) · [Disheartened](#disheartened) · [Disheveled](#disheveled) · [Disinclination](#disinclination) · [dislodge](#dislodge) · [Dismay](#dismay) · [Dismembered](#dismembered) · [Disparity](#disparity) · [Disperse](#disperse) · [Disrobe](#disrobe) · [Dissent](#dissent) · [Dissipate](#dissipate) · [Dissuade](#dissuade) · [Distil](#distil) · [Distinguish](#distinguish) · [Distorted](#distorted) · [Distraught](#distraught) · [Distress](#distress) · [Ditch](#ditch) · [Divulge](#divulge) · [DM](#dm) · [Docile (daa·sl)](#docile-daasl) · [dodgy](#dodgy) · [Dogma](#dogma) · [Dogmatic](#dogmatic) · [Doldrums](#doldrums) · [Domineering](#domineering) · [Donning](#donning) · [Doom](#doom) · [Dope](#dope) · [Dormant](#dormant) · [Dormitory](#dormitory) · [Douche](#douche) · [douchebag](#douchebag) · [Downplay](#downplay) · [Downside](#downside) · [Downtime](#downtime) · [Doxxing](#doxxing) · [Drap](#drap) · [Drape](#drape) · [Drawl](#drawl) · [Drawn](#drawn) · [Dread](#dread) · [Dreaded](#dreaded) · [Dribble](#dribble) · [Dripping](#dripping) · [Drive](#drive) · [Dross](#dross) · [Ducked](#ducked) · [Dulcet](#dulcet) · [Dumbfounded](#dumbfounded) · [Dump](#dump) · [Dumpling](#dumpling) · [Dungeon](#dungeon) · [duplicitous](#duplicitous) · [Duress](#duress)
 
 **E**
 
@@ -62,7 +62,7 @@
 
 **O**
 
-[Obfuscate](#obfuscate) · [Obfuscating](#obfuscating) · [Obituary](#obituary) · [Obliterate](#obliterate) · [Oblivious](#oblivious) · [Obnoxious](#obnoxious) · [Obscene](#obscene) · [obscure](#obscure) · [Obsequious](#obsequious) · [Observe/Absorb](#observeabsorb) · [Obsessive](#obsessive) · [Obsolescence](#obsolescence) · [Obsolete](#obsolete) · [Obstacle](#obstacle) · [Obstinate](#obstinate) · [Odds](#odds) · [Odious](#odious) · [Off-putting](#off-putting) · [Off-ramp](#off-ramp) · [Offering](#offering) · [Offsetting](#offsetting) · [Ogling](#ogling) · [Omission](#omission) · [On account of](#on-account-of) · [on the contrary](#on-the-contrary) · [One-off](#one-off) · [One-Size-Fits-All](#one-size-fits-all) · [Ooze](#ooze) · [Orator](#orator) · [Ordeal](#ordeal) · [Orientation](#orientation) · [Orphanage](#orphanage) · [Ostensible](#ostensible) · [Oust](#oust) · [Outcome](#outcome) · [Outlay](#outlay) · [Outpace](#outpace) · [Outrageous](#outrageous) · [Outsmart](#outsmart) · [Outstanding question](#outstanding-question) · [Outweigh](#outweigh) · [Overarching](#overarching) · [Overcome](#overcome) · [Overexerting yourself](#overexerting-yourself) · [Overhaul](#overhaul) · [overloaded term](#overloaded-term) · [Overlook](#overlook) · [Overpacker](#overpacker) · [Overrated](#overrated) · [Oversee](#oversee) · [Overseeing](#overseeing) · [Overshadow](#overshadow) · [Overt](#overt) · [Overthrow](#overthrow) · [Overturn](#overturn) · [Overwhelming](#overwhelming) · [Oxymoron](#oxymoron)
+[Obfuscate](#obfuscate) · [Obfuscating](#obfuscating) · [Obituary](#obituary) · [Obliterate](#obliterate) · [Oblivious](#oblivious) · [Obnoxious](#obnoxious) · [Obscene](#obscene) · [obscure](#obscure) · [Obsequious](#obsequious) · [Observe/Absorb](#observeabsorb) · [Obsessive](#obsessive) · [Obsolescence](#obsolescence) · [Obsolete](#obsolete) · [Obstacle](#obstacle) · [Obstinate](#obstinate) · [Odds](#odds) · [Odious](#odious) · [Off-putting](#off-putting) · [Off-ramp](#off-ramp) · [Offering](#offering) · [Offsetting](#offsetting) · [Ogling](#ogling) · [Omission](#omission) · [On account of](#on-account-of) · [on the contrary](#on-the-contrary) · [One-off](#one-off) · [One-Size-Fits-All](#one-size-fits-all) · [Ooze](#ooze) · [Orator](#orator) · [Ordeal](#ordeal) · [Orientation](#orientation) · [Orphanage](#orphanage) · [Ostensible](#ostensible) · [Oust](#oust) · [Outcome](#outcome) · [Outlay](#outlay) · [Outpace](#outpace) · [Outrageous](#outrageous) · [Outsmart](#outsmart) · [Outstanding question](#outstanding-question) · [Outweigh](#outweigh) · [Overarching](#overarching) · [Overcome](#overcome) · [Overexerting yourself](#overexerting-yourself) · [Overhaul](#overhaul) · [overloaded term](#overloaded-term) · [Overlook](#overlook) · [Overpacker](#overpacker) · [Overrated](#overrated) · [Oversee](#oversee) · [Overseeing](#overseeing) · [Overshadow](#overshadow) · [Oversight](#oversight) · [Overt](#overt) · [Overthrow](#overthrow) · [Overturn](#overturn) · [Overwhelming](#overwhelming) · [Oxymoron](#oxymoron)
 
 **P**
 
@@ -8540,6 +8540,42 @@ You can use “diabolical” in a **light, humorous way** in meetings:
 * “The logs were in such a diabolical state that debugging took ages.”
 
 This makes you sound natural and expressive.
+
+[↑ Back to index](#index)
+
+# Diametrically opposed
+
+*Pronunciation:* dy-uh-MET-rik-lee uh-POHZD
+
+**Diametrically opposed** means **completely opposite** — not just "different" or "in disagreement," but positioned at the two furthest-apart ends of a spectrum, with no middle ground between them.
+
+It comes from geometry: a circle's *diameter* connects the two points that sit exactly opposite each other. "Diametrically" is the adverb that intensifies "opposed" (or "opposite") to that full 180-degree extreme — it isn't used to mean merely "very" opposed.
+
+### **Usage pattern**
+
+The word almost always modifies **opposed** or **opposite** — it doesn't stand alone, and it doesn't pair with softer words like "different" or "contrary":
+
+✔ *"diametrically opposed"*
+✔ *"diametrically opposite views"*
+❌ *"diametrically different"* (wrong pairing — just say "very different")
+❌ *"diametrically disagree"* (wrong pairing — "opposed"/"opposite" is the fixed partner)
+
+### **Usage examples**
+
+1. *"The two architects hold diametrically opposed views on whether to shard the database."*
+2. *"Their incentives are diametrically opposed: sales wants the feature shipped now, security wants it delayed."*
+3. *"This isn't a minor disagreement — our approaches are diametrically opposed."*
+
+### **Professional usage (architecture/engineering framing)**
+
+Useful when you want to signal that a disagreement is fundamental, not a matter of degree — that no compromise position exists between the two views:
+
+* *"The two teams' data-retention policies are diametrically opposed — one deletes PII after 30 days, the other retains it indefinitely for audit."*
+* *"We're diametrically opposed on this: I want to decouple the services, he wants to keep them as a single deployable unit."*
+
+Saying "diametrically opposed" instead of just "disagree" signals to the room that this needs a decision, not more discussion — useful for framing an escalation precisely.
+
+🔹 **Synonyms:** polar opposites, irreconcilable, mutually exclusive, at odds (weaker — "at odds" allows for degrees; "diametrically opposed" doesn't).
 
 [↑ Back to index](#index)
 
@@ -23125,6 +23161,51 @@ This sounds **balanced, mature, and diplomatic** in meetings.
 Say this sentence out loud 3 times:
 
 **“On the other hand, I don’t want one issue to overshadow all the progress we’ve made.”**
+
+[↑ Back to index](#index)
+
+# Oversight
+
+*Pronunciation:* OH-ver-site
+
+**Oversight** is the noun form of [Oversee](#oversee) — but it carries **two unrelated meanings**, and mixing them up (or using the noun where a verb belongs) is the exact trap to watch for.
+
+⚠️ **Grammar trap first:** "oversight" is **never a verb**. There is no "I oversight the team." The verb is always **oversee** (present) / **overseeing** (continuous) / **oversaw** (past). "Oversight" only follows verbs like *provide, have, lack, exercise, require* — or stands alone as a noun.
+
+### **Meaning 1 — Supervision (noun form of "oversee")**
+
+👉 *the act of watching over or supervising a process, team, or system to ensure it is done correctly.*
+
+1. *“The committee provides oversight of the budget.”*
+2. *“Regulatory oversight of the banking sector has tightened.”*
+3. *“This pipeline runs with almost no human oversight.”*
+4. *“As an architect, my role includes technical oversight of all three teams.”*
+
+🔹 **Synonyms:** supervision, monitoring, governance, stewardship.
+
+### **Meaning 2 — An unintentional mistake or omission**
+
+👉 *a small error made by not noticing or considering something — nothing to do with supervision.*
+
+1. *“Leaving that field nullable was an oversight, not a design choice.”*
+2. *“Sorry, forgetting to CC you was an oversight on my part.”*
+3. *“The missing index was an oversight during the migration, not a deliberate trade-off.”*
+
+🔹 **Synonyms:** omission, slip-up, lapse, mistake.
+
+### **How to tell which meaning is meant**
+
+There's no grammatical signal — only context. As a rule of thumb:
+
+| If "oversight" follows... | It usually means |
+|---|---|
+| provide / have / lack / exercise / regulatory / technical | Meaning 1: supervision |
+| "was an" / "due to an" / "my apologies for the" | Meaning 2: mistake |
+
+✔ Correct: *“She oversees the release process.”* (verb)
+✔ Correct: *“She provides oversight of the release process.”* (noun, supervision)
+✔ Correct: *“Skipping that check was an oversight.”* (noun, mistake)
+❌ Incorrect: *“She oversights the release process.”*
 
 [↑ Back to index](#index)
 

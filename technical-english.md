@@ -10,7 +10,7 @@
 
 **B**
 
-[Balance](#balance) · [Benchmark](#benchmark) · [Bind](#bind) · [Black-box](#black-box) · [Blacklist](#blacklist) · [Bootstrap](#bootstrap) · [Bracket](#bracket) · [Break out metrics](#break-out-metrics) · [Bring down cost](#bring-down-cost) · [Broker](#broker) · [Buffer](#buffer)
+[Backoff](#backoff) · [Balance](#balance) · [Benchmark](#benchmark) · [Bind](#bind) · [Black-box](#black-box) · [Blacklist](#blacklist) · [Bootstrap](#bootstrap) · [Bracket](#bracket) · [Break out metrics](#break-out-metrics) · [Bring down cost](#bring-down-cost) · [Broker](#broker) · [Buffer](#buffer)
 
 **C**
 
@@ -251,6 +251,16 @@ Example: "Even after logging in, the API still checks whether you're authorized 
 Meaning: Replace a manual, repetitive step with a script or workflow.
 
 Example: "We automated the deployment so nobody has to run those commands by hand anymore."
+
+[↑ Back to index](#index)
+
+# Backoff
+
+Meaning: Increase the delay between retry attempts after a failure, usually exponentially, so a struggling service isn't hammered by immediate retries.
+
+Example: "The client retries with exponential backoff, starting at 1 second and doubling up to a 30-second cap."
+
+Related: [Jitter](#jitter) — backoff sets the delay's ceiling; jitter randomizes the actual value used, so the two are applied together, not as alternatives. See the Jitter entry for how they combine.
 
 [↑ Back to index](#index)
 
@@ -1331,6 +1341,30 @@ Example: "We iterated on the onboarding flow for three sprints before it finally
 Meaning: Introduce small, random timing variance, often to avoid many things happening at once.
 
 Example: "We added jitter to the retry delay so all the clients don't retry at the exact same second."
+
+### Jitter vs. [Backoff](#backoff)
+
+They control different axes of the same retry delay — jitter is applied *inside* backoff's calculation, not instead of it.
+
+| | Backoff | Jitter |
+|---|---|---|
+| Controls | How long to wait before the next retry | How much randomness to add to that wait |
+| Direction | Grows with each failure (1s → 2s → 4s → 8s...) | Random within a range — doesn't grow |
+| Problem solved | One client re-hitting a service too fast | Many clients retrying at the same instant as each other |
+| Failure mode without it | Client hammers a service that hasn't recovered | All clients retry in lockstep the moment their (identical) delay expires — a "thundering herd" |
+| Scope | Per-client | Cross-client |
+
+**Mechanism** — from the well-known AWS "Exponential Backoff and Jitter" pattern, backoff computes a ceiling, then jitter picks the delay actually used:
+
+```
+base = min(cap, base_delay * 2^attempt)              # backoff: the ceiling
+
+full_jitter  = random(0, base)                        # anywhere from 0 to base
+equal_jitter = base/2 + random(0, base/2)             # half fixed, half random
+decorrelated = min(cap, random(base_delay, prev_delay * 3))  # uses previous delay, not just attempt count
+```
+
+"Full jitter" is the usual default — best spread, lowest total retry load. The combined term **"exponential backoff with jitter"** is the actual pattern people mean; backoff alone still leaves the thundering-herd problem unsolved, and jitter alone still lets a client hammer a service that needs more than one retry cycle to recover.
 
 [↑ Back to index](#index)
 

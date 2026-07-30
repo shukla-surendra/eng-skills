@@ -70,7 +70,7 @@
 
 **P**
 
-[per se](#per-se) · [Play it by ear](#play-it-by-ear) · [Playing Devil’s Advocate](#playing-devils-advocate) · [Point of view](#point-of-view) · [Praising an Essay (Examiner Feedback Phrases)](#praising-an-essay-examiner-feedback-phrases) · [Pulling things out of thin air](#pulling-things-out-of-thin-air) · [Put forth](#put-forth) · [put me on edge](#put-me-on-edge) · [Put out / Put off](#put-out--put-off) · [Put something on ice](#put-something-on-ice) · [Put up with](#put-up-with)
+[per se](#per-se) · [Pinky promise](#pinky-promise) · [Play it by ear](#play-it-by-ear) · [Playing Devil’s Advocate](#playing-devils-advocate) · [Point of view](#point-of-view) · [Praising an Essay (Examiner Feedback Phrases)](#praising-an-essay-examiner-feedback-phrases) · [Pulling things out of thin air](#pulling-things-out-of-thin-air) · [Put forth](#put-forth) · [put me on edge](#put-me-on-edge) · [Put out / Put off](#put-out--put-off) · [Put something on ice](#put-something-on-ice) · [Put up with](#put-up-with)
 
 **Q**
 
@@ -2450,6 +2450,15 @@ Excessive, exaggerated — more dramatic or extreme than the situation calls for
 The Latin phrase per se means "by itself", "in itself", or "of itself". It's used to describe something in its own right, taking it out of its context. For example, "It is not the money per se that makes them unhappy, but the single-minded pursuit of that money".
 
 adverb by or in itself or themselves; intrinsically.in itself, intrinsically, as such, in essence
+
+[↑ Back to index](#index)
+
+# Pinky promise
+
+A casual, informal pledge of sincerity — sealed (literally, among children) by linking little fingers. Used among adults half-jokingly, to underline that a commitment is genuine even though the phrasing sounds childish.
+
+"I'll send you the notes tonight — pinky promise."
+"No, I'm serious, pinky promise I won't reschedule again."
 
 [↑ Back to index](#index)
 
