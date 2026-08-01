@@ -27,6 +27,7 @@ Beyond the flat files above, two larger structured curricula live in their own f
 
 - **[`Communication-Mastery/`](Communication-Mastery/README.md)** — a full engineering-communication training system: thinking frameworks, explanation frameworks, storytelling, phrase library, interview/meeting/architecture communication, daily practice, common-mistake case studies, and advanced growth tracks.
 - **[`Project_Management/`](Project_Management/README.md)** — a PMI/PMBOK literacy curriculum for understanding and speaking project-management vocabulary fluently as an engineer/architect (not a PM certification track): knowledge areas, methodologies, formulas, templates, an MLOps/GenAI/Cloud-specific playbook, and sourced real-project case studies.
+- **[`Book-Summaries/`](Book-Summaries/README.md)** — deliberate, detailed summaries of business/strategy/engineering-leadership books, cross-linked into `Communication-Mastery/` and `Project_Management/` wherever a book's argument overlaps material already built out there.
 
 ## Revising
 
