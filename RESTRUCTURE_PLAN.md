@@ -461,14 +461,16 @@ draft `%%TITLE%%/%%PRON%%/%%END%%` entries, apply with
 
 | Script | Role | Status |
 |--------|------|--------|
-| restructure.py | Google-Docs → clean A–Z word bank | done |
-| clean_thematic_docs.py | clean thematic/mixed docs | done |
-| split_vocab_usage.py | split by content type | done (generalise in Phase 3) |
-| build_docs.py | render HTML site + search index | done |
-| check_links.py | validate relative links | done |
-| dedupe.py | merge duplicate entries | done |
+| restructure.py | Google-Docs → clean A–Z word bank | done — removed 2026-08-01, one-time migration, source format no longer exists |
+| clean_thematic_docs.py | clean thematic/mixed docs | done — removed 2026-08-01, one-time migration |
+| split_vocab_usage.py | split by content type | done — removed 2026-08-01, one-time migration |
+| build_docs.py | render HTML site + search index | done — removed 2026-08-01, superseded by MkDocs (`make docs`) |
+| check_links.py | validate relative links | done — still used by `make check` |
+| dedupe.py | merge duplicate entries | done — removed 2026-08-01, one-time migration |
 | route.py | classify + route blocks to canonical files | **Phase 3** |
-| route_glossary_usage.py | classify + route glossary-usage.md into vocab/phrasal/idioms | done |
-| route_vocab_phrasal.py | reclassify misfiled entries between vocab.md/phrasal-verbs.md | done |
-| reorganize_technical_english.py | convert technical-english.md to canonical form + route its phrasal verbs | done |
+| route_glossary_usage.py | classify + route glossary-usage.md into vocab/phrasal/idioms | done — removed 2026-08-01, `glossary-usage.md` retired by Phase 3 |
+| route_vocab_phrasal.py | reclassify misfiled entries between vocab.md/phrasal-verbs.md | done — removed 2026-08-01, one-time migration |
+| reorganize_technical_english.py | convert technical-english.md to canonical form + route its phrasal verbs | done — removed 2026-08-01, one-time migration |
 | export_cards.py | flash-card export | **Phase 5** |
+
+Still-active scripts not listed above: `link_mkdocs_docs.py` (MkDocs symlink farm, used by `make docs`/`make check`), `audit_gaps.py` and `apply_enrich.py`/`insert_pronunciation.py` (ongoing gap-filling and pronunciation work, §4/§4b below still have open batches).

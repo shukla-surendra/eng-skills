@@ -1,6 +1,6 @@
 # Vocabulary
 
-> 1906 entries · restructured 2026-07-16 · sorted A–Z
+> 1907 entries · restructured 2026-07-16 · sorted A–Z
 
 ## Index
 
@@ -34,7 +34,7 @@
 
 **H**
 
-[Hack](#hack) · [Hail](#hail) · [Halfway](#halfway) · [Halo](#halo) · [Hamper](#hamper) · [Hand in hand](#hand-in-hand) · [Handoff](#handoff) · [Hard pass](#hard-pass) · [Harness](#harness) · [Harping](#harping) · [Harsh](#harsh) · [Harvest](#harvest) · [Haunted](#haunted) · [Havoc](#havoc) · [Hazy](#hazy) · [Head-on](#head-on) · [Headroom](#headroom) · [Heads-up](#heads-up) · [Headspace](#headspace) · [heartfelt](#heartfelt) · [Heckling](#heckling) · [Hedge](#hedge) · [Hefty](#hefty) · [Heinous](#heinous) · [Heir](#heir) · [Heist](#heist) · [Hell-bent](#hell-bent) · [Helpless](#helpless) · [Helter skelter](#helter-skelter) · [Henceforth](#henceforth) · [Herald](#herald) · [Hesitant](#hesitant) · [Hiatus](#hiatus) · [Hide-Hid-Hidden](#hide-hid-hidden) · [Hieroglyph](#hieroglyph) · [Hinder](#hinder) · [Hinge](#hinge) · [Hitched](#hitched) · [Hive](#hive) · [holler](#holler) · [Hollow](#hollow) · [Homicide](#homicide) · [Honorarium](#honorarium) · [Hooliganism](#hooliganism) · [Horrendous](#horrendous) · [Hostile](#hostile) · [Hotchpotch](#hotchpotch) · [hotspot](#hotspot) · [Hound](#hound) · [Hover](#hover) · [Howl](#howl) · [Howling](#howling) · [Hubris](#hubris) · [Huddle](#huddle) · [Huddled](#huddled) · [Huffed](#huffed) · [Hum](#hum) · [Humble](#humble) · [Humility](#humility) · [Humongous](#humongous) · [Hump](#hump) · [Hurl](#hurl) · [Hypocritical](#hypocritical) · [Hysterical](#hysterical)
+[Hack](#hack) · [Hail](#hail) · [Halfway](#halfway) · [Halo](#halo) · [Hamper](#hamper) · [Hand in hand](#hand-in-hand) · [Handoff](#handoff) · [Hard pass](#hard-pass) · [Harness](#harness) · [Harping](#harping) · [Harsh](#harsh) · [Harvest](#harvest) · [Haunted](#haunted) · [Havoc](#havoc) · [Hazy](#hazy) · [Head-on](#head-on) · [Headroom](#headroom) · [Heads-up](#heads-up) · [Headspace](#headspace) · [heartfelt](#heartfelt) · [Heckling](#heckling) · [Hedge](#hedge) · [Hefty](#hefty) · [Heinous](#heinous) · [Heir](#heir) · [Heist](#heist) · [Hell-bent](#hell-bent) · [Helpless](#helpless) · [Helter skelter](#helter-skelter) · [Henceforth](#henceforth) · [Herald](#herald) · [Hesitant](#hesitant) · [Hiatus](#hiatus) · [Hide-Hid-Hidden](#hide-hid-hidden) · [Hieroglyph](#hieroglyph) · [Hinder](#hinder) · [Hinge](#hinge) · [Hitched](#hitched) · [Hive](#hive) · [holler](#holler) · [Hollow](#hollow) · [Homicide](#homicide) · [Honorarium](#honorarium) · [Hooliganism](#hooliganism) · [Horrendous](#horrendous) · [Hostile](#hostile) · [Hotchpotch](#hotchpotch) · [hotspot](#hotspot) · [Hound](#hound) · [Hover](#hover) · [Howl](#howl) · [Howling](#howling) · [Hubris](#hubris) · [Huddle](#huddle) · [Huddled](#huddled) · [Huffed](#huffed) · [Hum](#hum) · [Humble](#humble) · [Humility](#humility) · [Humongous](#humongous) · [Hump](#hump) · [Hurl](#hurl) · [Hypocritical](#hypocritical) · [Hypothesis](#hypothesis) · [Hysterical](#hysterical)
 
 **I**
 
@@ -16462,6 +16462,44 @@ Extremely large; huge.
 adjective — behaving in a way that contradicts one's own stated beliefs or values; saying one thing and doing another.
 
 "It's hypocritical to preach work-life balance and then email the team at midnight."
+
+[↑ Back to index](#index)
+
+# Hypothesis
+
+*Pronunciation:* hy-POTH-uh-sis (plural: **hypotheses**, hy-POTH-uh-seez)
+
+**A hypothesis is an untested, falsifiable claim — something proposed but not yet checked against evidence.** The moment a claim has actually been run against real data or a real system and confirmed, it stops being a hypothesis and becomes a **finding** (or a **fact**, if it's now settled beyond reasonable dispute). The two words describe different positions on the same axis — *unverified* vs. *verified* — not two names for the same thing, and mixing them up is the exact trap to watch for.
+
+⚠️ **The trap:** in a technical discussion, someone summarizing your work as "you have three hypotheses" when what you actually have is three **findings from a PoC or exploration** is quietly downgrading confirmed work to speculation — whether or not that's the intent. It changes how the room treats the claim: a hypothesis invites "let's go test that," while a finding invites "let's decide what to do about it." Letting the mislabel stand means defending a decision as if it still needs validation that's already been done.
+
+### How to tell which word is correct
+
+| If the claim has been... | The right word is |
+|---|---|
+| proposed, but not yet run against data/a system | **Hypothesis** |
+| tested once, informally, not yet reproduced | **Preliminary finding** / **early signal** |
+| run through a PoC, spike, or exploration and confirmed | **Finding** |
+| confirmed, reproduced, and no longer seriously in dispute | **Fact** |
+
+### Correcting the mislabel precisely, in the room
+
+Don't just repeat "it's not a hypothesis" — name what actually changed the claim's status, in one sentence:
+
+- *"To be precise, these aren't hypotheses — they're findings from the PoC. I ran all three against the actual dataset and confirmed the behavior."*
+- *"Just a correction: that's not a hypothesis anymore, it's a confirmed finding — here's the exploration that validated it."*
+- *"I'd call these findings, not hypotheses — the PoC already tested them; what's still a hypothesis is whether the fix generalizes to production traffic."* (useful when *part* of the claim is confirmed and part genuinely isn't — don't over-correct into claiming more certainty than actually exists)
+
+### Examples
+
+1. *"My hypothesis was that the retries were exhausting the connection pool — I confirmed it by pulling the pool metrics during the incident, so it's a finding now, not a hypothesis."*
+2. ❌ *"Here are your three hypotheses from the exploration."* → ✔ *"Here are your three findings from the exploration."*
+3. *"We still have one open hypothesis: that this also affects the batch pipeline. I haven't tested that path yet."*
+
+🔹 **Synonyms (hypothesis):** conjecture, supposition, working theory, educated guess.
+🔹 **Synonyms (finding):** confirmed result, validated conclusion, established fact (once fully settled).
+
+**See also:** `Communication-Mastery/02_Thinking_Frameworks/03_debugging_and_architectural_decision_making.md` (the Observe → Model → **Hypothesis** → Test → Isolate loop — the discipline that turns a hypothesis into a finding in the first place) and `Communication-Mastery/02_Thinking_Frameworks/16_engineering_judgment_as_a_contractor_architect.md` §5 ("an unverified belief is a hypothesis wearing the costume of a fact") for the mechanism behind why this distinction is worth defending precisely, not just semantically.
 
 [↑ Back to index](#index)
 

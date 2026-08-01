@@ -8,18 +8,18 @@ Each file opens with a clickable **A–Z index** — tap a word to jump to it, a
 
 | File | What's in it | Entries |
 |------|--------------|--------:|
-| [Vocabulary](vocab.md) | Single words, with meanings, examples, and spoken usage | ~1,906 |
-| [Phrasal Verbs](phrasal-verbs.md) | Two/three-word verbs (*get off*, *push back*, …) | ~1,065 |
-| [Idioms](idioms.md) | Idiomatic expressions and how to use them | ~296 |
-| [Grammar Notes](grammar-notes.md) | Articles, until/by, frequency adverbs, used to, has/have had, question forms | ~10 |
-| [Speaking Toolkit](speaking-toolkit.md) | How to explain, frame sentences, use analogies, go deeper without losing the thread, plus connecting/meeting phrases | ~10 |
-| [Assertiveness & Vocal Presence](assertiveness-vocal-presence.md) | Mindset, hedge-cutting, voice/delivery mechanics, body language, and context playbooks (meetings, 1:1s, presenting, general) | 10 sections |
-| [Technical & Architectural English](technical-english.md) | Technical/architectural verbs and phrases, A–Z | ~294 |
-| [Business Communication](business-communication.md) | Business and meeting idioms, diplomatic phrasing | ~117 |
+| [Vocabulary](Vocabulary-Collections/vocab.md) | Single words, with meanings, examples, and spoken usage | ~1,906 |
+| [Phrasal Verbs](Vocabulary-Collections/phrasal-verbs.md) | Two/three-word verbs (*get off*, *push back*, …) | ~1,065 |
+| [Idioms](Vocabulary-Collections/idioms.md) | Idiomatic expressions and how to use them | ~296 |
+| [Grammar Notes](Vocabulary-Collections/grammar-notes.md) | Articles, until/by, frequency adverbs, used to, has/have had, question forms | ~10 |
+| [Speaking Toolkit](Vocabulary-Collections/speaking-toolkit.md) | How to explain, frame sentences, use analogies, go deeper without losing the thread, plus connecting/meeting phrases | ~10 |
+| [Assertiveness & Vocal Presence](Vocabulary-Collections/assertiveness-vocal-presence.md) | Mindset, hedge-cutting, voice/delivery mechanics, body language, and context playbooks (meetings, 1:1s, presenting, general) | 10 sections |
+| [Technical & Architectural English](Vocabulary-Collections/technical-english.md) | Technical/architectural verbs and phrases, A–Z | ~294 |
+| [Business Communication](Vocabulary-Collections/business-communication.md) | Business and meeting idioms, diplomatic phrasing | ~117 |
 | [Mental Models & Thinking Frameworks](Communication-Mastery/02_Thinking_Frameworks/04_mental_models_operating_system.md) | Operating principles, decision frameworks, and habits for engineering judgment and leadership | 11 sections |
-| [Reference Tables](reference-tables.md) | Quick phrase → one-line meaning lookup tables | 2 tables |
-| [Vocabulary in Context — Stories](stories.md) | Short stories that use the vocabulary in context, each with a glossary table | 6 stories |
-| [Hindi-Speaker's Fluency Playbook](hindi-speaker-fluency-playbook.md) | Breaking the Hindi→English translation loop: interference patterns, register upgrades, real-time repair moves, the full tense/grammar system as production drills, and a Hindi-thought → English-chunk dictionary | 12 sections |
+| [Reference Tables](Vocabulary-Collections/reference-tables.md) | Quick phrase → one-line meaning lookup tables | 2 tables |
+| [Vocabulary in Context — Stories](Vocabulary-Collections/stories.md) | Short stories that use the vocabulary in context, each with a glossary table | 6 stories |
+| [Hindi-Speaker's Fluency Playbook](Vocabulary-Collections/hindi-speaker-fluency-playbook.md) | Breaking the Hindi→English translation loop: interference patterns, register upgrades, real-time repair moves, the full tense/grammar system as production drills, and a Hindi-thought → English-chunk dictionary | 12 sections |
 
 ## Curricula
 

@@ -99,7 +99,7 @@ The discipline to build: **every conclusion travels with its provenance**. Not e
 
 ## 5. Calibrated Certainty — Fixing "Abrupt" and "Overly Certain"
 
-"Abrupt" and "overly certain" are the same defect seen from two angles: bare declaratives with no calibration attached. The fix is not to hedge everything — indiscriminate hedging is its own failure, dissected in `../../assertiveness-vocal-presence.md` §hedging — but to make the *degree* of confidence explicit and **commensurate** with the evidence. This is **epistemic honesty** as a style: strong claims where the evidence is strong, openly provisional claims where it is thin.
+"Abrupt" and "overly certain" are the same defect seen from two angles: bare declaratives with no calibration attached. The fix is not to hedge everything — indiscriminate hedging is its own failure, dissected in `../../Vocabulary-Collections/assertiveness-vocal-presence.md` §hedging — but to make the *degree* of confidence explicit and **commensurate** with the evidence. This is **epistemic honesty** as a style: strong claims where the evidence is strong, openly provisional claims where it is thin.
 
 ### The Certainty Ladder
 

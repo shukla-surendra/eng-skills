@@ -78,9 +78,9 @@ Interview prep is worse for this than ordinary learning because the two paths ca
 | Feeling produced | Progress, competence, relief | Anxiety, exposure, sometimes embarrassment |
 | Actual signal | Zero — tells you nothing about readiness | High — the only activity that predicts interview performance |
 
-Collecting is a **lower-anxiety substitute task** that resembles the real task closely enough to feel like preparation. This is the same mechanism as rehearsing a hedge-filled sentence in your head instead of just saying the direct version out loud (`assertiveness-vocal-presence.md`, §2–3) — avoiding the moment of exposure feels safer, even though it's strictly worse for the outcome you actually want.
+Collecting is a **lower-anxiety substitute task** that resembles the real task closely enough to feel like preparation. This is the same mechanism as rehearsing a hedge-filled sentence in your head instead of just saying the direct version out loud (`../../Vocabulary-Collections/assertiveness-vocal-presence.md`, §2–3) — avoiding the moment of exposure feels safer, even though it's strictly worse for the outcome you actually want.
 
-Reframe, the same way `assertiveness-vocal-presence.md` §1 reframes speaking-up beliefs:
+Reframe, the same way `../../Vocabulary-Collections/assertiveness-vocal-presence.md` §1 reframes speaking-up beliefs:
 
 | Old belief | Reframe |
 |---|---|

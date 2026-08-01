@@ -48,7 +48,7 @@ The honest verdict: fact-only speech is a **strength misapplied outside its scop
 Three mechanisms, usually compounding rather than acting alone:
 
 1. **The curse of knowledge, live.** Exactly as in `07_making_thinking_visible_staff_level_writing.md` §1 — once a conclusion is reached, the path that led there stops feeling like information and starts feeling like *obvious background noise not worth saying*. In writing, there's time to notice the gap on a re-read. In live speech, there is no re-read; the omission is invisible to the speaker in the moment it happens.
-2. **Working-memory competition, specific to live discussion.** Reasoning aloud, teaching, and persuading all require holding *more than the fact* in mind at once — the fact, the listener's likely state of knowledge, and the shape of the sentence that bridges them — while speaking in real time with no chance to revise. Under time pressure, the mind defaults to the cheapest available output: the bare fact. For a second-language speaker specifically, this competition is sharper still — some working memory is already committed to the mechanics of production (`hindi-speaker-fluency-playbook.md` §1's "translation loop"), leaving less headroom for simultaneously constructing the reasoning layer on top. This is very likely a compounding factor, not the root cause — the same compressed, fact-first pattern is a well-documented default even for confident native speakers who think faster than they narrate.
+2. **Working-memory competition, specific to live discussion.** Reasoning aloud, teaching, and persuading all require holding *more than the fact* in mind at once — the fact, the listener's likely state of knowledge, and the shape of the sentence that bridges them — while speaking in real time with no chance to revise. Under time pressure, the mind defaults to the cheapest available output: the bare fact. For a second-language speaker specifically, this competition is sharper still — some working memory is already committed to the mechanics of production (`../../Vocabulary-Collections/hindi-speaker-fluency-playbook.md` §1's "translation loop"), leaving less headroom for simultaneously constructing the reasoning layer on top. This is very likely a compounding factor, not the root cause — the same compressed, fact-first pattern is a well-documented default even for confident native speakers who think faster than they narrate.
 3. **Reasoning and persuasion were never drilled as separate outputs.** Most technical training optimizes for *getting to the right answer*, not for *narrating the path to it out loud*. It's entirely possible to be excellent at reasoning privately and have simply never built the habit of vocalizing that reasoning as a distinct, deliberate act — because nothing in a typical engineering career forces that habit until a leadership or influence role demands it.
 
 The reframe that matters: **this is a missing habit, not a missing ability.** The reasoning is there; it needs a structure to pour itself into on demand, the same way `Communication-Mastery/03_Explanation_Frameworks/` gives structures for explanation generally. §5–7 give three such structures, each for a different one of the missing layers.
@@ -90,7 +90,7 @@ The whole thing, said as one continuous utterance: *"The job failed at 2 AM — 
 
 **The structure:** Anchor (what they already know) → Building block (one new piece) → Check ("does that part make sense?") → Next block → Land it (the takeaway, restated plainly)
 
-This borrows directly from the ADEPT method and the onion method already in `speaking-toolkit.md` (the "Tutorial: Explaining Technical Things Simply" and "Tutorial: Going Deeper Without Getting Lost" sections) — the addition here is framing it specifically as the deliberate move to reach for when the moment is mentoring or onboarding, as opposed to reasoning (§5) or persuading (§7).
+This borrows directly from the ADEPT method and the onion method already in `../../Vocabulary-Collections/speaking-toolkit.md` (the "Tutorial: Explaining Technical Things Simply" and "Tutorial: Going Deeper Without Getting Lost" sections) — the addition here is framing it specifically as the deliberate move to reach for when the moment is mentoring or onboarding, as opposed to reasoning (§5) or persuading (§7).
 
 | Rung | What it does | Example (explaining why a feature store matters, to a newer engineer) |
 |---|---|---|
@@ -170,7 +170,7 @@ The single fastest way to build this as a live habit, requiring no preparation a
 | **Week 4** | Add "so" — the full four-beat Reasoning Bridge, once per meeting |
 | **Ongoing** | Once the four-beat chain feels natural for reasoning, start noticing moments that call for the Teaching Ladder or Persuasion Frame specifically, and reach for those on purpose (§4's distinction) |
 
-This mirrors the same one-override-at-a-time pacing already used elsewhere in this repo for behavior change (`04_mental_models_operating_system.md` §2, `hindi-speaker-fluency-playbook.md` §2) — one new layer per week, not all four at once.
+This mirrors the same one-override-at-a-time pacing already used elsewhere in this repo for behavior change (`04_mental_models_operating_system.md` §2, `../../Vocabulary-Collections/hindi-speaker-fluency-playbook.md` §2) — one new layer per week, not all four at once.
 
 [↑ Back to index](#index)
 

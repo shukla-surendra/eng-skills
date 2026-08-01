@@ -4,7 +4,7 @@ A working set of principles, decision frameworks, and habits for engineering jud
 
 **Bar for adding a new entry:** would this have changed a decision made in the last 90 days? If not, it doesn't belong here, no matter how good it sounds.
 
-**How this fits with `01`–`03`:** those chapters are a linear sequence — read once, drilled daily — for structuring thought *before you speak*. This file is not a chapter to read once; it's the standing reference those chapters draw on and point back to (`03`'s root-cause/decision-making loop is this document's §3/§4 applied specifically to debugging and architecture). Keep it open as a working reference, not a read-through.
+**How this fits with `01`–`03`:** those chapters are a linear sequence — read once, drilled daily — for structuring thought *before you speak*. This file is not a chapter to read once; it's the standing reference those chapters draw on and point back to (`03`'s root-cause/decision-making loop is this document's §3/§4 applied specifically to debugging and architecture). Keep it open as a working reference, not a read-through. `16_engineering_judgment_as_a_contractor_architect.md` is the narrower, contractor/consultant-specific companion — client-dependency risk, working altitude, and the AI-era differentiators argument — drawn from live project experience rather than general reference.
 
 ## How to Use This Document
 
