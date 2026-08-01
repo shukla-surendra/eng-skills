@@ -10,15 +10,15 @@
 
 **A**
 
-[A new lease of life](#a-new-lease-of-life) · [Abstract & Descriptive Adjectives (sinful, surreal, compelling...)](#abstract--descriptive-adjectives-sinful-surreal-compelling) · [Action point](#action-point) · [adhoc/unplanned way](#adhocunplanned-way) · [Aim At](#aim-at) · [all in all](#all-in-all) · [All spheres of life](#all-spheres-of-life) · [All the way](#all-the-way) · [Ancillary (an·si·luh·ree)](#ancillary-ansiluhree) · [Apart from that](#apart-from-that) · [As far as sb is concerned](#as-far-as-sb-is-concerned) · [As of yet](#as-of-yet) · [At your disposal](#at-your-disposal) · [at/in the back of your mind](#atin-the-back-of-your-mind)
+[A new lease of life](#a-new-lease-of-life) · [Action point](#action-point) · [adhoc/unplanned way](#adhocunplanned-way) · [Aim At](#aim-at) · [all in all](#all-in-all) · [All spheres of life](#all-spheres-of-life) · [All the way](#all-the-way) · [Ancillary (an·si·luh·ree)](#ancillary-ansiluhree) · [Apart from that](#apart-from-that) · [As far as sb is concerned](#as-far-as-sb-is-concerned) · [As of yet](#as-of-yet) · [At your disposal](#at-your-disposal) · [at/in the back of your mind](#atin-the-back-of-your-mind)
 
 **B**
 
-[Back out of](#back-out-of) · [Back to square one](#back-to-square-one) · [Back up](#back-up) · [Bad Food](#bad-food) · [Bare metal](#bare-metal) · [Be just the thing](#be-just-the-thing) · [Be noticeable](#be-noticeable) · [Beat the shit outta you](#beat-the-shit-outta-you) · [Beating around the bush](#beating-around-the-bush) · [Begin to do something](#begin-to-do-something) · [being objective](#being-objective) · [Below the belt](#below-the-belt) · [Bend over backward](#bend-over-backward) · [Bend the knee](#bend-the-knee) · [Best strategy on governance](#best-strategy-on-governance) · [Biased Toward / Biased Against](#biased-toward--biased-against) · [Bird Eye approach](#bird-eye-approach) · [Bit off more than I can chew](#bit-off-more-than-i-can-chew) · [Blessing in disguise](#blessing-in-disguise) · [Blink of an eye](#blink-of-an-eye) · [Break into (vs. break through)](#break-into-vs-break-through) · [Break with](#break-with) · [Bridging the gap](#bridging-the-gap) · [Burning the candle at both ends](#burning-the-candle-at-both-ends)
+[Back out of](#back-out-of) · [Back to square one](#back-to-square-one) · [Back up](#back-up) · [Bad Food](#bad-food) · [Bare metal](#bare-metal) · [Be just the thing](#be-just-the-thing) · [Be noticeable](#be-noticeable) · [Beat the shit outta you](#beat-the-shit-outta-you) · [Beating around the bush](#beating-around-the-bush) · [Begin to do something](#begin-to-do-something) · [being objective](#being-objective) · [Below the belt](#below-the-belt) · [Bend over backward](#bend-over-backward) · [Bend the knee](#bend-the-knee) · [Best strategy on governance](#best-strategy-on-governance) · [Biased Toward / Biased Against](#biased-toward--biased-against) · [Bird Eye approach](#bird-eye-approach) · [Bit off more than I can chew](#bit-off-more-than-i-can-chew) · [Blessing in disguise](#blessing-in-disguise) · [Blink of an eye](#blink-of-an-eye) · [Booby prize](#booby-prize) · [Break into (vs. break through)](#break-into-vs-break-through) · [Break with](#break-with) · [Bridging the gap](#bridging-the-gap) · [Burning the candle at both ends](#burning-the-candle-at-both-ends)
 
 **C**
 
-[Call out/in](#call-outin) · [Character Traits & Descriptions (defiant, enduring, extravagant...)](#character-traits--descriptions-defiant-enduring-extravagant) · [Charity begins at home](#charity-begins-at-home) · [chickens come home to roost](#chickens-come-home-to-roost) · [Chipping away / Chip away](#chipping-away--chip-away) · [Cling (on) to](#cling-on-to) · [Clouding judgment](#clouding-judgment) · [Come from](#come-from) · [Come through / Came through](#come-through--came-through) · [Come to](#come-to) · [Come to grief](#come-to-grief) · [Come up with](#come-up-with) · [Coming back to my earlier point](#coming-back-to-my-earlier-point) · [Completely unrelated note](#completely-unrelated-note) · [contrast thoughts, contrasting thoughts](#contrast-thoughts-contrasting-thoughts) · [Course correct](#course-correct) · [Crashing a wedding](#crashing-a-wedding) · [Cry Loudly (Weeping) vs. Cry Out](#cry-loudly-weeping-vs-cry-out) · [Cry out / Cry loud](#cry-out--cry-loud) · [Cusp of change](#cusp-of-change) · [cut corner](#cut-corner) · [Cut loose](#cut-loose) · [Cut to the chase](#cut-to-the-chase)
+[Call out/in](#call-outin) · [Charity begins at home](#charity-begins-at-home) · [chickens come home to roost](#chickens-come-home-to-roost) · [Chipping away / Chip away](#chipping-away--chip-away) · [Cling (on) to](#cling-on-to) · [Clouding judgment](#clouding-judgment) · [Come from](#come-from) · [Come through / Came through](#come-through--came-through) · [Come to](#come-to) · [Come to grief](#come-to-grief) · [Come up with](#come-up-with) · [Coming back to my earlier point](#coming-back-to-my-earlier-point) · [Completely unrelated note](#completely-unrelated-note) · [contrast thoughts, contrasting thoughts](#contrast-thoughts-contrasting-thoughts) · [Course correct](#course-correct) · [Crashing a wedding](#crashing-a-wedding) · [Cry Loudly (Weeping) vs. Cry Out](#cry-loudly-weeping-vs-cry-out) · [Cry out / Cry loud](#cry-out--cry-loud) · [Cusp of change](#cusp-of-change) · [cut corner](#cut-corner) · [Cut loose](#cut-loose) · [Cut to the chase](#cut-to-the-chase)
 
 **D**
 
@@ -26,7 +26,7 @@
 
 **E**
 
-[Elbow room](#elbow-room) · [Escape blame/punishment](#escape-blamepunishment) · [Ever since](#ever-since) · [Everyday Vocabulary (sightseeing, stay, mate, abrupt, ample...)](#everyday-vocabulary-sightseeing-stay-mate-abrupt-ample) · [Examples in daily use](#examples-in-daily-use) · [Examples of "Cry out" (Speaking/Shouting Loudly)](#examples-of-cry-out-speakingshouting-loudly)
+[Elbow room](#elbow-room) · [Escape blame/punishment](#escape-blamepunishment) · [Ever since](#ever-since)
 
 **F**
 
@@ -34,11 +34,11 @@
 
 **G**
 
-[General Purpose](#general-purpose) · [Get along / Get along with](#get-along--get-along-with) · [Get at](#get-at) · [Get away with](#get-away-with) · [Get cracking](#get-cracking) · [Get going](#get-going) · [Get in / Get on](#get-in--get-on) · [Get off / Get down](#get-off--get-down) · [Get on to](#get-on-to) · [Get one's feet wet](#get-ones-feet-wet) · [Get out of](#get-out-of) · [Get over it](#get-over-it) · [Get rid of](#get-rid-of) · [get the ball rolling](#get-the-ball-rolling) · [Get the hang of](#get-the-hang-of) · [Get through to](#get-through-to) · [Get under the skin](#get-under-the-skin) · [Get up to](#get-up-to) · [Get your shit together](#get-your-shit-together) · [Give something a miss](#give-something-a-miss) · [Given that](#given-that) · [Go after/ went after MLOPS](#go-after-went-after-mlops) · [Go against](#go-against) · [Go bankrupt](#go-bankrupt) · [Go cold turkey](#go-cold-turkey) · [Go dark](#go-dark) · [Go off / Went off](#go-off--went-off) · [Go the extra mile](#go-the-extra-mile) · [Go viral](#go-viral)
+[Get along / Get along with](#get-along--get-along-with) · [Get at](#get-at) · [Get away with](#get-away-with) · [Get cracking](#get-cracking) · [Get going](#get-going) · [Get in / Get on](#get-in--get-on) · [Get off / Get down](#get-off--get-down) · [Get on to](#get-on-to) · [Get one's feet wet](#get-ones-feet-wet) · [Get out of](#get-out-of) · [Get over it](#get-over-it) · [Get rid of](#get-rid-of) · [get the ball rolling](#get-the-ball-rolling) · [Get the hang of](#get-the-hang-of) · [Get through to](#get-through-to) · [Get under the skin](#get-under-the-skin) · [Get up to](#get-up-to) · [Get your shit together](#get-your-shit-together) · [Give something a miss](#give-something-a-miss) · [Given that](#given-that) · [Go after/ went after MLOPS](#go-after-went-after-mlops) · [Go against](#go-against) · [Go bankrupt](#go-bankrupt) · [Go cold turkey](#go-cold-turkey) · [Go dark](#go-dark) · [Go off / Went off](#go-off--went-off) · [Go the extra mile](#go-the-extra-mile) · [Go viral](#go-viral)
 
 **H**
 
-[Halfway across the world](#halfway-across-the-world) · [hamstring someone](#hamstring-someone) · [Have elbow room](#have-elbow-room) · [Have had](#have-had) · [Haven’t given a thought over it.](#havent-given-a-thought-over-it) · [headless chicken](#headless-chicken) · [Hit the nail on the head](#hit-the-nail-on-the-head) · [Holistic approach](#holistic-approach) · [How so](#how-so)
+[Halfway across the world](#halfway-across-the-world) · [hamstring someone](#hamstring-someone) · [Happen to be](#happen-to-be) · [Have elbow room](#have-elbow-room) · [Have had](#have-had) · [Haven’t given a thought over it.](#havent-given-a-thought-over-it) · [headless chicken](#headless-chicken) · [Hit the nail on the head](#hit-the-nail-on-the-head) · [Holistic approach](#holistic-approach) · [How so](#how-so)
 
 **I**
 
@@ -58,7 +58,7 @@
 
 **M**
 
-[Make the most of](#make-the-most-of) · [Meaning / Usage in Sentences / Common Contexts](#meaning--usage-in-sentences--common-contexts) · [meant to be](#meant-to-be) · [Miscellaneous Notes (Uncategorized)](#miscellaneous-notes-uncategorized) · [More General Phrases](#more-general-phrases) · [More or less](#more-or-less) · [More Useful Words (lucrative, prestigious, reckless...)](#more-useful-words-lucrative-prestigious-reckless) · [Move past it](#move-past-it)
+[Make the most of](#make-the-most-of) · [meant to be](#meant-to-be) · [Miscellaneous Notes (Uncategorized)](#miscellaneous-notes-uncategorized) · [More or less](#more-or-less) · [Move past it](#move-past-it)
 
 **N**
 
@@ -86,7 +86,7 @@
 
 **T**
 
-[Take care of](#take-care-of) · [take something forward](#take-something-forward) · [Take your mind off](#take-your-mind-off) · [Talk in circles](#talk-in-circles) · [Tapped Out / Tap Out](#tapped-out--tap-out) · [Tear someone limb from limb](#tear-someone-limb-from-limb) · [That was a stall](#that-was-a-stall) · [The final nail in the coffin](#the-final-nail-in-the-coffin) · [The other way around](#the-other-way-around) · [There is no finish line](#there-is-no-finish-line) · [Think of](#think-of) · [This is my call](#this-is-my-call) · [Thrust upon us](#thrust-upon-us) · [Time to turn the page](#time-to-turn-the-page) · [To a certain extent](#to-a-certain-extent) · [To anchor this idea](#to-anchor-this-idea) · [to surround encircle](#to-surround-encircle) · [To vent at someone](#to-vent-at-someone) · [Totes inappropes](#totes-inappropes) · [Touch base](#touch-base) · [Tourist trap](#tourist-trap) · [Trample (on/over) somebody/something](#trample-onover-somebodysomething) · [Travel & Leisure Terms](#travel--leisure-terms) · [Turned on me](#turned-on-me)
+[Take care of](#take-care-of) · [take something forward](#take-something-forward) · [Take your mind off](#take-your-mind-off) · [Talk in circles](#talk-in-circles) · [Tapped Out / Tap Out](#tapped-out--tap-out) · [Tear someone limb from limb](#tear-someone-limb-from-limb) · [That was a stall](#that-was-a-stall) · [The final nail in the coffin](#the-final-nail-in-the-coffin) · [The other way around](#the-other-way-around) · [There is no finish line](#there-is-no-finish-line) · [Think of](#think-of) · [This is my call](#this-is-my-call) · [Thrust upon us](#thrust-upon-us) · [Time to turn the page](#time-to-turn-the-page) · [To a certain extent](#to-a-certain-extent) · [To anchor this idea](#to-anchor-this-idea) · [to surround encircle](#to-surround-encircle) · [To vent at someone](#to-vent-at-someone) · [Totes inappropes](#totes-inappropes) · [Touch base](#touch-base) · [Tourist trap](#tourist-trap) · [Trample (on/over) somebody/something](#trample-onover-somebodysomething) · [Turned on me](#turned-on-me)
 
 **U**
 
@@ -94,7 +94,7 @@
 
 **V**
 
-[Value Proposition](#value-proposition) · [Verbs & Adjectives (beat, borrow, lend, well...)](#verbs--adjectives-beat-borrow-lend-well) · [Voilà](#voilà)
+[Value Proposition](#value-proposition) · [Voilà](#voilà)
 
 **W**
 
@@ -128,11 +128,6 @@ A renewed sense of energy, purpose, or opportunity.
 
 "The refactor gave the old service a new lease of life instead of a full rewrite."
 "Getting positive feedback from the client gave the whole team a new lease of life."
-
-[↑ Back to index](#index)
-
-# Abstract & Descriptive Adjectives (sinful, surreal, compelling...)
-
 
 [↑ Back to index](#index)
 
@@ -486,6 +481,15 @@ A very brief moment; happens extremely fast.
 
 [↑ Back to index](#index)
 
+# Booby prize
+
+A joke or consolation prize given to whoever performs worst in a competition — not a real reward.
+
+"He got the booby prize for finishing last in the quiz: a rubber chicken."
+"Losing gracefully doesn't mean accepting the booby prize as a compliment."
+
+[↑ Back to index](#index)
+
 # Break into (vs. break through)
 
 **Break into** means to enter by force, or to start doing something suddenly; **break through** means to forcefully make a way through a barrier or difficulty.
@@ -548,11 +552,6 @@ To publicly criticize / to summon for duty.
 
 "She called out the flawed assumption in the design doc during the review."
 "He got called in on his day off when the primary on-call went unreachable."
-
-[↑ Back to index](#index)
-
-# Character Traits & Descriptions (defiant, enduring, extravagant...)
-
 
 [↑ Back to index](#index)
 
@@ -1006,23 +1005,6 @@ From a specific time in the past until now.
 
 [↑ Back to index](#index)
 
-# Everyday Vocabulary (sightseeing, stay, mate, abrupt, ample...)
-
-
-[↑ Back to index](#index)
-
-# Examples in daily use
-
-(E.g., “We should get going before traffic hits.”)
-
-[↑ Back to index](#index)
-
-# Examples of "Cry out" (Speaking/Shouting Loudly)
-
-E.g., "She cried out in fear when the lights went off."
-
-[↑ Back to index](#index)
-
 # Faint Smile
 
 A faint smile is a smile that is slight or not very strong. For example, someone might give you a faint smile of recognition.   
@@ -1137,12 +1119,6 @@ Someone, often a child, who is picky about food — refusing new foods or reject
 
 "My nephew is such a fussy eater, he won't touch anything green."
 "She wasn't always a fussy eater — it started around age three."
-
-[↑ Back to index](#index)
-
-# General Purpose
-
-Used for broad, versatile uses (general utility), not a phrasal verb.
 
 [↑ Back to index](#index)
 
@@ -1417,6 +1393,15 @@ To make it very difficult for someone to take action; to seriously hinder them.
 
 "The budget freeze hamstrung the whole platform team's roadmap."
 "If he becomes the lead, he could hamstring any push toward a rewrite."
+
+[↑ Back to index](#index)
+
+# Happen to be
+
+Used to say that something is true or exists by chance, without any particular design or plan.
+
+"I happen to be free this afternoon, if you want to walk through the design."
+"She happened to be in the office when the incident call started, so she jumped straight in."
 
 [↑ Back to index](#index)
 
@@ -2056,12 +2041,6 @@ Use or enjoy something fully or effectively.
 
 [↑ Back to index](#index)
 
-# Meaning / Usage in Sentences / Common Contexts
-
-(Usually sub-sections — you can use this layout for the terms above or below.)
-
-[↑ Back to index](#index)
-
 # meant to be
 
 Destined or intended to happen or exist; also used for something designed for a specific purpose.
@@ -2073,23 +2052,9 @@ Destined or intended to happen or exist; also used for something designed for a 
 
 # Miscellaneous Notes (Uncategorized)
 
-Scratch notes and fragments kept for reference rather than discarded — not yet classified into a single topic:
+Scratch notes and fragments kept for reference rather than discarded — not yet classified into a single topic. Routed 2026-08-01: the deployment explanation became `technical-english.md`'s `Rolling Deployment`; "Spot on" and "Genetic predisposition" were dropped as duplicates of existing, already-thorough entries (`phrasal-verbs.md`'s `Spot on`, `vocab.md`'s `Predisposition`); "Sustained period of time," "Talk vs. Converse," "Booby prize," "Happen to be," and "Degree of freedom" each became their own entry; "Food tolerant / California Roll (veg Sushi) / savory == salty" was dropped as trivia rather than language-learning material, not a term worth a home. One fragment remains, genuinely un-routable — it names a coping behavior, not a term:
 
-* **Rolling/phased deployment, explained:** "Imagine you have a job that's currently running, and it's halfway complete. Now, during the process, you make an update — let's say a deployment — behind the scenes. This means that the first half of the job continues running on the older version, while the second half, which runs after the update, will run on the new version. In other words, the job is split across two different versions depending on when the update happens."
-* Spot on **[you nailed it]**
-* Food tolerant / California Roll (veg Sushi) / savory == salty
-* Sustained period of time
-* Booby prize — a small or joke prize given to whoever performs worst.
-* Genetic predisposition
-* Talk vs. Converse — "converse" is more formal/reciprocal than the general "talk."
 * Acknowledge two conflicting desires and either drop one or go with it later.
-* Happen to be
-* Degree of freedom
-
-[↑ Back to index](#index)
-
-# More General Phrases
-
 
 [↑ Back to index](#index)
 
@@ -2099,11 +2064,6 @@ Almost, nearly, around, roughly, approximate.
 
 "The estimate is more or less accurate — give or take a day."
 "We're more or less done with the migration; just cleanup left."
-
-[↑ Back to index](#index)
-
-# More Useful Words (lucrative, prestigious, reckless...)
-
 
 [↑ Back to index](#index)
 
@@ -3294,11 +3254,6 @@ To step heavily on something, or treat someone's rights or feelings with disresp
 
 [↑ Back to index](#index)
 
-# Travel & Leisure Terms
-
-
-[↑ Back to index](#index)
-
 # Turned on me
 
 Betrayed me or suddenly became hostile.
@@ -3368,11 +3323,6 @@ A brief statement explaining the benefits a product or service offers customers 
 
 "Our value proposition is simple: half the latency at the same price as the competitor."
 "The pitch buried the value proposition under too much market-sizing detail."
-
-[↑ Back to index](#index)
-
-# Verbs & Adjectives (beat, borrow, lend, well...)
-
 
 [↑ Back to index](#index)
 

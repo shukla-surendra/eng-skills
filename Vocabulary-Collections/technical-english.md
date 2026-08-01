@@ -74,7 +74,7 @@
 
 **R**
 
-[Rebase](#rebase) · [Recirculate](#recirculate) · [Recompile](#recompile) · [Reconcile](#reconcile) · [Redistribute](#redistribute) · [Redline](#redline) · [Refactor](#refactor) · [Regress](#regress) · [Rehome](#rehome) · [Rehydrate](#rehydrate) · [Reinforce](#reinforce) · [Rekey](#rekey) · [Relay](#relay) · [Repackage](#repackage) · [Reparameterize](#reparameterize) · [Replatform](#replatform) · [Replicate](#replicate) · [Resample](#resample) · [Rescope](#rescope) · [Reshuffle](#reshuffle) · [Resolve](#resolve) · [Retrofit](#retrofit) · [Retry](#retry) · [Revalidate](#revalidate) · [Rewire](#rewire) · [Right-size](#right-size) · [Roll up metrics](#roll-up-metrics) · [Roll up stats](#roll-up-stats) · [Route](#route)
+[Rebase](#rebase) · [Recirculate](#recirculate) · [Recompile](#recompile) · [Reconcile](#reconcile) · [Redistribute](#redistribute) · [Redline](#redline) · [Refactor](#refactor) · [Regress](#regress) · [Rehome](#rehome) · [Rehydrate](#rehydrate) · [Reinforce](#reinforce) · [Rekey](#rekey) · [Relay](#relay) · [Repackage](#repackage) · [Reparameterize](#reparameterize) · [Replatform](#replatform) · [Replicate](#replicate) · [Resample](#resample) · [Rescope](#rescope) · [Reshuffle](#reshuffle) · [Resolve](#resolve) · [Retrofit](#retrofit) · [Retry](#retry) · [Revalidate](#revalidate) · [Rewire](#rewire) · [Right-size](#right-size) · [Roll up metrics](#roll-up-metrics) · [Roll up stats](#roll-up-stats) · [Rolling Deployment](#rolling-deployment) · [Route](#route)
 
 **S**
 
@@ -2053,6 +2053,14 @@ Example: "We roll up the per-minute metrics into hourly averages for the long-te
 Meaning: Aggregate detailed statistics, often about model drift, into a summary view.
 
 Example: "We roll up the drift stats weekly so we can spot a slow decline, not just daily noise."
+
+[↑ Back to index](#index)
+
+# Rolling Deployment
+
+Meaning: A deployment strategy that updates instances gradually, in batches, so part of the fleet runs the old version and part runs the new version during the rollout, rather than replacing everything at once.
+
+Example: "We run a rolling deployment across the pod fleet, so half the traffic still hits the old version while the new one warms up."
 
 [↑ Back to index](#index)
 

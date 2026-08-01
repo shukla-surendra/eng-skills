@@ -11,6 +11,7 @@ ip: ## Print this machine's LAN IP (what other machines on the network should us
 
 docs: ## Serve the MkDocs Material site at http://0.0.0.0:8000 (reachable from other machines on the network; live-reloads on edits to the real .md files)
 	$(PYTHON) scripts/link_mkdocs_docs.py
+	@echo "$(LAN_IP)"
 	@echo "Serving at http://localhost:8000  (on the network: http://$(LAN_IP):8000)"
 	$(PYTHON) -m mkdocs serve -a 0.0.0.0:8000
 

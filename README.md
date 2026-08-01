@@ -8,13 +8,13 @@ Each file opens with a clickable **A–Z index** — tap a word to jump to it, a
 
 | File | What's in it | Entries |
 |------|--------------|--------:|
-| [Vocabulary](Vocabulary-Collections/vocab.md) | Single words, with meanings, examples, and spoken usage | ~1,906 |
-| [Phrasal Verbs](Vocabulary-Collections/phrasal-verbs.md) | Two/three-word verbs (*get off*, *push back*, …) | ~1,065 |
-| [Idioms](Vocabulary-Collections/idioms.md) | Idiomatic expressions and how to use them | ~296 |
+| [Vocabulary](Vocabulary-Collections/vocab.md) | Single words, with meanings, examples, and spoken usage | ~1,907 |
+| [Phrasal Verbs](Vocabulary-Collections/phrasal-verbs.md) | Two/three-word verbs (*get off*, *push back*, …) | ~1,066 |
+| [Idioms](Vocabulary-Collections/idioms.md) | Idiomatic expressions and how to use them | ~288 |
 | [Grammar Notes](Vocabulary-Collections/grammar-notes.md) | Articles, until/by, frequency adverbs, used to, has/have had, question forms | ~10 |
 | [Speaking Toolkit](Vocabulary-Collections/speaking-toolkit.md) | How to explain, frame sentences, use analogies, go deeper without losing the thread, plus connecting/meeting phrases | ~10 |
 | [Assertiveness & Vocal Presence](Vocabulary-Collections/assertiveness-vocal-presence.md) | Mindset, hedge-cutting, voice/delivery mechanics, body language, and context playbooks (meetings, 1:1s, presenting, general) | 10 sections |
-| [Technical & Architectural English](Vocabulary-Collections/technical-english.md) | Technical/architectural verbs and phrases, A–Z | ~294 |
+| [Technical & Architectural English](Vocabulary-Collections/technical-english.md) | Technical/architectural verbs and phrases, A–Z | ~302 |
 | [Business Communication](Vocabulary-Collections/business-communication.md) | Business and meeting idioms, diplomatic phrasing | ~117 |
 | [Mental Models & Thinking Frameworks](Communication-Mastery/02_Thinking_Frameworks/04_mental_models_operating_system.md) | Operating principles, decision frameworks, and habits for engineering judgment and leadership | 11 sections |
 | [Reference Tables](Vocabulary-Collections/reference-tables.md) | Quick phrase → one-line meaning lookup tables | 2 tables |
@@ -44,3 +44,17 @@ The originals were Google Docs exported to Markdown (kept locally in `source/`, 
 - sort every entry alphabetically and generate a fresh clickable index.
 
 Duplicate entries from the original notes are kept as-is (a word you noted twice appears twice), so nothing you wrote is lost.
+
+## Adding a new source doc
+
+The one-time migration scripts that did the work above (`restructure.py`, `dedupe.py`, `route_vocab_phrasal.py`, and friends) were removed once their job was done; they were shaped around a specific one-off Google Docs export and won't run against a new file. The steps themselves are still the reproducible playbook for bringing in a new source doc by hand:
+
+1. **INGEST** — drop the raw export somewhere under `source/` (gitignored, never committed as-is).
+2. **CLEAN** — strip base64 images, broken TOC/page-number links, escape characters, and empty headings; normalize titles to plain `# Title` (no bold, no emoji in the heading itself).
+3. **CLASSIFY** — read each block and tag it by type: single word → `Vocabulary-Collections/vocab.md`; two/three-word verb+particle → `Vocabulary-Collections/phrasal-verbs.md`; fixed idiomatic expression → `Vocabulary-Collections/idioms.md`; grammar point → `Vocabulary-Collections/grammar-notes.md`; speaking/framing technique → `Vocabulary-Collections/speaking-toolkit.md`; technical/architectural term → `Vocabulary-Collections/technical-english.md`; anything genuinely ambiguous → a `Miscellaneous Notes` scratch entry in the closest-fitting file rather than guessed into the wrong home, reviewed and routed properly later rather than left unclassified indefinitely.
+4. **ROUTE** — append each block to its canonical file, in the correct alphabetical position, converging on a consistent per-entry shape (Meaning/Example, PoS where useful).
+5. **DEDUP** — before appending, check the destination file for an existing entry with the same title; if one exists, merge (keep the richer body, append any unique notes) rather than creating a duplicate heading.
+6. **INDEX** — add the new entry's link to the file's A–Z index in the matching alphabetical slot; don't rely on regenerating the whole index mechanically unless you've verified every existing link still resolves afterward.
+7. **VERIFY** — run `make check` (validates every relative link, then does a full `mkdocs build --strict`) before considering the doc done; treat any heading-count drift you can't explain as a bug, not noise.
+
+`make docs` serves the live MkDocs site locally (`http://localhost:8010`, live-reloads on save) for previewing while working through a new source doc.
