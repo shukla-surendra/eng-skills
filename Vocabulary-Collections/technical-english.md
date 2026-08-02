@@ -1,6 +1,6 @@
 # Technical & Architectural English
 
-> 299 entries · restructured 2026-07-16 · sorted A–Z
+> 299 entries · restructured 2026-07-16 · sorted A–Z · deep-lexicon reservoir — see `surface-vs-deep-lexicon.md` for how to promote entries into active use
 
 ## Index
 

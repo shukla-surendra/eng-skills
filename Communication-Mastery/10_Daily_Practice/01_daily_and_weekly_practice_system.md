@@ -13,7 +13,9 @@ Communication skill decays fast without use — faster than most technical skill
 │ BLOCK 1 — WARM-UP (5 min)                                       │
 │ Phrase recall: pick 2 sections from 05_Phrase_Library,          │
 │ read 10 phrases aloud, then close the file and produce 10       │
-│ from memory using a real fact about your current work.          │
+│ from memory using a real fact about your current work. Fold in  │
+│ 2-3 Active Rotation items from the vocabulary lexicon system    │
+│ (../../Vocabulary-Collections/surface-vs-deep-lexicon.md §6).   │
 ├──────────────────────────────────────────────────────────────┤
 │ BLOCK 2 — ANSWER-FIRST REPS (10 min)                             │
 │ 10 reps of the Answer-First Reflex Drill                        │

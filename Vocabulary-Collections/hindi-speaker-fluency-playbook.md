@@ -465,7 +465,7 @@ This is the most direct possible intervention on the translation loop itself: in
 
 ## 11. The Fluency Training System
 
-Reading phrases grows recognition; fluency is **production**, and production only grows by producing (`Communication-Mastery/08_Interview_Communication/03_the_collectors_fallacy_fixing_prep_without_progress.md`). The system, in ascending order of pressure:
+Reading phrases grows recognition; fluency is **production**, and production only grows by producing (`Communication-Mastery/08_Interview_Communication/03_the_collectors_fallacy_fixing_prep_without_progress.md`). This section covers situational chunks and structures; `surface-vs-deep-lexicon.md` runs the parallel system for the raw lexicon files (`vocab.md`, `idioms.md`, `phrasal-verbs.md`, `technical-english.md`) — same production-over-recognition principle, applied to individual words rather than pre-built phrases. The system, in ascending order of pressure:
 
 | Cadence | Drill | Mechanism it trains |
 |---------|-------|---------------------|

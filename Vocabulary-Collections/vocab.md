@@ -1,6 +1,6 @@
 # Vocabulary
 
-> 1907 entries · restructured 2026-07-16 · sorted A–Z
+> 1907 entries · restructured 2026-07-16 · sorted A–Z · this is a deep-lexicon reservoir, not a drill list — see `surface-vs-deep-lexicon.md` for what to actually promote into active use
 
 ## Index
 

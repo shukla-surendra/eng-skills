@@ -1,5 +1,23 @@
 # Phrase Library: Disagreement, Objection Handling, and Feedback
 
+## 0. Signaling You're Following Someone's Reasoning (Before You Respond)
+
+Two phrases that get used as if they were interchangeable, but they track different things — worth distinguishing before folding either into Section 1's acknowledge → position → reason → invite pattern, since which one you reach for signals *what* you followed, not just *that* you followed.
+
+| Phrase | What It Tracks | Structure | When to Use |
+|---|---|---|---|
+| "I see where you're going (with this)" | The **direction** an argument is headed — its destination, before it arrives | "I see" + "where" + subject + "is/are going" — a motion verb applied metaphorically to an argument's trajectory | Mid-argument, while the other person is still building toward a conclusion — signals you're tracking it in real time, often as a preface to redirecting or pushing back before they finish stating it |
+| "I follow your line of thought" | The **logical sequence** — the chain of steps connecting premise to conclusion | "I follow" + "your line of thought" (a noun phrase for a connected chain of reasoning, not a single point) | After someone has laid out a multi-step justification — confirms you've tracked the *mechanism*, so you can pinpoint exactly which step is where you diverge |
+
+**A register note on "get" vs. "follow":** "I get your line of thought" is understandable, but it reads as informal — "get" pairs naturally with concrete, single objects ("I get it," "I get your point"), while native speakers pair "follow" with abstract, multi-step things ("I follow your line of thought," "I follow your reasoning," "I follow the logic"). In a design review or a meeting with a senior stakeholder, "follow" is the more calibrated choice.
+
+Both phrases signal comprehension, not agreement — they're a hinge, not a full response. Pair them with Section 1's pattern rather than letting them stand alone:
+
+- "I see where you're going with this — you're about to argue we should decouple the two services. Before you get there, can I flag a constraint?"
+- "I see where you're going, and I think it holds for the read path. I'm less convinced on writes."
+- "I follow your line of thought up to the caching layer — that's where I think the assumption breaks down."
+- "I follow your reasoning end to end; I'd just weight the trade-off differently."
+
 ## 1. Disagreeing Professionally
 
 The pattern that works: **acknowledge the merit → state your position → give the specific reason → invite response.** Never skip the acknowledgment — it's not politeness padding, it's what keeps the conversation collaborative instead of adversarial, which materially changes whether the other person can actually hear your reasoning.
@@ -109,5 +127,8 @@ Pick a real technical opinion you hold that a colleague has pushed back on befor
 | **Calibrated / calibration** | Deliberately adjusted to fit the situation — here, how directly or softly a disagreement is delivered. |
 | **Over-softening** | Diluting a message so much, in the name of tact, that its actual point fails to land. |
 | **Land (a point/disagreement)** | To register clearly and be understood by the listener as intended. |
+| **Trajectory** | The path or direction something (here, an argument) is heading, projected forward from its current course. |
+| **Line of thought** | A connected chain or sequence of reasoning steps, as opposed to a single isolated point. |
+| **Hinge** | A small pivot phrase that a larger exchange turns on, without itself constituting the full response. |
 
 **Next:** [`04_incidents_rca_performance_risk.md`](./04_incidents_rca_performance_risk.md) — phrases specifically for incidents, root cause analysis, performance discussions, and postmortems.

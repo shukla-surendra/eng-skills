@@ -27,7 +27,7 @@ Three mechanisms feed it, and it helps to know which one is driving yours:
 | Rereading notes/highlights feels like you know the material, until asked to produce it from scratch | **Fluency illusion** — recognition (this looks familiar) is mistaken for recall (I can produce this cold). Recognition is passive and cheap; recall is what interviews actually test |
 | A folder of 40 saved articles, 3 read | **Familiarity-as-progress** — the acquisition itself produces the dopamine hit; consumption is a separate, much less rewarding step that gets deferred indefinitely |
 
-This maps to the same root cause `01_Foundations/02_cognitive_science_of_explanation.md` covers for communication: **recognition and production are different cognitive operations that happen to feel similar from the inside.** You can feel like you "know" system design after reading about it the same way you can feel like you "understand" a system and still fail to explain it out loud. Reading built recognition. Only retrieval practice builds production.
+This maps to the same root cause `01_Foundations/02_cognitive_science_of_explanation.md` covers for communication: **recognition and production are different cognitive operations that happen to feel similar from the inside.** You can feel like you "know" system design after reading about it the same way you can feel like you "understand" a system and still fail to explain it out loud. Reading built recognition. Only retrieval practice builds production. (`../../Vocabulary-Collections/surface-vs-deep-lexicon.md` applies this exact distinction to raw vocabulary specifically — surface lexicon is produced, deep lexicon is only recognized.)
 
 [↑ Back to index](#index)
 
