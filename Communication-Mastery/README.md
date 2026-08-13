@@ -21,7 +21,7 @@ Communication-Mastery/
 ├── 02_Thinking_Frameworks/      How to organize thought BEFORE you open your mouth,
 │                                 debug/decide with discipline, plus the full mental-models
 │                                 operating system reference (`04_mental_models_operating_system.md`)
-├── 03_Explanation_Frameworks/   PREP, STAR, SCQA, Feynman, Pyramid Principle — when to use which
+├── 03_Explanation_Frameworks/   PREP, STAR, SCQA, Feynman, Pyramid Principle, Golden Circle — when to use which
 ├── 04_Technical_Storytelling/   Turning incidents and projects into narratives people remember
 ├── 05_Phrase_Library/           Hundreds of reusable phrases, organized by communication situation
 ├── 06_Project_Presentation/     Status updates, walkthroughs, executive summaries

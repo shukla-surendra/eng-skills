@@ -15,6 +15,7 @@ A fast reference for "which framework do I reach for right now." The goal is tha
 | A quick Slack update or standup line | **Compressed PREP** (P+R fused into one sentence) | No time/need for full four-beat structure |
 | Defending an architecture decision under challenge | **PREP**, with the Trade-off layer mandatory (`01_Foundations/03`) | Challenge = they want the reasoning and the honest cost |
 | Comparing two systems/tools | **Compare/Contrast Grid** (`02_Thinking_Frameworks/02`) inside a PREP shell | Grid organizes the thinking, PREP organizes the delivery |
+| Pitching a vision/initiative, or "why do you do this work" | **Golden Circle** (`04`, Why → How → What) | Needs belief/buy-in around a purpose, not just comprehension of a fact |
 
 ## Flowchart
 
@@ -54,6 +55,7 @@ The other frameworks exist for the specific 20% where PREP under-serves the situ
 - **SCQA** — when the listener hasn't yet agreed the topic matters, and you need buy-in, not just comprehension (proposals, docs, cross-team asks).
 - **Pyramid Principle** — when you have more than one governing point to make and need to prevent it collapsing into an unstructured list (long docs, big presentations).
 - **Feynman pass** — not a delivery framework at all, but a pre-check you silently run on yourself before delivering any of the above, whenever you suspect your own understanding has an unexamined gap.
+- **Golden Circle** (`04`) — when the goal is generating belief in a *direction or purpose*, not answering a question or justifying a decision already made — pitches, vision-setting, "why do you do this work."
 
 ## Combining Frameworks: A Real Example End-to-End
 
@@ -101,4 +103,6 @@ For each of the following, name the framework you'd reach for first (answers bel
 | **Buy-in** | Genuine agreement and support from others, not just passive understanding. |
 | **Collapse** (into a list) | To lose intended structure and become a flat, undifferentiated sequence. |
 
-**Next:** [`../04_Technical_Storytelling/01_storytelling_fundamentals.md`](../04_Technical_Storytelling/01_storytelling_fundamentals.md) — turning these structural frameworks into narratives that people actually remember, not just correctly-ordered facts.
+**Next:** [`04_golden_circle_why_how_what.md`](./04_golden_circle_why_how_what.md) — the one
+framework in this chapter that isn't about answering a question at all: generating belief in
+a purpose before anyone's evaluated the specifics.
