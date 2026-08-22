@@ -8,8 +8,9 @@
 2. [Scrum in Detail: Roles, Events, Artifacts](#2-scrum-in-detail-roles-events-artifacts)
 3. [Kanban in Detail: Flow and Metrics](#3-kanban-in-detail-flow-and-metrics)
 4. [Scaled Agile: SAFe and the Scaling Problem](#4-scaled-agile-safe-and-the-scaling-problem)
-5. [Choosing (or Reading) a Life Cycle](#5-choosing-or-reading-a-life-cycle)
-6. [Glossary — Vocabulary Used in This Chapter](#6-glossary--vocabulary-used-in-this-chapter)
+5. [The Stage-Gate / Phase-Gate Process — What "Gate" Actually Means](#5-the-stage-gate--phase-gate-process--what-gate-actually-means)
+6. [Choosing (or Reading) a Life Cycle](#6-choosing-or-reading-a-life-cycle)
+7. [Glossary — Vocabulary Used in This Chapter](#7-glossary--vocabulary-used-in-this-chapter)
 
 ---
 
@@ -105,7 +106,78 @@ The reason PI Planning matters disproportionately to an engineer, already flagge
 
 [↑ Back to index](#index)
 
-## 5. Choosing (or Reading) a Life Cycle
+## 5. The Stage-Gate / Phase-Gate Process — What "Gate" Actually Means
+
+**"M1 gate," "quality gate," "phase gate," "gated module" — same mechanism, different
+industry, same word for a reason.** It traces to **Robert G. Cooper's Stage-Gate® model**,
+developed in the 1980s for physical new-product development (real hardware — expensive to
+redo, so catching a doomed project early mattered enormously). PMBOK's own **predictive
+life cycle** is this exact pattern, generalized past manufacturing to any project.
+
+The mechanism, stripped to its essentials, underneath every variant:
+
+```
+  STAGE 1            GATE 1            STAGE 2            GATE 2            STAGE 3
+┌──────────┐      ┌──────────┐       ┌──────────┐      ┌──────────┐       ┌──────────┐
+│   work   │ ───► │ decision │ ───►  │   work   │ ───► │ decision │ ───►  │   work   │
+│  happens │      │  point   │       │  happens │      │  point   │       │  happens │
+└──────────┘      └──────────┘       └──────────┘      └──────────┘       └──────────┘
+                   go/kill/hold/                        go/kill/hold/
+                      recycle                               recycle
+```
+
+A project is broken into sequential **stages** (phases) — each a defined chunk of work
+ending in a concrete deliverable. Between every two stages sits a **gate**: a scheduled,
+formal decision point where a designated **gatekeeper** (a sponsor, steering committee, or
+senior stakeholder — never the delivery team itself, deliberately, to avoid the fox
+guarding the henhouse) reviews the stage's deliverable against pre-agreed **exit
+criteria** and makes one of four explicit calls before *any* work on the next stage begins:
+
+| Gate decision | Meaning |
+|---|---|
+| **Go** | Deliverable meets exit criteria — proceed to the next stage |
+| **Kill** | Terminate the project outright — the deliberate, sanctioned reason this whole model exists |
+| **Hold** | Pause; revisit later (priorities or market conditions shifted, project itself may still be viable) |
+| **Recycle** | Send the *current* stage back for rework — deliverable fell short, but the project remains viable |
+
+**Why this exists — the specific failure mode it's built to prevent:** without a
+*scheduled, unavoidable* decision point, a struggling project tends to keep going on sheer
+organizational momentum — no one is ever forced to make the explicit call, so **sunk-cost
+inertia** carries it forward past the point where it should have been killed. A gate
+doesn't make killing a project easier emotionally; it makes killing a project *procedurally
+inevitable to consider*, on a schedule, rather than something that only happens after a
+crisis forces the question.
+
+**Where "M1"/"M2" comes from, specifically:** Stage-Gate literature itself usually says
+"Stage 1 / Gate 1," not "M1" — the "M" (Module) numbering is a common informal borrowing
+into any curriculum or rollout plan structured the same way: **a bounded chunk of content
+or work, followed by a checkpoint that must be cleared before the next chunk unlocks.**
+Training programs, onboarding plans, and self-paced technical curricula all reach for this
+shorthand because the underlying mechanic — bounded chunk, then a gate — is identical to
+Stage-Gate's, just with a knowledge check standing in for a steering-committee review.
+
+**The same mechanism, under different names, across engineering — worth recognizing on
+sight regardless of which industry is using it:**
+
+| Domain | What it's called | The "gatekeeper" | The "exit criteria" |
+|---|---|---|---|
+| Manufacturing / new-product development | Stage-Gate® (Cooper), Phase-Gate | A steering committee or sponsor | A deliverable review against a checklist |
+| Software CI/CD | **Quality gate** (e.g. SonarQube) | An automated pipeline check, not a person | Test coverage, lint, security-scan thresholds |
+| Corporate L&D / MOOC platforms | **Gated content**, **gated modules** | An assessment/quiz | A passing score |
+| Aerospace / defense program management | **Gate review**, **milestone review** (NASA's PDR/CDR life-cycle reviews are essentially named gates) | A formal review board | Documented technical readiness criteria |
+| PMI's own vocabulary (PMI Lexicon) | **Phase Gate**, **Kill Point**, **Stage Gate** are listed as direct synonyms | Varies by org | Defined per project's governance plan |
+
+**How this connects to predictive vs. agile, below:** a phase-gated life cycle is close to
+*synonymous* with "predictive" governance, because gate criteria and stage scope are all
+defined **up front** — which is exactly why it sits uneasily with agile's philosophy of
+discovering requirements *while* building. The hybrid pattern §6 describes below — macro-
+level phase gates (funding checkpoints) wrapped around agile execution inside each
+individual phase — is the practical reconciliation most large organizations actually land
+on, not a contradiction to resolve.
+
+[↑ Back to index](#index)
+
+## 6. Choosing (or Reading) a Life Cycle
 
 A practical decision table — useful both for actually choosing an approach and for correctly interpreting why an existing project runs the way it does:
 
@@ -117,11 +189,11 @@ A practical decision table — useful both for actually choosing an approach and
 | Risk of late-stage change | Low, and expensive to accommodate anyway | High, and cheap to accommodate via short iterations |
 | Team's physical/organizational structure | Distributed across many vendors, formal handoffs | Co-located or well-integrated, empowered team |
 
-Most large enterprises land on **hybrid**: predictive at the macro/program level (fixed annual budget, phase gates, formal vendor contracts) with agile execution inside individual teams. Recognizing this hybrid shape for what it is — rather than expecting either textbook waterfall or textbook Scrum and being confused when the reality matches neither — is the single most useful piece of methodology literacy an engineer can carry into a new organization, echoing the "every org runs a dialect" point from `../../Communication-Mastery/02_Thinking_Frameworks/12_project_management_literacy_for_engineers.md` §4.
+Most large enterprises land on **hybrid**: predictive at the macro/program level (fixed annual budget, [phase gates](#5-the-stage-gate--phase-gate-process--what-gate-actually-means), formal vendor contracts) with agile execution inside individual teams. Recognizing this hybrid shape for what it is — rather than expecting either textbook waterfall or textbook Scrum and being confused when the reality matches neither — is the single most useful piece of methodology literacy an engineer can carry into a new organization, echoing the "every org runs a dialect" point from `../../Communication-Mastery/02_Thinking_Frameworks/12_project_management_literacy_for_engineers.md` §4.
 
 [↑ Back to index](#index)
 
-## 6. Glossary — Vocabulary Used in This Chapter
+## 7. Glossary — Vocabulary Used in This Chapter
 
 | Term/Phrase | Meaning |
 |---|---|
@@ -141,5 +213,12 @@ Most large enterprises land on **hybrid**: predictive at the macro/program level
 | PI Planning | The cross-team event where an ART plans and commits to a Program Increment together |
 | Backbone | (figurative) The core structural principle underlying a system |
 | Textbook (adjective) | Matching the idealized, formally-described version of something exactly |
+| Stage-Gate® | Robert G. Cooper's 1980s model breaking a project into stages separated by formal decision gates |
+| Gate | A scheduled checkpoint where a designated reviewer decides whether work may proceed |
+| Gatekeeper | The person or body authorized to make a gate's go/kill/hold/recycle call |
+| Exit criteria | The pre-agreed conditions a stage's deliverable must meet to pass its gate |
+| Kill point | PMI Lexicon's synonym for a gate — emphasizes that ending the project is a legitimate, intended outcome |
+| Sunk-cost inertia | The tendency for a project to keep going on momentum alone once money/effort is already spent, absent a forcing function |
+| Fox guarding the henhouse | (idiom) Putting the party with the most to gain from a lenient decision in charge of making that decision |
 
 [↑ Back to index](#index)

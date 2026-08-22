@@ -254,7 +254,7 @@ Like every contract in this pair of chapters, this one works only if made explic
 | Chasm | A deep gap; here, the distance between a working demo and a production system |
 | Archaeology | (figurative) Painstaking excavation of old, undocumented data or systems |
 | Workstream | A named, parallel track of related work within a project |
-| Decision gate | A pre-agreed checkpoint where continue/pivot/stop is explicitly decided |
+| Decision gate | A pre-agreed checkpoint where continue/pivot/stop is explicitly decided — full mechanism, history, and vocabulary (Stage-Gate, gatekeeper, exit criteria, go/kill/hold/recycle) in `../../Project_Management/03_Methodologies/01_predictive_agile_and_hybrid_delivery.md` §5 |
 | Freelanced | Done unilaterally, outside the agreed process |
 | End-run | Bypassing the proper channel or person to get a decision elsewhere |
 | Meeting sprawl | The unchecked expansion of meetings into time meant for focused work |
